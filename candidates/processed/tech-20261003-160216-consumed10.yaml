@@ -1,0 +1,206 @@
+- id: arxiv-2610.02038
+  kind: arxiv
+  name: 'Mimir: Physics-Grounded LLM Agents for Long-Horizon Irrigation Control'
+  published: '2026-10-01'
+  urls:
+  - https://arxiv.org/abs/2610.02038
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Large language model (LLM) agents increasingly combine reasoning, tool
+    use, and action, but most evidence comes from episodic tasks with relatively immediate
+    feedback and reset failures. Long-running physical control operates in a different
+    regime: actions alter future states, errors compound across decisions, and an
+    agent must improve from experience without being allowed to rewrite the physical '
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.02002
+  kind: arxiv
+  name: 'Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents'
+  published: '2026-10-01'
+  urls:
+  - https://arxiv.org/abs/2610.02002
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Large Language Model (LLM) agents now take part in organizational work,
+    where many authors record decisions across documents over months. Because a revised
+    decision arrives as a new document rather than an edit, answering a question requires
+    knowing which version held at a given time. However, most memory systems compress
+    the record at write time. By distilling each document into facts, notes or g
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.01256
+  kind: arxiv
+  name: 'DeFA: Dependency-Guided Failure Attribution for LLM Agents'
+  published: '2026-10-01'
+  urls:
+  - https://arxiv.org/abs/2610.01256
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Errors in LLM agent executions and their visible consequences can be separated
+    by many steps, making decisive-error localization a matter of understanding both
+    step content and step dependencies. We introduce DeFA, a dependency-guided framework
+    for agent failure attribution. DeFA first combines protocol relations and semantic
+    dependencies into an event dependency graph spanning the trajectory. It '
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.00906
+  kind: arxiv
+  name: 'ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization'
+  published: '2026-10-01'
+  urls:
+  - https://arxiv.org/abs/2610.00906
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Automated harness optimization can substantially improve LLM agents by
+    iteratively updating their prompts, tool interfaces, and control logic from execution
+    feedback. However, existing methods primarily optimize how the harness is updated
+    while largely fixing which training scenarios generate the feedback that drives
+    those updates. As the harness evolves, the scenarios most useful for further opti
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: gh-BootLoops-ai_bootloops
+  kind: github
+  name: BootLoops-ai/bootloops
+  published: '2026-10-01'
+  urls:
+  - https://github.com/BootLoops-ai/bootloops
+  signal:
+    venue: GitHub
+    stars: 168
+    citations_90d: null
+    runnable: true
+  summary: 'BootLoops 1.0: certified computational tools and house engines for exact
+    and high-precision physics and quantitative science, built to be driven by LLM
+    agents. MIT; docs CC BY 4.0.'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.39741
+  kind: arxiv
+  name: 'The Nixtlaverse: An Open-Source Ecosystem for Forecasting'
+  published: '2026-09-30'
+  urls:
+  - https://arxiv.org/abs/2609.39741
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Large forecasting applications often combine statistical, machine-learning,
+    and neural models. These families solve the same problem but differ in fitted
+    state, training procedures, and how they parallelize work. Forecasting software
+    must therefore either hide these differences behind a single estimator interface,
+    or keep the families in separate packages, forcing users to rewrite data preparation
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.32689
+  kind: arxiv
+  name: Self-Evolving Time-Series Forecasting Agents with Episodic Memory and Online
+    Policy Learning
+  published: '2026-09-26'
+  urls:
+  - https://arxiv.org/abs/2609.32689
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: LLM-based agents are increasingly used for time-series forecasting because
+    they can organise contextual information, perform multi-step analysis, and guide
+    the sequence of actions required to complete forecasting tasks. Most existing
+    agents focus only on the current forecasting instance. However, in real-world
+    deployments, forecasting commonly operates online, with new forecasts issued from
+    the cu
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.02058
+  kind: arxiv
+  name: 'Foundations without Fundamentals: Zero-Shot Blind Spots in Time Series FMs'
+  published: '2026-10-01'
+  urls:
+  - https://arxiv.org/abs/2610.02058
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Despite the success of Time Series Foundation Models (TSFMs) on broad benchmarks,
+    their ability to internalize basic temporal logic, especially in settings supported
+    by exogenous covariates, remains under-examined. We introduce SimpleTimeBench,
+    a diagnostic univariate and multivariate "unit test" suite for primitives such
+    as monotonic trends, periodic signals and leading indicator covariates, scen
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.00978
+  kind: arxiv
+  name: 'Generalist Representation, Specialist Detection: TS-Router for Time-Series
+    Anomaly Detection'
+  published: '2026-10-01'
+  urls:
+  - https://arxiv.org/abs/2610.00978
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Time-series anomaly detection (TSAD) is difficult to generalize across
+    datasets because heterogeneous temporal dynamics imply different notions of normality
+    and favor different detection criteria. While time-series foundation models provide
+    transferable representations, coupling them with a fixed anomaly-scoring mechanism
+    can overlook this variation. This motivates a different perspective on found
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.39386
+  kind: arxiv
+  name: 'When, Not How Much: Evaluating Time-Series Foundation Models on Sparse Events'
+  published: '2026-09-30'
+  urls:
+  - https://arxiv.org/abs/2609.39386
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Pretrained time-series foundation models (TSFMs) are evaluated as forecasters
+    of future values, yet for sparse series many decisions depend only on which future
+    periods contain activity. Standard benchmarks do not assess this. On five sparse
+    datasets, we rank positions within forecast windows that contain both events and
+    zeros. The released point forecasts of 12 TSFMs improve chance-corrected aver
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测

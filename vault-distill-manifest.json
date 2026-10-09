@@ -1,0 +1,3508 @@
+{
+ "total_papers": 369,
+ "total_concepts": 12,
+ "clusters": {
+  "UAV与低空": 179,
+  "其他": 60,
+  "MEC与计算卸载": 34,
+  "网络与SAGIN": 29,
+  "安全与可靠性": 22,
+  "优化与决策": 20,
+  "AI与学习范式": 14,
+  "系统与应用": 11
+ },
+ "shards": [
+  {
+   "id": "s01",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Alam2024_多UAV群网络联合轨迹频谱与路由控制.md",
+     "cluster": "UAV与低空",
+     "citekey": "alam2024JointTrajectoryControl",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Alkouz2022_飞行中能量驱动的无人机群服务组合.md",
+     "cluster": "UAV与低空",
+     "citekey": "alkouz2022InflightEnergydrivenComposition",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Bai2024_多UAV边云协同时延感知任务卸载.md",
+     "cluster": "UAV与低空",
+     "citekey": "bai2024DelayAwareCooperativeTask",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Chang2024_时延约束物联网数据采集的近最优UAV部署.md",
+     "cluster": "UAV与低空",
+     "citekey": "chang2024NearoptimalUAVDeployment",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "low"
+     }
+    },
+    {
+     "page": "Chen2024_面向自适应码率视频的UAV辅助MEC鲁棒缓存.md",
+     "cluster": "UAV与低空",
+     "citekey": "chen2024AdaptiveBitrateVideo",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "low"
+     }
+    },
+    {
+     "page": "Chen2025_Lyapunov辅助DRL的轨迹与资源联合优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "chen2025JointTrajectoryOptimization",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Chen2025_TypeFly低时延大模型无人机规划.md",
+     "cluster": "UAV与低空",
+     "citekey": "chen2025TypeFlyLowlatencyDrone",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "high"
+     }
+    },
+    {
+     "page": "Chen2025_博弈论驱动的UAV辅助边缘计算卸载与资源定价.md",
+     "cluster": "UAV与低空",
+     "citekey": "chen2025TaskOffloadingResource",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "low"
+     }
+    }
+   ],
+   "concepts": [
+    {
+     "page": "FANET聚类.md",
+     "cluster": "UAV与低空"
+    },
+    {
+     "page": "空战机动决策.md",
+     "cluster": "UAV与低空"
+    }
+   ]
+  },
+  {
+   "id": "s02",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Chen2025_无人机辅助IIoT空中聚合计算能效优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "chen2025EneOveCom",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Cui2024_不稳定通信下基于数据价值的UAV群异步联邦学习.md",
+     "cluster": "UAV与低空",
+     "citekey": "cui2024DataValueBased",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Dabiri2025_MRR-UAV光网络编码中继与FSO对比研究.md",
+     "cluster": "UAV与低空",
+     "citekey": "dabiri2025NovelMRRUAVbasedRelay",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "low"
+     }
+    },
+    {
+     "page": "Dai2023_多智能体深度强化学习的UAV协同波束赋形.md",
+     "cluster": "UAV与低空",
+     "citekey": "dai2023MultiAgentDeepReinforcement",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Dai2024_车联网中的UAV辅助任务卸载.md",
+     "cluster": "UAV与低空",
+     "citekey": "dai2024UAVAssistedTaskOffloading",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Dou2025_无人机与移动充电车混合动作协同调度.md",
+     "cluster": "UAV与低空",
+     "citekey": "dou2025SchedulingDroneMobile",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "high"
+     }
+    },
+    {
+     "page": "Fu2022_面向移动群智感知的多UAV三维节能数据采集.md",
+     "cluster": "UAV与低空",
+     "citekey": "fu2022Energyefficient3DData",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Gao2024_面向服务体验的缓存使能UAV辅助MEC协同计算.md",
+     "cluster": "UAV与低空",
+     "citekey": "gao2024ServiceExperienceOriented",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s03",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Gao2025_CSMAAC多UAV协同飞控.md",
+     "cluster": "UAV与低空",
+     "citekey": "gao2025CSMAACMultiagentReinforcement",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Gao2025_面向大规模部分可观测UAV辅助MEC的迁移学习联合轨迹卸载.md",
+     "cluster": "UAV与低空",
+     "citekey": "gao2025TransferLearningJoint",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Gaydamaka2024_自主UAV蜂群动态拓扑组织与维护.md",
+     "cluster": "UAV与低空",
+     "citekey": "gaydamaka2024DynamicTopologyOrganization",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Gong2024_使用最少UAV的三维节能地面节点接入.md",
+     "cluster": "UAV与低空",
+     "citekey": "gong2024Energyefficient3DUAV",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Gong2025_多UAV三维区域覆盖的能量时间联合优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "gong2025JointlyOptimizingEnergy",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "low"
+     }
+    },
+    {
+     "page": "Gui2024_mmWave与Sub-6GHz融合多UAV灾害网络覆盖吞吐优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "gui2024CoverageProbabilityThroughput",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Guo2024_多UAV辅助主动窃听的轨迹与干扰功率联合优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "guo2024JointOptimizationTrajectory",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Guo2025_Mighty面向无人机的远距离高吞吐回散通信.md",
+     "cluster": "UAV与低空",
+     "citekey": "guo2025MightyLongrangeHighthroughput",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s04",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Han2024_大规模MEC的多UAV联合关联部署与轨迹优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "han2024JointAssociationDeployment",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Han2024_面向灾害响应群智感知的UAV工人车辆协同路径规划.md",
+     "cluster": "UAV与低空",
+     "citekey": "han2024CollaborativeRoutePlanning",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "high"
+     }
+    },
+    {
+     "page": "Hao2024_任务优先级感知的多UAV协同边缘计算联合卸载.md",
+     "cluster": "UAV与低空",
+     "citekey": "hao2024JointTaskOffloading",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Hao2025_可靠性感知的UAV辅助边缘计算任务卸载优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "hao2025ReliabilityawareOptimizationTask",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "He2024_UAV辅助MEC服务质量体验最大化的在线联合优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "he2024OnlineJointOptimization",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Hoang2024_有限块长NOMA多用户配对UAV系统性能分析与优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "hoang2024FiniteBlockLength",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Hoang2025_6G空中小蜂窝中多UAV基站自适应三维部署.md",
+     "cluster": "UAV与低空",
+     "citekey": "hoang2025Adaptive3DPlacementa",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Hou2025_AoI感知的异构UAV-USV-UUV网络水下目标围捕优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "hou2025AgeInformationawareMultiobjective",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s05",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Huang2024_LI2灾后PoI及时监测的UAV_AoI路径优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "lin2024LyapunovbasedApproachJoint",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Huang2024_多UAV车载边缘计算动态任务卸载.md",
+     "cluster": "UAV与低空",
+     "citekey": "huang2024DynamicTaskOffloading",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Huang2025_RIS辅助通信中基于FedX加速学习的快速UAV轨迹规划.md",
+     "cluster": "UAV与低空",
+     "citekey": "huang2025FastUAVTrajectory",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Ji2024_RSMA解耦关联的UAV辅助蜂窝网络多智能体优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "ji2024DecoupledAssociationRate",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Jia2024_多UAV物联网数据采集的时间能量权衡优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "jia2024EnergyTimeTradeoff",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Jia2025_UAV与HAP协同空中MEC的分布鲁棒优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "jia2025DistributionallyRobustOptimization",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Jin2025_大规模UAV命名数据网络的资源高效内容共享.md",
+     "cluster": "UAV与低空",
+     "citekey": "jin2025ResourceefficientContentSharing",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Kang2024_基于深度强化学习的自主多无人机竞速.md",
+     "cluster": "UAV与低空",
+     "citekey": "kang2024AutonomousMultidroneRacing",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s06",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Karmakar2024_区块链与聚类驱动的UAV蜂群认证协议.md",
+     "cluster": "UAV与低空",
+     "citekey": "karmakar2024BlockchainBasedDistributedIntelligent",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Karmakar2024_联邦学习驱动的安全公平UAV辅助MEC控制.md",
+     "cluster": "UAV与低空",
+     "citekey": "karmakar2024NovelFederatedLearningBased",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Kharjana2025_基于区块链阈值密钥管理的自主UAV集群安全.md",
+     "cluster": "UAV与低空",
+     "citekey": "kharjana2025SecuringAutonomousUAV",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Khochare2024_无人机编队任务中边缘分析与航线共调度.md",
+     "cluster": "UAV与低空",
+     "citekey": "khochare2024ImprovedAlgorithmsCoScheduling",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Kumar2025_面向5G及以后系统的无人机辅助IRS可靠通信.md",
+     "cluster": "UAV与低空",
+     "citekey": "kumar2025DroneassistedIRSSystem",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Kumari2025_多UAV5G网络中基于DRL与图着色的服务商利润最大化.md",
+     "cluster": "UAV与低空",
+     "citekey": "kumari2025MaximizingServiceProviders",
+     "fm": {
+      "venue_tier": "Unknown",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Lee2025_基于深度强化学习的浮力辅助无人机自适应稳定控制.md",
+     "cluster": "UAV与低空",
+     "citekey": "lee2025AdaptiveStabilizationControl",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Li2024_CoDetect隐私保护的UAV群协同异常检测.md",
+     "cluster": "UAV与低空",
+     "citekey": "liwang2021LetsTradeFuture",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s07",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Li2024_无人机群辅助IoT多目标优化虚拟天线阵列.md",
+     "cluster": "UAV与低空",
+     "citekey": "li2024MultiObjectiveOptimizationUAV",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "low"
+     }
+    },
+    {
+     "page": "Li2024_智能窃听对抗下的UAV辅助MEC安全卸载与资源分配.md",
+     "cluster": "UAV与低空",
+     "citekey": "li2024SecureOffloadingAdversarial",
+     "fm": {
+      "venue_tier": "Unknown",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Li2025_Anchor协同UAV-MEC的动态CoMP卸载建模.md",
+     "cluster": "UAV与低空",
+     "citekey": "li2025AnchorNovelModeling",
+     "fm": {
+      "venue_tier": "Unknown",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "low"
+     }
+    },
+    {
+     "page": "Li2025_BioDrone基于事件相机的无人机避障.md",
+     "cluster": "UAV与低空",
+     "citekey": "li2025TamingEventCameras",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Li2025_DroneMA基于移动性对齐的无人机AI欺骗检测.md",
+     "cluster": "UAV与低空",
+     "citekey": "li2025DroneMADroneMobility",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Li2025_层次化联邦学习增强UAV集群目标检测鲁棒性.md",
+     "cluster": "UAV与低空",
+     "citekey": "li2025ExploringRobustnessHierarchical",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Li2025_灾后医疗救援的UAV辅助微服务MEC架构.md",
+     "cluster": "UAV与低空",
+     "citekey": "li2025UAVassistedMicroserviceMobile",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Li2025_空地多UAV网络中基于索引调制的协作NOMA.md",
+     "cluster": "UAV与低空",
+     "citekey": "li2025CooperativeNonorthogonalMultiple",
+     "fm": {
+      "venue_tier": "Unknown",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "low"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s08",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Li2025_联邦元学习驱动的UAV辅助VEC能时延权衡卸载.md",
+     "cluster": "UAV与低空",
+     "citekey": "li2025FederatedMetalearningBased",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Li2025_面向边缘缓存UAV群网络的动态路由负载分配.md",
+     "cluster": "UAV与低空",
+     "citekey": "li2025DynamicRoutingMechanism",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "low"
+     }
+    },
+    {
+     "page": "Liu2025_UAV辅助ISAC自适应波束对齐的资源分配.md",
+     "cluster": "UAV与低空",
+     "citekey": "liu2025ResourceAllocationAdaptive",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Liu2025_多任务无人机的时敏配送与在途感知.md",
+     "cluster": "UAV与低空",
+     "citekey": "liu2025DelaysensitiveGoodsDelivery",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Liu2025_抗干扰多模态语义通信的多UAV车联网MEC.md",
+     "cluster": "UAV与低空",
+     "citekey": "liu2025MultiUAVassistedMECInternet",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Liu2025_电子信号探测定位中的UAV蜂群鲁棒拓扑恢复.md",
+     "cluster": "UAV与低空",
+     "citekey": "liu2025RobustTopologyRecovery",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Mittal2024_面向部署成本效率的空地一体UAV与BS协同.md",
+     "cluster": "UAV与低空",
+     "citekey": "mittal2024DeploymentCostawareUAV",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Nabi2025_UAV与HAP协同层次化空中计算联合卸载.md",
+     "cluster": "UAV与低空",
+     "citekey": "nabi2025JointOffloadingDecision",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s09",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Ning2024_差异化服务的多UAV轨迹优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "ning2024MultiAgentDeepReinforcement",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Ning2025_无线供能物联网中的UAV数据采集与轨迹联合优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "ning2025JointOptimizationData",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Pan2025_协同UAV挂载RIS能效通信优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "pan2025CooperativeUAVmountedRISsassisted",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Panahi2024_激光与可再生能源协同供能的UAV通信成本优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "panahi2024ReliableEnergyEfficientUAV",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "supporting",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Qian2024_面向农田监测固定翼无人机的节能覆盖路径规划.md",
+     "cluster": "UAV与低空",
+     "citekey": "qian2024PathPlanningAlgorithm",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Qin2025_异构UAV通信的个性化抗干扰策略学习.md",
+     "cluster": "UAV与低空",
+     "citekey": "qin2025MultiagentReinforcementLearning",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Qiu2024_UAV蜂群高效可扩展网络的主机-内容中心融合路由.md",
+     "cluster": "UAV与低空",
+     "citekey": "qiu2024IntegratedHostContentCentric",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Ren2024_面向UAV-MEC的智能自适应Gossip广播协议.md",
+     "cluster": "UAV与低空",
+     "citekey": "ren2024IntelligentAdaptiveGossipBased",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "high"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s10",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Rizvi2025_面向韧性运行的无人机间服务干扰监测.md",
+     "cluster": "UAV与低空",
+     "citekey": "rizvi2025MonitoringInterdroneService",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Shao2024_抗干扰UAV辅助MEC资源管理.md",
+     "cluster": "UAV与低空",
+     "citekey": "shao2024DeepReinforcementLearningbased",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Shi2024_未知环境中UAV无线供能的两阶段策略.md",
+     "cluster": "UAV与低空",
+     "citekey": "shi2024TwoStageStrategyUAVenabled",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Shi2025_面向通信覆盖的对称性增强UAV集群MARL控制.md",
+     "cluster": "UAV与低空",
+     "citekey": "Symmetry-Informed_MARL_A_Decentralized_and_Cooperative_UAV_Swarm_Control_Approach_for_Communication_Coverage",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Singh2024_基于稳定匹配的UAV辅助WBAN联邦学习收益最大化.md",
+     "cluster": "UAV与低空",
+     "citekey": "singh2024StableMatchingBased",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Song2024_基于多目标强化学习的无线充电UAV辅助MEC轨迹优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "song2024EnergyefficientTrajectoryOptimization",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Song2024_空地协同MEC中的AoI与能耗权衡学习.md",
+     "cluster": "UAV与低空",
+     "citekey": "song2024AoIEnergyTradeoff",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Song2024_面向IoT网络K覆盖与补能的UAV分配方法.md",
+     "cluster": "UAV与低空",
+     "citekey": "song2024MethodsAssignUAVs",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s11",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Soorki2025_面向LoRa搜索救援的深度元强化学习UAV轨迹控制.md",
+     "cluster": "UAV与低空",
+     "citekey": "soorki2025CatchMeIf",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Sun2024_ASAP无人机群全空域自主协同计算.md",
+     "cluster": "UAV与低空",
+     "citekey": "sun2024AllskyAutonomousComputing",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "high"
+     }
+    },
+    {
+     "page": "Sun2024_TJCCT双时间尺度UAV辅助MEC联合优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "sun2024TwoTimescaleJoint",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Sun2024_多UAV辅助MEC多目标优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "sun2024MultiobjectiveOptimizationMultiUAVassisted",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Tang2025_图强化学习驱动的UAV多用户安全通信.md",
+     "cluster": "UAV与低空",
+     "citekey": "tang2025DeepGraphReinforcement",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Tian2024_UAV辅助无线协同通信与编码缓存.md",
+     "cluster": "UAV与低空",
+     "citekey": "tian2024UAVAssistedWirelessCooperative",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Tlili2023_面向集中式与分布式架构的UAV故障攻击混合检测.md",
+     "cluster": "UAV与低空",
+     "citekey": "tlili2023NewHybridAdaptive",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Tong2023_面向海量连接的能效UAV-NOMA无线覆盖.md",
+     "cluster": "UAV与低空",
+     "citekey": "tong2023EnergyefficientUAVNOMAAided",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s12",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Trinh2025_光学RIS提升HAP-UAV场景FSO量子密钥率.md",
+     "cluster": "UAV与低空",
+     "citekey": "trinh2025OpticalRISsImprove",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Tun2025_THz辅助空天地一体网络中的UAV部署与资源分配.md",
+     "cluster": "UAV与低空",
+     "citekey": "tun2025JointUAVDeployment",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "UAV-NOMA覆盖.md",
+     "cluster": "UAV与低空",
+     "citekey": "tong2023EnergyefficientUAVNOMAAided",
+     "fm": {}
+    },
+    {
+     "page": "UAV-RIS协同通信.md",
+     "cluster": "UAV与低空",
+     "citekey": "wang2025JointOptimizationBeamforming",
+     "fm": {}
+    },
+    {
+     "page": "UAV命名数据网络（UNDN）.md",
+     "cluster": "UAV与低空",
+     "citekey": "jin2025ResourceefficientContentSharing",
+     "fm": {}
+    },
+    {
+     "page": "UAV辅助MEC.md",
+     "cluster": "UAV与低空",
+     "citekey": "dai2024UAVAssistedTaskOffloading",
+     "fm": {}
+    },
+    {
+     "page": "Wan2025_视觉雷达融合的小型UAV定位尺度归一化框架.md",
+     "cluster": "UAV与低空",
+     "citekey": "wan2025MultimodalScaleNormalization",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wang2024_USV辅助MEC中的UAV目标跟踪与计算卸载.md",
+     "cluster": "UAV与低空",
+     "citekey": "wang2024UAVassistedTargetTracking",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s13",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Wang2024_区块链集成UAV_MEC的资源定价与分配.md",
+     "cluster": "UAV与低空",
+     "citekey": "wang2024ResourceAllocationBlockchain",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wang2024_双目标蚁群优化的UAV辅助MEC轨迹与卸载规划.md",
+     "cluster": "UAV与低空",
+     "citekey": "wang2024BiobjectiveAntColony",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wang2024_异构联邦强化学习的UAV_MEC分布式导航.md",
+     "cluster": "UAV与低空",
+     "citekey": "wang2024DecentralizedNavigationHeterogeneous",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wang2024_无线供能元宇宙中的多设备多UAV联合调度.md",
+     "cluster": "UAV与低空",
+     "citekey": "wang2024WirelessPoweredMetaverse",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wang2024_面向UAV群智感知的阈值AoI保障.md",
+     "cluster": "UAV与低空",
+     "citekey": "wang2024EnsuringThresholdAoI",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wang2025_GNN与SD3驱动的UAV-RIS联合波束与轨迹优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "wang2025JointOptimizationBeamforming",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wang2025_PPO驱动的多UAV_MEC联合定位与计算卸载.md",
+     "cluster": "UAV与低空",
+     "citekey": "wang2025JointPositioningComputation",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wang2025_低空空域数据采集的联合速度与高度调度.md",
+     "cluster": "UAV与低空",
+     "citekey": "wang2025OptimizingJointSpeed",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s14",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Wang2025_动态UAV_MEC网络中的任务卸载与迁移优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "wang2025JointTaskOffloading",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wang2025_无线充电网络中具近似保证的实用UAV轨迹优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "wang2025PracticalOptimizingUAV",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wei2024_带部署优化的UAV辅助无线网络分层切片.md",
+     "cluster": "UAV与低空",
+     "citekey": "wei2024HierarchicalNetworkSlicing",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wu2024_双感知能耗与信道增益的协作UAV-MAC优化协议.md",
+     "cluster": "UAV与低空",
+     "citekey": "wu2024MACOptimizationProtocol",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wu2024_多奖励DQN驱动的UAV-RIS辅助THz波束预测.md",
+     "cluster": "UAV与低空",
+     "citekey": "wu2024BeamformingPredictionBased",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wu2024_面向计算流最大化的多UAV网络设计.md",
+     "cluster": "UAV与低空",
+     "citekey": "wu2024MultiUAVsNetworkDesign",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wu2025_IOPO面向THz多UAV-MEC的IRS辅助卸载优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "wu2025TwostageDeepEnergy",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wu2025_TRAIL面向UAV群智感知的RIS辅助Transformer强化学习.md",
+     "cluster": "UAV与低空",
+     "citekey": "wu2025ReconfigurableIntelligentSurface",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s15",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Wu2025_安全感知的多UAV部署卸载与服务放置.md",
+     "cluster": "UAV与低空",
+     "citekey": "wu2025SecurityawareDesignsMultiUAV",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Xu2024_MEC无人机末端配送的整体混合服务选择.md",
+     "cluster": "UAV与低空",
+     "citekey": "xu2024HolisticHybridService",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Xu2024_元宇宙中语义感知UAV蜂群协同激励.md",
+     "cluster": "UAV与低空",
+     "citekey": "xu2024SemanticawareUAVSwarm",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Xu2024_面向灾害监测的异构UAV奖励最大化调度.md",
+     "cluster": "UAV与低空",
+     "citekey": "xu2024RewardMaximizationDisaster",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Xu2025_多包裹无人机配送的风感知服务供给策略.md",
+     "cluster": "UAV与低空",
+     "citekey": "xu2025WindawareServiceProvisioning",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Yang2023_考虑不确定性的尾座式无人机鲁棒过渡轨迹优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "yang2023RobustTransitionTrajectory",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Yang2024_巡检系统中蜂窝连接UAV-MEC的能效传输策略.md",
+     "cluster": "UAV与低空",
+     "citekey": "yang2024EnergyEfficientTransmission",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Yu2025_空中走廊多UAV协同的混合Transformer强化学习.md",
+     "cluster": "UAV与低空",
+     "citekey": "yu2025HybridTransformerBased",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "high"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s16",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Yuan2025_多UAV无线网络轨迹与功率联合优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "yuan2025TrajectoryOptimizationPower",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "low"
+     }
+    },
+    {
+     "page": "Zema2024_智慧城市多任务UAV的三维轨迹优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "zema20243DTrajectoryOptimization",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zeng2024_A3D边缘辅助无人机自适应高精导航.md",
+     "cluster": "UAV与低空",
+     "citekey": "zeng2024A3DAdaptiveAccurate",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zeng2025_多任务学习驱动的UAV团队FDI联合防护.md",
+     "cluster": "UAV与低空",
+     "citekey": "zeng2025JointSecureMechanism",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhan2024_多小区蜂窝网络UAV感知的AoI与运行时间权衡.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhan2024TradeoffAgeInformation",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhan2024_能量约束蜂窝连接多UAV的干扰感知在线优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhan2024InterferenceawareOnlineOptimization",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhan2025_蜂窝连接UAV动态目标跟踪的在线能量与干扰管理.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhan2025OnlineEnergyInterference",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhang2023_基于UAV平台非对称双视角多光谱立体成像的自适应三维重建.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhang2023RFSearchSearchingUnconscious",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s17",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Zhang2023_应急通信空中计算联合调度与多UAV部署.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhang2023JointTaskScheduling",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "low"
+     }
+    },
+    {
+     "page": "Zhang2024_动态用户多UAV_MEC安全通信中的卸载与轨迹优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhang2024TaskOffloadingTrajectory",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhang2024_时间域合谋窃听下的UAV集群协同安全中继.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhang2024UAVSwarmenabledCollaborative",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhang2025_兼顾监测效用与负效应的无人机布设优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhang2025OptimizingMonitoringUtility",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhang2025_基于定向性感知链路模型的UAV-LoRa高效数据采集.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhang2025ImprovingDataCollection",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhao2024_多UAV辅助无线供能动态通信的分层强化学习设计.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhao2024DesigningMultiUAVAided",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhao2025_UAV-MEC中的内容缓存服务放置与任务卸载联合优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhao2025JointContentCaching",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhao2025_动态环境中的多UAV协同任务调度.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhao2025MultiUAVCooperativeTask",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s18",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Zhao2025_移动合谋窃听下的UAV辅助MEC安全传输与计算.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhao2025MobileCollusiveEavesdroppers",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhao2025_轨迹卸载缓存与迁移联合优化的UAV辅助MEC.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhao2025JointOptimizationTrajectory",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zheng2024_迁移增强MARL的UAV蜂群空战机动决策.md",
+     "cluster": "UAV与低空",
+     "citekey": "zheng2024UAVSwarmAir",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zheng2025_低空经济灾后协同通信的两阶段优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "zheng2025UAVSwarmenabledCollaborative",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhou2024_UAV移动性与可靠性保障空地通信联合优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhou2024JointOptimizationMobility",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhou2024_对称性增强的UAV轨迹与用户调度MADRL.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhou2024SymmetryaugmentedMultiagentReinforcement",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhou2024_移动场景中的联邦数字孪生UAV框架.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhou2024FederatedDigitalTwin",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhou2025_LLM增强Q学习的多并行无人机调度.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhou2025LLMQLLLMenhancedQlearning",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s19",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "Zhou2025_可靠性最优的UAV辅助移动边缘计算.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhou2025ReliabilityoptimalUAVassistedMobile",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhou2025_数字孪生赋能的UAV辅助毫米波多跳V2X路由.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhou2025DigitalTwinEmpowered",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhou2025_用户偏好导向的UAV辅助MEC服务缓存与任务卸载.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhou2025UserPreferenceOriented",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhu2023_新型倾转翼UAV悬停姿态控制.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhu2023AttitudeControlNovel",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhu2024_FANET中的UAV蜂群裂变谱聚类.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhu2024FissionSpectralClustering",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhu2024_协同强化学习的三维UAV跟踪与定位.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhu2024CollaborativeReinforcementLearning",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "低空经济（LAE）.md",
+     "cluster": "UAV与低空",
+     "citekey": "zheng2025UAVSwarmenabledCollaborative",
+     "fm": {}
+    },
+    {
+     "page": "倾转翼无人机.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhu2023AttitudeControlNovel",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s20",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "可靠性保障空地通信.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhou2024JointOptimizationMobility",
+     "fm": {}
+    },
+    {
+     "page": "固定翼无人机.md",
+     "cluster": "UAV与低空",
+     "citekey": "qian2024PathPlanningAlgorithm",
+     "fm": {}
+    },
+    {
+     "page": "多任务无人机.md",
+     "cluster": "UAV与低空",
+     "citekey": "liu2025DelaysensitiveGoodsDelivery",
+     "fm": {}
+    },
+    {
+     "page": "多无人机协同.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhang2023JointTaskScheduling",
+     "fm": {}
+    },
+    {
+     "page": "大语言模型驱动无人机规划.md",
+     "cluster": "UAV与低空",
+     "citekey": "chen2025TypeFlyLowlatencyDrone",
+     "fm": {}
+    },
+    {
+     "page": "定向性感知空地链路模型.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhang2025ImprovingDataCollection",
+     "fm": {}
+    },
+    {
+     "page": "尾座式无人机.md",
+     "cluster": "UAV与低空",
+     "citekey": "yang2023RobustTransitionTrajectory",
+     "fm": {}
+    },
+    {
+     "page": "异构无人机调度.md",
+     "cluster": "UAV与低空",
+     "citekey": "xu2024RewardMaximizationDisaster",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s21",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "无人机即服务（DaaS）.md",
+     "cluster": "UAV与低空",
+     "citekey": "hamdi2025DroneasaserviceResearchChallenges",
+     "fm": {}
+    },
+    {
+     "page": "无人机即服务（DaaS）与空中计算的关系.md",
+     "cluster": "UAV与低空",
+     "citekey": "hamdi2025DroneasaserviceResearchChallenges",
+     "fm": {}
+    },
+    {
+     "page": "无人机定位.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhu2024CollaborativeReinforcementLearning",
+     "fm": {}
+    },
+    {
+     "page": "无人机移动充电协同.md",
+     "cluster": "UAV与低空",
+     "citekey": "dou2025SchedulingDroneMobile",
+     "fm": {}
+    },
+    {
+     "page": "无人机能耗模型.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhang2023JointTaskScheduling",
+     "fm": {}
+    },
+    {
+     "page": "无人机辅助IRS通信.md",
+     "cluster": "UAV与低空",
+     "citekey": "kumar2025DroneassistedIRSSystem",
+     "fm": {}
+    },
+    {
+     "page": "无人机辅助群智感知与持续作业.md",
+     "cluster": "UAV与低空",
+     "citekey": "fu2022Energyefficient3DData",
+     "fm": {}
+    },
+    {
+     "page": "无人机部署优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhang2023JointTaskScheduling",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s22",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "服务化无人机三层架构模型.md",
+     "cluster": "UAV与低空",
+     "citekey": "hamdi2025DroneasaserviceResearchChallenges",
+     "fm": {}
+    },
+    {
+     "page": "浮力辅助技术.md",
+     "cluster": "UAV与低空",
+     "citekey": "lee2025AdaptiveStabilizationControl",
+     "fm": {}
+    },
+    {
+     "page": "空中计算与UAV辅助MEC的关系.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhang2023JointTaskScheduling",
+     "fm": {}
+    },
+    {
+     "page": "空中走廊协同.md",
+     "cluster": "UAV与低空",
+     "citekey": "yu2025HybridTransformerBased",
+     "fm": {}
+    },
+    {
+     "page": "空地一体网络（IATN）.md",
+     "cluster": "UAV与低空",
+     "citekey": "mittal2024DeploymentCostawareUAV",
+     "fm": {}
+    },
+    {
+     "page": "自主多无人机竞速.md",
+     "cluster": "UAV与低空",
+     "citekey": "kang2024AutonomousMultidroneRacing",
+     "fm": {}
+    },
+    {
+     "page": "自主拓扑组织.md",
+     "cluster": "UAV与低空",
+     "citekey": "gaydamaka2024DynamicTopologyOrganization",
+     "fm": {}
+    },
+    {
+     "page": "蜂窝连接无人机通信.md",
+     "cluster": "UAV与低空",
+     "citekey": "ji2024DecoupledAssociationRate",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s23",
+   "cluster": "UAV与低空",
+   "papers": [
+    {
+     "page": "轨迹优化.md",
+     "cluster": "UAV与低空",
+     "citekey": "chen2025JointTrajectoryOptimization",
+     "fm": {}
+    },
+    {
+     "page": "轨迹优化与协同控制.md",
+     "cluster": "UAV与低空",
+     "citekey": "zhang2023JointTaskScheduling",
+     "fm": {}
+    },
+    {
+     "page": "高度-速度联合调度.md",
+     "cluster": "UAV与低空",
+     "citekey": "huang2025ASSUMEOptimalAlgorithm",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s24",
+   "cluster": "其他",
+   "papers": [
+    {
+     "page": "Hamdi2025_Drone-as-a-Service研究挑战与方向综述.md",
+     "cluster": "其他",
+     "citekey": "hamdi2025DroneasaserviceResearchChallenges",
+     "fm": {
+      "venue_tier": "Survey",
+      "evidence_tier": "supporting",
+      "paper_role": "survey",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "K覆盖.md",
+     "cluster": "其他",
+     "citekey": "song2024MethodsAssignUAVs",
+     "fm": {}
+    },
+    {
+     "page": "LoRa辅助搜救.md",
+     "cluster": "其他",
+     "citekey": "soorki2025CatchMeIf",
+     "fm": {}
+    },
+    {
+     "page": "Roy2025_Serv-HU面向UaaS的服务接力机制.md",
+     "cluster": "其他",
+     "citekey": "roy2025ServHUServiceHandoff",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "UAC研究路线图.md",
+     "cluster": "其他",
+     "citekey": "alam2024JointTrajectoryControl",
+     "fm": {}
+    },
+    {
+     "page": "Wang2025_基于协同智能干扰屏蔽的空中窃听防护.md",
+     "cluster": "其他",
+     "citekey": "Eavesdr",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Xie2025_区块链辅助轻量级跨域认证.md",
+     "cluster": "其他",
+     "citekey": "xie2025BlockchainassistedLightweightCrossdomain",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zheng2024_面向元宇宙用户的缓存使能UBS内容交付性能分析.md",
+     "cluster": "其他",
+     "citekey": "zheng2024ContentDeliveryPerformance",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    }
+   ],
+   "concepts": [
+    {
+     "page": "Gossip广播协议.md",
+     "cluster": "其他"
+    },
+    {
+     "page": "三维图着色分组.md",
+     "cluster": "其他"
+    },
+    {
+     "page": "代数连通度.md",
+     "cluster": "其他"
+    },
+    {
+     "page": "裂变谱聚类.md",
+     "cluster": "其他"
+    }
+   ]
+  },
+  {
+   "id": "s25",
+   "cluster": "其他",
+   "papers": [
+    {
+     "page": "三维区域覆盖.md",
+     "cluster": "其他",
+     "citekey": "gong2024Energyefficient3DUAV",
+     "fm": {}
+    },
+    {
+     "page": "主机-内容中心融合路由（IHCR）.md",
+     "cluster": "其他",
+     "citekey": "qiu2024IntegratedHostContentCentric",
+     "fm": {}
+    },
+    {
+     "page": "事件相机.md",
+     "cluster": "其他",
+     "citekey": "li2025TamingEventCameras",
+     "fm": {}
+    },
+    {
+     "page": "任务缓存.md",
+     "cluster": "其他",
+     "citekey": "zhao2025JointOptimizationTrajectory",
+     "fm": {}
+    },
+    {
+     "page": "任务迁移.md",
+     "cluster": "其他",
+     "citekey": "wang2025JointTaskOffloading",
+     "fm": {}
+    },
+    {
+     "page": "信息年龄（AoI）.md",
+     "cluster": "其他",
+     "citekey": "hoang2024FiniteBlockLength",
+     "fm": {}
+    },
+    {
+     "page": "元宇宙内容交付.md",
+     "cluster": "其他",
+     "citekey": "zheng2024ContentDeliveryPerformance",
+     "fm": {}
+    },
+    {
+     "page": "内容交付性能.md",
+     "cluster": "其他",
+     "citekey": "zheng2024ContentDeliveryPerformance",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s26",
+   "cluster": "其他",
+   "papers": [
+    {
+     "page": "内容缓存.md",
+     "cluster": "其他",
+     "citekey": "zhao2025JointContentCaching",
+     "fm": {}
+    },
+    {
+     "page": "区块链认证.md",
+     "cluster": "其他",
+     "citekey": "karmakar2024BlockchainBasedDistributedIntelligent",
+     "fm": {}
+    },
+    {
+     "page": "协作MAC协议.md",
+     "cluster": "其他",
+     "citekey": "wu2024MACOptimizationProtocol",
+     "fm": {}
+    },
+    {
+     "page": "协作波束形成.md",
+     "cluster": "其他",
+     "citekey": "li2024MultiObjectiveOptimizationUAV",
+     "fm": {}
+    },
+    {
+     "page": "协同智能干扰屏蔽.md",
+     "cluster": "其他",
+     "citekey": "Eavesdr",
+     "fm": {}
+    },
+    {
+     "page": "协同波束赋形.md",
+     "cluster": "其他",
+     "citekey": "dai2023MultiAgentDeepReinforcement",
+     "fm": {}
+    },
+    {
+     "page": "友好干扰.md",
+     "cluster": "其他",
+     "citekey": "Eavesdr",
+     "fm": {}
+    },
+    {
+     "page": "合约理论.md",
+     "cluster": "其他",
+     "citekey": "jin2025ResourceefficientContentSharing",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s27",
+   "cluster": "其他",
+   "papers": [
+    {
+     "page": "合谋窃听.md",
+     "cluster": "其他",
+     "citekey": "zhao2025MobileCollusiveEavesdroppers",
+     "fm": {}
+    },
+    {
+     "page": "多光谱立体成像.md",
+     "cluster": "其他",
+     "citekey": "zhang2023RFSearchSearchingUnconscious",
+     "fm": {}
+    },
+    {
+     "page": "多模态尺度归一化.md",
+     "cluster": "其他",
+     "citekey": "wan2025MultimodalScaleNormalization",
+     "fm": {}
+    },
+    {
+     "page": "姿态控制.md",
+     "cluster": "其他",
+     "citekey": "lee2025AdaptiveStabilizationControl",
+     "fm": {}
+    },
+    {
+     "page": "实验与复现证据总览.md",
+     "cluster": "其他",
+     "citekey": "alam2024JointTrajectoryControl",
+     "fm": {}
+    },
+    {
+     "page": "导航质量（QoN）.md",
+     "cluster": "其他",
+     "citekey": "zeng2024A3DAdaptiveAccurate",
+     "fm": {}
+    },
+    {
+     "page": "差异化服务.md",
+     "cluster": "其他",
+     "citekey": "ning2024MultiAgentDeepReinforcement",
+     "fm": {}
+    },
+    {
+     "page": "整体混合服务选择.md",
+     "cluster": "其他",
+     "citekey": "xu2024HolisticHybridService",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s28",
+   "cluster": "其他",
+   "papers": [
+    {
+     "page": "无线供能传输（WPT）.md",
+     "cluster": "其他",
+     "citekey": "shi2024TwoStageStrategyUAVenabled",
+     "fm": {}
+    },
+    {
+     "page": "无线供能数据采集.md",
+     "cluster": "其他",
+     "citekey": "ning2025JointOptimizationData",
+     "fm": {}
+    },
+    {
+     "page": "时间域合谋窃听.md",
+     "cluster": "其他",
+     "citekey": "zhang2024UAVSwarmenabledCollaborative",
+     "fm": {}
+    },
+    {
+     "page": "服务体验比（SER）.md",
+     "cluster": "其他",
+     "citekey": "gao2024ServiceExperienceOriented",
+     "fm": {}
+    },
+    {
+     "page": "服务接力（Service Hand-off）.md",
+     "cluster": "其他",
+     "citekey": "roy2025ServHUServiceHandoff",
+     "fm": {}
+    },
+    {
+     "page": "服务放置.md",
+     "cluster": "其他",
+     "citekey": "wu2025SecurityawareDesignsMultiUAV",
+     "fm": {}
+    },
+    {
+     "page": "服务质量体验（QoE）.md",
+     "cluster": "其他",
+     "citekey": "he2024OnlineJointOptimization",
+     "fm": {}
+    },
+    {
+     "page": "激光供能.md",
+     "cluster": "其他",
+     "citekey": "panahi2024ReliableEnergyEfficientUAV",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s29",
+   "cluster": "其他",
+   "papers": [
+    {
+     "page": "用户偏好服务缓存.md",
+     "cluster": "其他",
+     "citekey": "zhou2025UserPreferenceOriented",
+     "fm": {}
+    },
+    {
+     "page": "监测负效应.md",
+     "cluster": "其他",
+     "citekey": "zhang2025OptimizingMonitoringUtility",
+     "fm": {}
+    },
+    {
+     "page": "目标跟踪.md",
+     "cluster": "其他",
+     "citekey": "wang2024UAVassistedTargetTracking",
+     "fm": {}
+    },
+    {
+     "page": "移动用户跟踪.md",
+     "cluster": "其他",
+     "citekey": "mao2025UAVassistedCommunicationsSAGINISAC",
+     "fm": {}
+    },
+    {
+     "page": "移动群智感知（MCS）.md",
+     "cluster": "其他",
+     "citekey": "fu2022Energyefficient3DData",
+     "fm": {}
+    },
+    {
+     "page": "稳定匹配.md",
+     "cluster": "其他",
+     "citekey": "singh2024StableMatchingBased",
+     "fm": {}
+    },
+    {
+     "page": "编码缓存.md",
+     "cluster": "其他",
+     "citekey": "tian2024UAVAssistedWirelessCooperative",
+     "fm": {}
+    },
+    {
+     "page": "自适应波束对齐.md",
+     "cluster": "其他",
+     "citekey": "liu2025ResourceAllocationAdaptive",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s30",
+   "cluster": "其他",
+   "papers": [
+    {
+     "page": "规定性能控制.md",
+     "cluster": "其他",
+     "citekey": "yuan2024DynamicEventtriggeredFaulttolerant",
+     "fm": {}
+    },
+    {
+     "page": "视觉雷达融合定位.md",
+     "cluster": "其他",
+     "citekey": "wan2025MultimodalScaleNormalization",
+     "fm": {}
+    },
+    {
+     "page": "解耦关联.md",
+     "cluster": "其他",
+     "citekey": "ji2024DecoupledAssociationRate",
+     "fm": {}
+    },
+    {
+     "page": "训练与补能区域（TRA）.md",
+     "cluster": "其他",
+     "citekey": "zema20243DTrajectoryOptimization",
+     "fm": {}
+    },
+    {
+     "page": "跨域认证.md",
+     "cluster": "其他",
+     "citekey": "xie2025BlockchainassistedLightweightCrossdomain",
+     "fm": {}
+    },
+    {
+     "page": "身体域网（WBAN）.md",
+     "cluster": "其他",
+     "citekey": "singh2024StableMatchingBased",
+     "fm": {}
+    },
+    {
+     "page": "边云模型协同.md",
+     "cluster": "其他",
+     "citekey": "zhang2025LargeModelsAerial",
+     "fm": {}
+    },
+    {
+     "page": "速率分裂多址（RSMA）.md",
+     "cluster": "其他",
+     "citekey": "ji2024DecoupledAssociationRate",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s31",
+   "cluster": "其他",
+   "papers": [
+    {
+     "page": "部分可观测协同.md",
+     "cluster": "其他",
+     "citekey": "gao2025CSMAACMultiagentReinforcement",
+     "fm": {}
+    },
+    {
+     "page": "量子密钥分发（QKD）.md",
+     "cluster": "其他",
+     "citekey": "trinh2025OpticalRISsImprove",
+     "fm": {}
+    },
+    {
+     "page": "阈值AoI.md",
+     "cluster": "其他",
+     "citekey": "wang2024EnsuringThresholdAoI",
+     "fm": {}
+    },
+    {
+     "page": "阈值密钥管理.md",
+     "cluster": "其他",
+     "citekey": "kharjana2025SecuringAutonomousUAV",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s32",
+   "cluster": "MEC与计算卸载",
+   "papers": [
+    {
+     "page": "Chen2025_空天地一体LEO卫星边缘计算多用户卸载.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "chen2025MultiuserTaskOffloading",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "low"
+     }
+    },
+    {
+     "page": "Cong2024_ParallEdge计算移动并行的5G6G边缘计算.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "cong2024ParallEdgeExploitingComputingMobility",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "low"
+     }
+    },
+    {
+     "page": "DaaS研究挑战与应用版图.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "hamdi2025DroneasaserviceResearchChallenges",
+     "fm": {}
+    },
+    {
+     "page": "He2024_空天地一体网络数据卸载中的总能耗与平均工期权衡.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "he2024BalancingTotalEnergy",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Qin2022_物联网空中计算中的多智能体卸载.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "qin2022MultiagentReinforcementLearning",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Shen2024_空天地一体车联网中的切片式任务卸载.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "shen2024SlicingBasedTaskOffloading",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Sun2025_JC5A空中MEC辅助工业CPS服务时延最小化.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "aServiceDelay",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "THz-IRS辅助卸载.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "wu2025TwostageDeepEnergy",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s33",
+   "cluster": "MEC与计算卸载",
+   "papers": [
+    {
+     "page": "Tao2024_空中计算系统中的多智能体协同算力调度.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "tao2024MultiagentCooperationComputing",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "USV辅助MEC.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "wang2024UAVassistedTargetTracking",
+     "fm": {}
+    },
+    {
+     "page": "Wang2024_LSPSS空中计算中的轻量级隐私存储与共享.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "wang2024LSPSSConstructingLightweight",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhang2025_空中边缘大模型的边云协同演化.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "zhang2025LargeModelsAerial",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhang2025_量子辅助SATIN在线任务卸载与资源分配.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "zhang2025QuantumassistedOnlineTask",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "任务卸载.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "dai2024UAVAssistedTaskOffloading",
+     "fm": {}
+    },
+    {
+     "page": "任务卸载与资源分配研究主线.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "dai2024UAVAssistedTaskOffloading",
+     "fm": {}
+    },
+    {
+     "page": "低轨卫星边缘计算.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "chen2025MultiuserTaskOffloading",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s34",
+   "cluster": "MEC与计算卸载",
+   "papers": [
+    {
+     "page": "协同多点（CoMP）卸载模型.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "li2025AnchorNovelModeling",
+     "fm": {}
+    },
+    {
+     "page": "可靠性感知卸载.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "hao2025ReliabilityawareOptimizationTask",
+     "fm": {}
+    },
+    {
+     "page": "层次化空中计算.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "nabi2025JointOffloadingDecision",
+     "fm": {}
+    },
+    {
+     "page": "微服务MEC架构.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "li2025UAVassistedMicroserviceMobile",
+     "fm": {}
+    },
+    {
+     "page": "无线供能移动边缘计算.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "wang2024WirelessPoweredMetaverse",
+     "fm": {}
+    },
+    {
+     "page": "服务干扰监测.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "rizvi2025MonitoringInterdroneService",
+     "fm": {}
+    },
+    {
+     "page": "空中算力调度.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "tao2024MultiagentCooperationComputing",
+     "fm": {}
+    },
+    {
+     "page": "空中聚合计算（AirComp）.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "chen2025EneOveCom",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s35",
+   "cluster": "MEC与计算卸载",
+   "papers": [
+    {
+     "page": "空中自主协同计算.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "sun2024AllskyAutonomousComputing",
+     "fm": {}
+    },
+    {
+     "page": "空中计算.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "zhang2023JointTaskScheduling",
+     "fm": {}
+    },
+    {
+     "page": "空中边缘大模型前沿.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "zhang2025LargeModelsAerial",
+     "fm": {}
+    },
+    {
+     "page": "计算-移动并行.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "cong2024ParallEdgeExploitingComputingMobility",
+     "fm": {}
+    },
+    {
+     "page": "计算卸载模型.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "zhang2023JointTaskScheduling",
+     "fm": {}
+    },
+    {
+     "page": "边缘分析共调度.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "khochare2024ImprovedAlgorithmsCoScheduling",
+     "fm": {}
+    },
+    {
+     "page": "边缘缓存.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "chen2024AdaptiveBitrateVideo",
+     "fm": {}
+    },
+    {
+     "page": "边缘辅助导航.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "zeng2024A3DAdaptiveAccurate",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s36",
+   "cluster": "MEC与计算卸载",
+   "papers": [
+    {
+     "page": "量子辅助优化.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "zhang2025QuantumassistedOnlineTask",
+     "fm": {}
+    },
+    {
+     "page": "风感知服务供给.md",
+     "cluster": "MEC与计算卸载",
+     "citekey": "xu2025WindawareServiceProvisioning",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s37",
+   "cluster": "网络与SAGIN",
+   "papers": [
+    {
+     "page": "Mao2025_SAGIN-ISAC中的移动用户跟踪与鲁棒波束赋形.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "mao2025UAVassistedCommunicationsSAGINISAC",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "RIS辅助通信.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "huang2025FastUAVTrajectory",
+     "fm": {}
+    },
+    {
+     "page": "Ren2025_AeroEcho面向农业物联网的空中激励回散通信.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "ren2025AeroEchoAgriculturalLowpower",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Sun2025_面向地面移动用户的空中可靠协同通信.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "sun2025AerialReliableCollaborative",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "THz辅助空天地一体网络.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "tun2025JointUAVDeployment",
+     "fm": {}
+    },
+    {
+     "page": "Zhang2025_生成扩散模型驱动的多目标空中协同安全通信.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "zhang2025MultiobjectiveAerialCollaborative",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "一体化感知与通信（ISAC）.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "liu2025ResourceAllocationAdaptive",
+     "fm": {}
+    },
+    {
+     "page": "信息中心网络（ICN）.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "li2025DynamicRoutingMechanism",
+     "fm": {}
+    }
+   ],
+   "concepts": [
+    {
+     "page": "空中协同安全通信.md",
+     "cluster": "网络与SAGIN"
+    },
+    {
+     "page": "虚拟网络功能（VNF）.md",
+     "cluster": "网络与SAGIN"
+    },
+    {
+     "page": "语义通信激励机制.md",
+     "cluster": "网络与SAGIN"
+    }
+   ]
+  },
+  {
+   "id": "s38",
+   "cluster": "网络与SAGIN",
+   "papers": [
+    {
+     "page": "信道与通信速率模型.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "zhang2023JointTaskScheduling",
+     "fm": {}
+    },
+    {
+     "page": "光学可重构智能表面（ORIS）.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "trinh2025OpticalRISsImprove",
+     "fm": {}
+    },
+    {
+     "page": "协同安全中继通信.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "zhang2024UAVSwarmenabledCollaborative",
+     "fm": {}
+    },
+    {
+     "page": "回散通信.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "guo2025MightyLongrangeHighthroughput",
+     "fm": {}
+    },
+    {
+     "page": "图神经网络（GNN）.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "Symmetry-Informed_MARL_A_Decentralized_and_Cooperative_UAV_Swarm_Control_Approach_for_Communication_Coverage",
+     "fm": {}
+    },
+    {
+     "page": "多模态语义通信.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "liu2025MultiUAVassistedMECInternet",
+     "fm": {}
+    },
+    {
+     "page": "层次化网络切片.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "wei2024HierarchicalNetworkSlicing",
+     "fm": {}
+    },
+    {
+     "page": "工业网络物理系统（ICPS）.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "aServiceDelay",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s39",
+   "cluster": "网络与SAGIN",
+   "papers": [
+    {
+     "page": "延迟容忍网络（DTN）.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "li2025DynamicRoutingMechanism",
+     "fm": {}
+    },
+    {
+     "page": "抗干扰通信.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "qin2025MultiagentReinforcementLearning",
+     "fm": {}
+    },
+    {
+     "page": "无线供能动态通信.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "zhao2024DesigningMultiUAVAided",
+     "fm": {}
+    },
+    {
+     "page": "无线充电网络（WCN）.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "wang2025PracticalOptimizingUAV",
+     "fm": {}
+    },
+    {
+     "page": "无线可充电传感器网络（WRSN）.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "xue2024MaximizingCoverageTargets",
+     "fm": {}
+    },
+    {
+     "page": "有限块长通信.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "hoang2024FiniteBlockLength",
+     "fm": {}
+    },
+    {
+     "page": "空中激励回散通信.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "ren2025AeroEchoAgriculturalLowpower",
+     "fm": {}
+    },
+    {
+     "page": "空中通信与协同传输.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "alam2024JointTrajectoryControl",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s40",
+   "cluster": "网络与SAGIN",
+   "papers": [
+    {
+     "page": "空天地一体网络（SAGIN）.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "he2024BalancingTotalEnergy",
+     "fm": {}
+    },
+    {
+     "page": "索引调制.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "li2025CooperativeNonorthogonalMultiple",
+     "fm": {}
+    },
+    {
+     "page": "网络切片.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "shen2024SlicingBasedTaskOffloading",
+     "fm": {}
+    },
+    {
+     "page": "自由空间光通信（FSO）.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "dabiri2025NovelMRRUAVbasedRelay",
+     "fm": {}
+    },
+    {
+     "page": "通信覆盖.md",
+     "cluster": "网络与SAGIN",
+     "citekey": "Symmetry-Informed_MARL_A_Decentralized_and_Cooperative_UAV_Swarm_Control_Approach_for_Communication_Coverage",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s41",
+   "cluster": "安全与可靠性",
+   "papers": [
+    {
+     "page": "Nguyen2024_可靠性与安全性的两难协同.md",
+     "cluster": "安全与可靠性",
+     "citekey": "nguyen2024DilemmaReliabilitySecurity",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Wang2025_RSMA安全波束赋形与部署协同.md",
+     "cluster": "安全与可靠性",
+     "citekey": "wang2025SecureBeamformingDeployment",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Xu2025_信任增强的安全量子联邦学习激励.md",
+     "cluster": "安全与可靠性",
+     "citekey": "xu2025TrustenhancedGameIncentive",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Xu2025_区块链赋能的安全带宽分配博弈激励.md",
+     "cluster": "安全与可靠性",
+     "citekey": "xu2025BlockchainempoweredGameTheoretical",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Yuan2024_具规定性能的动态事件触发容错协同跟踪控制.md",
+     "cluster": "安全与可靠性",
+     "citekey": "yuan2024DynamicEventtriggeredFaulttolerant",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "主动窃听.md",
+     "cluster": "安全与可靠性",
+     "citekey": "guo2024JointOptimizationTrajectory",
+     "fm": {}
+    },
+    {
+     "page": "事件触发容错控制.md",
+     "cluster": "安全与可靠性",
+     "citekey": "yuan2024DynamicEventtriggeredFaulttolerant",
+     "fm": {}
+    },
+    {
+     "page": "信任增强激励.md",
+     "cluster": "安全与可靠性",
+     "citekey": "xu2025BlockchainempoweredGameTheoretical",
+     "fm": {}
+    }
+   ],
+   "concepts": [
+    {
+     "page": "鲁棒拓扑恢复.md",
+     "cluster": "安全与可靠性"
+    }
+   ]
+  },
+  {
+   "id": "s42",
+   "cluster": "安全与可靠性",
+   "papers": [
+    {
+     "page": "分布鲁棒优化（DRO）.md",
+     "cluster": "安全与可靠性",
+     "citekey": "jia2025DistributionallyRobustOptimization",
+     "fm": {}
+    },
+    {
+     "page": "协同异常检测.md",
+     "cluster": "安全与可靠性",
+     "citekey": "liwang2021LetsTradeFuture",
+     "fm": {}
+    },
+    {
+     "page": "可靠性-安全性权衡.md",
+     "cluster": "安全与可靠性",
+     "citekey": "nguyen2024DilemmaReliabilitySecurity",
+     "fm": {}
+    },
+    {
+     "page": "安全与服务保障.md",
+     "cluster": "安全与可靠性",
+     "citekey": "huang2024DynamicTaskOffloading",
+     "fm": {}
+    },
+    {
+     "page": "安全波束赋形.md",
+     "cluster": "安全与可靠性",
+     "citekey": "wang2025SecureBeamformingDeployment",
+     "fm": {}
+    },
+    {
+     "page": "安全量子联邦学习.md",
+     "cluster": "安全与可靠性",
+     "citekey": "xu2025TrustenhancedGameIncentive",
+     "fm": {}
+    },
+    {
+     "page": "安全隐私共享.md",
+     "cluster": "安全与可靠性",
+     "citekey": "wang2024LSPSSConstructingLightweight",
+     "fm": {}
+    },
+    {
+     "page": "容错控制与碰撞规避模型.md",
+     "cluster": "安全与可靠性",
+     "citekey": "yuan2024DynamicEventtriggeredFaulttolerant",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s43",
+   "cluster": "安全与可靠性",
+   "papers": [
+    {
+     "page": "故障与攻击检测模型.md",
+     "cluster": "安全与可靠性",
+     "citekey": "liwang2021LetsTradeFuture",
+     "fm": {}
+    },
+    {
+     "page": "智能窃听者.md",
+     "cluster": "安全与可靠性",
+     "citekey": "li2024SecureOffloadingAdversarial",
+     "fm": {}
+    },
+    {
+     "page": "混合故障攻击检测.md",
+     "cluster": "安全与可靠性",
+     "citekey": "tlili2023NewHybridAdaptive",
+     "fm": {}
+    },
+    {
+     "page": "物理层安全.md",
+     "cluster": "安全与可靠性",
+     "citekey": "zhang2024TaskOffloadingTrajectory",
+     "fm": {}
+    },
+    {
+     "page": "移动性对齐鉴别.md",
+     "cluster": "安全与可靠性",
+     "citekey": "li2025DroneMADroneMobility",
+     "fm": {}
+    },
+    {
+     "page": "虚假数据注入攻击（FDI）.md",
+     "cluster": "安全与可靠性",
+     "citekey": "zeng2025JointSecureMechanism",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s44",
+   "cluster": "优化与决策",
+   "papers": [
+    {
+     "page": "Huang2025_ASSUME最优高度速度联合调度节能算法.md",
+     "cluster": "优化与决策",
+     "citekey": "huang2025ASSUMEOptimalAlgorithm",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Liu2025_面向UaMCS全局AoI最小化的混合优化框架.md",
+     "cluster": "优化与决策",
+     "citekey": "liu2025HybridOptimizationFramework",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Lyapunov优化.md",
+     "cluster": "优化与决策",
+     "citekey": "dai2024UAVAssistedTaskOffloading",
+     "fm": {}
+    },
+    {
+     "page": "Stackelberg微分博弈.md",
+     "cluster": "优化与决策",
+     "citekey": "wang2024ResourceAllocationBlockchain",
+     "fm": {}
+    },
+    {
+     "page": "Xue2024_面向WRSN目标覆盖最大化的多充电器调度.md",
+     "cluster": "优化与决策",
+     "citekey": "xue2024MaximizingCoverageTargets",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "supporting",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "两阶段优化.md",
+     "cluster": "优化与决策",
+     "citekey": "zheng2025UAVSwarmenabledCollaborative",
+     "fm": {}
+    },
+    {
+     "page": "任务优先级.md",
+     "cluster": "优化与决策",
+     "citekey": "hao2024JointTaskOffloading",
+     "fm": {}
+    },
+    {
+     "page": "公平性优化.md",
+     "cluster": "优化与决策",
+     "citekey": "karmakar2024NovelFederatedLearningBased",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s45",
+   "cluster": "优化与决策",
+   "papers": [
+    {
+     "page": "双时间尺度优化.md",
+     "cluster": "优化与决策",
+     "citekey": "sun2024TwoTimescaleJoint",
+     "fm": {}
+    },
+    {
+     "page": "双目标蚁群优化.md",
+     "cluster": "优化与决策",
+     "citekey": "wang2024BiobjectiveAntColony",
+     "fm": {}
+    },
+    {
+     "page": "图着色资源分配.md",
+     "cluster": "优化与决策",
+     "citekey": "kumari2025MaximizingServiceProviders",
+     "fm": {}
+    },
+    {
+     "page": "异构协同路径规划.md",
+     "cluster": "优化与决策",
+     "citekey": "han2024CollaborativeRoutePlanning",
+     "fm": {}
+    },
+    {
+     "page": "波束预测.md",
+     "cluster": "优化与决策",
+     "citekey": "wu2024BeamformingPredictionBased",
+     "fm": {}
+    },
+    {
+     "page": "用户调度.md",
+     "cluster": "优化与决策",
+     "citekey": "zhou2024SymmetryaugmentedMultiagentReinforcement",
+     "fm": {}
+    },
+    {
+     "page": "目标覆盖最大化.md",
+     "cluster": "优化与决策",
+     "citekey": "xue2024MaximizingCoverageTargets",
+     "fm": {}
+    },
+    {
+     "page": "覆盖与部署优化主线.md",
+     "cluster": "优化与决策",
+     "citekey": "zhang2023JointTaskScheduling",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s46",
+   "cluster": "优化与决策",
+   "papers": [
+    {
+     "page": "资源分配.md",
+     "cluster": "优化与决策",
+     "citekey": "chen2025JointTrajectoryOptimization",
+     "fm": {}
+    },
+    {
+     "page": "资源定价.md",
+     "cluster": "优化与决策",
+     "citekey": "chen2025TaskOffloadingResource",
+     "fm": {}
+    },
+    {
+     "page": "近端策略优化（PPO）.md",
+     "cluster": "优化与决策",
+     "citekey": "lin2024LyapunovbasedApproachJoint",
+     "fm": {}
+    },
+    {
+     "page": "部署成本效率（DCE）.md",
+     "cluster": "优化与决策",
+     "citekey": "mittal2024DeploymentCostawareUAV",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s47",
+   "cluster": "AI与学习范式",
+   "papers": [
+    {
+     "page": "LLM增强Q学习.md",
+     "cluster": "AI与学习范式",
+     "citekey": "zhou2025LLMQLLLMenhancedQlearning",
+     "fm": {}
+    },
+    {
+     "page": "两时间尺度强化学习.md",
+     "cluster": "AI与学习范式",
+     "citekey": "tian2024UAVAssistedWirelessCooperative",
+     "fm": {}
+    },
+    {
+     "page": "个性化联邦强化学习.md",
+     "cluster": "AI与学习范式",
+     "citekey": "qin2025MultiagentReinforcementLearning",
+     "fm": {}
+    },
+    {
+     "page": "多智能体强化学习.md",
+     "cluster": "AI与学习范式",
+     "citekey": "yuan2025TrajectoryOptimizationPower",
+     "fm": {}
+    },
+    {
+     "page": "多目标强化学习（MORL）.md",
+     "cluster": "AI与学习范式",
+     "citekey": "song2024EnergyefficientTrajectoryOptimization",
+     "fm": {}
+    },
+    {
+     "page": "对抗式多智能体强化学习.md",
+     "cluster": "AI与学习范式",
+     "citekey": "li2024SecureOffloadingAdversarial",
+     "fm": {}
+    },
+    {
+     "page": "对称性增强多智能体强化学习.md",
+     "cluster": "AI与学习范式",
+     "citekey": "Symmetry-Informed_MARL_A_Decentralized_and_Cooperative_UAV_Swarm_Control_Approach_for_Communication_Coverage",
+     "fm": {}
+    },
+    {
+     "page": "异构联邦强化学习.md",
+     "cluster": "AI与学习范式",
+     "citekey": "wang2024DecentralizedNavigationHeterogeneous",
+     "fm": {}
+    }
+   ],
+   "concepts": [
+    {
+     "page": "层次化联邦学习.md",
+     "cluster": "AI与学习范式"
+    },
+    {
+     "page": "扩散模型强化学习.md",
+     "cluster": "AI与学习范式"
+    }
+   ]
+  },
+  {
+   "id": "s48",
+   "cluster": "AI与学习范式",
+   "papers": [
+    {
+     "page": "模仿学习.md",
+     "cluster": "AI与学习范式",
+     "citekey": "wang2025JointTaskOffloading",
+     "fm": {}
+    },
+    {
+     "page": "深度元强化学习.md",
+     "cluster": "AI与学习范式",
+     "citekey": "soorki2025CatchMeIf",
+     "fm": {}
+    },
+    {
+     "page": "深度强化学习.md",
+     "cluster": "AI与学习范式",
+     "citekey": "chen2025JointTrajectoryOptimization",
+     "fm": {}
+    },
+    {
+     "page": "联邦元学习.md",
+     "cluster": "AI与学习范式",
+     "citekey": "li2025FederatedMetalearningBased",
+     "fm": {}
+    },
+    {
+     "page": "联邦学习.md",
+     "cluster": "AI与学习范式",
+     "citekey": "cui2024DataValueBased",
+     "fm": {}
+    },
+    {
+     "page": "迁移学习.md",
+     "cluster": "AI与学习范式",
+     "citekey": "gao2025TransferLearningJoint",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s49",
+   "cluster": "系统与应用",
+   "papers": [
+    {
+     "page": "Zhou2025_HaDT加固数字孪生物流分发.md",
+     "cluster": "系统与应用",
+     "citekey": "zhou2025HaDTHardeningDigital",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "Zhou2025_VerDT工业CPS多功能数字孪生物流框架.md",
+     "cluster": "系统与应用",
+     "citekey": "zhou2025VerDTVersatileDigital",
+     "fm": {
+      "venue_tier": "CCF-A",
+      "evidence_tier": "core",
+      "paper_role": "anchor",
+      "reproducibility_level": "medium"
+     }
+    },
+    {
+     "page": "任务队列与时延保障模型.md",
+     "cluster": "系统与应用",
+     "citekey": "dai2024UAVAssistedTaskOffloading",
+     "fm": {}
+    },
+    {
+     "page": "加固数字孪生.md",
+     "cluster": "系统与应用",
+     "citekey": "zhou2025HaDTHardeningDigital",
+     "fm": {}
+    },
+    {
+     "page": "区域覆盖与部署模型.md",
+     "cluster": "系统与应用",
+     "citekey": "zhang2023JointTaskScheduling",
+     "fm": {}
+    },
+    {
+     "page": "双数字孪生协同.md",
+     "cluster": "系统与应用",
+     "citekey": "zhou2025VerDTVersatileDigital",
+     "fm": {}
+    },
+    {
+     "page": "数字孪生元宇宙.md",
+     "cluster": "系统与应用",
+     "citekey": "xu2024SemanticawareUAVSwarm",
+     "fm": {}
+    },
+    {
+     "page": "服务放置模型.md",
+     "cluster": "系统与应用",
+     "citekey": "wu2025SecurityawareDesignsMultiUAV",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  },
+  {
+   "id": "s50",
+   "cluster": "系统与应用",
+   "papers": [
+    {
+     "page": "编码缓存与内容命中模型.md",
+     "cluster": "系统与应用",
+     "citekey": "tian2024UAVAssistedWirelessCooperative",
+     "fm": {}
+    },
+    {
+     "page": "联邦数字孪生.md",
+     "cluster": "系统与应用",
+     "citekey": "zhou2024FederatedDigitalTwin",
+     "fm": {}
+    },
+    {
+     "page": "高空平台（HAP）.md",
+     "cluster": "系统与应用",
+     "citekey": "jia2025DistributionallyRobustOptimization",
+     "fm": {}
+    }
+   ],
+   "concepts": []
+  }
+ ]
+}

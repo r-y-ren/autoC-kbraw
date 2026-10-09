@@ -1,0 +1,358 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>大赛简介-中国大学生计算机设计大赛</title><meta name="pageType" content="2">
+<meta name="pageTitle" content="大赛简介">
+<META Name="keywords" Content="中国大学生计算机设计大赛" />
+
+<link href="../css/style.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="../js/jquery.min.js"></script>
+<link rel="icon" href="../images/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+jQuery.browser={};(function(){jQuery.browser.msie=false; jQuery.browser.version=0;if(navigator.userAgent.match(/MSIE ([0-9]+)./)){ jQuery.browser.msie=true;jQuery.browser.version=RegExp.$1;}})();
+</script>
+
+
+
+<!--Announced by Visual SiteBuilder 9-->
+<script language="javascript" src="../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307e7847525255574200050000435d -->
+<link rel="stylesheet" type="text/css" href="../wzzw_list.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1077,'/wzzw_list.jsp',-1,1825439128)</script>
+</head>
+<body>
+<div class="wid100 fl">
+    <div class="top">
+        
+<a href="https://2026.jsjds.com.cn/" target="_blank" class="logo"><img src="../images/new-logo.JPG"></a>
+        <div class="top-right fr">
+               <script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script>
+            <!-- 3.1.3版本 -->
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/vue/vue.js"></script><script language="javascript" src="/system/resource/vue/bluebird.min.js"></script><script language="javascript" src="/system/resource/vue/axios.js"></script><script language="javascript" src="/system/resource/vue/polyfill.js"></script><script language="javascript" src="/system/resource/vue/token.js"></script><LINK href="/system/resource/vue/static/element/index.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/vue/static/element/index.js"></script><script language="javascript" src="/system/resource/vue/static/public.js"></script><script language="javascript" src="/system/resource/openapp/search/js/containsHtmlTags.js"></script><script language="javascript" src="/system/resource/openapp/search/layui/layui.js"></script><style>
+    #appu2 .qwss{
+        height: 31px;
+        font-size: 12px;
+        min-width: 190px;
+        max-width: 600px;
+        width: 60%;
+        margin-top: -15px;
+        outline: none;
+        padding-left: 10px;
+        border-radius: 2px;
+        border: 1px solid #e4e7ed;}
+    #appu2 .tj{
+        padding-left: 6px;
+        letter-spacing: 5px;
+        color: white;
+        min-width: 53px;
+        max-width: 150px;
+        height: 32px;
+        border: 0;
+        border-radius: 2px;
+        background-color: #1890FF;
+        position: relative;
+        top: 1px;
+        width: 20%;
+        margin-top: -15px;}
+</style>
+<div id="divu2"></div>
+<script type="text/html" id="htmlu2">
+    <div id="appu2">
+        <div v-if="!isError">
+        
+        
+        <div class="search fr">
+                <input  class="search-input" value="请输入搜索内容..." autocomplete=off v-model=query.keyWord @keyup.enter="onSubmit"> 
+                <input name="search-btn" type="image" class="search-btn" src="../images/search-btn.png" v-on:click="onSubmit()"/>
+            </div>
+        
+        </div>
+        <div v-if="isError" style="color: #b30216; font-size:18px;text-align: center;padding:20px;">
+            应用维护中！
+        </div>
+    </div>
+</script>
+<script>
+    $("#divu2").html($("#htmlu2").text());
+</script>
+<script>
+    var appOwner = "1825439128";
+    var token = gettoken(10);
+    var urlPrefix = "/aop_component/";
+
+    jQuery.support.cors = true;
+    $.ajaxSetup({
+        beforeSend: function (request, settings) {
+            request.setRequestHeader("Authorization", token);
+            request.setRequestHeader("owner", appOwner);
+        }
+    });
+
+    new Vue({
+        el: "#appu2",
+        data: function () {
+            return {
+                query: {
+                    keyWord: "",//搜索关键词
+                    owner: appOwner,
+                    token: token,
+                    urlPrefix: urlPrefix,
+                    lang:"i18n_zh_CN"
+                },
+                isError: false
+            }
+        },
+        mounted: function () {
+            var _this = this;
+            // _this.init();
+        },
+        methods: {
+            init: function(){
+                $.ajax({
+                    url: "/aop_component//webber/search/test",
+                    type: "get",
+                    success: function (response) {
+                        if (response.code == "0000") {
+                        } else if (response.code == "220") {
+                            _this.isError = true;
+                            console.log(response);
+                        } else if (!response.code) {
+                            _this.isError = true;
+                            console.log(response);
+                        }
+                    },
+                    error: function (response) {
+                        _this.isError = true;
+                    }
+                });
+            },
+            onSubmit: function (e) {
+                var url = "/aop_views/search/modules/resultpc/soso.html";
+                if ("10" == "1" || "10" == "2") {
+                    url = "" + url;
+                }
+                var _this = this;
+                var query = _this.query;
+                if (url.indexOf("?") > -1) {
+                    url = url.split("?")[0];
+                }
+                if (query.keyWord) {
+                    var query = new Base64().encode(JSON.stringify(query));
+                    window.open(url + "?query=" + query);
+                } else {
+                    alert("请填写搜索内容")
+                }
+            },
+        }
+    })
+</script>
+
+<script>
+   var appElementu2 = document.querySelector("#appu2");
+   if (appElementu2 && appElementu2.__vue__) {
+
+   } else {
+      $("#divu2").html($("#htmlu2").text());
+      var appOwner = "1825439128";   
+      var urlPrefix = "/aop_component/";
+      var ifLogin="";
+      var token = ifLogin=='true'?gettoken(10, true).trim():'tourist';
+      if (containsHtmlTags(token) || !token) { 
+         token = 'tourist';
+      }
+      jQuery.support.cors = true;
+      $.ajaxSetup({
+        beforeSend: function (request, settings) {
+            request.setRequestHeader("Authorization", token);
+            request.setRequestHeader("owner", appOwner);
+        }
+      });
+      var queryInfou2 = {
+        query: {
+            keyWord: "",//搜索关键词
+            owner: appOwner,
+            token: token,
+            urlPrefix: urlPrefix,
+            lang:"i18n_zh_CN"
+        },
+        isError: false
+      };
+      function keyUpFunu2(e){
+        var theEvent = e || window.event;
+        var keyCode = theEvent.keyCode || theEvent.which || theEvent.charCode;
+        if(keyCode == 13){
+          onSubmitu2();
+        }
+      };
+
+      function onSubmitu2(e) {
+        queryInfou2.query.keyWord= $("#appu2  .qwss").val();
+        
+        var url = "/aop_views/search/modules/resultpc/soso.html";      
+        if ("10" == "1" || "10" == "2") {
+           url = "" + url;
+        }
+        var query = queryInfou2.query;
+        if (url.indexOf("?") > -1) {
+            url = url.split("?")[0];
+        }
+        if (query.keyWord) {
+            var query = new Base64().encode(JSON.stringify(query));
+            window.open(url + "?query=" + query);
+        } else {
+            alert("请填写搜索内容")
+        }
+      };
+   }
+</script>
+        </div>
+    </div>
+</div> 
+<div class="menu-nav fl">
+    <div id="menu">    
+      <ul class="l1-nav">    
+        <li class="l1-nav">  
+          <a class="l1-nav" href="../index.htm">首页</a>
+        </li>
+        <li class="l1-nav">  
+          <a class="l1-nav" href="../dsdt.htm">大赛动态</a>
+        </li>
+        <li class="l1-nav">  
+          <a class="l1-nav" href="../wjss.htm">往届赛事</a>
+        </li>
+        <li class="l1-nav">  
+          <a class="l1-nav" href="dsjj.htm">关于大赛</a>
+          <ul class="l2-nav">       
+            <li class="l2-nav"><a class="l2-nav" href="dsjj.htm">大赛简介</a></li>
+            <li class="l2-nav"><a class="l2-nav" href="csyq.htm">参赛要求</a></li>
+            <li class="l2-nav"><a class="l2-nav" href="lxfs.htm">联系方式</a></li>
+            <li class="l2-nav"><a class="l2-nav" href="wyds.htm">我与大赛</a></li>
+          </ul>
+        </li>
+        <li class="l1-nav">  
+          <a class="l1-nav" href="../zlxz.htm">资料下载</a>
+        </li>
+        <li class="l1-nav">  
+          <a class="l1-nav" href="../gsjs1.htm">国赛决赛</a>
+          <ul class="l2-nav">       
+            <li class="l2-nav"><a class="l2-nav" href="../gsjs1/shjsq.htm">上海决赛区</a></li>
+            <li class="l2-nav"><a class="l2-nav" href="../gsjs1/hzjsq.htm">杭州决赛区</a></li>
+            <li class="l2-nav"><a class="l2-nav" href="../gsjs1/njnjsq.htm">南京南决赛区</a></li>
+            <li class="l2-nav"><a class="l2-nav" href="../gsjs1/njd2jsq.htm">南京东2决赛区</a></li>
+            <li class="l2-nav"><a class="l2-nav" href="../gsjs1/jnjsq.htm">济南决赛区</a></li>
+            <li class="l2-nav"><a class="l2-nav" href="../gsjs1/njd1jsq.htm">南京东1决赛区</a></li>
+          </ul>
+        </li>
+
+</ul>
+    
+    </div>  
+</div> 
+    <div class="list-banner">
+    <img src="../images/banner11.PNG" style="width:100%" />
+</div>
+
+
+<div class="mainWrap cleafix">
+    <div class="main w1200">
+        <div class="left fl">
+            <div class="lmcc fl">
+关于大赛</div>
+           
+                <div class="left-list fl">
+<ul>
+       <li><a href="dsjj.htm" class="left-current">
+大赛简介</a></li>
+      <li><a href="csyq.htm">
+参赛要求</a></li>
+      <li><a href="lxfs.htm">
+联系方式</a></li>
+      <li><a href="wyds.htm">
+我与大赛</a></li>
+                </ul>
+                </div>
+
+    
+        </div>
+        <div class="right fr">
+            <div class="local fl">
+                <h3>
+大赛简介</h3>
+                <div class="dqwz">
+                        <a href="../index.htm">首页</a>
+                >
+                <a href="dsjj.htm">关于大赛</a>
+                >
+                <a href="dsjj.htm">大赛简介</a>
+</div>
+
+            </div>
+            
+
+
+<script language="javascript" src="/system/resource/js/ajax.js"></script><script language="javascript">_getBatchClickTimes('null',1825439128,'wbnews','u9')</script>
+<script>function seeContenta9(contentid,size,displayid){	document.getElementById(contentid).innerHTML = '[';	for(var i=0;i<=size;i++){		var allcontentid = contentid+(i+1);		if(allcontentid==displayid){			document.getElementById(contentid).innerHTML += " <span id='"+allcontentid+"' name='"+allcontentid+"'  >"+(i+1)+"</span> ";			document.getElementById(displayid).style.display = 'block';		}else{			document.getElementById(contentid).innerHTML += " <span style='cursor:pointer' id='"+allcontentid+"' name='"+allcontentid+"' onclick=seeContenta9('"+contentid+"','"+size+"','"+allcontentid+"')  >"+(i+1)+"</span> ";			document.getElementById(allcontentid).style.display = 'none';		}	}	document.getElementById(contentid).innerHTML += ']';}</script>
+<script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<script>_addDynClicks('wbnews',1825439128,1717)</script>
+<div class="jj fl">
+    <div id="vsb_content_1717_u91"><div id="vsb_content"><p style="background: white; margin: 1em 0px; line-height: 120%; text-indent: 28px; -ms-layout-grid-mode: char;"><span style="font-size: 14px; font-family: 仿宋_gb2312, fangsong_gb2312;"><strong><span lang="ZH-TW" style="font-size: 14px; line-height: 120%;"></span></strong></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><strong><span style="font-family: 华文仿宋;line-height: 120%;font-size: 16px">1．大赛历史</span></strong></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px">中国大学生计算机设计大赛（</span><span style="font-family:calibri;font-size:14px">Chinese Collegiate Computing Competition</span><span style="font-size: 14px">，</span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">简称</span><span style="font-family:华文仿宋">“4C” 或“大赛”）</span><span style="font-family:华文仿宋">始</span><span style="font-family:华文仿宋">筹于</span><span style="font-family:华文仿宋">2</span></span><span style="font-family:华文仿宋;font-size:14px">007</span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">年，</span><span style="font-family:华文仿宋">首届</span><span style="font-family:华文仿宋">于</span><span style="font-family:华文仿宋">2008年举办，已经</span></span><span style="font-family:华文仿宋;font-size:14px">成功</span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">举办了</span><span style="font-family:华文仿宋">1</span></span><span style="font-family:华文仿宋;font-size:14px">8</span><span style="font-family:华文仿宋;font-size:14px">届91</span><span style="font-family:华文仿宋;font-size:14px">场赛事。</span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px"></span><span style="font-family:华文仿宋;font-size:14px">大赛的第1届由教育部高等学校文科计算机基础教学指导委员会独立发起主办；从第3届开始，理工类计算机教指委参与主办；从第5届开始，计算机类专业教指委也参与主办；从2020年（第13届）开始，根据教育部高教司的相关通知，大赛由中国大学生计算机设计大赛组织委员会主办，法人单位是北京语言大学。组委会由北京语言大学、中国人民大学、华东师范大学、浙江大学、南京大学、东南大学、厦门大学、山东大学、东北大学等高校，以及清华大学、北京大学、复旦大学等高校的教师组成。大赛组委会的相应机构，由相关高校、相关部门、承办单位相关人员等组成</span><span style="font-family:华文仿宋;font-size:14px">。</span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">此外，</span><span style="font-family:华文仿宋">201</span></span><span style="font-family:华文仿宋;font-size:14px">1</span><span style="font-family:华文仿宋;font-size:14px">年～</span><span style="font-family:华文仿宋;font-size:14px">2016</span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">年中国教育电视台参与了主办；</span><span style="font-family:华文仿宋">201</span></span><span style="font-family:华文仿宋;font-size:14px">7</span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">年，中国高教学会参与了主办；</span><span style="font-family:华文仿宋">201</span></span><span style="font-family:华文仿宋;font-size:14px">8</span><span style="font-family:华文仿宋;font-size:14px">年，中国青少年新媒体协会参与了主办。</span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">自</span><span style="font-family:华文仿宋">2019年开始，大赛是</span></span><span style="font-family:华文仿宋;font-size:14px">中国</span><span style="font-family:华文仿宋;font-size:14px">高教学会发布的</span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">《全国普通高校大学生竞赛分析报告》中</span><span style="font-family:华文仿宋">“竞赛目录”内赛事</span></span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">，名列第25位。在计算机类赛事中，名列第</span><span style="font-family:华文仿宋">3位。</span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">大赛每年举办一次。国赛决赛时间是当年</span><span style="font-family:华文仿宋">7月中旬至8月下旬。</span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><strong><span style="font-family: 华文仿宋;line-height: 120%;font-size: 16px">2．大赛前提</span></strong></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px">“三安全”是中国大学生计算机设计大赛的前提，包括政治安全、经济安全和人身安全。政治安全，是指大赛竞赛的内容和竞赛管理，要符合现行的宪法、法律和法规；经济安全，是指所有往来的经费委托承办院校处理，财务必须符合国家的相关制度；人身安全，是指现场决赛期间，务必保证参与者的人身安全。参与者包括参赛选手、指导教师、竞赛评委，以及与大赛相关的志愿者等其他人员。</span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><strong><span style="font-family: 华文仿宋;line-height: 120%;font-size: 16px">3．大赛目标</span></strong></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px"></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px">“三服务”是中国大学生计算机设计大赛的办赛目标和发展愿景，具体包括：</span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">（</span><span style="font-family:华文仿宋">1）为学生就业（含深造）的需要服务。</span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">（</span><span style="font-family:华文仿宋">2）为学生自身专业提升的需要服务。</span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family: 华文仿宋; font-size: 14px;">（</span><span style="font-family: 华文仿宋; font-size: 14px;">3）</span><span style="font-family: 华文仿宋; font-size: 14px;">为把学生培养成德智体美劳全面发展、具有团队合作精神和创新创业人才的需要服</span><span style="font-family: 华文仿宋; font-size: 14px;">务</span><span style="font-family: 华文仿宋; font-size: 14px;">。</span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋"></span>大赛是Al时代大学计算机课程理论教学实践活动的组成部分，是大学阶段计算机技术应用“第一课堂”理论学习之后进行实践的一种形式，是大学生学习的“第二课堂”。大赛旨在激发学生学习计算机知识和技能的兴趣与潜能，提高学生运用信息技术解决实际问题的综合能力、AI工具的使用能力。通过大赛这种应用计算机与Al工具的教学实践形式，可展示师生的教与学成果，最终以赛促学、以赛促教、以赛促产、以赛促创、以赛育人。<span style="font-family:华文仿宋"></span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><strong><span style="font-family: 华文仿宋;line-height: 120%;font-size: 16px">4．大赛性质</span></strong></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family: 华文仿宋; font-size: 14px;">中国大学生计算机设计大赛是非营利的、公益性的、科技型的群众活动。大赛的生命线与遵从的原则是“三公”，即公开、公平、公正。公平、公正是灵魂和基础，公开是公平、公正的保障</span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">。</span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 0px;">中国大学生计算机设计大赛设有章程，操作规范、透明。自2009年开始，每年均公布参赛指南（内容包括大赛通知、大赛章程、大赛组委会、大赛内容与分类、国赛承办单位与管理、参赛要求、奖项设置、违规作品处理、作品评比与评比委员规范、特色作品研讨、获奖作品选登等），以有利于社会的监督和检验。</span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><strong><span style="font-family: 华文仿宋;line-height: 120%;font-size: 16px">5</span></strong><strong><span style="font-family: 华文仿宋;line-height: 120%;font-size: 16px">．大赛对象与竞赛分类</span></strong></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">（</span><span style="font-family:华文仿宋">1）国赛参赛对象，是全国高等院校当年在籍本科生（<span style="font-family:华文仿宋;font-size:14px">含港、澳、台学生及</span><span style="font-family:华文仿宋;font-size:14px">来华</span><span style="font-family:华文仿宋;font-size:14px">留学生</span>）。</span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">（</span><span style="font-family:华文仿宋">2）</span></span><span style="font-size: 14px; font-family: 华文仿宋;"><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">竞赛内容目前分设：</span><span style="font-family:华文仿宋">①</span></span> <span style="font-family:华文仿宋;font-size:14px">软件应用与开发</span><span style="font-family:华文仿宋;font-size:14px">；</span><span style="font-family:华文仿宋;font-size:14px">②</span> <span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">微课与</span>AI辅助教学</span><span style="font-family:华文仿宋;font-size:14px">；</span><span style="font-family:华文仿宋;font-size:14px">③</span> <span style="font-family:华文仿宋;font-size:14px">物联网应用与物联网创新转化（创业实践）</span><span style="font-family:华文仿宋;font-size:14px">；</span><span style="font-family:华文仿宋;font-size:14px">④</span> <span style="font-family:华文仿宋;font-size:14px">大数据应用</span><span style="font-family:华文仿宋;font-size:14px">；</span><span style="font-family:华文仿宋;font-size:14px">⑤人工智能应用</span><span style="font-family:华文仿宋;font-size:14px">；</span><span style="font-family:华文仿宋;font-size:14px">⑥信息可视化设计</span><span style="font-family:华文仿宋;font-size:14px">；</span><span style="font-family:华文仿宋;font-size:14px">⑦</span> <span style="font-family:华文仿宋;font-size:14px">数媒静态设计</span><span style="font-family:华文仿宋;font-size:14px">；</span><span style="font-family:华文仿宋;font-size:14px">⑧</span> <span style="font-family:华文仿宋;font-size:14px">数媒动漫与短片</span><span style="font-family:华文仿宋;font-size:14px">；</span><span style="font-family:华文仿宋;font-size:14px">⑨</span> <span style="font-family:华文仿宋;font-size:14px">数媒游戏与交互设计</span><span style="font-family:华文仿宋;font-size:14px">；</span><span style="font-family:华文仿宋;font-size:14px">⑩计算机音乐创作</span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">；</span><span style="font-family:华文仿宋">⑪</span></span><span style="font-family:华文仿宋;font-size:14px">国际生</span><span style="font-family:华文仿宋;font-size:14px">“汉学”</span><span style="font-family:华文仿宋;font-size:14px">（</span><span style="font-family:华文仿宋;font-size:14px">“中华优秀传统文化”数智创作</span><span style="font-family:华文仿宋;font-size:14px">）</span><span style="font-family:华文仿宋;font-size:14px">。其中，计算机音乐创作类竞赛，是我国境内开设最早的、面向大学生进行计算机音乐创作的国家级赛事</span>。</span><span style="font-family:华文仿宋;font-size:14px"></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px"></span><span style="font-size: 14px; font-family: 华文仿宋;">2026年大赛的⑥至⑪共6个大类的作品主题是“中国古代建筑成就——中华优秀传统文化系列之六”，内容包括民居、官府、皇宫、桥梁（不含庙宇、宝塔），时间限在1911年以前。具体包括：</span><span style="font-family:华文仿宋;font-size:14px"></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-size: 14px; font-family: 华文仿宋;"></span></p><p style="margin-left:56px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:wingdings;font-size:14px">l </span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">中国古代建筑成就</span><span style="font-family:华文仿宋">——弘扬中华优秀自然科学成就。</span></span></p><p style="margin-left:56px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:wingdings;font-size:14px">l </span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">中国古代建筑领域杰出科学家</span><span style="font-family:华文仿宋">——弘扬中华优秀古建筑科学家精神。</span></span></p><p style="margin-left:56px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋"><span style="text-wrap: wrap; font-family: wingdings; font-size: 14px;">l </span><span style="text-wrap: wrap; font-family: 华文仿宋; font-size: 14px;">中国<span style="font-family: 华文仿宋; font-size: 14px; text-wrap: wrap; background-color: rgb(255, 255, 255);">古代建筑著作</span><span style="font-family: 华文仿宋; font-size: 14px; text-wrap: wrap; background-color: rgb(255, 255, 255);">——弘扬中华优秀古建筑学专著</span>。</span></span></span></p><p style="margin-left:56px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:wingdings;font-size:14px">l </span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">中国</span></span><span style="font-family: 华文仿宋; font-size: 14px;">古代建筑文化</span><span style="font-family: 华文仿宋; font-size: 14px;">——弘扬中华优秀古建筑文明和文化传承</span><span style="font-family: 华文仿宋; font-size: 14px;">。</span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><strong><span style="font-family: 华文仿宋;line-height: 120%;font-size: 16px"><strong style="text-indent: 28px; text-wrap: wrap;"><span style="font-family: 华文仿宋; line-height: 19.2px; font-size: 16px;">5</span></strong><strong style="text-indent: 28px; text-wrap: wrap;"><span style="font-family: 华文仿宋; line-height: 19.2px; font-size: 16px;">．大赛</span></strong></span></strong><strong><span style="font-family: 华文仿宋; line-height: 19.2px; font-size: 16px;">特色</span></strong></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-size: 14px; font-family: 华文仿宋;">（1）<span style="font-family: 华文仿宋; font-size: 14px; text-wrap: wrap;">参赛门槛低。赛事基</span><span style="font-family: 华文仿宋; font-size: 14px; text-wrap: wrap;">本内容贴切大学计算机教学基本内容，大一学生就能参赛</span>。</span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-size: 14px; font-family: 华文仿宋;"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">（</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">2）</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-wrap: wrap;">赛项宽泛，11大类，涵盖所有专业的需要，任何专业的学生都能找到适合自身所需要的赛道</span>。</span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-size: 14px; font-family: 华文仿宋;"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">（</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">3）</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-wrap: wrap;">精英汇赛。大赛设有人工智能应用、大数据应用、物联网应用、信息可视化设计、数媒类，以及计算机音乐创作，吸引了80%以上的双一流、原211、原985院校的精英组队参赛。80%以上的本科院校参加了本赛事</span>。</span></span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-size: 14px; font-family: 华文仿宋;"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">（</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">4）</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-wrap: wrap;">数媒、计算机音乐创作、信息可视化设计类赛事，坚持以弘扬中华优秀传统文化的传播为主题</span>。</span></span></span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-size: 14px; font-family: 华文仿宋;"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">（</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">5）</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-wrap: wrap;">国际化视野，设置国际生“汉学”赛道，传播中华优秀传统文化，促进中外文化交流，提高赛事的国际影响力</span>。</span></span></span></span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-size: 14px; font-family: 华文仿宋;"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">（6）</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"></span><span style="font-family: 华文仿宋; font-size: 14px; text-wrap: wrap;">强调团队合作精神，参赛队由2--9人组成</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"></span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">。</span></span></span></span></span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-size: 14px; font-family: 华文仿宋;"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">（7）</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"></span><span style="font-family: 华文仿宋; font-size: 14px; text-wrap: wrap;">AI+计算机+其它专业，形成多元专业知识的深度交叉，有利于创新人才的培养</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"></span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">。</span></span></span></span></span></span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-size: 14px; font-family: 华文仿宋;"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">（8）</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"></span><span style="font-family: 华文仿宋; font-size: 14px; text-wrap: wrap;">突出产学研结合，企业直接参加命题，企业评委参加评审监督</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"></span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">。</span></span></span></span></span></span></span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-size: 14px; font-family: 华文仿宋;"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">（9）</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"></span><span style="font-family: 华文仿宋; font-size: 14px; text-wrap: wrap;">作品评审公平、公正，答辩形式贴近毕业生论文答辩、就业面试，以及教师职称评审的答辩，这对参赛学生、指导教师都具有实用意义</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"></span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">。</span></span></span></span></span></span></span></span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-size: 14px; font-family: 华文仿宋;"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">（10）</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"></span><span style="font-family: 华文仿宋; font-size: 14px; text-wrap: wrap;">特色作品点评，成为师生交流学习的平台。竞赛不只是为了拿奖，还为了互相切磋学习。对不同大类的作品，评审组选出特色作品，由学生与指导教师介绍构思创作过程,评审专家对作品的优点与存在问题进行点评，参与的其他师生可以现场质疑，上下互动，以达到从中互相学习的目的</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"></span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">。</span></span></span></span></span></span></span></span></span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-size: 14px; font-family: 华文仿宋;"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">（11）</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"></span><span style="font-family: 华文仿宋; font-size: 14px; text-wrap: wrap;">奖项保质保量。校级赛以不多于合格作品50%上推给省级赛，省级赛以不多于合格作品20%上推给国赛，国赛在合格作品中，一等奖不多于5%，一等奖与二等奖合计为30%，拿高等级奖项相当不易</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"></span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">。</span></span></span></span></span></span></span></span></span></span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 0px;">参赛院校平均得奖数不少于3个，限额设奖，奖项具有相当的质量和权威性。</span><span style="font-size: 14px; font-family: 华文仿宋;"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><br></span></span></span></span></span></span></span></span></span></span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-size: 14px; font-family: 华文仿宋;"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">（12）</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"></span><span style="font-family: 华文仿宋; font-size: 14px; text-wrap: wrap;">大赛设置各种规定和严格的赛程。从第二届开始，大赛的参赛指南一直由出版社正式出版，以接受社会的监督与检验。这种做法，是国内所有大赛所仅有</span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);"></span><span style="font-family: 华文仿宋; font-size: 14px; text-indent: 28px; text-wrap: wrap; background-color: rgb(255, 255, 255);">。</span></span></span></span></span></span></span></span></span></span></span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><strong><span style="font-family: 华文仿宋;line-height: 120%;font-size: 16px">7</span></strong><strong><span style="font-family: 华文仿宋;line-height: 120%;font-size: 16px">．大赛现况</span></strong><br></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px">（</span><span style="font-family:华文仿宋;font-size:14px">1</span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">）大赛以三级竞赛形式开展，校级赛</span><span style="font-family:华文仿宋">——省级赛——国家级赛。校级赛、省级赛（包括省赛、跨省区域赛和省级联赛）可自行、独立组织。省级赛原则上由各省的计算机学会、省计算机教学研究会、省计算机教指委或省教育厅（市教委）主办。</span></span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px">由省教育厅一级参与或继续主办省级选拔赛的有天津、辽宁、吉林、黑龙江、上海、江苏、安徽、福建、山东、</span><span style="font-family:华文仿宋;font-size:14px">江西、</span><span style="font-family:华文仿宋;font-size:14px">湖南、广东、海南、四川、云南、甘肃、新疆等。</span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family: 华文仿宋; font-size: 14px;">（2）大赛的参赛作品贴近实际，有些直接由企业命题，与社会需要相结合，有利于学生动手能力的提升，有利于创新创业人才的培养。参赛院校逐年增多，由2008年（第1届）的80所院校，发展到2025年（第18届）的1000多所</span><span style="font-family: 华文仿宋; font-size: 14px;">；</span><span style="font-family: 华文仿宋; font-size: 14px;">仅2025年的参赛师生，超过10万。参赛作品质量也逐年提高，有些作品被CCTV采用，有些已商品化。</span><br></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">（</span><span style="font-family:华文仿宋">3）由于秉承公开、公平、公正的原则，大赛在全国已有良好声誉，赛事的影响力也逐年提升。以大赛国赛的参赛院校为例，目前本科院校参赛超过</span></span><span style="font-family:华文仿宋;font-size:14px">八</span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">成，双一流大学院校参赛超过八成；</span>原211院校和原985大学参赛九成左右<span style="font-family:华文仿宋">。</span></span><span style="font-family: 华文仿宋; font-size: 14px;">参赛院校数量稳步增加，赛事发展势头良好。</span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><strong><span style="font-family: 华文仿宋;line-height: 120%;font-size: 16px">7</span></strong><strong><span style="font-family: 华文仿宋;line-height: 120%;font-size: 16px">．结束语</span></strong></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px">中国大学生计算机设计大赛以</span><span style="font-family:华文仿宋;font-size:14px">“</span><span style="font-family:华文仿宋;font-size:14px">三安全</span><span style="font-family:华文仿宋;font-size:14px">”</span><span style="font-family:华文仿宋;font-size:14px">为前提，以</span><span style="font-family:华文仿宋;font-size:14px">“</span><span style="font-family:华文仿宋;font-size:14px">三服务</span><span style="font-family:华文仿宋;font-size:14px">”</span><span style="font-family:华文仿宋;font-size:14px">为目标，以</span><span style="font-family:华文仿宋;font-size:14px">“</span><span style="font-family:华文仿宋;font-size:14px">三公</span><span style="font-family:华文仿宋;font-size:14px">”</span><span style="font-family:华文仿宋;font-size:14px">为原则，从筹备开赛到现在，经过</span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋">近</span><span style="font-family:华文仿宋">20</span></span><span style="font-family:华文仿宋;font-size:14px">年来的共同艰辛努力，得到了参赛师生的理解、支持和信任。</span></p><p style="text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family:华文仿宋;font-size:14px"></span><span style="font-family:华文仿宋;font-size:14px">中国大学生计算机设计大赛当前的目标：在AI+行动的背景下，对标中国国际大学生创新大赛，进一步优化4C，聚焦技能竞争力和创新应用，使4C稳居在中国大学生竞赛的一流梯队。大赛的继续稳步发展，将进一步地使参赛师生受益、使学校受益、使社会受益，更好地服务于国家的战略需要。</span><span style="font-family:华文仿宋;font-size:14px"><span style="font-family:华文仿宋"></span> </span></p><p style="text-align:right;margin-left:28px;text-indent:28px;line-height:120%;background:rgb(255,255,255)"><span style="font-family: 华文仿宋;font-size: 14px"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-family:华文仿宋">（大赛组委会秘书处整理</span> &nbsp; &nbsp;</span><span style="font-family: 华文仿宋;font-size: 14px">202</span><span style="font-size: 14px"><span style="font-family:华文仿宋">5</span></span><span style="font-family: 华文仿宋;font-size: 14px">年</span><span style="font-family: 华文仿宋;font-size: 14px">12</span><span style="font-family: 华文仿宋;font-size: 14px">月</span><span style="font-family: 华文仿宋;font-size: 14px">3</span><span style="font-family: 华文仿宋;font-size: 14px">日）</span></p><p style="background: white; margin: 1em 0px; line-height: 120%; text-indent: 28px; -ms-layout-grid-mode: char;"><span style="font-size: 14px; font-family: 仿宋_gb2312, fangsong_gb2312;"></span></p><p style="text-align: right;"><span style="font-size: 14px; font-family: 仿宋_gb2312, fangsong_gb2312;"><br></span></p><p style="text-align: right;"><span style="font-size: 14px; font-family: 仿宋_gb2312, fangsong_gb2312;">&nbsp;点此购买<a href="https://item.jd.com/14180502.html" target="_blank" title="2023年(第16届)中国大学生计算机设计大赛参赛指南">&nbsp;<span style="font-family: 宋体, SimSun; font-size: 14px; background-color: rgb(255, 255, 255); color: rgb(79, 129, 189);">2026年(第19届)中国大学生计算机设计大赛参赛指南</span></a></span></p><p><br></p></div></div>
+    <span id="vsb_content_1717_u9" name="vsb_content_1717_u9"></span>
+    
+</div>
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="foot fl">
+    <div class="wid1000">
+        <!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+
+
+<div class="foot-left fl">
+<p>版权所有©中国大学生计算机设计大赛组织委员会&nbsp; &nbsp; 网站建设：北京语言大学信息科学学院； 技术支持：北京语言大学信息化办公室</p>
+</div>
+
+   
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

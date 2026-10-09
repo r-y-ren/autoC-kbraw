@@ -1,0 +1,213 @@
+- id: arxiv-2609.03937
+  kind: arxiv
+  name: 'RATL: Learning from Retrieved Residuals for Robust Multivariate Time-Series
+    Forecasting'
+  published: '2026-09-03'
+  urls:
+  - https://arxiv.org/abs/2609.03937
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Retrieval-augmented generation (RAG) complements parametric models with
+    retrieved external evidence. The same idea is attractive for continuous-output
+    regression, but directly reusing retrieved target values is often not robust when
+    samples differ in output level, numerical scale, or local dynamics. Moreover,
+    conventional forecasting pipelines generally use residuals for model optimization
+    and err
+  suggested_fields:
+  - time series forecasting
+  - retrieval augmented generation
+  directions:
+  - 数模与时序预测
+  - 黑客松与数据竞赛
+- id: arxiv-2609.02093
+  kind: arxiv
+  name: Compositional Spectral Prompts for LLM-based Online Time Series Forecasting
+  published: '2026-09-02'
+  urls:
+  - https://arxiv.org/abs/2609.02093
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: To address the sequential and evolving nature of time series, the Online
+    Time Series Forecasting (OTSF) task has been extensively studied in multiple domains.
+    Existing research focuses on adapting to non-stationary environments by employing
+    memory buffer-based retrieval strategies. However, we observe that such frameworks
+    struggle with long-term adaptation and fail to generalize to unseen patterns
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.02068
+  kind: arxiv
+  name: 'DynG-Diff: A State-Aware Dynamic Guidance Diffusion Framework for Probabilistic
+    Time Series Forecasting'
+  published: '2026-09-02'
+  urls:
+  - https://arxiv.org/abs/2609.02068
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Probabilistic multivariate time series (MTS) forecasting is crucial for
+    modeling complex dynamical systems. However, existing diffusion-based methods
+    rely on task-specific conditional paradigms that lack flexibility and struggle
+    with inherent "information heterogeneity"--the significantly varying noise levels
+    and evolutionary patterns across variables. To address this, we propose DynG-Diff,
+    a vari
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.01729
+  kind: arxiv
+  name: 'RecKAN: Kolmogorov-Arnold Networks with a Learnable Recursive Polynomial
+    Basis'
+  published: '2026-09-01'
+  urls:
+  - https://arxiv.org/abs/2609.01729
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Kolmogorov--Arnold Networks (KANs) replace the fixed scalar weights of
+    a standard network with learnable univariate functions on each edge, but existing
+    variants still fix the \emph{basis} that those functions are built from: B-splines,
+    Chebyshev polynomials, wavelets, or Jacobi polynomials, and learn only the combination
+    weights over it. We introduce RecKAN, which instead defines the basis itself'
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.01126
+  kind: arxiv
+  name: When Does Online Adaptation Pay on the Edge? A Leakage-Free Evaluation of
+    Warmup, Learning-Rate Selection, and Resource Trade-offs for Time-Series Forecasting
+  published: '2026-09-01'
+  urls:
+  - https://arxiv.org/abs/2609.01126
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Online adaptation can help edge time-series forecasting under distribution
+    drift, but its measured benefit is sensitive to evaluation choices. We study six
+    public multivariate streams, including building-sensor and smart-meter data, under
+    a leakage-free streaming protocol. We identify two additional sources of comparison
+    bias. First, the warmup budget of the static baseline has a two-sided effect:'
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.04170
+  kind: arxiv
+  name: A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research
+    Swarms
+  published: '2026-09-03'
+  urls:
+  - https://arxiv.org/abs/2609.04170
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Multi-agent AI science ecosystems rely on agents possessing tools that
+    allow them to communicate, coordinate, and build on each other's work. Yet this
+    shared infrastructure can also introduce vulnerabilities by creating a substrate
+    for the contagious spread of unintended and undesirable behaviors. We report a
+    case study on a research collective of 100 autonomous LLM agents tasked with proving
+    form
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 黑客松与数据竞赛
+- id: arxiv-2609.04159
+  kind: arxiv
+  name: 'SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security
+    Operations Center'
+  published: '2026-09-03'
+  urls:
+  - https://arxiv.org/abs/2609.04159
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Large language model (LLM) agents are increasingly proposed as autonomous
+    SOC analysts, but two limitations make them unreliable at enterprise scale: a
+    finite context window cannot hold a multi-thousand-host authentication graph,
+    and free-form generation offers no guarantee that a recommended containment action
+    is consistent with the topology it operates on. We present Sentinel-RL, an agentic-SOC '
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 黑客松与数据竞赛
+- id: arxiv-2609.03923
+  kind: arxiv
+  name: 'Speak for Me: Giving LLMs the Situational Awareness to Participate in a Meeting'
+  published: '2026-09-03'
+  urls:
+  - https://arxiv.org/abs/2609.03923
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: In online meeting delegation, LLM agents fail to recognize when to speak.
+    With no structured way to track stances, coverage, and floor, they miss the moments
+    where they should contribute. Prompt-only delegates stay silent on 51.4% of the
+    absent participant's talking opportunities on the AMI corpus. We present CAPA
+    (Collaborative Agent Predictive Architecture), an architecture for online meeting
+    de
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 黑客松与数据竞赛
+- id: arxiv-2609.03383
+  kind: arxiv
+  name: 'TIGPO: Temporal Instance-Graph Policy Optimization for Long-Horizon LLM Agents'
+  published: '2026-09-03'
+  urls:
+  - https://arxiv.org/abs/2609.03383
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Graph-based policy optimization improves credit assignment for long-horizon
+    LLM agents by organizing rollout trajectories into state-transition graphs. However,
+    existing methods construct graphs independently within each policy update, discarding
+    transitions discovered by earlier policies and limiting advantage estimation to
+    small, batch-local rollout groups. We propose \emph{Temporal Instance-Gra
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 黑客松与数据竞赛
+- id: arxiv-2609.03340
+  kind: arxiv
+  name: 'Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent
+    Memory'
+  published: '2026-09-03'
+  urls:
+  - https://arxiv.org/abs/2609.03340
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Distributed LLM-agent teams can read the latest shared facts and still
+    act on an obsolete plan. A planner may derive an action from requirement $r_3$,
+    another agent may commit $r_4$, and an executor may receive $r_4$ without replacing
+    the plan derived from $r_3$. We call this \emph{stale-plan execution}: state freshness
+    does not establish that the plan authorizing an action remains valid. We intro'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 黑客松与数据竞赛

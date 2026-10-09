@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - 页面未找到</title>
+    <style>
+        :root {
+            --primary-red: #ff0033;
+            --dark-red: #990022;
+            --light-red: #ff3366;
+            --bg-dark: #110011;
+            --bg-light: #220022;
+        }
+        
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Courier New', monospace;
+            background-color: var(--bg-dark);
+            color: white;
+            overflow: hidden;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-image: 
+                radial-gradient(circle at 20% 30%, var(--bg-light) 0%, transparent 50%),
+                radial-gradient(circle at 80% 70%, var(--bg-light) 0%, transparent 50%);
+        }
+        
+        .container {
+            text-align: center;
+            position: relative;
+            z-index: 10;
+            padding: 2rem;
+            border: 1px solid var(--primary-red);
+            border-radius: 5px;
+            background-color: rgba(17, 0, 17, 0.8);
+            box-shadow: 0 0 20px var(--primary-red);
+            max-width: 600px;
+        }
+        
+        h1 {
+            font-size: 5rem;
+            margin: 0;
+            color: var(--primary-red);
+            text-shadow: 0 0 10px var(--light-red);
+            letter-spacing: 5px;
+        }
+        
+        h2 {
+            margin-top: 0;
+            color: var(--light-red);
+            font-weight: normal;
+        }
+        
+        p {
+            margin-bottom: 2rem;
+            line-height: 1.6;
+        }
+        
+        a {
+            color: var(--light-red);
+            text-decoration: none;
+            border: 1px solid var(--light-red);
+            padding: 0.5rem 1rem;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+        }
+        
+        a:hover {
+            background-color: var(--primary-red);
+            color: white;
+            box-shadow: 0 0 10px var(--light-red);
+        }
+        
+        .matrix {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+            opacity: 0.3;
+        }
+        
+        .math-symbols {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            z-index: 2;
+            opacity: 0.1;
+            pointer-events: none;
+        }
+        
+        .equation {
+            color: var(--light-red);
+            font-style: italic;
+            margin: 1rem 0;
+            opacity: 0.7;
+        }
+        
+        .glitch {
+            animation: glitch 1s linear infinite;
+        }
+        
+        @keyframes glitch {
+            0% { text-shadow: 0 0 10px var(--light-red); }
+            25% { text-shadow: -5px 0 10px var(--primary-red); }
+            50% { text-shadow: 5px 0 10px var(--dark-red); }
+            75% { text-shadow: -5px 5px 10px var(--light-red); }
+            100% { text-shadow: 0 0 10px var(--light-red); }
+        }
+        
+        .pulse {
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0% { box-shadow: 0 0 0 0 rgba(255, 0, 51, 0.7); }
+            70% { box-shadow: 0 0 0 15px rgba(255, 0, 51, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(255, 0, 51, 0); }
+        }
+    </style>
+</head>
+<body>
+    <canvas id="matrix" class="matrix"></canvas>
+    <div class="math-symbols" id="mathSymbols"></div>
+    
+    <div class="container pulse">
+        <h1 class="glitch">404</h1>
+        <h2>页面未找到</h2>
+        
+        <div class="equation">
+            ∫(error) dx = 404 | from x=0 to ∞
+        </div>
+        
+        <p>
+            您访问的页面不存在或已被移除。<br>
+            可能是URL输入错误，或者页面已被移至其他位置。
+        </p>
+        
+        <div class="equation">
+            lim<sub>x→404</sub> f(x) = undefined
+        </div>
+        
+        <a href="/">返回首页</a>
+    </div>
+
+    <script>
+        // Matrix rain effect
+        const canvas = document.getElementById('matrix');
+        const ctx = canvas.getContext('2d');
+        
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+        
+        const katakana = 'アァカサタナハマヤャラワガザダバパイィキシチニヒミリヰギジヂビピウゥクスツヌフムユュルグズブヅプエェケセテネヘメレヱゲゼデベペオォコソトノホモヨョロヲゴゾドボポヴッン';
+        const latin = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+        const nums = '0123456789';
+        const mathSymbols = '∀∁∂∃∄∅∆∇∈∉∊∋∌∍∎∏∐∑−∓∔∕∖∗∘∙√∛∜∝∞∟∠∡∢∣∤∥∦∧∨∩∪∫∬∭∮∯∰∱∲∳∴∵∶∷∸∹∺∻∼∽∾∿≀≁≂≃≄≅≆≇≈≉≊≋≌≍≎≏≐≑≒≓≔≕≖≗≘≙≚≛≜≝≞≟≠≡≢≣≤≥≦≧≨≩≪≫≬≭≮≯≰≱≲≳≴≵≶≷≸≹≺≻≼≽≾≿⊀⊁⊂⊃⊄⊅⊆⊇⊈⊉⊊⊋⊌⊍⊎⊏⊐⊑⊒⊓⊔⊕⊖⊗⊘⊙⊚⊛⊜⊝⊞⊟⊠⊡⊢⊣⊤⊥⊦⊧⊨⊩⊪⊫⊬⊭⊮⊯⊰⊱⊲⊳⊴⊵⊶⊷⊸⊹⊺⊻⊼⊽⊾⊿⋀⋁⋂⋃⋄⋅⋆⋇⋈⋉⋊⋋⋌⋍⋎⋏⋐⋑⋒⋓⋔⋕⋖⋗⋘⋙⋚⋛⋜⋝⋞⋟⋠⋡⋢⋣⋤⋥⋦⋧⋨⋩⋪⋫⋬⋭⋮⋯⋰⋱⋲⋳⋴⋵⋶⋷⋸⋹⋺⋻⋼⋽⋾⋿';
+        
+        const alphabet = katakana + latin + nums + mathSymbols;
+        
+        const fontSize = 16;
+        const columns = canvas.width / fontSize;
+        
+        const rainDrops = [];
+        
+        for (let x = 0; x < columns; x++) {
+            rainDrops[x] = 1;
+        }
+        
+        const draw = () => {
+            ctx.fillStyle = 'rgba(17, 0, 17, 0.05)';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+            
+            ctx.fillStyle = '#ff0033';
+            ctx.font = fontSize + 'px monospace';
+            
+            for (let i = 0; i < rainDrops.length; i++) {
+                const text = alphabet.charAt(Math.floor(Math.random() * alphabet.length));
+                ctx.fillText(text, i * fontSize, rainDrops[i] * fontSize);
+                
+                if (rainDrops[i] * fontSize > canvas.height && Math.random() > 0.975) {
+                    rainDrops[i] = 0;
+                }
+                rainDrops[i]++;
+            }
+        };
+        
+        setInterval(draw, 30);
+        
+        // Math symbols floating in background
+        const mathContainer = document.getElementById('mathSymbols');
+        const symbols = mathSymbols.split('');
+        
+        for (let i = 0; i < 50; i++) {
+            const symbol = document.createElement('div');
+            symbol.textContent = symbols[Math.floor(Math.random() * symbols.length)];
+            symbol.style.position = 'absolute';
+            symbol.style.left = Math.random() * 100 + '%';
+            symbol.style.top = Math.random() * 100 + '%';
+            symbol.style.fontSize = (Math.random() * 20 + 10) + 'px';
+            symbol.style.color = `rgba(255, ${Math.floor(Math.random() * 100)}, ${Math.floor(Math.random() * 100)}, ${Math.random() * 0.3 + 0.1})`;
+            symbol.style.transform = `rotate(${Math.random() * 360}deg)`;
+            symbol.style.animation = `float ${Math.random() * 10 + 5}s infinite alternate`;
+            
+            mathContainer.appendChild(symbol);
+        }
+        
+        // Resize canvas when window is resized
+        window.addEventListener('resize', () => {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+        });
+    </script>
+</body>
+</html>

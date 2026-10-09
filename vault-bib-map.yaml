@@ -1,0 +1,2924 @@
+2024FoesFriendsEmbracing:
+  title: 'Foes or Friends: Embracing Ground Effect for Edge Detection on Lightweight
+    Drones.'
+  venue: Proceedings of the 30th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2024'
+alam2024JointTrajectoryControl:
+  title: 'Joint Trajectory Control, Frequency Allocation, and Routing for UAV Swarm
+    Networks: A Multi-Agent Deep Reinforcement Learning Approach'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3403890
+alkouz2022InflightEnergydrivenComposition:
+  title: In-Flight Energy-Driven Composition of Drone Swarm Services
+  venue: IEEE Transactions on Services Computing
+  year: '2022'
+  doi: 10.1109/TSC.2022.3203033
+bai2024DelayAwareCooperativeTask:
+  title: Delay-Aware Cooperative Task Offloading for Multi-UAV Enabled Edge-Cloud
+    Computing
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2022.3232375
+cao2025ProximalCooperativeAerial:
+  title: Proximal Cooperative Aerial Manipulation with Vertically Stacked Drones
+  venue: Nature
+  year: '2025'
+  doi: 10.1038/s41586-025-09575-x
+chang2024NearoptimalUAVDeployment:
+  title: Near-Optimal UAV Deployment for Delay-Bounded Data Collection in IoT Networks
+  venue: IEEE INFOCOM 2024 - IEEE Conference on Computer Communications
+  year: '2024'
+  doi: 10.1109/INFOCOM52122.2024.10621135
+chen2024AdaptiveBitrateVideo:
+  title: Adaptive Bitrate Video Caching in UAV-Assisted MEC Networks Based on Distributionally
+    Robust Optimization
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3304624
+chen2025EnergyefficientOvertheairComputation:
+  title: Energy-Efficient over-the-Air Computation in UAV-assisted IIoT Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3556382
+chen2025JointTrajectoryOptimization:
+  title: 'Joint Trajectory Optimization and Resource Allocation in UAV-MEC Systems:
+    A Lyapunov-Assisted DRL Approach'
+  venue: IEEE Transactions on Services Computing
+  year: '2025'
+  doi: 10.1109/TSC.2025.3544124
+chen2025MultiuserTaskOffloading:
+  title: 'Multi-User Task Offloading in UAV-assisted LEO Satellite Edge Computing:
+    A Game-Theoretic Approach'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3465591
+chen2025TaskOffloadingResource:
+  title: Task Offloading and Resource Pricing Based on Game Theory in UAV-assisted
+    Edge Computing
+  venue: IEEE Transactions on Services Computing
+  year: '2025'
+  doi: 10.1109/TSC.2024.3512936
+chen2025TypeFlyLowlatencyDrone:
+  title: 'TypeFly: Low-latency Drone Planning with Large Language Models'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3561282
+cong2024ParallEdgeExploitingComputingMobility:
+  title: 'ParallEdge: Exploiting Computing-Mobility Parallelism for Efficient 5G/6G
+    Edge Computing'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3284217
+cui2024DataValueBased:
+  title: The Data Value Based Asynchronous Federated Learning for UAV Swarm Under
+    Unstable Communication Scenarios
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3331906
+dabiri2025NovelMRRUAVbasedRelay:
+  title: 'A Novel MRR-UAV-based Relay with Optical Network Coding: A Comparative Study
+    with Optical IRS and Conventional UAV Relaying'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2025'
+  doi: 10.1109/JSAC.2025.3543516
+dai2024UAVAssistedTaskOffloading:
+  title: UAV-Assisted Task Offloading in Vehicular Edge Computing Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3259394
+dou2025SchedulingDroneMobile:
+  title: Scheduling Drone and Mobile Charger via Hybrid-Action Deep Reinforcement
+    Learning
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3551386
+fu2022Energyefficient3DData:
+  title: Energy-Efficient 3D Data Collection for Multi-UAV Assisted Mobile Crowdsensing
+  venue: IEEE Transactions on Computers
+  year: '2022'
+  doi: 10.1109/TC.2022.3227869
+gao2024ServiceExperienceOriented:
+  title: Service Experience Oriented Cooperative Computing in Cache-Enabled UAVs Assisted
+    MEC Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3366944
+gao2025CSMAACMultiagentReinforcement:
+  title: 'CSMAAC: Multi-agent Reinforcement Learning Based Flight Control in Partially
+    Observable Multi-UAV Assisted Crowd Sensing Systems'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3586429
+gao2025ImprovingUserQoE:
+  title: Improving User QoE via Joint Trajectory and Resource Optimization in Multi-UAV
+    Assisted MEC
+  venue: IEEE Transactions on Services Computing
+  year: '2025'
+  doi: 10.1109/TSC.2025.3568283
+gao2025TransferLearningJoint:
+  title: Transfer Learning for Joint Trajectory Control and Task Offloading in Large-Scale
+    Partially Observable UAV-assisted MEC
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3579748
+gaydamaka2024DynamicTopologyOrganization:
+  title: Dynamic Topology Organization and Maintenance Algorithms for Autonomous UAV
+    Swarms
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3293034
+gong2024Energyefficient3DUAV:
+  title: Energy-Efficient 3-D UAV Ground Node Accessing Using the Minimum Number of
+    UAVs
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3405494
+gong2025JointlyOptimizingEnergy:
+  title: Jointly Optimizing the Energy and Time for Multi-UAV 3-D Coverage of Terrestrial
+    Regions
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3568788
+gui2024CoverageProbabilityThroughput:
+  title: Coverage Probability and Throughput Optimization in Integrated mmWave and
+    Sub-6 GHz Multi-UAV-assisted Disaster Relief Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3386550
+guo2024JointOptimizationTrajectory:
+  title: Joint Optimization of Trajectory and Jamming Power for Multiple UAV-Aided
+    Proactive Eavesdropping
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3311484
+guo2025JointTrajectoryPlanning:
+  title: 'Joint Trajectory Planning and Task Offloading in UAV-Assisted Inspection
+    Networks: A Transformer-Based Approach'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3636717
+guo2025MightyLongrangeHighthroughput:
+  title: 'Mighty: Towards Long-Range and High-Throughput Backscatter for Drones'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3486993
+han2024CollaborativeRoutePlanning:
+  title: Collaborative Route Planning of UAVs, Workers, and Cars for Crowdsensing
+    in Disaster Response
+  venue: IEEE/ACM Transactions on Networking
+  year: '2024'
+  doi: 10.1109/TNET.2024.3395493
+han2024JointAssociationDeployment:
+  title: Joint Association, Deployment and Flight Trajectory Optimization for Multi-UAV-enabled
+    Large-Scale Mobile Edge Computing
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3426945
+hao2024JointTaskOffloading:
+  title: Joint Task Offloading, Resource Allocation, and Trajectory Design for Multi-UAV
+    Cooperative Edge Computing with Task Priority
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3350078
+hao2025ReliabilityawareOptimizationTask:
+  title: Reliability-Aware Optimization of Task Offloading for UAV-assisted Edge Computing
+  venue: IEEE Transactions on Computers
+  year: '2025'
+  doi: 10.1109/TC.2025.3604463
+he2024BalancingTotalEnergy:
+  title: Balancing Total Energy Consumption and Mean Makespan in Data Offloading for
+    Space-Air-Ground Integrated Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2022.3222848
+hoang2024FiniteBlockLength:
+  title: 'Finite Block Length NOMA MU Pairing UAV-enable System: Performance Analysis
+    and Optimization'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3368159
+hoang2025Adaptive3DPlacementa:
+  title: Adaptive 3D Placement of Multiple UAV-mounted Base Stations in 6G Airborne
+    Small Cells with Deep Reinforcement Learning
+  year: '2025'
+  doi: 10.36227/techrxiv.174235547.72508683/v1
+hou2025AgeInformationawareMultiobjective:
+  title: Age of Information-Aware Multi-Objective Optimization for Heterogeneous UAV-USV-UUV
+    Networks in Underwater Target Hunting
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3581836
+huang2024DynamicTaskOffloading:
+  title: 'Dynamic Task Offloading for Multi-UAVs in Vehicular Edge Computing with
+    Delay Guarantees: A Consensus ADMM-based Optimization'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3437785
+huang2025ASSUMEOptimalAlgorithm:
+  title: 'ASSUME: An Optimal Algorithm to Minimize UAV Energy by Altitude and Speed
+    Scheduling'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3581929
+huang2025FastUAVTrajectory:
+  title: A Fast UAV Trajectory Planning Framework in RIS-assisted Communication Systems
+    with Accelerated Learning via Multithreading and Federating
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3544903
+huang2025LI2NewLearningbased:
+  title: 'LI2: A New Learning-Based Approach to Timely Monitoring of Points-of-Interest
+    with UAV'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3461708
+ji2024DecoupledAssociationRate:
+  title: Decoupled Association With Rate Splitting Multiple Access in UAV-Assisted
+    Cellular Networks Using Multi-Agent Deep Reinforcement Learning
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3256404
+jia2024EnergyTimeTradeoff:
+  title: Energy and Time Trade-off Optimization for Multi-UAV Enabled Data Collection
+    of IoT Devices
+  venue: IEEE/ACM Transactions on Networking
+  year: '2024'
+  doi: 10.1109/TNET.2024.3450489
+jia2025DistributionallyRobustOptimization:
+  title: Distributionally Robust Optimization for Aerial Multi-Access Edge Computing
+    via Cooperation of UAVs and HAPs
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3571023
+jin2025ResourceefficientContentSharing:
+  title: A Resource-Efficient Content Sharing Mechanism in Large-Scale UAV Named Data
+    Networking
+  venue: IEEE Transactions on Networking
+  year: '2025'
+  doi: 10.1109/TNET.2024.3474888
+kang2024AutonomousMultidroneRacing:
+  title: Autonomous Multi-Drone Racing Method Based on Deep Reinforcement Learning
+  venue: Science China Information Sciences
+  year: '2024'
+  doi: 10.1007/s11432-023-4029-9
+karmakar2024BlockchainBasedDistributedIntelligent:
+  title: A Blockchain-Based Distributed and Intelligent Clustering-Enabled Authentication
+    Protocol for UAV Swarms
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3319544
+karmakar2024NovelFederatedLearningBased:
+  title: A Novel Federated Learning-Based Smart Power and 3D Trajectory Control for
+    Fairness Optimization in Secure UAV-Assisted MEC Services
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3298935
+karmakar2024PUFFuzzyExtractorBased:
+  title: A PUF and Fuzzy Extractor-Based UAV-Ground Station and UAV-UAV Authentication
+    Mechanism With Intelligent Adaptation of Secure Sessions
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3284216
+kharjana2025SecuringAutonomousUAV:
+  title: Securing Autonomous UAV Cluster with Blockchain-Based Threshold Key Management
+    System Utilizing Crypto-Asset and Multisignature
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3538462
+khochare2024ImprovedAlgorithmsCoScheduling:
+  title: Improved Algorithms for Co-Scheduling of Edge Analytics and Routes for UAV
+    Fleet Missions
+  venue: IEEE/ACM Transactions on Networking
+  year: '2024'
+  doi: 10.1109/TNET.2023.3277810
+kumar2025DroneassistedIRSSystem:
+  title: 'Drone-Assisted IRS System in 5G and beyond: Improving Reliability and Enhancing
+    the Network Life Span'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3556043
+kumari2025MaximizingServiceProviders:
+  title: Maximizing Service Provider's Profit in Multi-UAV 5G Network via Deep Reinforcement
+    Learning and Graph Coloring
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3571804
+lam20256DSelflocalizationDrones:
+  title: 6D Self-Localization of Drones Using a Single Millimeter-Wave Backscatter
+    Anchor
+  venue: IEEE INFOCOM 2025 - IEEE Conference on Computer Communications
+  year: '2025'
+  doi: 10.1109/INFOCOM55648.2025.11044655
+lee2025AdaptiveStabilizationControl:
+  title: Adaptive Stabilization Control by Deep Reinforcement Learning for Hovering
+    Drone Surveillance
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3548421
+lei2025EdgeInformationHub:
+  title: 'Edge Information Hub: Orchestrating Satellites, UAVs, MEC, Sensing and Communications
+    for 6G Closed-Loop Controls'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2025'
+  doi: 10.1109/JSAC.2024.3460053
+li2024CoDetectCooperativeAnomaly:
+  title: 'CoDetect: Cooperative Anomaly Detection with Privacy Protection towards
+    UAV Swarm'
+  venue: Science China Information Sciences
+  year: '2024'
+  doi: 10.1007/s11432-023-3984-7
+li2024MaximizingNetworkThroughput:
+  title: Maximizing Network Throughput in Heterogeneous UAV Networks
+  venue: IEEE/ACM Transactions on Networking
+  year: '2024'
+  doi: 10.1109/TNET.2023.3347557
+li2024MultiObjectiveOptimizationUAV:
+  title: Multi-Objective Optimization for UAV Swarm-Assisted IoT With Virtual Antenna
+    Arrays
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3298888
+li2024OpticsdrivenDrone:
+  title: Optics-Driven Drone
+  venue: Science China Information Sciences
+  year: '2024'
+  doi: 10.1007/s11432-023-3917-2
+li2024SecureOffloadingAdversarial:
+  title: Secure Offloading with Adversarial Multi-Agent Reinforcement Learning against
+    Intelligent Eavesdroppers in UAV-enabled Mobile Edge Computing
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3439016
+li2025AnchorNovelModeling:
+  title: 'Anchor: A Novel Modeling Methodology for Cooperative UAV-MEC Based on Stochastic
+    Geometry'
+  venue: IEEE INFOCOM 2025 - IEEE Conference on Computer Communications
+  year: '2025'
+  doi: 10.1109/INFOCOM55648.2025.11044603
+li2025CooperativeNonorthogonalMultiple:
+  title: Cooperative Non-Orthogonal Multiple Access with Index Modulation for Air-Ground
+    Multi-UAV Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2025'
+  doi: 10.1109/JSAC.2024.3460050
+li2025DroneMADroneMobility:
+  title: 'DroneMA: Drone Mobility Alignment Countering AI-based Spoofing Attacks'
+  venue: IEEE INFOCOM 2025 - IEEE Conference on Computer Communications
+  year: '2025'
+  doi: 10.1109/INFOCOM55648.2025.11044631
+li2025DynamicRoutingMechanism:
+  title: Dynamic Routing Mechanism for Load Distribution in UAV Swarm Networks with
+    Edge Caching
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3589569
+li2025ExploringRobustnessHierarchical:
+  title: 'Exploring the Robustness: Hierarchical Federated Learning Framework for
+    Object Detection of UAV Cluster'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3562812
+li2025FederatedMetalearningBased:
+  title: Federated Meta-Learning Based Computation Offloading Approach with Energy-Delay
+    Tradeoffs in UAV-assisted VEC
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3573278
+li2025TamingEventCameras:
+  title: 'Taming Event Cameras with Bio-Inspired Architecture and Algorithm: A Case
+    for Drone Obstacle Avoidance'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3521044
+li2025UAVassistedMicroserviceMobile:
+  title: 'UAV-assisted Microservice Mobile Edge Computing Architecture: Addressing
+    Post-Disaster Emergency Medical Rescue'
+  venue: IEEE Transactions on Computers
+  year: '2025'
+  doi: 10.1109/TC.2025.3566913
+liao2023UAVSwarmFormation:
+  title: UAV Swarm Formation Reconfiguration Control Based on Variable-Stepsize MPC-APCMPIO
+    Algorithm
+  venue: Science China Information Sciences
+  year: '2023'
+  doi: 10.1007/s11432-022-3735-5
+liau2025LaserpoweredUAVTrajectory:
+  title: Laser-Powered UAV Trajectory and Charging Optimization for Sustainable Data-Gathering
+    in the Internet of Things
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3523281
+liu2024SpaceAirGroundIntegratedNetworks:
+  title: 'Space-Air-Ground Integrated Networks: Spherical Stochastic Geometry-Based
+    Uplink Connectivity Analysis'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2024'
+  doi: 10.1109/JSAC.2024.3365891
+liu2024UAVenabledCollaborativeBeamforming:
+  title: UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement
+    Learning
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3419915
+liu2025DelaysensitiveGoodsDelivery:
+  title: Delay-Sensitive Goods Delivery and in-Situ Sensing Using a Multi-Task Drone
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3570437
+liu2025HybridOptimizationFramework:
+  title: A Hybrid Optimization Framework for Age of Information Minimization in UAV-assisted
+    MCS
+  venue: IEEE Transactions on Services Computing
+  year: '2025'
+  doi: 10.1109/TSC.2025.3528339
+liu2025MultiUAVassistedMECInternet:
+  title: Multi-UAV-assisted MEC in Internet of Vehicles with Combined Multi-Modal
+    Semantic Communication under Jamming Attacks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3550965
+liu2025ResourceAllocationAdaptive:
+  title: Resource Allocation for Adaptive Beam Alignment in UAV-assisted Integrated
+    Sensing and Communication Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2025'
+  doi: 10.1109/JSAC.2024.3492699
+liu2025RobustTopologyRecovery:
+  title: On the Robust Topology Recovery of UAV Swarm for Detection and Localization
+    of Electronic Signals
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3586447
+mao2025UAVassistedCommunicationsSAGINISAC:
+  title: 'UAV-assisted Communications in SAGIN-ISAC: Mobile User Tracking and Robust
+    Beamforming'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2025'
+  doi: 10.1109/JSAC.2024.3460065
+matar2025JointOptimizationUser:
+  title: Joint Optimization of User Association, Power Control, and Dynamic Spectrum
+    Sharing for Integrated Aerial-Terrestrial Network
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2025'
+  doi: 10.1109/JSAC.2024.3460034
+mittal2024DeploymentCostawareUAV:
+  title: Deployment Cost-Aware UAV and BS Collaboration in Cell-Free Integrated Aerial-Terrestrial
+    Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3341809
+nabi2025JointOffloadingDecision:
+  title: 'Joint Offloading Decision, User Association, and Resource Allocation in
+    Hierarchical Aerial Computing: Collaboration of UAVs and HAP'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3548668
+nelson2024RLBasedEnergyEfficientData:
+  title: RL-Based Energy-Efficient Data Transmission Over Hybrid BLE/LTE/Wi-Fi/LoRa
+    UAV-Assisted Wireless Network
+  venue: IEEE/ACM Transactions on Networking
+  year: '2024'
+  doi: 10.1109/TNET.2023.3332296
+nguyen2024DilemmaReliabilitySecurity:
+  title: On the Dilemma of Reliability or Security in Unmanned Aerial Vehicle Communications
+    Assisted by Energy Harvesting Relaying
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2024'
+  doi: 10.1109/JSAC.2023.3322756
+ning2024MultiAgentDeepReinforcement:
+  title: Multi-Agent Deep Reinforcement Learning Based UAV Trajectory Optimization
+    for Differentiated Services
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3312276
+ning2025JointOptimizationData:
+  title: Joint Optimization of Data Acquisition and Trajectory Planning for UAV-assisted
+    Wireless Powered Internet of Things
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3470831
+pan2025CooperativeUAVmountedRISsassisted:
+  title: Cooperative UAV-mounted RISs-assisted Energy-Efficient Communications
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3579597
+panahi2024ReliableEnergyEfficientUAV:
+  title: 'Reliable and Energy-Efficient UAV Communications: A Cost-Aware Perspective'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3284531
+premachandra2024GANBasedAudio:
+  title: GAN Based Audio Noise Suppression for Victim Detection at Disaster Sites
+    with UAV
+  venue: IEEE Transactions on Services Computing
+  year: '2024'
+  doi: 10.1109/TSC.2023.3338488
+qian2024PathPlanningAlgorithm:
+  title: A Path Planning Algorithm for a Crop Monitoring Fixed-Wing Unmanned Aerial
+    System
+  venue: Science China Information Sciences
+  year: '2024'
+  doi: 10.1007/s11432-023-4087-4
+qin2022MultiagentReinforcementLearning:
+  title: Multi-Agent Reinforcement Learning Aided Computation Offloading in Aerial
+    Computing for the Internet-of-Things
+  venue: IEEE Transactions on Services Computing
+  year: '2022'
+  doi: 10.1109/TSC.2022.3190562
+qin2025MultiagentReinforcementLearning:
+  title: 'Multi-Agent Reinforcement Learning in Adversarial Game Environments: Personalized
+    Anti-Interference Strategies for Heterogeneous UAV Communication'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3559123
+qiu2024IntegratedHostContentCentric:
+  title: Integrated Host- and Content-Centric Routing for Efficient and Scalable Networking
+    of UAV Swarm
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3267451
+ren2024IntelligentAdaptiveGossipBased:
+  title: Intelligent Adaptive Gossip-Based Broadcast Protocol for UAV-MEC Using Multi-Agent
+    Deep Reinforcement Learning
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3323296
+ren2025AeroEchoAgriculturalLowpower:
+  title: 'AeroEcho: Towards Agricultural Low-Power Wide-Area Backscatter with Aerial
+    Excitation Source'
+  venue: IEEE INFOCOM 2025 - IEEE Conference on Computer Communications
+  year: '2025'
+  doi: 10.1109/INFOCOM55648.2025.11044614
+rizvi2025MonitoringInterdroneService:
+  title: Monitoring Inter-Drone Service Interference for Resilient Operations
+  venue: IEEE Transactions on Services Computing
+  year: '2025'
+  doi: 10.1109/TSC.2025.3568245
+roy2025ServHUServiceHandoff:
+  title: 'Serv-HU: Service Hand-off for UAV-as-a-service'
+  venue: IEEE Transactions on Services Computing
+  year: '2025'
+  doi: 10.1109/TSC.2024.3521684
+seth2024AeroBridgeAutonomousDrone:
+  title: 'AeroBridge: Autonomous Drone Handoff System for Emergency Battery Service'
+  venue: Proceedings of the 30th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2024'
+  doi: 10.1145/3636534.3649382
+shao2024DeepReinforcementLearningbased:
+  title: Deep Reinforcement Learning-Based Resource Management for UAV-assisted Mobile
+    Edge Computing against Jamming
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3432491
+shen2024SlicingBasedTaskOffloading:
+  title: Slicing-Based Task Offloading in Space-Air-Ground Integrated Vehicular Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3283852
+shi2024TwoStageStrategyUAVenabled:
+  title: A Two-Stage Strategy for UAV-enabled Wireless Power Transfer in Unknown Environments
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3240763
+shi2025SymmetryinformedMARLDecentralized:
+  title: 'Symmetry-Informed MARL: A Decentralized and Cooperative UAV Swarm Control
+    Approach for Communication Coverage'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3553285
+singh2024StableMatchingBased:
+  title: Stable Matching Based Revenue Maximization for Federated Learning in UAV-assisted
+    WBANs
+  venue: IEEE Transactions on Services Computing
+  year: '2024'
+  doi: 10.1109/TSC.2024.3360692
+song2024AoIEnergyTradeoff:
+  title: 'AoI and Energy Tradeoff for Aerial-Ground Collaborative MEC: A Multi-Objective
+    Learning Approach'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3394568
+song2024EnergyefficientTrajectoryOptimization:
+  title: Energy-Efficient Trajectory Optimization with Wireless Charging in UAV-assisted
+    MEC Based on Multi-Objective Reinforcement Learning
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3384405
+song2024MethodsAssignUAVs:
+  title: Methods to Assign UAVs for K-Coverage and Recharging in IoT Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3259461
+soorki2025CatchMeIf:
+  title: 'Catch Me If You Can: Deep Meta-RL for Search-and-Rescue Using LoRa UAV Networks'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3468382
+sun2024AllskyAutonomousComputing:
+  title: All-Sky Autonomous Computing in UAV Swarm
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3427420
+sun2024MultiobjectiveOptimizationMultiUAVassisted:
+  title: Multi-Objective Optimization for Multi-UAV-assisted Mobile Edge Computing
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3446819
+sun2024UAVEnabledSecureCommunications:
+  title: UAV-Enabled Secure Communications via Collaborative Beamforming With Imperfect
+    Eavesdropper Information
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3273293
+sun2025AerialReliableCollaborative:
+  title: Aerial Reliable Collaborative Communications for Terrestrial Mobile Users
+    via Evolutionary Multi-Objective Deep Reinforcement Learning
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3536093
+sun2025J$textC^5$aServiceDelay:
+  title: 'J$textbackslash texttextbraceleftCtextbracerighttextasciicircumtextbraceleft
+    5textbraceright$a: Service Delay Minimization for Aerial MEC-assisted Industrial
+    Cyber-Physical Systems'
+  venue: IEEE Transactions on Services Computing
+  year: '2025'
+  doi: 10.1109/TSC.2025.3592419
+sun2025TJCCTTwotimescaleApproach:
+  title: 'TJCCT: A Two-Timescale Approach for UAV-assisted Mobile Edge Computing'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3505155
+tang2025DeepGraphReinforcement:
+  title: Deep Graph Reinforcement Learning for UAV-enabled Multi-User Secure Communications
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3558790
+tao2024MultiagentCooperationComputing:
+  title: Multi-Agent Cooperation for Computing Power Scheduling in UAVs Empowered
+    Aerial Computing Systems
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2024'
+  doi: 10.1109/JSAC.2024.3459035
+tian2024UAVAssistedWirelessCooperative:
+  title: 'UAV-Assisted Wireless Cooperative Communication and Coded Caching: A Multiagent
+    Two-Timescale DRL Approach'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3298641
+tlili2023NewHybridAdaptive:
+  title: A New Hybrid Adaptive Deep Learning-Based Framework for UAVs Faults and Attacks
+    Detection
+  venue: IEEE Transactions on Services Computing
+  year: '2023'
+  doi: 10.1109/TSC.2023.3311045
+tong2023EnergyefficientUAVNOMAAided:
+  title: Energy-Efficient UAV-NOMA Aided Wireless Coverage with Massive Connections
+  venue: Science China Information Sciences
+  year: '2023'
+  doi: 10.1007/s11432-023-3821-3
+trinh2025OpticalRISsImprove:
+  title: Optical RISs Improve the Secret Key Rate of Free-Space QKD in HAP-to-UAV
+    Scenarios
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2025'
+  doi: 10.1109/JSAC.2025.3568050
+tun2025JointUAVDeployment:
+  title: Joint UAV Deployment and Resource Allocation in THz-assisted MEC-enabled
+    Integrated Space-Air-Ground Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3516655
+wan2025MultimodalScaleNormalization:
+  title: A Multimodal Scale Normalization Framework for Vision-Radar Small UAV Positioning
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3549620
+wang2024Adaptive3DReconstruction:
+  title: An Adaptive 3D Reconstruction Method for Asymmetric Dual-Angle Multispectral
+    Stereo Imaging System on UAV Platform
+  venue: Science China Information Sciences
+  year: '2024'
+  doi: 10.1007/s11432-024-4056-8
+wang2024BiobjectiveAntColony:
+  title: Bi-Objective Ant Colony Optimization for Trajectory Planning and Task Offloading
+    in UAV-assisted MEC Systems
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3408603
+wang2024DecentralizedNavigationHeterogeneous:
+  title: Decentralized Navigation with Heterogeneous Federated Reinforcement Learning
+    for UAV-enabled Mobile Edge Computing
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3439696
+wang2024EnsuringThresholdAoI:
+  title: Ensuring Threshold AoI for UAV-Assisted Mobile Crowdsensing by Multi-Agent
+    Deep Reinforcement Learning With Transformer
+  venue: IEEE/ACM Transactions on Networking
+  year: '2024'
+  doi: 10.1109/TNET.2023.3289172
+wang2024LSPSSConstructingLightweight:
+  title: 'LSPSS: Constructing Lightweight and Secure Scheme for Private Data Storage
+    and Sharing in Aerial Computing'
+  venue: IEEE Transactions on Services Computing
+  year: '2024'
+  doi: 10.1109/TSC.2023.3333347
+wang2024ResourceAllocationBlockchain:
+  title: 'Resource Allocation in Blockchain Integration of UAV-enabled MEC Networks:
+    A Stackelberg Differential Game Approach'
+  venue: IEEE Transactions on Services Computing
+  year: '2024'
+  doi: 10.1109/TSC.2024.3418330
+wang2024UAVassistedTargetTracking:
+  title: UAV-assisted Target Tracking and Computation Offloading in USV-based MEC
+    Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3396121
+wang2024UAVAssistedTruthDiscovery:
+  title: A UAV-Assisted Truth Discovery Approach With Incentive Mechanism Design in
+    Mobile Crowd Sensing
+  venue: IEEE/ACM Transactions on Networking
+  year: '2024'
+  doi: 10.1109/TNET.2023.3331059
+wang2024WirelessPoweredMetaverse:
+  title: 'Wireless Powered Metaverse: Joint Task Scheduling and Trajectory Design
+    for Multi-Devices and Multi-UAVs'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2024'
+  doi: 10.1109/JSAC.2023.3345433
+wang2025JointOptimizationBeamforming:
+  title: Joint Optimization of Beamforming and Trajectory for UAV-RIS-assisted MU-MISO
+    Systems Using GNN and SD3
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3563072
+wang2025JointPositioningComputation:
+  title: 'Joint Positioning and Computation Offloading in Multi-UAV MEC for Low Latency
+    Applications: A Proximal Policy Optimization Approach'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3562806
+wang2025JointTaskOffloading:
+  title: Joint Task Offloading and Migration Optimization in UAV-enabled Dynamic MEC
+    Networks
+  venue: IEEE Transactions on Services Computing
+  year: '2025'
+  doi: 10.1109/TSC.2025.3576644
+wang2025OptimizingJointSpeed:
+  title: Optimizing Joint Speed and Altitude Schedule for UAV Data Collection in Low-Altitude
+    Airspace
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3591698
+wang2025PracticalOptimizingUAV:
+  title: 'Practical Optimizing UAV Trajectory in Wireless Charging Networks: An Approximated
+    Approach'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3586457
+wang2025SecureBeamformingDeployment:
+  title: Secure Beamforming and Deployment Design for Rate-Splitting Multiple Access-Based
+    UAV Communications
+  venue: Science China Information Sciences
+  year: '2025'
+  doi: 10.1007/s11432-024-4224-6
+wang2025SmartShieldPrevent:
+  title: 'Smart Shield: Prevent Aerial Eavesdropping via Cooperative Intelligent Jamming
+    Based on Multi-Agent Reinforcement Learning'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3505206
+wang2025STARRISAidedCovert:
+  title: STAR-RIS Aided Covert Communication in UAV Air-Ground Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2025'
+  doi: 10.1109/JSAC.2024.3460079
+wei2024HierarchicalNetworkSlicing:
+  title: Hierarchical Network Slicing for UAV-assisted Wireless Networks with Deployment
+    Optimization
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2024'
+  doi: 10.1109/JSAC.2024.3459055
+wu2024BeamformingPredictionBased:
+  title: Beamforming Prediction Based on the Multireward DQN Framework for UAV-RIS-assisted
+    THz Communication Systems
+  venue: Science China Information Sciences
+  year: '2024'
+  doi: 10.1007/s11432-024-4199-y
+wu2024MACOptimizationProtocol:
+  title: MAC Optimization Protocol for Cooperative UAV Based on Dual Perception of
+    Energy Consumption and Channel Gain
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3372253
+wu2024MultiUAVsNetworkDesign:
+  title: Multi-UAVs Network Design Algorithms for Computed Rate Maximization
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3355391
+wu2025ReconfigurableIntelligentSurface:
+  title: Reconfigurable Intelligent Surface Assisted UAV-MCS Based on Transformer
+    Enhanced Deep Reinforcement Learning
+  venue: IEEE Transactions on Computers
+  year: '2025'
+  doi: 10.1109/TC.2025.3585361
+wu2025SecurityawareDesignsMultiUAV:
+  title: Security-Aware Designs of Multi-UAV Deployment, Task Offloading and Service
+    Placement in Edge Computing Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3574061
+wu2025TwostageDeepEnergy:
+  title: Two-Stage Deep Energy Optimization in IRS-assisted UAV-based Edge Computing
+    Systems
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3461719
+xiang2025EagleEyeBalancingLatency:
+  title: 'emphEagleEye : Balancing Latency, Accuracy, and Power on Edge-Assisted UAVs
+    for Urban Crowd Surveillance'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3586860
+xie2024SecureUAVCooperative:
+  title: 'A Secure UAV Cooperative Communication Framework: Prospect Theory Based
+    Approach'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3367124
+xie2025BlockchainassistedLightweightCrossdomain:
+  title: Blockchain-Assisted Lightweight Cross-Domain Authentication for Multi-UAV
+    Wireless Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3582833
+xu2024HolisticHybridService:
+  title: A Holistic and Hybrid Service Selection Strategy for MEC-based UAV Last-Mile
+    Delivery Systems
+  venue: IEEE Transactions on Services Computing
+  year: '2024'
+  doi: 10.1109/TSC.2024.3451243
+xu2024RewardMaximizationDisaster:
+  title: Reward Maximization for Disaster Zone Monitoring With Heterogeneous UAVs
+  venue: IEEE/ACM Transactions on Networking
+  year: '2024'
+  doi: 10.1109/TNET.2023.3300174
+xu2024SemanticawareUAVSwarm:
+  title: 'Semantic-Aware UAV Swarm Coordination in the Metaverse: A Reputation-Based
+    Incentive Mechanism'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3438152
+xu2025BlockchainempoweredGameTheoretical:
+  title: Blockchain-Empowered Game Theoretical Incentive for Secure Bandwidth Allocation
+    in UAV-assisted Wireless Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3579505
+xu2025TrustenhancedGameIncentive:
+  title: Trust-Enhanced Game Incentive for Secure Quantum Federated Learning in UAV-assisted
+    Wireless Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2025'
+  doi: 10.1109/JSAC.2025.3568054
+xu2025WindawareServiceProvisioning:
+  title: Wind-Aware Service Provisioning Strategy for Multi-Package Drone Delivery
+  venue: IEEE Transactions on Services Computing
+  year: '2025'
+  doi: 10.1109/TSC.2025.3592374
+xue2024MaximizingCoverageTargets:
+  title: Towards Maximizing Coverage of Targets for WRSNs by Multiple Chargers Scheduling
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3369054
+yang2023RobustTransitionTrajectory:
+  title: Robust Transition Trajectory Optimization for Tail-Sitter UAVs Considering
+    Uncertainties
+  venue: Science China Information Sciences
+  year: '2023'
+  doi: 10.1007/s11432-020-3257-x
+yang2024EnergyEfficientTransmission:
+  title: Energy Efficient Transmission Strategy for Mobile Edge Computing Network
+    in UAV-Based Patrol Inspection System
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3315477
+yu2025HybridTransformerBased:
+  title: Hybrid Transformer Based Multi-Agent Reinforcement Learning for Multiple
+    Unpiloted Aerial Vehicle Coordination in Air Corridors
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3532204
+yuan2024DynamicEventtriggeredFaulttolerant:
+  title: Dynamic Event-Triggered Fault-Tolerant Cooperative Resilient Tracking Control
+    with Prescribed Performance for UAVs
+  venue: Science China Information Sciences
+  year: '2024'
+  doi: 10.1007/s11432-023-4099-x
+yuan2025TrajectoryOptimizationPower:
+  title: 'Trajectory Optimization and Power Allocation for Multi-UAV Wireless Networks:
+    A Communication-Based Multi-Agent Deep Reinforcement Learning Approach'
+  venue: IEEE Transactions on Computers
+  year: '2025'
+  doi: 10.1109/TC.2025.3587976
+zema20243DTrajectoryOptimization:
+  title: 3D Trajectory Optimization for Multimission UAVs in Smart City Scenarios
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2022.3215705
+zeng2024A3DAdaptiveAccurate:
+  title: 'A3D: Adaptive, Accurate, and Autonomous Navigation for Edge-Assisted Drones'
+  venue: IEEE/ACM Transactions on Networking
+  year: '2024'
+  doi: 10.1109/TNET.2023.3297876
+zeng2025JointSecureMechanism:
+  title: A Joint Secure Mechanism of Multi-Task Learning for a UAV Team under FDI
+    Attacks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3551537
+zhan2024InterferenceawareOnlineOptimization:
+  title: Interference-Aware Online Optimization for Cellular-Connected Multiple UAV
+    Networks with Energy Constraints
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3438759
+zhan2024TradeoffAgeInformation:
+  title: Tradeoff Between Age of Information and Operation Time for UAV Sensing Over
+    Multi-Cell Cellular Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3267656
+zhan2025OnlineEnergyInterference:
+  title: Online Energy and Interference Management for Dynamic Target Tracking with
+    Cellular-Connected UAV
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3532276
+zhang2023JointTaskScheduling:
+  title: Joint Task Scheduling and Multi-UAV Deployment for Aerial Computing in Emergency
+    Communication Networks
+  venue: Science China Information Sciences
+  year: '2023'
+  doi: 10.1007/s11432-022-3667-3
+zhang2024HumanCentricIrregularRISAssisted:
+  title: Human-Centric Irregular RIS-Assisted Multi-UAV Networks With Resource Allocation
+    and Reflecting Design for Metaverse
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2024'
+  doi: 10.1109/JSAC.2023.3345426
+zhang2024IncentiveMechanismsOnline:
+  title: Incentive Mechanisms for Online Task Offloading With Privacy-Preserving in
+    UAV-Assisted Mobile Edge Computing
+  venue: IEEE/ACM Transactions on Networking
+  year: '2024'
+  doi: 10.1109/TNET.2024.3364141
+zhang2024TaskOffloadingTrajectory:
+  title: Task Offloading and Trajectory Optimization for Secure Communications in
+    Dynamic User Multi-UAV MEC Systems
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3442909
+zhang2024UAVSwarmenabledCollaborative:
+  title: UAV Swarm-Enabled Collaborative Secure Relay Communications with Time-Domain
+    Colluding Eavesdropper
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3350885
+zhang2025ImprovingDataCollection:
+  title: Improving Data Collection Efficiency of UAV-assisted LoRa Networks via Directivity-Aware
+    Link Model
+  venue: IEEE Transactions on Networking
+  year: '2025'
+  doi: 10.1109/TON.2025.3559889
+zhang2025LargeModelsAerial:
+  title: 'Large Models for Aerial Edges: An Edge-Cloud Model Evolution and Communication
+    Paradigm'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2025'
+  doi: 10.1109/JSAC.2024.3460078
+zhang2025MultiobjectiveAerialCollaborative:
+  title: Multi-Objective Aerial Collaborative Secure Communication Optimization via
+    Generative Diffusion Model-Enabled Deep Reinforcement Learning
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3502685
+zhang2025OptimizingMonitoringUtility:
+  title: Optimizing Monitoring Utility of Uncrewed Aerial Vehicles Considering Adverse
+    Effects
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3543399
+zhang2025QuantumassistedOnlineTask:
+  title: Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-enabled
+    Satellite-Aerial-Terrestrial Integrated Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3519060
+zhao2024DesigningMultiUAVAided:
+  title: On Designing Multi-UAV Aided Wireless Powered Dynamic Communication via Hierarchical
+    Deep Reinforcement Learning
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3439556
+zhao2025JointContentCaching:
+  title: Joint Content Caching, Service Placement, and Task Offloading in UAV-enabled
+    Mobile Edge Computing Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2025'
+  doi: 10.1109/JSAC.2024.3460049
+zhao2025JointOptimizationTrajectory:
+  title: Joint Optimization of Trajectory, Offloading, Caching, and Migration for
+    UAV-assisted MEC
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3486995
+zhao2025MobileCollusiveEavesdroppers:
+  title: 'Against Mobile Collusive Eavesdroppers: Cooperative Secure Transmission
+    and Computation in UAV-assisted MEC Networks'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3529929
+zhao2025MultiUAVCooperativeTask:
+  title: 'A Multi-UAV Cooperative Task Scheduling in Dynamic Environments: Throughput
+    Maximization'
+  venue: IEEE Transactions on Computers
+  year: '2025'
+  doi: 10.1109/TC.2024.3483636
+zheng2024ContentDeliveryPerformance:
+  title: Content Delivery Performance Analysis of a Cache-Enabled UAV Base Station
+    Assisted Cellular Network for Metaverse Users
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2024'
+  doi: 10.1109/JSAC.2023.3345424
+zheng2024DualfunctionalUAVempoweredSpaceairground:
+  title: 'Dual-Functional UAV-empowered Space-Air-Ground Networks: Joint Communication
+    and Sensing'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2024'
+  doi: 10.1109/JSAC.2024.3459079
+zheng2024UAVSwarmAir:
+  title: UAV Swarm Air Combat Maneuver Decision-Making Method Based on Multi-Agent
+    Reinforcement Learning and Transferring
+  venue: Science China Information Sciences
+  year: '2024'
+  doi: 10.1007/s11432-023-4088-2
+zheng2025UAVSwarmenabledCollaborative:
+  title: UAV Swarm-Enabled Collaborative Post-Disaster Communications in Low Altitude
+    Economy via a Two-Stage Optimization Approach
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3583510
+zhou2024FederatedDigitalTwin:
+  title: A Federated Digital Twin Framework for UAVs-Based Mobile Scenarios
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2023.3335386
+zhou2024JointOptimizationMobility:
+  title: Joint Optimization of Mobility and Reliability-Guaranteed Air-to-Ground Communication
+    for UAVs
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2022.3228870
+zhou2024JointUAVTrajectory:
+  title: Joint UAV Trajectory and Communication Design with Heterogeneous Multi-Agent
+    Reinforcement Learning
+  venue: Science China Information Sciences
+  year: '2024'
+  doi: 10.1007/s11432-023-3906-3
+zhou2024SymmetryaugmentedMultiagentReinforcement:
+  title: Symmetry-Augmented Multi-Agent Reinforcement Learning for Scalable UAV Trajectory
+    Design and User Scheduling
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3437679
+zhou2025DigitalTwinEmpowered:
+  title: Digital Twin Empowered mmWave Multi-Hop V2X Routing Scheme with UAV Assistance
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3556091
+zhou2025HaDTHardeningDigital:
+  title: 'HaDT: Hardening Digital Twins for UAVs-based Industrial Logistics Distribution
+    Systems'
+  venue: IEEE INFOCOM 2025 - IEEE Conference on Computer Communications
+  year: '2025'
+  doi: 10.1109/INFOCOM55648.2025.11044738
+zhou2025LLMQLLLMenhancedQlearning:
+  title: 'LLM-QL: A LLM-enhanced Q-learning Approach for Scheduling Multiple Parallel
+    Drones'
+  venue: IEEE Transactions on Knowledge and Data Engineering
+  year: '2025'
+  doi: 10.1109/TKDE.2025.3579386
+zhou2025ReliabilityoptimalUAVassistedMobile:
+  title: 'Reliability-Optimal UAV-assisted Mobile Edge Computing: Joint Resource Allocation,
+    Data Transmission Scheduling and Motion Control'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3521934
+zhou2025UserPreferenceOriented:
+  title: User Preference Oriented Service Caching and Task Offloading for UAV-assisted
+    MEC Networks
+  venue: IEEE Transactions on Services Computing
+  year: '2025'
+  doi: 10.1109/TSC.2025.3536319
+zhou2025VerDTVersatileDigital:
+  title: 'VerDT: A Versatile Digital Twins Framework for UAVs-based Industrial Cyber-Physical
+    Systems'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2025.3567284
+zhu2023AttitudeControlNovel:
+  title: Attitude Control of a Novel Tilt-Wing UAV in Hovering Flight
+  venue: Science China Information Sciences
+  year: '2023'
+  doi: 10.1007/s11432-022-3605-5
+zhu2024CollaborativeReinforcementLearning:
+  title: Collaborative Reinforcement Learning Based Unmanned Aerial Vehicle (UAV)
+    Trajectory Design for 3D UAV Tracking
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3382913
+zhu2024FissionSpectralClustering:
+  title: Fission Spectral Clustering Strategy for UAV Swarm Networks
+  venue: IEEE Transactions on Services Computing
+  year: '2024'
+  doi: 10.1109/TSC.2024.3376191
+zhu2025EffectiveUAVScheduling:
+  title: An Effective UAV Scheduling Algorithm for Public Transportation-Assisted
+    Urban Surveillance System
+  venue: IEEE Transactions on Services Computing
+  year: '2025'
+  doi: 10.1109/TSC.2025.3619675
+AddonItem:
+  title: Addon Item
+AddonItema:
+  title: Addon Item
+adil2022SystematicSurveySecurity:
+  title: 'A Systematic Survey: Security Threats to UAV-Aided IoT Applications, Taxonomy,
+    Current Challenges and Requirements With Future Research Directions'
+  venue: IEEE Transactions on Intelligent Transportation Systems
+  year: '2022'
+  doi: 10.1109/TITS.2022.3220043
+adil2024UAVassistedIoTApplications:
+  title: UAV-assisted IoT Applications, Cybersecurity Threats, AI-enabled Solutions,
+    Open Challenges with Future Research Directions
+  venue: IEEE Transactions on Intelligent Vehicles
+  year: '2024'
+  doi: 10.1109/TIV.2023.3309548
+adil2024UAVAssistedIoTApplicationsa:
+  title: UAV-Assisted IoT Applications, QoS Requirements and Challenges with Future
+    Research Directions
+  venue: ACM Computing Surveys
+  year: '2024'
+  doi: 10.1145/3657287
+akram2022SecureLightweightDronesaccess:
+  title: A Secure and Lightweight Drones-Access Protocol for Smart City Surveillance
+  venue: IEEE Transactions on Intelligent Transportation Systems
+  year: '2022'
+  doi: 10.1109/TITS.2021.3129913
+ali2020SoftwareDefinedCoexistingUAV:
+  title: 'Software-Defined Coexisting UAV and WiFi: Delay-Oriented Traffic Offloading
+    and UAV Placement'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2020'
+  doi: 10.1109/JSAC.2020.2986660
+alsharoa2020SpatialTemporalManagement:
+  title: Spatial and Temporal Management of Cellular HetNets with Multiple Solar Powered
+    Drones
+  venue: IEEE Transactions on Mobile Computing
+  year: '2020'
+  doi: 10.1109/TMC.2019.2901677
+amodu2023AgeInformationMinimization:
+  title: 'Age of Information Minimization in UAV-aided Data Collection for WSN and
+    IoT Applications: A Systematic Review'
+  venue: Journal of Network and Computer Applications
+  year: '2023'
+  doi: 10.1016/j.jnca.2023.103652
+apostolopoulos2023DataOffloadingUAVAssisted:
+  title: Data Offloading in UAV-Assisted Multi-Access Edge Computing Systems Under
+    Resource Uncertainty
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2021.3069911
+arribas2020CoverageOptimizationDynamic:
+  title: Coverage Optimization with a Dynamic Network of Drone Relays
+  venue: IEEE Transactions on Mobile Computing
+  year: '2020'
+  doi: 10.1109/TMC.2019.2927335
+azizi2020ProfitMaximization5G:
+  title: Profit Maximization in 5G+ Networks with Heterogeneous Aerial and Ground
+    Base Stations
+  venue: IEEE Transactions on Mobile Computing
+  year: '2020'
+  doi: 10.1109/TMC.2019.2926713
+bai2020AirtoGroundWirelessLinks:
+  title: Air-to-Ground Wireless Links for High-Speed UAVs
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2020'
+  doi: 10.1109/JSAC.2020.3005471
+baltaci2021ExperimentalUAVData:
+  title: Experimental UAV Data Traffic Modeling and Network Performance Analysis
+  venue: IEEE INFOCOM 2021 - IEEE Conference on Computer Communications
+  year: '2021'
+  doi: 10.1109/INFOCOM42981.2021.9488878
+bannis2020BleepMotorenabledAudio:
+  title: 'Bleep: Motor-Enabled Audio Side-Channel for Constrained UAVs'
+  venue: Proceedings of the 26th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2020'
+  doi: 10.1145/3372224.3419183
+bartolini2021MultiTripTaskAssignment:
+  title: A Multi-Trip Task Assignment for Early Target Inspection in Squads of Aerial
+    Drones
+  venue: IEEE Transactions on Mobile Computing
+  year: '2021'
+  doi: 10.1109/TMC.2020.2994529
+bera2023CEDANCostEffectiveData:
+  title: 'CEDAN: Cost-Effective Data Aggregation for UAV-Enabled IoT Networks'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3172444
+bertizzolo2020SwarmControlAutomatedDistributed:
+  title: 'SwarmControl: An Automated Distributed Control Framework for Self-Optimizing
+    Drone Networks'
+  venue: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
+  year: '2020'
+  doi: 10.1109/INFOCOM41043.2020.9155231
+blocher2024TrainOnceApply:
+  title: 'Train Once Apply Anywhere: Effective Scheduling for Network Function Chains
+    Running on FUMES'
+  venue: IEEE INFOCOM 2024 - IEEE Conference on Computer Communications
+  year: '2024'
+  doi: 10.1109/INFOCOM52122.2024.10621125
+BQNCOBisimulationQuotienting:
+  title: 'BQ-NCO: Bisimulation Quotienting for Efficient Neural Combinatorial Optimization'
+bresson2021TransformerNetworkTraveling:
+  title: The Transformer Network for the Traveling Salesman Problem
+  year: '2021'
+  doi: 10.48550/arXiv.2103.03012
+bresson2021TransformerNetworkTravelinga:
+  title: The Transformer Network for the Traveling Salesman Problem
+  year: '2021'
+  doi: 10.48550/arXiv.2103.03012
+buchbinder2014SubmodularMaximizationCardinality:
+  title: Submodular Maximization with Cardinality Constraints
+  venue: Proceedings of the Twenty-Fifth Annual ACM-SIAM Symposium on Discrete Algorithms
+  year: '2014'
+  doi: 10.1137/1.9781611973402.106
+buchbinderExtendingExtensionDeterministic:
+  title: 'Extending the Extension: Deterministic Algorithm for Non-Monotone Submodular
+    Maximization'
+buchbinderTightLinearTime:
+  title: A Tight Linear Time (1/2)-Approximation for Unconstrained Submodular Maximization
+BuildingSecondBrainpdf:
+  title: Building a Second Brain.Pdf
+cai2021EmpiricalLowAltitudeAirtoGround:
+  title: Empirical Low-Altitude Air-to-Ground Spatial Channel Characterization for
+    Cellular Networks Connectivity
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088715
+cao2020HomecomingWirelessHoming:
+  title: 'Homecoming: A Wireless Homing Device for UAVs'
+  venue: Proceedings of the 26th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2020'
+  doi: 10.1145/3372224.3418157
+cao2021ReconfigurableIntelligentSurfaceAssisted:
+  title: Reconfigurable Intelligent Surface-Assisted Aerial-Terrestrial Communications
+    via Multi-Task Learning
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088634
+cao2024EventBoostEventbasedAcceleration:
+  title: 'EventBoost: Event-based Acceleration Platform for Real-Time Drone Localization
+    and Tracking'
+  venue: IEEE INFOCOM 2024 - IEEE Conference on Computer Communications
+  year: '2024'
+  doi: 10.1109/INFOCOM52122.2024.10621101
+chacon2025ProGit:
+  title: Pro Git
+  year: '2025'
+chai2021MultiUAVTrajectoryPower:
+  title: Multi-UAV Trajectory and Power Optimization for Cached UAV Wireless Networks
+    With Energy and Content Recharging-Demand Driven Deep Learning Approach
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088694
+chang2022IntegratedSchedulingSensing:
+  title: Integrated Scheduling of Sensing, Communication, and Control for mmWave/THz
+    Communications in Cellular Connected UAV Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2022'
+  doi: 10.1109/JSAC.2022.3157366
+chen2020VFCBasedCooperativeUAV:
+  title: VFC-Based Cooperative UAV Computation Task Offloading for Post-disaster Rescue
+  venue: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
+  year: '2020'
+  doi: 10.1109/INFOCOM41043.2020.9155397
+chen2022JointChannelLink:
+  title: 'Joint Channel and Link Selection in Formation-Keeping UAV Networks: A Two-Way
+    Consensus Game'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2022'
+  doi: 10.1109/TMC.2020.3048480
+chen2024UITDEUAVassistedIntelligent:
+  title: 'UITDE: A UAV-assisted Intelligent True Data Evaluation Method for Ubiquitous
+    IoT Systems in Intelligent Transportation of Smart City'
+  venue: IEEE Transactions on Intelligent Transportation Systems
+  year: '2024'
+  doi: 10.1109/TITS.2024.3373411
+chen2025DAiMoMotifDensity:
+  title: 'DAiMo: Motif Density Enhances Topology Robustness for Highly Dynamic Scale-Free
+    IoT'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2025'
+  doi: 10.1109/TMC.2024.3492002
+cheng2023AIUAVAssistedIoT:
+  title: 'AI for UAV-Assisted IoT Applications: A Comprehensive Review'
+  venue: IEEE Internet of Things Journal
+  year: '2023'
+  doi: 10.1109/JIOT.2023.3268316
+chiaraviglio2021MultiAreaThroughputEnergy:
+  title: Multi-Area Throughput and Energy Optimization of UAV-Aided Cellular Networks
+    Powered by Solar Panels and Grid
+  venue: IEEE Transactions on Mobile Computing
+  year: '2021'
+  doi: 10.1109/TMC.2020.2980834
+coletta20232UAVApplicationAware:
+  title: 'A textsuperscript2 -UAV: Application-Aware Content and Network Optimization
+    of Edge-Assisted UAV Systems'
+  venue: INFOCOM
+  year: '2023'
+  doi: 10.1109/INFOCOM53939.2023.10229096
+CommunicatingSlipBoxespdf:
+  title: Communicating with Slip Boxes.Pdf
+coupechoux2023OptimalTrajectoriesUAV:
+  title: Optimal Trajectories of a UAV Base Station Using Hamilton-Jacobi Equations
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3156822
+dacosta2020Learning2optHeuristics:
+  title: Learning 2-Opt Heuristics for the Traveling Salesman Problem via Deep Reinforcement
+    Learning
+  year: '2020'
+dacosta2020Learning2optHeuristicsa:
+  title: Learning 2-Opt Heuristics for the Traveling Salesman Problem via Deep Reinforcement
+    Learning
+  year: '2020'
+dai2018LearningCombinatorialOptimization:
+  title: Learning Combinatorial Optimization Algorithms over Graphs
+  year: '2018'
+dai2018LearningCombinatorialOptimizationa:
+  title: Learning Combinatorial Optimization Algorithms over Graphs
+  year: '2018'
+dai2020RadiationConstrainedWireless:
+  title: Radiation Constrained Wireless Charger Placement
+  venue: IEEE/ACM Transactions on Networking
+  year: '2020'
+  doi: 10.1109/TNET.2020.3028704
+dai2022AoIminimalUAVCrowdsensing:
+  title: AoI-minimal UAV Crowdsensing by Model-based Graph Convolutional Reinforcement
+    Learning
+  venue: IEEE INFOCOM 2022 - IEEE Conference on Computer Communications
+  year: '2022'
+  doi: 10.1109/INFOCOM48880.2022.9796732
+dai2022ROSERobustlySafe:
+  title: 'ROSE: Robustly Safe Charging for Wireless Power Transfer'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2022'
+  doi: 10.1109/TMC.2020.3032591
+dai2023DelaySensitiveEnergyEfficientUAV:
+  title: Delay-Sensitive Energy-Efficient UAV Crowdsensing by Deep Reinforcement Learning
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2021.3113052
+dai2023MultiAgentDeepReinforcement:
+  title: Multi-Agent Deep Reinforcement Learning for Joint Decoupled User Association
+    and Trajectory Design in Full-Duplex Multi-UAV Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3188473
+dai2023VisionbasedUAVSelfpositioning:
+  title: Vision-Based UAV Self-Positioning in Low-Altitude Urban Environments
+  year: '2023'
+  doi: 10.48550/arXiv.2201.09201
+dai2023VisionbasedUAVSelfpositioninga:
+  title: Vision-Based UAV Self-Positioning in Low-Altitude Urban Environments
+  year: '2023'
+  doi: 10.48550/arXiv.2201.09201
+danilchenko2023CoveringUsersQoS:
+  title: 'Covering Users With QoS by a Connected Swarm of Drones: Graph Theoretical
+    Approach and Experiments'
+  venue: IEEE/ACM Transactions on Networking
+  year: '2023'
+  doi: 10.1109/TNET.2022.3231184
+DaZaoDiErDaNaoXiLie:
+  title: 打造第二大脑系列
+DianNaoWanWuZhanChangesor2019DaNaoJianYaDeZiDanBiJiShuYongEvernoteDaZaoKuaiHenZhunRenWuZhengLiXiTong:
+  title: 大脑减压的子弹笔记术：用Evernote打造快狠准任务整理系统
+  year: '2019'
+diaz-vilor2025MultiUAVEnergyefficientWildfire:
+  title: Multi-UAV Energy-Efficient Wildfire Coverage Optimization
+  venue: IEEE Transactions on Wireless Communications
+  year: '2025'
+  doi: 10.1109/TWC.2025.3567953
+DistributedConstrainedCombinatorial:
+  title: Distributed Constrained Combinatorial Optimization Leveraging Hypergraph
+    Neural Networks
+do-duy2021JointOptimisationRealTime:
+  title: Joint Optimisation of Real-Time Deployment and Resource Allocation for UAV-Aided
+    Disaster Emergency Communications
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088662
+doto2024SystemWritingHow:
+  title: 'A System for Writing: How an Unconventional Approach to Note-Making Can
+    Help You Capture Ideas, Think Wildly, and Write Constantly'
+  year: '2024'
+du2022RobustTensorBasedAlgorithm:
+  title: Robust Tensor-Based Algorithm for UAV-Assisted IoT Communication Systems
+    via Nested PARAFAC Analysis
+  venue: IEEE Transactions on Signal Processing
+  year: '2022'
+  doi: 10.1109/TSP.2022.3215637
+ebrahimi2021AutonomousUAVTrajectory:
+  title: 'Autonomous UAV Trajectory for Localizing Ground Objects: A Reinforcement
+    Learning Approach'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2021'
+  doi: 10.1109/TMC.2020.2966989
+falkner2023LearningControlLocal:
+  title: Learning to Control Local Search for Combinatorial Optimization
+  year: '2023'
+  doi: 10.1007/978-3-031-26419-1_22
+fan2022RobustFuzzyLearning:
+  title: Robust Fuzzy Learning for Partially Overlapping Channels Allocation in UAV
+    Communication Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2022'
+  doi: 10.1109/TMC.2020.3023789
+faraci2020Design5GNetwork:
+  title: Design of a 5G Network Slice Extension With MEC UAVs Managed With Reinforcement
+    Learning
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2020'
+  doi: 10.1109/JSAC.2020.3000416
+fathollahi2024EnergyOptimizationFullduplex:
+  title: Energy Optimization for Full-Duplex Wireless-Powered IoT Networks Using Rotary-Wing
+    UAV with Multiple Antennas
+  venue: Computer Communications
+  year: '2024'
+  doi: 10.1016/j.comcom.2023.12.011
+feng2021HybridBeamformingDesign:
+  title: Hybrid Beamforming Design and Resource Allocation for UAV-Aided Wireless-Powered
+    Mobile Edge Computing Networks With NOMA
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3091158
+ferdowsi2021NeuralCombinatorialDeep:
+  title: Neural Combinatorial Deep Reinforcement Learning for Age-Optimal Joint Trajectory
+    and Scheduling Design in UAV-Assisted Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3065049
+fu2021GeneralizeSmallPretrained:
+  title: Generalize a Small Pre-trained Model to Arbitrarily Large TSP Instances
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence
+  year: '2021'
+  doi: 10.1609/aaai.v35i8.16916
+fu2023UAVassistedMulticlusterOvertheair:
+  title: UAV-assisted Multi-Cluster over-the-Air Computation
+  venue: IEEE Transactions on Wireless Communications
+  year: '2023'
+  doi: 10.1109/TWC.2022.3227768
+FuShu2021WuLianWangShuJuShouJiZhongWuRenJiLuJingZhiNengGuiHua:
+  title: 物联网数据收集中无人机路径智能规划
+  venue: 通信学报
+  year: '2021'
+gao20213DDeploymentUAV:
+  title: 3-D Deployment of UAV Swarm for Massive MIMO Communications
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088668
+gao2022LeveragingPublicBuses:
+  title: Leveraging Public Buses to Relay UAVs for On-Demand Applications
+  venue: Proceedings of the 28th Annual International Conference on Mobile Computing
+    And Networking
+  year: '2022'
+  doi: 10.1145/3495243.3558279
+gao2023MinimizationAerialCost:
+  title: Minimization of Aerial Cost and Mission Completion Time in Multi-UAV-enabled
+    IoT Networks
+  venue: IEEE Transactions on Communications
+  year: '2023'
+  doi: 10.1109/TCOMM.2023.3286427
+gao2023UAVAssistedMultiTaskAllocation:
+  title: A UAV-Assisted Multi-Task Allocation Method for Mobile Crowd Sensing
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3147871
+gareyComputersIntractabilityGuide:
+  title: 'Computers and Intractability : A Guide to the Theory of NP-completeness'
+GLOPLearningGlobal:
+  title: 'GLOP: Learning Global Partition and Local Construction for Solving Large-Scale
+    Routing Problems in Real-Time'
+GradySSIMNextGenGrADySSIM:
+  title: GradyS-SIM NextGen --- GrADyS-SIM NextGen
+gu2024CooperativeLocalizationUAV:
+  title: Cooperative Localization for UAV Systems From the Perspective of Physical
+    Clock Synchronization
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2024'
+  doi: 10.1109/JSAC.2023.3322797
+guan2020DistributedJointPower:
+  title: Distributed Joint Power, Association and Flight Control for Massive-MIMO
+    Self-Organizing Flying Drones
+  venue: IEEE/ACM Transactions on Networking
+  year: '2020'
+  doi: 10.1109/TNET.2020.2985972
+guo2021UAVTrajectoryCommunication:
+  title: 'UAV Trajectory and Communication Co-Design: Flexible Path Discretization
+    and Path Compression'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088690
+guo2022MinimizingLongestTour:
+  title: Minimizing the Longest Tour Time Among a Fleet of UAVs for Disaster Area
+    Surveillance
+  venue: IEEE Transactions on Mobile Computing
+  year: '2022'
+  doi: 10.1109/TMC.2020.3038156
+guo2024MultiUAVCooperativeTask:
+  title: Multi-UAV Cooperative Task Offloading and Resource Allocation in 5G Advanced
+    and Beyond
+  venue: IEEE Transactions on Wireless Communications
+  year: '2024'
+  doi: 10.1109/TWC.2023.3277801
+guo2024UWTrackingPassiveHuman:
+  title: 'UWTracking: Passive Human Tracking Under LOS/NLOS Scenarios Using IR-UWB
+    Radar'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3404460
+hajihoseinigazestani2022ResourceAllocationFullDuplex:
+  title: Resource Allocation in Full-Duplex UAV Enabled Multismall Cell Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2022'
+  doi: 10.1109/TMC.2020.3017137
+hamdi2025DroneasaserviceResearchChallenges:
+  title: 'Drone-as-a-Service: Research Challenges and Directions'
+  venue: Proceedings of the IEEE
+  year: '2025'
+  doi: 10.1109/JPROC.2025.3599126
+han2021UAVAidedBackscatterCommunications:
+  title: 'UAV-Aided Backscatter Communications: Performance Analysis and Trajectory
+    Optimization'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088676
+han2022JointDeploymentOptimization:
+  title: 'Joint Deployment Optimization and Flight Trajectory Planning for UAV Assisted
+    IoT Data Collection: A Bilevel Optimization Approach'
+  venue: IEEE Transactions on Intelligent Transportation Systems
+  year: '2022'
+  doi: 10.1109/TITS.2022.3180288
+hanna2021UAVSwarmPosition:
+  title: UAV Swarm Position Optimization for High Capacity MIMO Backhaul
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088677
+hansen2017VariableNeighborhoodSearch:
+  title: 'Variable Neighborhood Search: Basics and Variants'
+  venue: EURO Journal on Computational Optimization
+  year: '2017'
+  doi: 10.1007/s13675-016-0075-x
+he2023Fairnessbased3DMultiUAV:
+  title: Fairness-Based 3-D Multi-UAV Trajectory Optimization in Multi-UAV-assisted
+    MEC System
+  venue: IEEE Internet of Things Journal
+  year: '2023'
+  doi: 10.1109/JIOT.2023.3241087
+he2024OnlineJointOptimization:
+  title: An Online Joint Optimization Approach for QoE Maximization in UAV-enabled
+    Mobile Edge Computing
+  venue: IEEE INFOCOM 2024 - IEEE Conference on Computer Communications
+  year: '2024'
+  doi: 10.1109/INFOCOM52122.2024.10621306
+helsgaun2000EffectiveImplementationLin:
+  title: An Effective Implementation of the Lin--Kernighan Traveling Salesman Heuristic
+  venue: European Journal of Operational Research
+  year: '2000'
+  doi: 10.1016/S0377-2217(99)00284-2
+hoang2023DeepReinforcementLearningBased:
+  title: Deep Reinforcement Learning-Based Online Resource Management for UAV-Assisted
+    Edge Computing With Dual Connectivity
+  venue: IEEE/ACM Transactions on Networking
+  year: '2023'
+  doi: 10.1109/TNET.2023.3263538
+hoang2025Adaptive3DPlacement:
+  title: Adaptive 3D Placement of Multiple UAV-mounted Base Stations in 6G Airborne
+    Small Cells with Deep Reinforcement Learning
+  year: '2025'
+  doi: 10.36227/techrxiv.174235547.72508683/v1
+hong2020WBFPSWiGigBeam:
+  title: 'WBF-PS: WiGig Beam Fingerprinting for UAV Positioning System in GPS-denied
+    Environments'
+  venue: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
+  year: '2020'
+  doi: 10.1109/INFOCOM41043.2020.9155468
+HowTakeSmart:
+  title: How to Take Smart Notes.Pdf
+hsu2022ReinforcementLearningBasedCollision:
+  title: Reinforcement Learning-Based Collision Avoidance and Optimal Trajectory Planning
+    in UAV Communication Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2022'
+  doi: 10.1109/TMC.2020.3003639
+hu2022UplinkThroughputOptimization:
+  title: An Uplink Throughput Optimization Scheme for UAV-enabled Urban Emergency
+    Communications
+  venue: IEEE Internet of Things Journal
+  year: '2022'
+  doi: 10.1109/JIOT.2021.3103892
+hu2023MobilityResilientSpectrumSharing:
+  title: A Mobility-Resilient Spectrum Sharing Framework for Operating Wireless UAVs
+    in the 6 GHz Band
+  venue: IEEE/ACM Transactions on Networking
+  year: '2023'
+  doi: 10.1109/TNET.2023.3274354
+huang2021UAVAssistedUbiquitousTrust:
+  title: A UAV-Assisted Ubiquitous Trust Communication System in 5G and Beyond Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088675
+HuangXuMin2022JiYuStackelbergBoYiDeWuRenJiFuZhuWuXianGongNengWuLianWangNengLiangYouHua:
+  title: 基于Stackelberg博弈的无人机辅助无线供能物联网能量优化
+  venue: 通信学报
+  year: '2022'
+huo2024EnergyMinimizationUAVenabled:
+  title: Energy Minimization for UAV-enabled Data Collection with Guaranteed Performance
+  venue: IEEE Transactions on Vehicular Technology
+  year: '2024'
+  doi: 10.1109/TVT.2024.3449639
+idrees2025ClusteringAlgorithmDetecting:
+  title: A Clustering Algorithm for Detecting Differential Deviations in the Multivariate
+    Time-Series IoT Data Based on Sensor Relationship
+  venue: Knowledge and Information Systems
+  year: '2025'
+  doi: 10.1007/s10115-024-02303-3
+iizuka2023MilliSignMmWaveBasedPassive:
+  title: 'MilliSign: mmWave-Based Passive Signs for Guiding UAVs in Poor Visibility
+    Conditions'
+  venue: Proceedings of the 29th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2023'
+  doi: 10.1145/3570361.3613264
+IntroductionZettelkastenMethodpdf:
+  title: Introduction to the Zettelkasten Method.Pdf
+iyer2020AirdroppingSensorNetworks:
+  title: Airdropping Sensor Networks from Drones and Insects
+  venue: Proceedings of the 26th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2020'
+  doi: 10.1145/3372224.3419981
+jha2021VisageEnablingTimely:
+  title: 'Visage: Enabling Timely Analytics for Drone Imagery'
+  venue: Proceedings of the 27th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2021'
+  doi: 10.1145/3447993.3483273
+ji2023TrajectoryCommunicationDesign:
+  title: 'Trajectory and Communication Design for Cache- Enabled UAVs in Cellular
+    Networks: A Deep Reinforcement Learning Approach'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3181308
+jia2022EnergySavingHeterogeneous:
+  title: Energy Saving in Heterogeneous Wireless Rechargeable Sensor Networks
+  venue: IEEE INFOCOM 2022 - IEEE Conference on Computer Communications
+  year: '2022'
+  doi: 10.1109/INFOCOM48880.2022.9796770
+jin2023PointerformerDeepReinforced:
+  title: 'Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling
+    Salesman Problem'
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence
+  year: '2023'
+  doi: 10.1609/aaai.v37i7.25982
+jin2023PointerformerDeepReinforceda:
+  title: 'Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling
+    Salesman Problem'
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence
+  year: '2023'
+  doi: 10.1609/aaai.v37i7.25982
+jin2023PointerformerDeepReinforcedb:
+  title: 'Pointerformer: Deep Reinforced Multi-Pointer Transformer for the Traveling
+    Salesman Problem'
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence
+  year: '2023'
+  doi: 10.1609/aaai.v37i7.25982
+kaswan2022DMCPDistributedMobile:
+  title: 'DMCP: A Distributed Mobile Charging Protocol in Wireless Rechargeable Sensor
+    Networks'
+  venue: ACM Transactions on Sensor Networks
+  year: '2022'
+  doi: 10.1145/3526090
+kaswan2022SurveyMobileCharging:
+  title: A Survey on Mobile Charging Techniques in Wireless Rechargeable Sensor Networks
+  venue: IEEE Communications Surveys & Tutorials
+  year: '2022'
+  doi: 10.1109/COMST.2022.3189387
+khairy2021ConstrainedDeepReinforcement:
+  title: Constrained Deep Reinforcement Learning for Energy Sustainable Multi-UAV
+    Based Random Access IoT Networks With NOMA
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2020.3018804
+khochare2021HeuristicAlgorithmsCoscheduling:
+  title: Heuristic Algorithms for Co-scheduling of Edge Analytics and Routes for UAV
+    Fleet Missions
+  venue: IEEE INFOCOM 2021 - IEEE Conference on Computer Communications
+  year: '2021'
+  doi: 10.1109/INFOCOM42981.2021.9488740
+kimura2020DistributedCollaborative3DDeployment:
+  title: Distributed Collaborative 3D-Deployment of UAV Base Stations for On-Demand
+    Coverage
+  venue: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
+  year: '2020'
+  doi: 10.1109/INFOCOM41043.2020.9155283
+ko2023UAVVelocityFunction:
+  title: UAV Velocity Function Design and Trajectory Planning for Heterogeneous Visual
+    Coverage of Terrestrial Regions
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3182975
+kong2021OptimalSchedulingUnmanned:
+  title: Optimal Scheduling for Unmanned Aerial Vehicle Networks With Flow-Level Dynamics
+  venue: IEEE Transactions on Mobile Computing
+  year: '2021'
+  doi: 10.1109/TMC.2019.2952848
+kool2019AttentionLearnSolve:
+  title: Attention, Learn to Solve Routing Problems!
+  year: '2019'
+kormanyos2021RealtimeEfficientObjectoriented:
+  title: 'Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programming'
+  year: '2021'
+  doi: 10.1007/978-3-662-62996-3
+krishnamoorthy2022ESNReinforcementLearning:
+  title: ESN Reinforcement Learning for Spectrum and Flight Control in THz-Enabled
+    Drone Networks
+  venue: IEEE/ACM Transactions on Networking
+  year: '2022'
+  doi: 10.1109/TNET.2021.3128836
+kuang2024JointTaskOffloading:
+  title: Joint Task Offloading Scheduling and Resource Allocation in Air--Ground Cooperation
+    UAV-enabled Mobile Edge Computing
+  venue: IEEE Transactions on Vehicular Technology
+  year: '2024'
+  doi: 10.1109/TVT.2023.3334143
+kumar2021AnalysisDroneAssisted:
+  title: Analysis of Drone Assisted Network Coded Cooperation for Next Generation
+    Wireless Network
+  venue: IEEE Transactions on Mobile Computing
+  year: '2021'
+  doi: 10.1109/TMC.2019.2939308
+labib2021RiseDronesInternet:
+  title: 'The Rise of Drones in Internet of Things: A Survey on the Evolution, Prospects
+    and Challenges of Unmanned Aerial Vehicles'
+  venue: IEEE Access
+  year: '2021'
+  doi: 10.1109/ACCESS.2021.3104963
+LearnDiErJieDuanShuJuJiChuYuKongZhiLiuChapter:
+  title: Learn C++ 第二阶段：数据基础与控制流 (Chapter 4 - 11)
+LearnDiSanJieDuanCDeHeXinNeiCunYuFuHeLeiXing:
+  title: Learn C++ 第三阶段：C++ 的核心内存与复合类型 (Chapter 12 - 13, 16 - 17, 19)
+LearnDiSiJieDuanMianXiangDuiXiangBianChengChapter:
+  title: Learn C++ 第四阶段：面向对象编程 (Chapter 14 - 15, 21, 23 - 25)
+LearnDiYiJieDuanBianChengChuTanYuHuanJingDaJianChapter:
+  title: Learn C++ 第一阶段：编程初探与环境搭建 (Chapter 0 - 3)
+LearningHandleComplex:
+  title: Learning to Handle Complex Constraints for Vehicle Routing Problems
+lennington202312ZhouZuoWanYiNianGongZuoSuoDuanGongShixChengGuoFanBeiDeGaoXiaoChengGongFa:
+  title: 12週做完一年工作：縮短工時x成果翻倍的高效成功法
+  year: '2023'
+li2021JointResourceTrajectory:
+  title: Joint Resource, Trajectory, and Artificial Noise Optimization in Secure Driven
+    3-D UAVs With NOMA and Imperfect CSI
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088623
+li2021PhysicalLayerSecure:
+  title: 'Physical Layer Secure Communications Based on Collaborative Beamforming
+    for UAV Networks: A Multi-objective Optimization Approach'
+  venue: IEEE INFOCOM 2021 - IEEE Conference on Computer Communications
+  year: '2021'
+  doi: 10.1109/INFOCOM42981.2021.9488827
+li2023DataCollectionMaximization:
+  title: Data Collection Maximization in IoT-Sensor Networks via an Energy-Constrained
+    UAV
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2021.3084972
+li2023MultiObjectiveOptimizationApproaches:
+  title: Multi-Objective Optimization Approaches for Physical Layer Secure Communications
+    Based on Collaborative Beamforming in UAV Networks
+  venue: IEEE/ACM Transactions on Networking
+  year: '2023'
+  doi: 10.1109/TNET.2023.3234324
+li2024ComputingSkyJoint:
+  title: 'Computing over the Sky: Joint UAV Trajectory and Task Offloading Scheme
+    Based on Optimization-Embedding Multi-Agent Deep Reinforcement Learning'
+  venue: IEEE Transactions on Communications
+  year: '2024'
+  doi: 10.1109/TCOMM.2023.3331029
+li2024EdgeSLAM2RethinkingEdgeassisted:
+  title: 'edgeSLAM2: Rethinking Edge-Assisted Visual SLAM with on-Chip Intelligence'
+  venue: IEEE INFOCOM 2024 - IEEE Conference on Computer Communications
+  year: '2024'
+  doi: 10.1109/INFOCOM52122.2024.10621278
+li2024TwoWayAerialSecure:
+  title: Two-Way Aerial Secure Communications via Distributed Collaborative Beamforming
+    under Eavesdropper Collusion
+  venue: IEEE INFOCOM 2024 - IEEE Conference on Computer Communications
+  year: '2024'
+  doi: 10.1109/INFOCOM52122.2024.10621264
+li2024UAVsassistedQoSGuarantee:
+  title: UAVs-assisted QoS Guarantee Scheme of IoT Applications for Reliable Mobile
+    Edge Computing
+  venue: Computer Communications
+  year: '2024'
+  doi: 10.1016/j.comcom.2024.05.010
+li2025DynamicWeightedEnergy:
+  title: Dynamic Weighted Energy Minimization for Aerial Edge Computing Networks
+  venue: IEEE Internet of Things Journal
+  year: '2025'
+  doi: 10.1109/JIOT.2024.3470116
+li2025JointServiceCaching:
+  title: Joint Service Caching and Computation Offloading Scheme with 3D UAV Deployment
+    for ICVs in UAV-assisted VEC
+  venue: IEEE Transactions on Communications
+  year: '2025'
+  doi: 10.1109/TCOMM.2025.3581093
+lin2018TSCATemporalSpatialRealTime:
+  title: 'TSCA: A Temporal-Spatial Real-Time Charging Scheduling Algorithm for On-Demand
+    Architecture in Wireless Rechargeable Sensor Networks'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2018'
+  doi: 10.1109/TMC.2017.2703094
+lin2021MinimizingChargingDelay:
+  title: Minimizing Charging Delay for Directional Charging
+  venue: IEEE/ACM Transactions on Networking
+  year: '2021'
+  doi: 10.1109/TNET.2021.3095280
+lin2022MDoCCompromisingWRSNs:
+  title: 'MDoC: Compromising WRSNs through Denial of Charge by Mobile Charger'
+  venue: IEEE INFOCOM 2022 - IEEE Conference on Computer Communications
+  year: '2022'
+  doi: 10.1109/INFOCOM48880.2022.9796835
+lin2023GREENGlobalEnergy:
+  title: 'GREEN: A Global Energy Efficiency Maximization Strategy for Multi-UAV Enabled
+    Communication Systems'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3207791
+lin2023MaximizingEnergyEfficiency:
+  title: Maximizing Energy Efficiency of Period-Area Coverage With a UAV for Wireless
+    Rechargeable Sensor Networks
+  venue: IEEE/ACM Transactions on Networking
+  year: '2023'
+  doi: 10.1109/TNET.2022.3220927
+lin2023PDDQNLPAlgorithmEnergy:
+  title: A PDDQNLP Algorithm for Energy Efficient Computation Offloading in UAV-assisted
+    MEC
+  venue: IEEE Transactions on Wireless Communications
+  year: '2023'
+  doi: 10.1109/TWC.2023.3266497
+lin2024LyapunovbasedApproachJoint:
+  title: A Lyapunov-Based Approach to Joint Optimization of Resource Allocation and
+    3-D Trajectory for Solar-Powered UAV MEC Systems
+  venue: IEEE Internet of Things Journal
+  year: '2024'
+  doi: 10.1109/JIOT.2024.3373491
+LiRuiQiulachelZhu.2022DaKaiXinZhiRenShengPoJuDeGuanJianSiWeiFree:
+  title: '打开心智: 人生破局的关键思维 = free your mind'
+  year: '2022'
+liu2019TrajectoryDesignPower:
+  title: 'Trajectory Design and Power Control for Multi-UAV Assisted Wireless Networks:
+    A Machine Learning Approach'
+  venue: IEEE Transactions on Vehicular Technology
+  year: '2019'
+  doi: 10.1109/TVT.2019.2920284
+liu2020AccessPointsAir:
+  title: 'Access Points in the Air: Modeling and Optimization of Fixed-Wing UAV Network'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2020'
+  doi: 10.1109/JSAC.2020.3005496
+liu2020DistributedEnergyEfficientMultiUAV:
+  title: Distributed Energy-Efficient Multi-UAV Navigation for Long-Term Communication
+    Coverage by Deep Reinforcement Learning
+  venue: IEEE Transactions on Mobile Computing
+  year: '2020'
+  doi: 10.1109/TMC.2019.2908171
+liu2020EnergyEfficientUAVCrowdsensing:
+  title: Energy-Efficient UAV Crowdsensing with Multiple Charging Stations by Deep
+    Learning
+  venue: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
+  year: '2020'
+  doi: 10.1109/INFOCOM41043.2020.9155535
+liu2021CellFreeSatelliteUAVNetworks:
+  title: Cell-Free Satellite-UAV Networks for 6G Wide-Area Internet of Things
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2020.3018837
+liu2021MachineLearningEmpowered:
+  title: Machine Learning Empowered Trajectory and Passive Beamforming Design in UAV-RIS
+    Wireless Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2020.3041401
+liu2021NovelNonStationary6G:
+  title: A Novel Non-Stationary 6G UAV Channel Model for Maritime Communications
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088664
+liu2021UAVAidedWirelessPower:
+  title: UAV-Aided Wireless Power Transfer and Data Collection in Rician Fading
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088693
+liu2022TaskBasedNetworkReconfiguration:
+  title: 'Task-Based Network Reconfiguration in Distributed UAV Swarms: A Bilateral
+    Matching Approach'
+  venue: IEEE/ACM Transactions on Networking
+  year: '2022'
+  doi: 10.1109/TNET.2022.3181036
+liu2022UAVTrajectoryOptimization:
+  title: UAV Trajectory Optimization for Time-Constrained Data Collection in UAV-enabled
+    Environmental Monitoring Systems
+  venue: IEEE Internet of Things Journal
+  year: '2022'
+  doi: 10.1109/JIOT.2022.3189214
+liu2023AgriculturalUAVTrajectory:
+  title: Agricultural UAV Trajectory Planning by Incorporating Multi-Mechanism Improved
+    Grey Wolf Optimization Algorithm
+  venue: Expert Systems with Applications
+  year: '2023'
+  doi: 10.1016/j.eswa.2023.120946
+liu2023FairEnergyefficientResource:
+  title: Fair Energy-Efficient Resource Optimization for Green Multi-NOMA-UAV Assisted
+    Internet of Things
+  venue: IEEE Transactions on Green Communications and Networking
+  year: '2023'
+  doi: 10.1109/TGCN.2021.3130075
+liu2024UAVassistedIntegratedSensing:
+  title: UAV-assisted Integrated Sensing and Communication for Emergency Rescue Activities
+    Based on Transfer Deep Reinforcement Learning
+  venue: Proceedings of the 30th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2024'
+  doi: 10.1145/3636534.3698220
+LiuShaoNan;LiuBaiGuang2024BiJiDeFangFa:
+  title: 笔记的方法
+  year: '2024'
+liwang2021LetsTradeFuture:
+  title: Let's Trade in the Future! A Futures-Enabled Fast Resource Trading Mechanism
+    in Edge Computing-Assisted UAV Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088657
+lizarribar2024SkyPosRealWorldEvaluation:
+  title: 'SkyPos: Real-World Evaluation of Self-Positioning With Aircraft Signals
+    for IoT Devices'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2024'
+  doi: 10.1109/JSAC.2023.3322829
+luo2021FineGrainedTrajectoryOptimization:
+  title: Fine-Grained Trajectory Optimization of Multiple UAVs for Efficient Data
+    Gathering from WSNs
+  venue: IEEE/ACM Transactions on Networking
+  year: '2021'
+  doi: 10.1109/TNET.2020.3027555
+luo2021ResourceSchedulingEdge:
+  title: 'Resource Scheduling in Edge Computing: A Survey'
+  venue: IEEE Communications Surveys & Tutorials
+  year: '2021'
+  doi: 10.1109/COMST.2021.3106401
+luo2023KeepEdgeKnowledgeDistillation:
+  title: 'KeepEdge: A Knowledge Distillation Empowered Edge Intelligence Framework
+    for Visual Assisted Positioning in UAV Delivery'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3157957
+ma2021NonStationaryGeometryBasedMIMO:
+  title: A Non-Stationary Geometry-Based MIMO Channel Model for Millimeter-Wave UAV
+    Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088659
+ma2021UAVLEOIntegratedBackbone:
+  title: 'UAV-LEO Integrated Backbone: A Ubiquitous Data Collection Approach for B5G
+    Internet of Remote Things Networks'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088626
+mackayInformationTheoryInference:
+  title: Information Theory, Inference, and Learning Algorithms
+mao2022JointDistributedBeamforming:
+  title: Joint Distributed Beamforming and Backscattering for UAV-Assisted WPSNs
+  venue: IEEE Transactions on Wireless Communications
+  year: '2022'
+  doi: 10.1109/TWC.2022.3204915
+matar2021JointSubchannelAllocation:
+  title: Joint Subchannel Allocation and Power Control in Licensed and Unlicensed
+    Spectrum for Multi-Cell UAV-Cellular Network
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088672
+matson2024OnlineRadioEnvironment:
+  title: Online Radio Environment Map Creation via UAV Vision for Aerial Networks
+  venue: IEEE INFOCOM 2024 - IEEE Conference on Computer Communications
+  year: '2024'
+  doi: 10.1109/INFOCOM52122.2024.10621219
+mavrovouniotis2017AntColonyOptimization:
+  title: Ant Colony Optimization With Local Search for Dynamic Traveling Salesman
+    Problems
+  venue: IEEE Transactions on Cybernetics
+  year: '2017'
+  doi: 10.1109/TCYB.2016.2556742
+meng2023MultiUAVCollaborativeSensing:
+  title: 'Multi-UAV Collaborative Sensing and Communication: Joint Task Allocation
+    and Power Optimization'
+  venue: IEEE Transactions on Wireless Communications
+  year: '2023'
+  doi: 10.1109/TWC.2022.3224143
+meng2023ThroughputMaximizationUAVenabled:
+  title: Throughput Maximization for UAV-enabled Integrated Periodic Sensing and Communication
+  venue: IEEE Transactions on Wireless Communications
+  year: '2023'
+  doi: 10.1109/TWC.2022.3197623
+mou2021DeepReinforcementLearning:
+  title: Deep Reinforcement Learning Based Three-Dimensional Area Coverage With UAV
+    Swarm
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088718
+mou2022ResilientUAVSwarm:
+  title: Resilient UAV Swarm Communications with Graph Convolutional Neural Network
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2022'
+  doi: 10.1109/JSAC.2021.3126047
+mu2021IntelligentReflectingSurface:
+  title: Intelligent Reflecting Surface Enhanced Multi-UAV NOMA Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088679
+natalizio2020TakeFieldYour:
+  title: 'Take the Field from Your Smartphone: Leveraging UAVs for Event Filming'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2020'
+  doi: 10.1109/TMC.2019.2917176
+new2021InterferenceAwareNOMACellularConnected:
+  title: 'Interference-Aware NOMA for Cellular-Connected UAVs: Stochastic Geometry
+    Analysis'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088671
+nguyen2022RISAssistedUAVCommunications:
+  title: RIS-Assisted UAV Communications for IoT With Wireless Power Transfer Using
+    Deep Reinforcement Learning
+  venue: IEEE Journal of Selected Topics in Signal Processing
+  year: '2022'
+  doi: 10.1109/JSTSP.2022.3172587
+ning20215GEnabledUAVtoCommunityOffloading:
+  title: '5G-Enabled UAV-to-Community Offloading: Joint Trajectory Design and Task
+    Scheduling'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088663
+ning2023DynamicComputationOffloading:
+  title: Dynamic Computation Offloading and Server Deployment for UAV-Enabled Multi-Access
+    Edge Computing
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2021.3129785
+nouri2023MultiUAVPlacementUser:
+  title: Multi-UAV Placement and User Association in Uplink MIMO Ultra-Dense Wireless
+    Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2021.3108960
+OmnigeneralizableNeuralMethods:
+  title: Towards Omni-Generalizable Neural Methods for Vehicle Routing Problems
+pan2023ExtendingDeliveryRange:
+  title: Extending Delivery Range and Decelerating Battery Aging of Logistics UAVs
+    Using Public Buses
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3167040
+pan2024ResourceSchedulingUAVsaided:
+  title: 'Resource Scheduling for UAVs-aided D2D Networks: A Multi-Objective Optimization
+    Approach'
+  venue: IEEE Transactions on Wireless Communications
+  year: '2024'
+  doi: 10.1109/TWC.2023.3321648
+pang2023UbiPoseUbiquitousOutdoor:
+  title: 'UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking Using Aerial Meshes'
+  venue: Proceedings of the 29th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2023'
+  doi: 10.1145/3570361.3613263
+PARAMethodpdf:
+  title: The PARA Method.Pdf
+peng2021MultiAgentReinforcementLearning:
+  title: Multi-Agent Reinforcement Learning Based Resource Management in MEC- and
+    UAV-Assisted Vehicular Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2020.3036962
+peng2023SkyNetMultiDroneCooperation:
+  title: 'SkyNet: Multi-Drone Cooperation for Real-Time Person Identification and
+    Localization'
+  venue: IEEE INFOCOM 2023 - IEEE Conference on Computer Communications
+  year: '2023'
+  doi: 10.1109/INFOCOM53939.2023.10228978
+prasad20233DDeploymentTrajectory:
+  title: 3-D Deployment and Trajectory Planning for Relay Based UAV Assisted Cooperative
+    Communication for Emergency Scenarios Using Dijkstra's Algorithm
+  venue: IEEE Transactions on Vehicular Technology
+  year: '2023'
+  doi: 10.1109/TVT.2022.3224304
+qi2023CoalitionalFormationBasedGroupBuying:
+  title: 'Coalitional Formation-Based Group-Buying for UAV-Enabled Data Collection:
+    An Auction Game Approach'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3211447
+qi2023TaskDrivenSequentialOverlapping:
+  title: A Task-Driven Sequential Overlapping Coalition Formation Game for Resource
+    Allocation in Heterogeneous UAV Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3165965
+QiaPianHeBiJiFaDeShuWeiYingYongShiZhanZhiNanpdf:
+  title: 卡片盒筆記法的數位應用實戰指南.Pdf
+qin2023JointOptimizationResource:
+  title: Joint Optimization of Resource Allocation, Phase Shift, and UAV Trajectory
+    for Energy-Efficient RIS-assisted UAV-enabled MEC Systems
+  venue: IEEE Transactions on Green Communications and Networking
+  year: '2023'
+  doi: 10.1109/TGCN.2023.3287604
+qu2021ServiceProvisioningUAVEnabled:
+  title: Service Provisioning for UAV-Enabled Mobile Edge Computing
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088660
+qu2022LearningbasedMultiDroneNetwork:
+  title: Learning-Based Multi-Drone Network Edge Orchestration for Video Analytics
+  venue: IEEE INFOCOM 2022 - IEEE Conference on Computer Communications
+  year: '2022'
+  doi: 10.1109/INFOCOM48880.2022.9796706
+radoglou-grammatikis2020CompilationUAVApplications:
+  title: A Compilation of UAV Applications for Precision Agriculture
+  venue: Computer Networks
+  year: '2020'
+  doi: 10.1016/j.comnet.2020.107148
+rashid2020SocialDroneIntegratedSocial:
+  title: 'SocialDrone: An Integrated Social Media and Drone Sensing System for Reliable
+    Disaster Response'
+  venue: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
+  year: '2020'
+  doi: 10.1109/INFOCOM41043.2020.9155522
+reus-muns2023FlyingStarsJammingresilient:
+  title: 'emphFlying emphAmong Starsemph: Jamming-resilient Channel Selection for
+    UAVs through Aerial Constellationsemph'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2021.3102883
+sabzehali2022OptimizingNumberPlacement:
+  title: Optimizing Number, Placement, and Backhaul Connectivity of Multi-UAV Networks
+  venue: IEEE Internet of Things Journal
+  year: '2022'
+  doi: 10.1109/JIOT.2022.3184323
+saeed2021VariableBandwidthModelCapacity:
+  title: Variable-Bandwidth Model and Capacity Analysis for Aerial Communications
+    in the Terahertz Band
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3071831
+saha2022SurveillanceUnevenSurface:
+  title: Surveillance of Uneven Surface With Self-Organizing Unmanned Aerial Vehicles
+  venue: IEEE Transactions on Mobile Computing
+  year: '2022'
+  doi: 10.1109/TMC.2020.3022075
+samir2021LeveragingUAVsCoverage:
+  title: 'Leveraging UAVs for Coverage in Cell-Free Vehicular Networks: A Deep Reinforcement
+    Learning Approach'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2021'
+  doi: 10.1109/TMC.2020.2991326
+samir2022OnlineAltitudeControl:
+  title: Online Altitude Control and Scheduling Policy for Minimizing AoI in UAV-assisted
+    IoT Wireless Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2022'
+  doi: 10.1109/TMC.2020.3042925
+sanchez2022MillimeterWaveBaseStations:
+  title: 'Millimeter-Wave Base Stations in the Sky: An Experimental Study of UAV-to-Ground
+    Communications'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2022'
+  doi: 10.1109/TMC.2020.3013575
+sawadsitang2019JointGroundAerial:
+  title: 'Joint Ground and Aerial Package Delivery Services: A Stochastic Optimization
+    Approach'
+  venue: IEEE Transactions on Intelligent Transportation Systems
+  year: '2019'
+  doi: 10.1109/TITS.2018.2865893
+schettler2020HowTrainYour:
+  title: How to Train Your ITS? Integrating Machine Learning with Vehicular Network
+    Simulation
+  venue: 2020 IEEE Vehicular Networking Conference (VNC)
+  year: '2020'
+  doi: 10.1109/VNC51378.2020.9318324
+seid2021CollaborativeComputationOffloading:
+  title: 'Collaborative Computation Offloading and Resource Allocation in Multi-UAV-Assisted
+    IoT Networks: A Deep Reinforcement Learning Approach'
+  venue: IEEE Internet of Things Journal
+  year: '2021'
+  doi: 10.1109/JIOT.2021.3063188
+sekander2021StatisticalPerformanceModeling:
+  title: Statistical Performance Modeling of Solar and Wind-Powered UAV Communications
+  venue: IEEE Transactions on Mobile Computing
+  year: '2021'
+  doi: 10.1109/TMC.2020.2983955
+seo2020Constructing3dimensional5G:
+  title: Constructing 3-Dimensional 5G Coverage Map for Real-Time Airborne Missions
+  venue: Proceedings of the 26th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2020'
+  doi: 10.1145/3372224.3418160
+shan2020LookingCrossingOptimal:
+  title: 'Looking before Crossing: An Optimal Algorithm to Minimize UAV Energy by
+    Speed Scheduling with a Practical Flight Energy Model'
+  venue: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
+  year: '2020'
+  doi: 10.1109/INFOCOM41043.2020.9155376
+shan2023EnergyEfficientGeneralPoIVisiting:
+  title: Energy-Efficient General PoI-Visiting by UAV with a Practical Flight Energy
+    Model
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3199237
+sharma2023BEAVISBalloonEnabled:
+  title: 'BEAVIS: Balloon Enabled Aerial Vehicle for IoT and Sensing'
+  venue: Proceedings of the 29th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2023'
+  doi: 10.1145/3570361.3592498
+sharp2022AuthenticationDroneDelivery:
+  title: Authentication for Drone Delivery through a Novel Way of Using Face Biometrics
+  venue: Proceedings of the 28th Annual International Conference on Mobile Computing
+    And Networking
+  year: '2022'
+  doi: 10.1145/3495243.3560550
+shen2022UserExperienceOriented:
+  title: User Experience Oriented Task Computation for UAV-Assisted MEC System
+  venue: INFOCOM
+  year: '2022'
+  doi: 10.1109/INFOCOM48880.2022.9796968
+sie2023BatMobilityFlyingSeeing:
+  title: 'BatMobility: Towards Flying Without Seeing for Autonomous Drones'
+  venue: Proceedings of the 29th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2023'
+  doi: 10.1145/3570361.3592532
+song2021EnhancedFloodingBasedRouting:
+  title: 'Enhanced Flooding-Based Routing Protocol for Swarm UAV Networks: Random
+    Network Coding Meets Clustering'
+  venue: IEEE INFOCOM 2021 - IEEE Conference on Computer Communications
+  year: '2021'
+  doi: 10.1109/INFOCOM42981.2021.9488721
+song2021MultiUAVTrajectoryOptimization:
+  title: Multi-UAV Trajectory Optimization Considering Collisions in FSO Communication
+    Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088665
+song2022ComprehensiveSurveyAerial:
+  title: 'A Comprehensive Survey on Aerial Mobile Edge Computing: Challenges, State-of-the-Art,
+    and Future Directions'
+  venue: Computer Communications
+  year: '2022'
+  doi: 10.1016/j.comcom.2022.05.004
+song2023EvolutionaryMultiObjectiveReinforcement:
+  title: Evolutionary Multi-Objective Reinforcement Learning Based Trajectory Control
+    and Task Offloading in UAV-Assisted Mobile Edge Computing
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3208457
+sorbelli2022MeasurementErrorsRangeBased:
+  title: 'Measurement Errors in Range-Based Localization Algorithms for UAVs: Analysis
+    and Experimentation'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2022'
+  doi: 10.1109/TMC.2020.3020584
+stroustrup2023Tour:
+  title: A Tour of C++
+  year: '2023'
+suiLearning3optHeuristics:
+  title: Learning 3-Opt Heuristics for Traveling Salesman Problem via Deep Reinforcement
+    Learning
+sun2021TimeEnergyMinimization:
+  title: 'Time and Energy Minimization Communications Based on Collaborative Beamforming
+    for UAV Networks: A Multi-Objective Optimization Method'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088720
+sun2021TwoTierCommunicationUAVEnabled:
+  title: 'Two-Tier Communication for UAV-Enabled Massive IoT Systems: Performance
+    Analysis and Joint Design of Trajectory and Resource Allocation'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2020.3018855
+sun2022TradingChargingSensing:
+  title: Trading off Charging and Sensing for Stochastic Events Monitoring in WRSNs
+  venue: IEEE/ACM Transactions on Networking
+  year: '2022'
+  doi: 10.1109/TNET.2021.3122130
+sun2024MultitaskorientedUAVCrowd:
+  title: Multi-Task-Oriented UAV Crowd Sensing with Charging Budget Constraint
+  venue: Proceedings of the Twenty-fifth International Symposium on Theory, Algorithmic
+    Foundations, and Protocol Design for Mobile Networks and Mobile Computing
+  year: '2024'
+  doi: 10.1145/3641512.3686367
+sun2024TwoTimescaleJoint:
+  title: A Two Time-Scale Joint Optimization Approach for UAV-assisted MEC
+  venue: IEEE INFOCOM 2024 - IEEE Conference on Computer Communications
+  year: '2024'
+  doi: 10.1109/INFOCOM52122.2024.10621095
+SunEnChang2024JiYuGaoKongPingTaiDeBianYuanJiSuanXieZaiWangLuoSuanFaHeZhanWang:
+  title: 基于高空平台的边缘计算卸载：网络、算法和展望
+  venue: 北京工业大学学报
+  year: '2024'
+talarn2023RealtimeGeneration3Dimensional:
+  title: Real-Time Generation of 3-Dimensional Representations of Static Objects Using
+    Small Unmanned Aerial Vehicles
+  venue: Proceedings of the 29th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2023'
+  doi: 10.1145/3570361.3614078
+tan2022JointOffloadingResource:
+  title: Joint Offloading and Resource Allocation Based on UAV-Assisted Mobile Edge
+    Computing
+  venue: ACM Transactions on Sensor Networks
+  year: '2022'
+  doi: 10.1145/3476512
+tang2020C14AssuredTimestamps:
+  title: 'C-14: Assured Timestamps for Drone Videos'
+  venue: Proceedings of the 26th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2020'
+  doi: 10.1145/3372224.3419196
+tang2021AerodynamicComputerVision:
+  title: An Aerodynamic, Computer Vision, and Network Simulator for Networked Drone
+    Applications
+  venue: Proceedings of the 27th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2021'
+  doi: 10.1145/3447993.3482862
+thibbotuwawa2019EnergyConsumptionUnmanned:
+  title: 'Energy Consumption in Unmanned Aerial Vehicles: A Review of Energy Consumption
+    Models and Their Relation to the UAV Routing'
+  venue: 'Information Systems Architecture and Technology: Proceedings of 39th International
+    Conference on Information Systems Architecture and Technology -- ISAT 2018'
+  year: '2019'
+  doi: 10.1007/978-3-319-99996-8_16
+tian2024MobiScatterEnhancingCapacity:
+  title: 'MobiScatter: Enhancing Capacity in Drone-Assisted High-Concurrency Backscatter
+    Networks'
+  venue: IEEE/ACM Transactions on Networking
+  year: '2024'
+  doi: 10.1109/TNET.2023.3290168
+tripathi2023WiSwarmAgeofInformationbasedWireless:
+  title: 'WiSwarm: Age-of-Information-based Wireless Networking for Collaborative
+    Teams of UAVs'
+  venue: IEEE INFOCOM 2023 - IEEE Conference on Computer Communications
+  year: '2023'
+  doi: 10.1109/INFOCOM53939.2023.10228860
+tsai2023CompletionTimeMinimization:
+  title: Completion Time Minimization for UAV-Enabled Surveillance Over Multiple Restricted
+    Regions
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3200732
+tuan2021MPCBasedUAVNavigation:
+  title: MPC-Based UAV Navigation for Simultaneous Solar-Energy Harvesting and Two-Way
+    Communications
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088633
+vaswaniAttentionAllYou:
+  title: Attention Is All You Need
+vo2023OutageProbabilityMinimization:
+  title: 'Outage Probability Minimization in Secure NOMA Cognitive Radio Systems with
+    UAV Relay: A Machine Learning Approach'
+  venue: IEEE Transactions on Cognitive Communications and Networking
+  year: '2023'
+  doi: 10.1109/TCCN.2022.3226184
+wang2020PlacementUnmannedAerial:
+  title: Placement of Unmanned Aerial Vehicles for Directional Coverage in 3D Space
+  venue: IEEE/ACM Transactions on Networking
+  year: '2020'
+  doi: 10.1109/TNET.2020.2974923
+wang2021EconomicAnalysisUnmanned:
+  title: Economic Analysis of Unmanned Aerial Vehicle (UAV) Provided Mobile Services
+  venue: IEEE Transactions on Mobile Computing
+  year: '2021'
+  doi: 10.1109/TMC.2020.2973088
+wang2021HoveringUAVBasedFSO:
+  title: 'Hovering UAV-Based FSO Communications: Channel Modelling, Performance Analysis,
+    and Parameter Optimization'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088656
+wang2021HybridSatelliteUAVTerrestrialNetworks:
+  title: 'Hybrid Satellite-UAV-Terrestrial Networks for 6G Ubiquitous Coverage: A
+    Maritime Communications Perspective'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088692
+wang2021LifesavingRescueChainEnergyEfficient:
+  title: 'Lifesaving with RescueChain: Energy-Efficient and Partition-Tolerant Blockchain
+    Based Secure Information Sharing for UAV-Aided Disaster Rescue'
+  venue: IEEE INFOCOM 2021 - IEEE Conference on Computer Communications
+  year: '2021'
+  doi: 10.1109/INFOCOM42981.2021.9488719
+wang2021Robust3DTrajectoryTime:
+  title: Robust 3D-Trajectory and Time Switching Optimization for Dual-UAV-Enabled
+    Secure Communications
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088628
+wang2022DeepReinforcementLearning:
+  title: Deep Reinforcement Learning Based Dynamic Trajectory Control for UAV-Assisted
+    Mobile Edge Computing
+  venue: IEEE Transactions on Mobile Computing
+  year: '2022'
+  doi: 10.1109/TMC.2021.3059691
+wang2022DeploymentUnmannedAerial:
+  title: Deployment of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2022'
+  doi: 10.1109/TMC.2020.3012791
+wang2022TaskOffloadingPostDisaster:
+  title: Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks
+  venue: IEEE/ACM Transactions on Networking
+  year: '2022'
+  doi: 10.1109/TNET.2022.3140796
+wang2023ChaseWaitDynamic:
+  title: 'Chase or Wait: Dynamic UAV Deployment to Learn and Catch Time-Varying User
+    Activities'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2021.3107027
+wang2023DynamicUAVDeployment:
+  title: 'Dynamic UAV Deployment for Differentiated Services: A Multi-Agent Imitation
+    Learning Based Approach'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2021.3116236
+wang2023JointTrajectoryPassive:
+  title: 'Joint Trajectory and Passive Beamforming Design for Intelligent Reflecting
+    Surface-Aided UAV Communications: A Deep Reinforcement Learning Approach'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3200998
+wang2023JointUAVPlacement:
+  title: 'Joint UAV Placement Optimization, Resource Allocation, and Computation Offloading
+    for THz Band: A DRL Approach'
+  venue: IEEE Transactions on Wireless Communications
+  year: '2023'
+  doi: 10.1109/TWC.2022.3230407
+wang2023MultiUAVCooperativeTrajectory:
+  title: Multi-UAV Cooperative Trajectory for Servicing Dynamic Demands and Charging
+    Battery
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2021.3110299
+wang2023SecureIntelligentData:
+  title: A Secure and Intelligent Data Sharing Scheme for UAV-Assisted Disaster Rescue
+  venue: IEEE/ACM Transactions on Networking
+  year: '2023'
+  doi: 10.1109/TNET.2022.3226458
+WangWei2021JiYuXuanYiWuRenJiJinDiMianKongJianYingJiWuLianWangJieDianDongTaiXieTongBuShu:
+  title: 基于旋翼无人机近地面空间应急物联网节点动态协同部署
+  venue: 自动化学报
+  year: '2021'
+  doi: 10.16383/j.aas.c180146
+wei2022UAVAssistedDataCollection:
+  title: 'UAV-Assisted Data Collection for Internet of Things: A Survey'
+  venue: IEEE Internet of Things Journal
+  year: '2022'
+  doi: 10.1109/JIOT.2022.3176903
+wu2020AdaptiveExtensibleEnergy:
+  title: Adaptive and Extensible Energy Supply Mechanism for UAVs-Aided Wireless-Powered
+    Internet of Things
+  venue: IEEE Internet of Things Journal
+  year: '2020'
+  doi: 10.1109/JIOT.2020.3005133
+wu2020DelaysensitiveTrajectoryDesigning:
+  title: Delay-Sensitive Trajectory Designing for UAV-enabled Data Collection in Internet
+    of Things
+  venue: Proceedings of the ACM Turing Celebration Conference - China
+  year: '2020'
+  doi: 10.1145/3393527.3393541
+wu2020LoadBalanceTrajectory:
+  title: Load Balance and Trajectory Design in Multi-UAV Aided Large-Scale Wireless
+    Rechargeable Networks
+  venue: IEEE Transactions on Vehicular Technology
+  year: '2020'
+  doi: 10.1109/TVT.2020.3026788
+wu2020OptimalUAVCaching:
+  title: 'Optimal UAV Caching and Trajectory in Aerial-Assisted Vehicular Networks:
+    A Learning-Based Approach'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2020'
+  doi: 10.1109/JSAC.2020.3005469
+wu2020TrajectoryOptimizationUAVs:
+  title: Trajectory Optimization for UAVs' Efficient Charging in Wireless Rechargeable
+    Sensor Networks
+  venue: IEEE Transactions on Vehicular Technology
+  year: '2020'
+  doi: 10.1109/TVT.2020.2969220
+wu2021ComprehensiveOverview5GandBeyond:
+  title: 'A Comprehensive Overview on 5G-and-Beyond Networks With UAVs: From Communications
+    to Sensing and Intelligence'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088681
+wu2022NovelAIBasedFramework:
+  title: A Novel AI-Based Framework for AoI-Optimal Trajectory Planning in UAV-Assisted
+    Wireless Sensor Networks
+  venue: IEEE Transactions on Wireless Communications
+  year: '2022'
+  doi: 10.1109/TWC.2021.3112568
+wu2023FlyTrackerMotionTracking:
+  title: 'FlyTracker: Motion Tracking and Obstacle Detection for Drones Using Event
+    Cameras'
+  venue: IEEE INFOCOM 2023 - IEEE Conference on Computer Communications
+  year: '2023'
+  doi: 10.1109/INFOCOM53939.2023.10228976
+wu2024PreciseUAVMMWVision:
+  title: 'Precise UAV MMW-Vision Positioning: A Modal-Oriented Self-Tuning Fusion
+    Framework'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2024'
+  doi: 10.1109/JSAC.2023.3322851
+wu2025DRLbasedTrajectoryOptimization:
+  title: DRL-based Trajectory Optimization and Computation-Aware Resource Allocation
+    for UAV-assisted Edge Computing Networks
+  venue: IEEE Internet of Things Journal
+  year: '2025'
+  doi: 10.1109/JIOT.2025.3597502
+wu2025UAVenabledDynamicData:
+  title: UAV-enabled Dynamic Data Collection and Energy Replenishment in Large-Scale
+    IoT Networks
+  venue: 2025 34th International Conference on Computer Communications and Networks
+    (ICCCN)
+  year: '2025'
+  doi: 10.1109/ICCCN65249.2025.11133979
+wu2026ServiceorientedSegmentedTrajectory:
+  title: Service-Oriented Segmented Trajectory Design for Low-Altitude UAV-assisted
+    MEC Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2026'
+  doi: 10.1109/TMC.2025.3605865
+wyner2014FluentForeverHow:
+  title: 'Fluent Forever: How to Learn Any Language Fast and Never Forget It'
+  year: '2014'
+xia2022MultiagentCollaborativeLearning:
+  title: Multiagent Collaborative Learning for UAV Enabled Wireless Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2022'
+  doi: 10.1109/JSAC.2022.3191329
+xia2023AnemoiLowcostSensorless:
+  title: 'Anemoi: A Low-cost Sensorless Indoor Drone System for Automatic Mapping
+    of 3D Airflow Fields'
+  venue: Proceedings of the 29th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2023'
+  doi: 10.1145/3570361.3613292
+xia2024SurveyUAVEnabledEdge:
+  title: 'A Survey on UAV-Enabled Edge Computing: Resource Management Perspective'
+  venue: ACM Computing Surveys
+  year: '2024'
+  doi: 10.1145/3626566
+xiao2022SensorAssistedRateAdaptation:
+  title: Sensor-Assisted Rate Adaptation for UAV MU-MIMO Networks
+  venue: IEEE/ACM Transactions on Networking
+  year: '2022'
+  doi: 10.1109/TNET.2021.3136911
+xin2021NeuroLKHCombiningDeep:
+  title: 'NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic
+    for Solving the Traveling Salesman Problem'
+  year: '2021'
+  doi: 10.48550/arXiv.2110.07983
+xin2021NeuroLKHCombiningDeepa:
+  title: 'NeuroLKH: Combining Deep Learning Model with Lin-Kernighan-Helsgaun Heuristic
+    for Solving the Traveling Salesman Problem'
+  year: '2021'
+  doi: 10.48550/arXiv.2110.07983
+xu2021StrategicLearningApproach:
+  title: Strategic Learning Approach for Deploying UAV-Provided Wireless Services
+  venue: IEEE Transactions on Mobile Computing
+  year: '2021'
+  doi: 10.1109/TMC.2019.2953726
+xu2022MinimizingDeploymentCost:
+  title: Minimizing the Deployment Cost of UAVs for Delay-Sensitive Data Collection
+    in IoT Networks
+  venue: IEEE/ACM Transactions on Networking
+  year: '2022'
+  doi: 10.1109/TNET.2021.3123606
+xu2022ThroughputMaximizationUAV:
+  title: Throughput Maximization of UAV Networks
+  venue: IEEE/ACM Transactions on Networking
+  year: '2022'
+  doi: 10.1109/TNET.2021.3125982
+xu2023AerialEdgeComputing:
+  title: 'Aerial Edge Computing: Flying Attitude-Aware Collaboration for Multi-UAV'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3179399
+xu2023TamingEventCameras:
+  title: 'Taming Event Cameras with Bio-Inspired Architecture and Algorithm: A Case
+    for Drone Obstacle Avoidance'
+  venue: Proceedings of the 29th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2023'
+  doi: 10.1145/3570361.3613269
+yan2021OptimalTransmitPower:
+  title: Optimal Transmit Power and Flying Location for UAV Covert Wireless Communications
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088667
+yang2020CEDARCostEffectiveCrowdsensing:
+  title: 'CEDAR: A Cost-Effective Crowdsensing System for Detecting and Localizing
+    Drones'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2020'
+  doi: 10.1109/TMC.2019.2921962
+yang2021PrivacyPreservingFederatedLearning:
+  title: 'Privacy-Preserving Federated Learning for UAV-Enabled Networks: Learning-Based
+    Joint Scheduling and Resource Management'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088655
+yang2021ProactiveUAVNetwork:
+  title: Proactive UAV Network Slicing for URLLC and Mobile Broadband Service Multiplexing
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088624
+yao2021ResourceAllocation5GUAVBased:
+  title: Resource Allocation for 5G-UAV-Based Emergency Wireless Communications
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088684
+ye2023DeepACONeuralenhancedAnt:
+  title: 'DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization'
+  year: '2023'
+ye2023DeepACONeuralenhancedAnta:
+  title: 'DeepACO: Neural-enhanced Ant Systems for Combinatorial Optimization'
+  year: '2023'
+ye2023MultiUAVNavigationPartially:
+  title: Multi-UAV Navigation for Partially Observable Communication Coverage by Graph
+    Reinforcement Learning
+  venue: IEEE Transactions on Mobile Computing
+  year: '2023'
+  doi: 10.1109/TMC.2022.3146881
+yeReEvoLargeLanguage:
+  title: 'ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution'
+yin2023ObserverbasedEventtriggeredSliding:
+  title: Observer-Based Event-Triggered Sliding Mode Control for Secure Formation
+    Tracking of Multi-UAV Systems
+  venue: IEEE Transactions on Network Science and Engineering
+  year: '2023'
+  doi: 10.1109/TNSE.2022.3223978
+yu20203DChannelTracking:
+  title: 3D Channel Tracking for UAV-Satellite Communications in Space-Air-Ground
+    Integrated Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2020'
+  doi: 10.1109/JSAC.2020.3005490
+yuan2021JointDesignUAV:
+  title: Joint Design of UAV Trajectory and Directional Antenna Orientation in UAV-Enabled
+    Wireless Power Transfer Networks
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088682
+yuan2021NovelOptimalTrajectory:
+  title: 'Novel Optimal Trajectory Design in UAV-Assisted Networks: A Mechanical Equivalence-Based
+    Strategy'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088627
+yuan2021TrajectoryDesignUAVEnabled:
+  title: Trajectory Design for UAV-Enabled Multiuser Wireless Power Transfer With
+    Nonlinear Energy Harvesting
+  venue: IEEE Transactions on Wireless Communications
+  year: '2021'
+  doi: 10.1109/TWC.2020.3030773
+zeng2019EnergyMinimizationWireless:
+  title: Energy Minimization for Wireless Communication with Rotary-Wing UAV
+  venue: IEEE Transactions on Wireless Communications
+  year: '2019'
+  doi: 10.1109/TWC.2019.2902559
+zhan2022EnergyEfficientTrajectoryOptimization:
+  title: Energy-Efficient Trajectory Optimization for Aerial Video Surveillance under
+    QoS Constraints
+  venue: IEEE INFOCOM 2022 - IEEE Conference on Computer Communications
+  year: '2022'
+  doi: 10.1109/INFOCOM48880.2022.9796696
+zhang2020DroneenabledInternetofthingsRelay:
+  title: Drone-Enabled Internet-of-Things Relay for Environmental Monitoring in Remote
+    Areas without Public Networks
+  venue: IEEE Internet of Things Journal
+  year: '2020'
+  doi: 10.1109/JIOT.2020.2988249
+zhang2020EnergyEfficiencyOptimization:
+  title: Energy Efficiency Optimization for NOMA UAV Network With Imperfect CSI
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2020'
+  doi: 10.1109/JSAC.2020.3005489
+zhang2020EnergyEfficientResourceAllocation:
+  title: Energy-Efficient Resource Allocation and Trajectory Design for UAV Relaying
+    Systems
+  venue: IEEE Transactions on Communications
+  year: '2020'
+  doi: 10.1109/TCOMM.2020.3009153
+zhang2020RFBackscatterbasedState:
+  title: RF Backscatter-based State Estimation for Micro Aerial Vehicles
+  venue: IEEE INFOCOM 2020 - IEEE Conference on Computer Communications
+  year: '2020'
+  doi: 10.1109/INFOCOM41043.2020.9155463
+zhang2021AoIDrivenStatisticalDelay:
+  title: AoI-Driven Statistical Delay and Error-Rate Bounded QoS Provisioning for
+    mURLLC Over UAV-Multimedia 6G Mobile Networks Using FBC
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088625
+zhang2021MinimizingNumberDeployed:
+  title: Minimizing the Number of Deployed UAVs for Delay-bounded Data Collection
+    of IoT Devices
+  venue: IEEE INFOCOM 2021 - IEEE Conference on Computer Communications
+  year: '2021'
+  doi: 10.1109/INFOCOM42981.2021.9488887
+zhang2021StatisticalDelayErrorRate:
+  title: Statistical Delay and Error-Rate Bounded QoS Provisioning for 6G mURLLC Over
+    AoI-Driven and UAV-Enabled Wireless Networks
+  venue: IEEE INFOCOM 2021 - IEEE Conference on Computer Communications
+  year: '2021'
+  doi: 10.1109/INFOCOM42981.2021.9488836
+zhang2022EnergyEfficientTrajectoryOptimization:
+  title: Energy-Efficient Trajectory Optimization for UAV-Assisted IoT Networks
+  venue: IEEE Transactions on Mobile Computing
+  year: '2022'
+  doi: 10.1109/TMC.2021.3075083
+zhang2022IntelligentCachingUAVAided:
+  title: Intelligent Caching in UAV-Aided Networks
+  venue: IEEE Transactions on Vehicular Technology
+  year: '2022'
+  doi: 10.1109/TVT.2021.3125396
+zhang2022JointResourceDeployment:
+  title: Joint Resource, Deployment, and Caching Optimization for AR Applications
+    in Dynamic UAV NOMA Networks
+  venue: IEEE Transactions on Wireless Communications
+  year: '2022'
+  doi: 10.1109/TWC.2021.3121584
+zhang2022LearningSolveTravelling:
+  title: Learning to Solve Travelling Salesman Problem with Hardness-Adaptive Curriculum
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence
+  year: '2022'
+  doi: 10.1609/aaai.v36i8.20899
+zhang2023ContentawareTransmissionUAVassisted:
+  title: Content-Aware Transmission in UAV-assisted Multicast Communication
+  venue: IEEE Transactions on Wireless Communications
+  year: '2023'
+  doi: 10.1109/TWC.2023.3248266
+zhang2023FirstAI4TSPCompetition:
+  title: 'The First AI4TSP Competition: Learning to Solve Stochastic Routing Problems'
+  venue: Artificial Intelligence
+  year: '2023'
+  doi: 10.1016/j.artint.2023.103918
+zhang2023RFSearchSearchingUnconscious:
+  title: 'RF-Search: Searching Unconscious Victim in Smoke Scenes with RF-enabled
+    Drone'
+  venue: Proceedings of the 29th Annual International Conference on Mobile Computing
+    and Networking
+  year: '2023'
+  doi: 10.1145/3570361.3613305
+zhang2023SolvingDynamicTraveling:
+  title: Solving Dynamic Traveling Salesman Problems With Deep Reinforcement Learning
+  venue: IEEE Transactions on Neural Networks and Learning Systems
+  year: '2023'
+  doi: 10.1109/TNNLS.2021.3105905
+ZhangXiaoDong2023BianYuanZhiNengYanJiuJinZhan:
+  title: 边缘智能研究进展
+  venue: 计算机研究与发展
+  year: '2023'
+ZhangYiLin2021YiDongBianYuanJiSuanZhongJiSuanXieZaiFangAnYanJiuZongShu:
+  title: 移动边缘计算中计算卸载方案研究综述
+  venue: 计算机学报
+  year: '2021'
+zhao2021MultiUAVTrajectoryPlanning:
+  title: 'Multi-UAV Trajectory Planning for Energy-Efficient Content Coverage: A Decentralized
+    Learning-Based Approach'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088669
+zhao2022DroneSenseLeveragingDrones:
+  title: 'DroneSense: Leveraging Drones for Sustainable Urban-scale Sensing of Open
+    Parking Spaces'
+  venue: IEEE INFOCOM 2022 - IEEE Conference on Computer Communications
+  year: '2022'
+  doi: 10.1109/INFOCOM48880.2022.9796795
+zhao2025MathematicalFoundationsReinforcement:
+  title: Mathematical Foundations of Reinforcement Learning
+  year: '2025'
+  doi: 10.1007/978-981-97-3944-8
+zheng2021CombiningReinforcementLearning:
+  title: Combining Reinforcement Learning with Lin-Kernighan-Helsgaun Algorithm for
+    the Traveling Salesman Problem
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence
+  year: '2021'
+  doi: 10.1609/aaai.v35i14.17476
+zheng2021UAVCommunicationsWPTAided:
+  title: UAV Communications With WPT-Aided Cell-Free Massive MIMO Systems
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088632
+zhong2020JointOptimizationRelay:
+  title: Joint Optimization of Relay Deployment, Channel Allocation, and Relay Assignment
+    for UAVs-Aided D2D Networks
+  venue: IEEE/ACM Transactions on Networking
+  year: '2020'
+  doi: 10.1109/TNET.2020.2970744
+zhou2021UAVEnabledCovertWireless:
+  title: UAV-Enabled Covert Wireless Data Collection
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2021'
+  doi: 10.1109/JSAC.2021.3088688
+zhou2022ComputationBitsMaximization:
+  title: Computation Bits Maximization in UAV-Assisted MEC Networks With Fairness
+    Constraint
+  venue: IEEE Internet of Things Journal
+  year: '2022'
+  doi: 10.1109/JIOT.2022.3177658
+zhou2022IntegratedSensingCommunication:
+  title: Integrated Sensing and Communication in UAV Swarms for Cooperative Multiple
+    Targets Tracking
+  venue: IEEE Transactions on Mobile Computing
+  year: '2022'
+  doi: 10.1109/TMC.2022.3193499
+zhou2022TwoTimeScaleJoint:
+  title: Two Time-Scale Joint Service Caching and Task Offloading for UAV-assisted
+    Mobile Edge Computing
+  venue: IEEE INFOCOM 2022 - IEEE Conference on Computer Communications
+  year: '2022'
+  doi: 10.1109/INFOCOM48880.2022.9796714
+zhou2023RACERRapidCollaborative:
+  title: 'RACER: Rapid Collaborative Exploration With a Decentralized Multi-UAV System'
+  venue: IEEE Transactions on Robotics
+  year: '2023'
+  doi: 10.1109/TRO.2023.3236945
+zhouDualOptDualDivideandoptimize:
+  title: 'DualOpt: A Dual Divide-and-Optimize Algorithm for the Large-Scale Traveling
+    Salesman Problem'
+zhouOmnigeneralizableNeuralMethods:
+  title: Towards Omni-Generalizable Neural Methods for Vehicle Routing Problems
+zhu2020MillimeterWaveFullDuplexUAV:
+  title: 'Millimeter-Wave Full-Duplex UAV Relay: Joint Positioning, Beamforming, and
+    Power Control'
+  venue: IEEE Journal on Selected Areas in Communications
+  year: '2020'
+  doi: 10.1109/JSAC.2020.3000879
+zhu2023UAVTrajectoryPlanning:
+  title: UAV Trajectory Planning for AoI-minimal Data Collection in UAV-aided IoT
+    Networks by Transformer
+  venue: IEEE Transactions on Wireless Communications
+  year: '2023'
+  doi: 10.1109/TWC.2022.3204438
+zhu2024MultiobjectiveDeploymentOptimization:
+  title: Multi-Objective Deployment Optimization of UAVs for Energy-Efficient Wireless
+    Coverage
+  venue: IEEE Transactions on Communications
+  year: '2024'
+  doi: 10.1109/TCOMM.2024.3356795
+zhu2024SkyOrbsFast3D:
+  title: 'SkyOrbs: A Fast 3-D Directional Neighbor Discovery Algorithm for UAV Networks'
+  venue: IEEE Transactions on Mobile Computing
+  year: '2024'
+  doi: 10.1109/TMC.2024.3451991

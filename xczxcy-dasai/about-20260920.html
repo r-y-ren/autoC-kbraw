@@ -1,0 +1,413 @@
+
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	
+    <title>安徽省乡村振兴创新创业大赛</title>
+    <meta name="keywords" content="安徽省乡村振兴创新创业大赛|高校创新创业大赛|乡村振兴创新创业大赛|创业创新大赛">
+    <meta name="description" content="安徽省乡村振兴创新创业大赛由安徽省乡村振兴促进会、安徽省城市规划学会为发起单位；安徽省农业农村厅、安徽省乡村振兴局、安徽省教育厅、安徽省住房和城乡建设厅、合肥市人民政府为指导单位；安徽省内11所高校进行主办的赛事，以乡村振兴，你我同行为主题，参赛选题围绕“五大振兴”即：产业振兴、人才振兴、文化振兴、生态振兴、组织振兴。">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='/static/home/css/font.css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+    <link href="/static/home/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <script src="/static/home/js/jquery.min.js"></script>
+    <!--start slider -->
+    <link rel="stylesheet" href="/static/home/css/fwslider.css" media="all">
+    <link rel="stylesheet" href="/static/home/css/swiper-bundle.min.css" />
+    <script src="/static/home/js/jquery-ui.min.js"></script>
+    <script src="/static/home/js/css3-mediaqueries.js"></script>
+    <script src="/static/home/js/fwslider.js"></script>
+    <!--end slider -->
+    <!---strat-date-piker---->
+    <link rel="stylesheet" href="/static/home/css/jquery-ui.css" />
+    <link rel="stylesheet" href="/static/home/css/bootstrap-icons.css" />
+    <script src="/static/home/js/jquery-ui.js"></script>
+    <script>
+        $(function () {
+            //---------------------利用datepicker创建时间段----------------  
+            $("#datepicker").datepicker({    //绑定开始日期  
+                minDate: 0,
+                dateFormat: "yy-mm-dd",
+                onClose: function (selectedDate) {
+                    $("#datepicker1").datepicker("option", "minDate", selectedDate);
+                }
+            });
+
+            $("#datepicker1").datepicker({  //设置结束绑定日期
+                dateFormat: "yy-mm-dd",
+                onClose: function (selectedDate) {
+                    $("#datepicker").datepicker("option", "maxDate", selectedDate);
+                }
+            });
+        });
+    </script>
+    <!---/End-date-piker---->
+
+    <script type="text/javascript" src="/static/home/js/JFCore.js"></script>
+    <script type="text/javascript" src="/static/home/js/JFForms.js"></script>
+    <!-- Set here the key for your domain in order to hide the watermark on the web server -->
+    
+
+	<style>
+		* {
+			box-sizing: border-box;
+		}
+
+		.bread-wrap {
+			height: 60px;
+			line-height: 60px;
+			background-color: #f4f4f4;
+			color: #333333;
+			font-size: 14px;
+		}
+
+		.bread-wrap .bi-geo-alt-fill {
+			color: #bbbbbb;
+		}
+
+		.bread-wrap a {
+			color: #333333;
+		}
+
+		.bread-wrap a:hover {
+			color: #0068b7;
+		}
+
+		.content {
+			background-color: #ffffff;
+			padding: 24px 0 40px;
+			display: flex;
+			justify-content: space-between;
+		}
+
+		.content-nav-wrap {
+			display: inline-block;
+			width: 250px;
+		}
+
+		.content-main-wrap {
+			width: 900px;
+			display: inline-block;
+		}
+
+		.content-main {
+			white-space: pre-line;
+			font-size: 14px;
+			line-height: 32px;
+		}
+
+		.content-main h1 {
+			font-size: 24px;
+		}
+
+		.content-nav-title {
+			width: 100%;
+			height: 100px;
+			background-color: #187fc4;
+			background-image: url(/static/home/images/logo_gray.png);
+			background-repeat: no-repeat;
+			background-position: bottom right;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			color: #ffffff;
+			font-size: 24px;
+		}
+
+		.content-nav-list {}
+
+		.content-nav {
+			cursor: pointer;
+			width: 100%;
+			height: 70px;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			font-size: 18px;
+			color: #333333;
+			padding: 0 20px;
+			background-color: #f6f6f6;
+			border-bottom: 1px solid #e5e5e5;
+			position: relative;
+		}
+
+		.content-nav.active,
+		.content-nav:hover {
+			background-color: #ffffff;
+			color: #187fc4;
+			height: 80px;
+		}
+
+		.content-nav.active::after,
+		.content-nav:hover::after {
+			content: "";
+			position: absolute;
+			left: 0;
+			bottom: 0;
+			width: 3px;
+			height: 70px;
+			background-color: #1d7fbb;
+		}
+
+		.banner {
+			/*display: none;*/
+			line-height: 0;
+		}
+
+		@media only screen and (max-width: 768px) {
+			.banner {
+				display: block;
+			}
+
+			.bread-wrap {
+				padding: 0 10px;
+				font-size: 12px;
+				height: 50px;
+				line-height: 50px;
+			}
+
+			.content {
+				flex-direction: column;
+			}
+
+			.content-nav-wrap {
+				box-sizing: border-box;
+				padding: 10px 25px;
+				width: 100%;
+				display: inline-block;
+			}
+
+			.content-nav-title {
+				height: 60px;
+				font-size: 14px;
+				background-size: auto 100%;
+			}
+
+			.content-nav {
+				height: 40px;
+				font-size: 14px;
+			}
+
+			.content-nav.active,
+			.content-nav:hover {
+				height: 48px;
+			}
+
+			.content-nav.active::after,
+			.content-nav:hover::after {
+				height: 40px;
+			}
+
+			.content-main-wrap {
+				box-sizing: border-box;
+				width: 100%;
+				display: inline-block;
+				padding: 20px;
+			}
+		}
+		
+	</style>
+</head>
+
+<body>
+	<!-- start header -->
+	<!-- start header -->
+    <div class="header_bg">
+        <div class="wrap">
+            <div class="header">
+                <div class="logo">
+                    <a href="/"><img src="/static/home/images/logo.png" alt=""></a>
+                </div>
+                <div class="h-moblie">
+                    <div class="h-moblie-menu-icon">
+                        <div class="h-moblie-menu-icon-line"></div>
+                        <div class="h-moblie-menu-icon-line"></div>
+                        <div class="h-moblie-menu-icon-line"></div>
+                    </div>
+                </div>
+                <div class="h_right">
+                    <!--start menu -->
+                    <ul class="menu">
+                        <li ><a href="/">首页</a>
+                                                    </li>
+                        <li class="active"><a href="/about.html">大赛介绍</a>
+                            <div class="line"></div>                        </li>
+                        <li ><a href="/news.html">新闻中心</a>
+                                                    </li>
+                        <li ><a href="/video.html">作品视频</a>
+                                                    </li>
+                        <li ><a href="/gallery.html">作品展示</a>
+                                                    </li>
+                        <li ><a href="/contact.html">联系我们</a>
+                                                    </li>
+                        <li ><a href="/select.html">在线报名</a>
+                                                    </li>
+                                            </ul>
+                    <!-- start profile_details -->
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    
+
+	<!-- banner -->
+	<div class="banner">
+		<img src="/public/uploads/20251215/7d3e6953b7d4ee4f2c9aa65c617112ae.jpg" alt="背景图" />
+	</div>
+
+	<div class="page-wrap">
+		<div class="bread-wrap">
+			<div class="page-card">
+				<i class="bi bi-geo-alt-fill"></i>
+				<a href="/">首页</a>
+				<span>/</span>
+				<a href="/about.html">大赛介绍</a>
+				<span>/</span>
+				<a href="javascript:;">大赛介绍</a>
+			</div>
+		</div>
+		<div class="page-card">
+			<div class="content">
+				<div class="content-nav-wrap">
+					<div class="content-nav-title">
+						<span>大赛介绍</span>
+					</div>
+					<div class="content-nav-list">
+						<div id="dsjs" class="content-nav  active">
+							<div class="content-nav-name">大赛介绍</div>
+							<div class="content-nav-other">
+								<i class="bi bi-chevron-right"></i>
+							</div>
+						</div>
+						<div id="dsrc" class="content-nav">
+							<div class="content-nav-name">大赛日程</div>
+							<div class="content-nav-other">
+								<i class="bi bi-chevron-right"></i>
+							</div>
+						</div>
+						<div id="cstj" class="content-nav">
+							<div class="content-nav-name">参赛条件</div>
+							<div class="content-nav-other">
+								<i class="bi bi-chevron-right"></i>
+							</div>
+						</div>
+						<div id="sdjs" class="content-nav">
+							<div class="content-nav-name">赛道介绍</div>
+							<div class="content-nav-other">
+								<i class="bi bi-chevron-right"></i>
+							</div>
+						</div>
+						<div id="jxsz" class="content-nav">
+							<div class="content-nav-name">奖项设置</div>
+							<div class="content-nav-other">
+								<i class="bi bi-chevron-right"></i>
+							</div>
+						</div>
+						<div id="zczc" class="content-nav">
+							<div class="content-nav-name">支持政策</div>
+							<div class="content-nav-other">
+								<i class="bi bi-chevron-right"></i>
+							</div>
+						</div>
+
+						
+
+					</div>
+				</div>
+				<div class="content-main-wrap">
+					<div class="content-main">
+						<p style="margin-top:8px;margin-right:24px;text-indent:37px;text-align:justify;text-justify:inter-ideograph;line-height:36px"><span style="font-family: 仿宋;font-size: 19px"></span></p><p style="margin-top: 8px; margin-right: 24px; margin-left: 19px; text-align: justify; line-height: 36px; text-indent: 2em;"><span style="font-family: 仿宋;font-size: 19px"></span></p><p style="text-indent: 37px; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"><font face="仿宋">为深入贯彻党的二十大精神和习近平总书记关于</font><font face="仿宋">“三农”工作的重要论述，认真落实省委省政府《关于实施“千村引领、万村升级”工程 加快建设彰显徽风皖韵的宜居宜业和美乡村的意见》、《创业安徽行动方案》和安徽省农业农村厅《关于加强引才留才促进乡村振兴的若干措施》（皖农发〔2024〕11 号）， 扎实推动“百校联百县兴千村”行动不断谋深走实，助力打造具有徽风皖韵的宜居宜业和美乡村，省农业农村厅、</font></span><span style="font-family: 仿宋;font-size: 19px">省委宣传部、</span><span style="font-family: 仿宋;font-size: 19px">省教育厅、省住房城乡建设厅、省人力资源社会保障厅、省商务厅、省文化和旅游厅研究决定，举办第</span><span style="font-family: 仿宋;font-size: 19px">四</span><span style="font-family: 仿宋;font-size: 19px">届安徽省乡村振兴创新创业大赛。</span><span style="font-family: 仿宋;font-size: 19px">通过大赛，进一步深入推动</span><span style="font-family: 仿宋;font-size: 19px">&nbsp;</span><span style="font-family: 仿宋;font-size: 19px">“政、校、社、企、村”五位一体联</span><span style="font-family: 仿宋;font-size: 19px">动机制</span><span style="font-family: 仿宋;font-size: 19px">，助力乡村振兴</span><span style="font-family: 仿宋;font-size: 19px">。</span></p><p style="text-indent: 37px; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"><br/></span></p><p style="text-indent: 21px; text-align: justify; line-height: 1.75em;"><b><span style="font-family: 黑体;font-size: 21px">一、大赛主题</span></b></p><p style="text-indent: 21px; text-align: justify; line-height: 1.75em;"><b><span style="font-family: 黑体;font-size: 21px"><br/></span></b></p><p style="text-indent: 19px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"></span></p><p style="text-indent: 19px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">青创徽韵</span><span style="font-family: 仿宋;font-size: 19px">，</span><span style="font-family: 仿宋;font-size: 19px">皖美</span><span style="font-family: 仿宋;font-size: 19px">乡村</span></p><p style="text-indent: 19px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"><br/></span></p><p style="text-indent: 21px; text-align: justify; line-height: 1.75em;"><b><span style="font-family: 黑体;font-size: 21px">二、举办单位</span></b></p><p style="text-indent: 21px; text-align: justify; line-height: 1.75em;"><b><span style="font-family: 黑体;font-size: 21px"><br/></span></b></p><p style="margin-top: 6px; margin-right: 26px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 黑体;font-size: 19px">1.主办</span><span style="font-family: 黑体;font-size: 19px">单位：</span><span style="font-family: 仿宋;font-size: 19px"></span><span style="font-family: 仿宋; font-size: 14pt;">省农业农村厅、</span><span style="font-family: 仿宋; font-size: 14pt;">省委宣传部、</span><span style="font-family: 仿宋; font-size: 14pt;">省</span><span style="font-family: 仿宋; font-size: 14pt;">教育厅、省住房城乡建设厅、省人力资源社会保障厅、省商务厅、省文化和旅游厅</span><span style="font-family: 仿宋;font-size: 19px"></span></p><p style="margin-left: 19px; text-indent: 37px; text-align: justify; line-height: 1.75em;"><span style="font-family: 黑体;font-size: 19px">2.发起</span><span style="font-family: 黑体;font-size: 19px">单位</span><span style="font-family: 仿宋;font-size: 19px">：</span><span style="font-family: 仿宋; font-size: 14pt;">安徽建筑大学、安徽工程大学、安徽大学、安徽农业大学、安徽理工大学、安徽财经大学、阜阳师范大学、安徽科技学院、合肥师范学院、皖西学院、铜陵学院、巢湖学院、宿州学院、蚌埠学院、安徽艺术学院、安徽文达信息工程学院、芜湖职业技术大学、安徽水利水电职业技术学院、六安职业技术学院、安徽新闻出版职业技术学院、合肥经济学院、安徽扬子职业技术学院、安徽中澳科技职业学院、安徽财贸职业学院、合肥城市学院、安徽粮食工程职业学院</span><span style="font-family: 仿宋;font-size: 19px"></span></p><p style="text-indent: 56px; text-align: justify; line-height: 1.75em;"><span style="font-family: 黑体;font-size: 19px">3.媒体支持单位：</span><span style="font-family: 仿宋;font-size: 19px">中央驻皖媒体及省市级主要媒体</span></p><p style="margin-top: 8px; margin-right: 24px; margin-left: 19px; text-indent: 37px; text-align: justify; line-height: 1.75em;"><span style="font-family: 黑体;font-size: 19px">4.承办</span><span style="font-family: 黑体;font-size: 19px">单位：</span><span style="font-family: 仿宋;font-size: 19px"></span><span style="font-family: 仿宋; font-size: 14pt;"></span><span style="font-family: 仿宋; font-size: 14pt;">安徽省乡村振兴促进会、</span><span style="font-family: 仿宋; font-size: 14pt;">安徽省农学会、安徽省老区建设促进会、</span><span style="font-family: 仿宋; font-size: 14pt;">安徽乡村振兴电商联盟、</span><span style="font-family: 仿宋; font-size: 14pt;">安徽省</span><span style="font-family: 仿宋; font-size: 14pt;">村镇建设学会、</span><span style="font-family: 仿宋; font-size: 14pt;">安徽省城市规划学会</span><span style="font-family: 仿宋; font-size: 14pt;">、安徽省工艺美术学会、安徽省乡村振兴研究院</span><span style="font-family: 仿宋; font-size: 14pt;"></span><span style="font-family: 仿宋;font-size: 19px"></span></p><p style="margin-left: 19px; text-indent: 37px; text-align: justify; line-height: 1.75em;"><span style="font-family: 黑体;font-size: 19px">5.总冠名</span><span style="font-family: 黑体;font-size: 19px">单位：</span><span style="font-family: 仿宋;font-size: 19px"><font face="仿宋"></font><span style="font-family: 仿宋; font-size: 14pt;">安徽省通源环境节能股份有限公司</span><font face="仿宋"></font></span></p><p style="margin-left: 19px; text-indent: 37px; text-align: justify; line-height: 1.75em;"><span style="font-family: 黑体;font-size: 19px">6.协办单位：</span><span style="font-family: 仿宋; font-size: 19px;">《</span><span style="font-family: 仿宋; font-size: 19px;">安徽乡村振兴研究</span><span style="font-family: 仿宋; font-size: 19px;">》</span><span style="font-family: 仿宋; font-size: 19px;">编辑部、</span><span style="font-family: 仿宋; font-size: 19px;">安徽派蒙特环境艺术科技有限公司、农业科技报传媒有限公司安徽分公司、安徽日报报业集团乡思岛融媒体工作室、安徽广电农科传媒有限公司（农业农村全媒体运营中心）、中科大国际金融研究院科创中心、</span><span style="font-family: 仿宋; font-size: 19px;">《</span><span style="font-family: 仿宋; font-size: 19px;">安徽农学通报</span><span style="font-family: 仿宋; font-size: 19px;">》、</span><span style="font-family: 仿宋; font-size: 19px;">乡里乡间（合肥）文化发展有限公司</span><span style="font-family: 仿宋; font-size: 19px;">、安徽捷易推传媒科技有限公司、合肥端木商业摄影有限公司</span><span style="font-family: 仿宋; font-size: 19px; text-indent: 56px;">&nbsp;</span></p><p style="margin-left: 19px; text-indent: 37px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋; font-size: 19px; text-indent: 56px;"><br/></span></p><p style="text-indent: 21px; text-align: justify; line-height: 1.75em;"><b><span style="font-family: 黑体;font-size: 21px">三、组织机构</span></b></p><p style="text-indent: 21px; text-align: justify; line-height: 1.75em;"><b><span style="font-family: 黑体;font-size: 21px"><br/></span></b></p><p style="margin-top: 8px; margin-right: 24px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 黑体;font-size: 19px">1.大赛组织委员会 (简称：组委会)：</span></p><p style="text-indent: 56px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"></span></p><p style="text-indent: 56px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">领导与决策机构，主要负责大赛方案、大赛章程等制度的制定。</span></p><p style="margin-top: 8px; margin-right: 24px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 黑体;font-size: 19px">2.大赛专家委员会 (简称：专委会) ：</span></p><p style="margin-left: 19px; text-indent: 37px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"></span></p><p style="margin-left: 19px; text-indent: 37px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">由高等院校、科研院所、相关企业的专家组成，负责制定评审标准、赛事细则及大赛评审等。</span></p><p style="margin-top: 8px; margin-right: 24px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 黑体;font-size: 19px">3.监督委员会(简称：监委会)：</span></p><p style="text-indent: 56px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"></span></p><p style="text-indent: 56px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">负责竞赛过程监督，处理竞赛过程中的争议事项，确保竞赛公平公正进行。</span></p><p style="margin-top: 8px; margin-right: 24px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 黑体;font-size: 19px">4.大赛秘书处：</span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"></span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">负责大赛的组织与实施、运行、管理等各项赛事工作。</span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"><br/></span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-align: justify; text-indent: 0em; line-height: 1.75em;"><span style="font-family: 黑体; font-weight: bold; font-size: 21px;">四、</span><b><span style="font-family: 黑体;font-size: 21px">主要内容</span></b></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-align: justify; text-indent: 0em; line-height: 1.75em;"><b><span style="font-family: 黑体;font-size: 21px"><br/></span></b></p><p style="margin-left:42px;text-autospace:ideograph-numeric;text-align:justify;text-justify:inter-ideograph"></p><p style="margin-left: 19px; text-indent: 37px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"></span></p><p style="margin-left: 19px; text-indent: 37px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">1.安徽省乡村振兴创新创业大赛分为常规赛、定制赛和电商直播赛</span><span style="font-family: 仿宋;font-size: 19px">（农产品或旅游年卡，</span><span style="font-family: 仿宋;font-size: 19px">详见官网）；</span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">2.</span><span style="font-family: 仿宋;font-size: 19px">和美乡村典型案例、优秀指导老师、优秀组织单位、优秀乡村规划师、优秀金牌播主评选</span><span style="font-family: 仿宋;font-size: 19px">；</span></p><p style="text-indent: 56px; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">3.</span><span style="font-family: 仿宋;font-size: 19px">金寨中国红岭公路文旅定制赛；</span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">4.乡村市集和设计生活节；</span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">5</span><span style="font-family: 仿宋;font-size: 19px">.第</span><span style="font-family: 仿宋;font-size: 19px">四</span><span style="font-family: 仿宋;font-size: 19px">届安徽省乡村振兴创新创业大赛决赛颁奖典礼暨第</span><span style="font-family: 仿宋;font-size: 19px">四</span><span style="font-family: 仿宋;font-size: 19px">届安徽乡村振兴高峰对话（乡村会客厅）</span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"><br/></span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-align: justify; text-indent: 0em; line-height: 1.75em;"><b style="text-indent: 0em;"><span style="font-family: 黑体;font-size: 21px">五、大赛创新</span></b></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-align: justify; text-indent: 0em; line-height: 1.75em;"><b style="text-indent: 0em;"><span style="font-family: 黑体;font-size: 21px"><br/></span></b></p><p style="margin-left: 42px; text-align: justify; text-indent: 0em;"></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><b><span style="font-family: 仿宋;font-size: 19px"></span></b></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><b><span style="font-family: 仿宋;font-size: 19px">1.乡村定制，创新理念</span></b></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 19px; text-indent: 37px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">坚持问题导向，以乡村实际现状、存在问题、发展定位等为基础构建竞赛体系，学以致用，真题真做，深度激发学生团队和社会团队的自主创新能力，从而发展乡村新质生产力。</span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><b><span style="font-family: 仿宋;font-size: 19px">2.五位一体，创新机制</span></b></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 19px; text-indent: 37px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"><font face="仿宋">大赛参赛对象包括高校组和社会组。坚持集思广益，共谋乡村新发展，探索以赛促教、以赛促学、以赛促创、以赛促产的</font><font face="仿宋">“政、校、社、企、村”五位一体联动机制，激活大学生服务乡村振兴的创业热情和创新能力。同时凝聚全社会力量，组织引导社会各界深入参与乡村建设行动，强化乡村建设人才技术支撑，助力乡村振兴。</font></span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><b><span style="font-family: 仿宋;font-size: 19px">3.多元组队，创新形式</span></b></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 19px; text-indent: 37px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">鼓励跨地区、跨学校、跨领域、跨专业、跨学科组队，发挥不同专业、不同学科交叉融合的协同优势，团队协调配合，共同激发创作热情和创新火花，为乡村破解发展难题提供新思路新方案。</span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><b><span style="font-family: 仿宋;font-size: 19px">4.共建基地，创新载体</span></b></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">以大赛为依托，以解决合作村镇实际问题为导向，与定制赛合作村镇共建乡村振兴工作站，培育全社会参与乡村振兴实践基地建设，深度开展乡村陪伴式运营服务。强化成果的可读性，让群众看得懂、记得住，创新竞赛成果。</span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"><br/></span></p><p style="text-indent: 21px; text-align: justify; line-height: 1.75em;"><b><span style="font-family: 黑体;font-size: 21px">六、参赛对象</span></b></p><p style="text-indent: 21px; text-align: justify; line-height: 1.75em;"><b><span style="font-family: 黑体;font-size: 21px"><br/></span></b></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"><font face="仿宋"></font></span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"><font face="仿宋"></font></span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"><font face="仿宋">参赛对象分为高校组与社会组。高校组为安徽省内普通高校全日制在校学生（本专科和研究生）。社会组为安徽省内各级政府、社会团体和企业。本次竞赛高校组和社会组均要求以团队形式参加。其中高校组每队学生人数限</font>5人以内，指导教师</span><span style="font-family: 仿宋;font-size: 19px">1-2</span><span style="font-family: 仿宋;font-size: 19px">人，含团队负责人</span><span style="font-family: 仿宋;font-size: 19px">1</span><span style="font-family: 仿宋;font-size: 19px">人</span><span style="font-family: 仿宋;font-size: 19px">。</span><span style="font-family: 仿宋;font-size: 19px">鼓励团队和指导老师跨地区、跨学校、跨领域、跨专业、跨学科自由组队。社会组每队人数限</span><span style="font-family: 仿宋;font-size: 19px">5</span><span style="font-family: 仿宋;font-size: 19px">人以内，含团队负责人</span><span style="font-family: 仿宋;font-size: 19px">1</span><span style="font-family: 仿宋;font-size: 19px">人。</span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"><br/></span></p><p style="text-align: justify; text-indent: 2em; line-height: 1.75em;"><span style="font-family: &#39;Courier New&#39;;font-size: 13px">&nbsp;</span><b style="text-indent: 43px;"><span style="font-family: 黑体;line-height: 150%;font-size: 21px">七、赛类和赛道</span></b></p><p style="text-align: justify; text-indent: 2em; line-height: 1.75em;"><b style="text-indent: 43px;"><span style="font-family: 黑体;line-height: 150%;font-size: 21px"><br/></span></b></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"></span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">（一）常规赛：分别为乡村美术创作、乡村文创设计、乡村文旅设计</span><span style="font-family: 仿宋;font-size: 19px">（</span><span style="font-family: 仿宋;font-size: 19px">和美乡村投建运治一体化</span><span style="font-family: 仿宋;font-size: 19px">）</span><span style="font-family: 仿宋;font-size: 19px">、数字智慧乡村</span><span style="font-family: 仿宋;font-size: 19px">（</span><span style="font-family: 仿宋;font-size: 19px">和美</span><span style="font-family: 仿宋;font-size: 19px">乡村建设优秀科技论文</span><span style="font-family: 仿宋;font-size: 19px">）</span><span style="font-family: 仿宋;font-size: 19px">、乡村产业融合、村经济组织建构与运营</span><span style="font-family: 仿宋;font-size: 19px">六</span><span style="font-family: 仿宋;font-size: 19px">个类别。优秀作品</span><span style="font-family: 仿宋;font-size: 19px">向</span><span style="font-family: 仿宋;font-size: 19px">《</span><span style="font-family: 仿宋;font-size: 19px">安徽乡村振兴研究</span><span style="font-family: 仿宋;font-size: 19px">》</span><span style="font-family: 仿宋;font-size: 19px">或</span><span style="font-family: 仿宋;font-size: 19px">《安徽农学通报》推荐作为封面进行展示，优秀科技论文</span><span style="font-family: 仿宋;font-size: 19px">向</span><span style="font-family: 仿宋;font-size: 19px">《</span><span style="font-family: 仿宋;font-size: 19px">安徽乡村振兴研究</span><span style="font-family: 仿宋;font-size: 19px">》</span><span style="font-family: 仿宋;font-size: 19px">或</span><span style="font-family: 仿宋;font-size: 19px">《安徽农学通报》</span><span style="font-family: 仿宋;font-size: 19px">推荐</span><span style="font-family: 仿宋;font-size: 19px">。</span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">常规赛作品要求：</span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">1.提交作品需为近3年内建设（创作）完工或正在建设（创作）中的项目（或作品）。参赛作品须为独立创作，在其他竞赛中没有获奖的作品。</span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">2.每个学生一个赛道只可</span><span style="font-family: 仿宋;font-size: 19px">作为第一作者报名一次</span><span style="font-family: 仿宋;font-size: 19px">。</span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"></span></p><p style="margin-top: 6px; margin-right: 18px; text-indent: 56px; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">（二）<span style="font-family: 仿宋; font-size: 14pt;">定制赛：</span><span style="font-family: 仿宋; font-size: 14pt;">金寨中国红岭公路文旅定制赛</span><span style="font-family: 仿宋; font-size: 14pt;">。定制赛参赛题目、要求和资料等具体内容详见定制赛通知或大赛官网。</span></span></p><p style="margin-top: 6px; margin-right: 18px; text-indent: 56px; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px">（</span><span style="font-family: 仿宋;font-size: 19px">三</span><span style="font-family: 仿宋;font-size: 19px">）</span><span style="font-family: 仿宋;font-size: 19px"></span><span style="font-family: 仿宋; font-size: 14pt;">电商大</span><span style="font-family: 仿宋; font-size: 14pt;">赛：</span><span style="font-family: 仿宋; font-size: 14pt;">选题</span><span style="font-family: 仿宋; font-size: 14pt;">、要求和资料等具体内容详见通知或大赛官网。</span><span style="font-family: 仿宋;font-size: 19px"></span></p><p style="margin-top: 6px; margin-right: 18px; margin-left: 28px; text-indent: 28px; text-align: justify; line-height: 1.75em;"><span style="font-family: 仿宋;font-size: 19px"></span><br/></p><p style="margin-top:8px;margin-right:24px;text-indent:37px;text-align:justify;text-justify:inter-ideograph;line-height:36px"><span style="font-family: 仿宋; font-size: 19px;"></span><br/></p><p><br/></p>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="footer_bg">
+        <div class="wrap">
+            <div class="footer">
+                <div class="logo">
+                    <a href="/"><img src="/static/home/images/logo_f.png" alt=""></a>
+                </div>
+                <div class="h_right">
+                    <!--start menu -->
+                    <ul class="menu">
+                        <li><a href="/">首页</a></li>
+                        <li><a href="/about.html">大赛介绍</a></li>
+                        <li><a href="/news.html">新闻中心</a></li>
+                        <li><a href="/video.html">作品视频</a></li>
+                        <li><a href="/gallery.html">作品展示</a></li>
+                        <li><a href="/contact.html">联系我们</a></li>
+                        <li><a href="/select.html">在线报名</a></li>
+                    </ul>
+                    <!-- start profile_details -->
+
+                </div>
+            </div>
+            <div class="book">
+                <div class="book_left">
+                    <h3>咨询热线: 0551-62888121 </h3>
+                    <h3>咨询邮箱: anhuixczxcjh@163.com</h3>
+                    <h3>传真/电话：0551-62888121</h3>
+                    <h3>办公地址：安徽省合肥市肥西县桃花镇联海云创港2#401</h3>
+                    <h3>技术支持：安徽捷易推传媒科技有限公司 昆山旌展信息科技有限公司</h3>
+                    <h3>Copyright ©  2022 · 安徽省乡村振兴创新创业大赛网站 版权所有 | <a href="http://beian.miit.gov.cn/" style="color: white;" target="_blank">皖ICP备2021018424号</a></h3>
+                </div>
+                <div class="book_right">
+                    <div class="book_items">
+                        <img src="/static/home/images/erweima.png" alt="">
+                        <span>扫一扫查看微信公众号</span>
+                    </div>
+                    <div class="book_items">
+                        <img src="/static/home/images/qrcode.png" alt="">
+                        <span>扫一扫查看手机版网站</span>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?c20192c55229e465b093675c25e1db4d";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+
+	<!-- 通用JS -->
+	<script src="/static/home/js/common.js"></script>
+
+	<script>
+		
+		$("#dsjs").click(function () {
+			window.location.href='/about.html';
+		})
+		$("#dsrc").click(function () {
+			window.location.href='/schedule.html';
+		})
+		$("#cstj").click(function () {
+			window.location.href='/qualification.html';
+		})
+		$("#sdjs").click(function () {
+			window.location.href='/race.html';
+		})
+		$("#jxsz").click(function () {
+			window.location.href='/award.html';
+		})
+		$("#zczc").click(function () {
+			window.location.href='/policy.html';
+		})
+		
+	</script>
+</body>
+
+</html>
+

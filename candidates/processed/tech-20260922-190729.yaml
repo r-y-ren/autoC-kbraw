@@ -1,0 +1,1004 @@
+- id: arxiv-2609.24972
+  kind: arxiv
+  name: 'RRSI: Regularized Recursive Self-Improvement of Agent Harnesses'
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24972
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: An LLM agent's capability is largely magnified by its harness, namely the
+    prompts, control flow, tooling, memory, and context management surrounding the
+    frozen backbone model. Recent methods increasingly automate this process by iteratively
+    proposing and selecting component-wise edits of an agent harness, practically
+    establishing a form of recursive self-improvement (RSI) at the agent-system level
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.24967
+  kind: arxiv
+  name: Emergent Collusion in Long-Horizon LLM Agent Interaction
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24967
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'LLM agents are increasingly deployed in collaborative settings, yet long-term
+    interaction may give rise to undesirable coordination. We study the emergence
+    of collusion in a long-horizon multi-agent environment: two agents repeatedly
+    complete individual tasks, share task logs, verify each other''s work, and receive
+    rewards. We introduce realistic constraints that make compliance with the verificati'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.24446
+  kind: arxiv
+  name: 'ActGov: Governing LLM Agent Actions via Policy-Constrained Validation'
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24446
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Large language model (LLM) agents increasingly execute long-horizon workflows
+    through external tools, allowing untrusted outputs to influence subsequent actions
+    and exceed user authorization. Existing defenses isolate injected content or constrain
+    execution with predefined plans and static policies, but these approaches are
+    brittle under dynamic workflows and scale poorly across extensible tool ec
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.24352
+  kind: arxiv
+  name: Few-Shot Demonstrations Elicit the Use of In-Context World Representations
+    in LLMs
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24352
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Large language models (LLMs), when acting as agents, are expected to take
+    observed data in context, infer the latent state space underlying the world, and
+    leverage it for downstream prediction. However, prior work demonstrated that LLMs
+    struggle to use representations learned in context on a graph tracking task, where
+    the model needs to construct a representation of the graph governing data genera
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.24289
+  kind: arxiv
+  name: 'TTSE: A Two-Track Online Self-Evolution Framework'
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24289
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: As Large Language Model (LLM) agents are applied in continuously interactive
+    environments, driving the evolution of their own capabilities becomes a core problem
+    for achieving long-term autonomy. Currently, environmental knowledge is typically
+    treated as an external fixed input rather than as part of the agent's ongoing
+    evolution. Reinforcement learning methods usually optimize policies through en
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.24165
+  kind: arxiv
+  name: 'APEXA: Execution-Integrity Enforcement for Multi-Agent LLM Automation of
+    Synchrotron Data Reduction'
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24165
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Synchrotron data reduction, detector calibration followed by azimuthal
+    integration of terabyte-scale diffraction series, is a multi-step, expert-bound
+    bottleneck that increasingly limits the science rate of user facilities. LLM agents
+    promise to collapse it, but driving a real pipeline with a stochastic model creates
+    a failure mode chat benchmarks cannot see: an agent can report a calibration that'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.24161
+  kind: arxiv
+  name: 'MCP-GRANITE Benchmark: GRANularity Interface TEsting for MCP-Based LLM Agents'
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24161
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: As LLM agents increasingly interact with external tools through standardized
+    protocols such as MCP, tool-interface design becomes a critical yet underexplored
+    factor. How funψtionality is decomposed into tools affects whether an agent can
+    select the right tool and construct valid arguments. This choice is especially
+    consequential at the edge, where resource constraints limit which models can run
+    l
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.24130
+  kind: arxiv
+  name: Self-Healing Harness for Runtime Oversight of Agent Self-Modification
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24130
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: LLM agents can change their own future behavior, raising a basic control
+    question of which self-generated changes should be allowed to persist. We formulate
+    this as admission control for self-modification. The agent may propose changes
+    to its operating instructions, while an external runtime gate controls persistence.
+    We implement this principle as a model-agnostic self-healing harness that runs
+    a
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.24115
+  kind: arxiv
+  name: 'EDGEGEN: Improving Tool-Calling Agents Beyond Happy Paths with Synthetic
+    Edge Case Generation'
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24115
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Tool-calling LLM agents are increasingly deployed in enterprise applications.
+    However, effective evaluation and optimization require high-quality, diverse task
+    datasets that are often difficult to obtain due to privacy and other constraints.
+    Existing synthetic task generation methods often produce generic tasks that ignore
+    an agent's underlying state or database and fail to reflect real-world usag
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.23889
+  kind: arxiv
+  name: 'SyzHarness: Patch-Based Kernel Bug Reproduction with LLM-Synthesized Fuzzing
+    Harnesses'
+  published: '2026-09-20'
+  urls:
+  - https://arxiv.org/abs/2609.23889
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: "Automated kernel vulnerability reproduction is essential for bug triage,\
+    \ patch validation, and regression testing, but\n  still lacks an effective and\
+    \ efficient solution. The core challenge is twofold: a reproducer must first recover\
+    \ the\n  trigger scaffold needed to reach the vulnerable state and determine the\
+    \ precise concrete values that actually trigger\n  the bug. Existing directed\
+    \ fuzzing approa"
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.23808
+  kind: arxiv
+  name: 'FLARE: A Full-Lifecycle Dense Supervision Paradigm for Long-Horizon Coding
+    Agents via Generative Reward Model'
+  published: '2026-09-20'
+  urls:
+  - https://arxiv.org/abs/2609.23808
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: While test-time scaling enhances Large Language Model (LLM) agents in long-horizon
+    software engineering (SWE), sparse binary rewards (Pass/Fail) create a severe
+    credit assignment crisis and waste failed exploratory trajectories. Current trajectory
+    optimization and scaling methods are costly and structurally limited, relying
+    on heuristic state reuse without causal diagnosis or delayed scalar scorin
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.23466
+  kind: arxiv
+  name: 'RPMem: Learning Long-Term Recurrent Parametric Memory Across Sessions for
+    LLM Agents'
+  published: '2026-09-20'
+  urls:
+  - https://arxiv.org/abs/2609.23466
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Long-running LLM agents require memory that persists and evolves across
+    sessions. Text-based memory retrieves and reconstructs past interactions at every
+    query, making long-horizon performance increasingly dependent on retrieval quality
+    and contextual reasoning as histories grow. Parametric memory encodes experience
+    directly into model computation, but existing approaches provide limited support
+    f
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.23449
+  kind: arxiv
+  name: 'PSD: Pseudo Self-Distillation of Memory Representation Capabilities for LLM
+    Agents'
+  published: '2026-09-20'
+  urls:
+  - https://arxiv.org/abs/2609.23449
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Memory systems are becoming a core component of LLM agents, but constructing
+    and maintaining memory remains expensive because it relies on repeated calls to
+    large proprietary language models. This cost creates a major barrier to deploying
+    memory-enhanced agents at scale. In this paper, we present Pseudo Self-Distillation
+    (PSD), a framework that enables small language models (SLMs) to construct hie
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.23257
+  kind: arxiv
+  name: 'CTRL: Control-Based Time Series Forecasting with LLM-Guided Residual Learning'
+  published: '2026-09-20'
+  urls:
+  - https://arxiv.org/abs/2609.23257
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Time series forecasting underpins critical decision-making across diverse
+    domains. While large language models (LLMs) offer promising reasoning capabilities,
+    existing LLM-based time series forecasting approaches either reduce them to numerical
+    predictors that bypass their strengths, or allow direct forecast generation that
+    destabilizes predictions in non-stationary settings. We introduce CTRL, a f
+  suggested_fields:
+  - LLM agents
+  - time series forecasting
+  directions:
+  - 创新创业大赛
+  - 数模与时序预测
+  - 黑客松与数据竞赛
+- id: arxiv-2609.22971
+  kind: arxiv
+  name: Automatic multimodal UX improvement recommendations from LLM agent user simulations
+  published: '2026-09-19'
+  urls:
+  - https://arxiv.org/abs/2609.22971
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Evaluating user experience (UX) on live websites through user testing is
+    expensive, subjective, and difficult to scale. LLM agents offer a promising route
+    to automating UX testing by simulating realistic user behaviour. However, existing
+    simulation approaches typically lack multimodality and require time-consuming
+    manual review to extract actionable insights. We formalise UX improvement recommenda
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.22818
+  kind: arxiv
+  name: 'The Price of Safety: Benign-Case Utility and Token Overhead of Memory-Poisoning
+    Defenses in LLM Agents'
+  published: '2026-09-19'
+  urls:
+  - https://arxiv.org/abs/2609.22818
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Memory-poisoning defenses for LLM agents are typically evaluated by their
+    ability to prevent attacks. However, the traffic they process is rarely adversarial.
+    The cost of implementing a defense is paid with each interaction, while its benefits
+    are only seen in a small percentage of cases. We developed a measurement setup
+    that keeps the memory backend, retrieval process, and judge consistent across
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.22792
+  kind: arxiv
+  name: 'SelfOp: An Optimization Algorithm for Self-Improving Security Agents'
+  published: '2026-09-19'
+  urls:
+  - https://arxiv.org/abs/2609.22792
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'LLM agents are increasingly used for security tasks: vulnerability discovery,
+    exploit reproduction, and patch generation. Improving them at the model level
+    demands expert demonstrations or computable rewards, which security tasks rarely
+    offer: traces are costly, failures hard to diagnose, rewards sparse, and non-computable.
+    Efforts thus shift to the harness and context, but manual tuning needs tas'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.22573
+  kind: arxiv
+  name: Zero-Trust Authorization and Discovery for Enterprise MCP
+  published: '2026-09-18'
+  urls:
+  - https://arxiv.org/abs/2609.22573
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: LLM agents translate natural-language context, which may include attacker-controlled
+    text, into privileged tool calls, so authorization must remain effective even
+    when an agent is prompt-injected or adversarially steered. The Model Context Protocol
+    (MCP) has become a widely adopted interface for this boundary, yet its official
+    SDKs' authentication and authorization primitives fall short of enterpr
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.21997
+  kind: arxiv
+  name: Bayesian Belief Layer for Controllable Opinion Dynamics in LLM Agents
+  published: '2026-09-18'
+  urls:
+  - https://arxiv.org/abs/2609.21997
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'LLM agents in social simulation revise their opinions implicitly, in context:
+    how open an agent is to persuasion can neither be specified nor verified, and
+    collective outcomes inherit the model''s training prior. We introduce Bayesian
+    Chronicle Agents (BCA), a minimal belief layer separating \emph{what} an agent
+    believes from \emph{how} it speaks. Each stance is a probability, updated by one
+    Bayesi'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.21940
+  kind: arxiv
+  name: 'AutoViewMem: Self-Configuring Orthogonal Views for Conversational Long-Term
+    Memory'
+  published: '2026-09-18'
+  urls:
+  - https://arxiv.org/abs/2609.21940
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Long-term memory is essential for large language model (LLM) agents to
+    maintain consistency and personalization over extended interactions. Existing
+    memory systems typically rely on fixed granularities or static schemas, but these
+    designs struggle when heterogeneous information, such as preferences, events,
+    constraints, and temporal updates, is embedded in a single mixed representation.
+    The result
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: gh-buddy_minesweeper
+  kind: github
+  name: buddy/minesweeper
+  published: '2026-09-21'
+  urls:
+  - https://github.com/buddy/minesweeper
+  signal:
+    venue: GitHub
+    stars: 17
+    citations_90d: null
+    runnable: true
+  summary: A Minesweeper benchmark for LLM agents. One identical board, up to nine
+    models in parallel, one clock, one tool layer.
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: gh-1173591564_Dynamics-memory
+  kind: github
+  name: 1173591564/Dynamics-memory
+  published: '2026-09-15'
+  urls:
+  - https://github.com/1173591564/Dynamics-memory
+  signal:
+    venue: GitHub
+    stars: 11
+    citations_90d: null
+    runnable: true
+  summary: LLM agent 的有界自纠错长期记忆层：把连续、含矛盾的项目交互日志蒸馏成有界、可自更新的记忆库。Bounded, self-correcting
+    long-term memory for LLM agents — candidate pool + value dynamics + tension adjudication
+    + causal-replay evals.
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: arxiv-2609.24346
+  kind: arxiv
+  name: 'LADDER: Graph-Guided Diffusion Language Models for Efficient Multi-Hop Reasoning'
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24346
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Graph Retrieval-Augmented Generation (GraphRAG) has remarkably enhanced
+    large language models on complex reasoning by leveraging structured entity topologies.
+    However, existing frameworks heavily rely on standard autoregressive language
+    models where the nature of inherent sequential generation severely hinders overall
+    inference efficiency. Inspired by Diffusion Language Models (DLMs) that offer
+    ma
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.24246
+  kind: arxiv
+  name: 'Taramandal-GPT: Enhancing Astrodynamics Problem-Solving with Knowledge Retrieval
+    and Structured Thinking'
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24246
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Large language models (LLMs) have shown remarkable progress in natural
+    language understanding, yet their effectiveness in specialized fields like astronomy
+    and astrodynamics remains limited due to challenges in multi-step reasoning, symbolic
+    manipulation, and domain-specific terminology. To address this, we present Taramandal-GPT
+    (Constellation-GPT), a domain-adapted framework built on the Qwen3-8
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.22977
+  kind: arxiv
+  name: 'Beyond Similarity: Coverage-Aware Prompt Selection for Time Series Forecasting
+    with LLMs'
+  published: '2026-09-19'
+  urls:
+  - https://arxiv.org/abs/2609.22977
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Similarity-based retrieval is the dominant rule for conditioning large
+    language models (LLMs) in in-context learning, retrieval-augmented generation,
+    and prompt-based time series forecasting. The rule concentrates on near-duplicate
+    candidates, an issue that has motivated diversity-aware retrieval but remains
+    unexamined in other retrieval-conditioned pipelines. We study this issue using
+    prompt-base
+  suggested_fields:
+  - retrieval augmented generation
+  - time series forecasting
+  directions:
+  - 创新创业大赛
+  - 数模与时序预测
+  - 黑客松与数据竞赛
+- id: arxiv-2609.22705
+  kind: arxiv
+  name: 'Analyzing Public Discourse on Urbanism: Topic Clustering, Sentiment Analysis
+    and Retrieval-Augmented Generation using YouTube Comments'
+  published: '2026-09-19'
+  urls:
+  - https://arxiv.org/abs/2609.22705
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Online discourse about urban issues - walkability, cycling infrastructure,
+    public transit, housing density, and street safety - is voluminous but unstructured,
+    and existing city-evaluation tools capture none of it. We present a pipeline and
+    conversational system that combines geographic entity resolution, topic modeling,
+    sentiment analysis, and Retrieval-Augmented Generation (RAG) over 22,788 chun
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.22537
+  kind: arxiv
+  name: 'EvidenT: Building Trustworthy Enterprise Assistants through Evidence Groundedness
+    and Traceability'
+  published: '2026-09-18'
+  urls:
+  - https://arxiv.org/abs/2609.22537
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Enterprise AI assistants must produce responses that are verifiable and
+    traceable to source evidence. However, retrieval augmented generation (RAG) over
+    heterogeneous enterprise data can suffer from citation drift, unsupported content,
+    and weak source traceability. We present EvidenT (T = Trust + Transparency + Traceability),
+    a lightweight pipeline that verifies extracted evidence against retrieve
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.22486
+  kind: arxiv
+  name: 'Semantics Delivery Network: Rethinking Web Retrieval Infrastructure for LLM
+    Agents'
+  published: '2026-09-18'
+  urls:
+  - https://arxiv.org/abs/2609.22486
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Large language models (LLMs) increasingly rely on external sources when
+    answering questions that require proprietary information or up-to-date live web
+    content, through both traditional single-shot retrieval-augmented generation (RAG)
+    and multi-turn agentic RAG. Yet today's web infrastructure is still built for
+    human clients. Given a query, current search services return a list of URLs and
+    snippet
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.21863
+  kind: arxiv
+  name: 'AutoRecLab: Describe the Experiment, Get the Code!'
+  published: '2026-09-18'
+  urls:
+  - https://arxiv.org/abs/2609.21863
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Empirical evaluation is central to recommender-systems (RecSys) research,
+    but turning experimental designs into executable code remains a manual and error-prone
+    task. We present AutoRecLab, a Python-based autonomous RecSys lab that automates
+    RecSys experiments from natural-language prompts. Given a research idea, AutoRecLab
+    derives explicit experiment requirements, builds and validates a prototype
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.21600
+  kind: arxiv
+  name: 'Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System
+    for Addressing Help-Seeking Disparities in Higher Education'
+  published: '2026-09-18'
+  urls:
+  - https://arxiv.org/abs/2609.21600
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Access to academic support is a key determinant of student success, yet
+    students experience it unequally: some readily seek help from lecturers or tutors,
+    while others hesitate due to anxiety, fear of judgement, uncertainty about expectations,
+    or low confidence in their understanding. This may be especially evident in computing
+    education, where programming tasks are cumulative and cognitively dema'
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.21573
+  kind: arxiv
+  name: 'Micro-Collaborative Poisoning: A Distributed Attack on RAG Systems'
+  published: '2026-09-18'
+  urls:
+  - https://arxiv.org/abs/2609.21573
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Retrieval-Augmented Generation (RAG) improves large language models by
+    grounding outputs in external knowledge sources, but this dependency also creates
+    a surface for poisoning attacks. This paper introduces Micro-Collaborative Poisoning,
+    a distributed attack in which a false target claim is divided across multiple
+    locally plausible documents instead of being concentrated in a single malicious
+    pas
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2609.24862
+  kind: arxiv
+  name: 'When Tomorrow Becomes Today: Self-Evolving Policies for Agentic Time-Series
+    Forecasting'
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24862
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Agentic time series forecasting concerns systems whose underlying mechanisms
+    evolve, making the relative effectiveness of numerical models, reasoning strategies,
+    and intervention rules inherently time-varying. Consequently, a time series agent
+    must adapt the forecasts it produces and the orchestration policy that determines
+    which components to trust and how to coordinate them. The deployment proce
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.24441
+  kind: arxiv
+  name: 'MUSE: Dependency-Aware Adaptation of a Frozen Vision Backbone for Multivariate
+    Time Series Forecasting'
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24441
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Multivariate time-series forecasting is essential to many real-world applications.
+    Recent large vision models (LVMs) offer a promising paradigm by transferring cross-domain
+    visual priors to time-series forecasting. However, existing LVM-based methods
+    face two key challenges: balancing independent visual representation spaces with
+    cross-variable dependency modeling, and adapting vision backbones pr'
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.24229
+  kind: arxiv
+  name: 'Recovering Lost Details: Multi-Scale Frequency Compensation for Long-Term
+    Time Series Forecasting'
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24229
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Long-term time series forecasting has made significant progress by leveraging
+    multi-scale information to capture hierarchical temporal patterns and model long-range
+    dependencies. However, temporal downsampling in existing multi-scale methods inevitably
+    smooths detailed temporal fluctuations, and this information loss is further aggravated
+    by their emphasis on dominant trends across scales, resulti
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.24156
+  kind: arxiv
+  name: 'TAC-Time: Texts as Channels For Multimodal Time Series Forecasting'
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24156
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Most existing time series forecasting methods rely solely on numerical
+    observations, overlooking rich contextual information from auxiliary texts. Recent
+    multimodal approaches attempt to incorporate textual signals, but they often treat
+    text as static features or use large language models as forecasting backbones,
+    limiting their ability to capture temporal dynamics and increasing computational
+    cos
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.24042
+  kind: arxiv
+  name: 'Q-DEQ: Discrete Solving and Quantization for Deep Equilibrium Models in Time
+    Series Forecasting under Edge Deployment Coding Constraints'
+  published: '2026-09-21'
+  urls:
+  - https://arxiv.org/abs/2609.24042
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Edge deployment motivates forecasting models with compact parameter storage
+    and low-bit representations. Deep equilibrium models (DEQs) obtain implicit depth
+    by repeatedly applying a shared layer, reducing the parameter cost of explicit
+    layer stacking. Their usual Anderson solver, however, searches for update coefficients
+    in the continuous real domain. We propose Q-DEQ, which formulates local upda
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.23703
+  kind: arxiv
+  name: Financial Language Models as Applied Artificial Intelligence Systems for News-Based
+    Trading under Market Frictions
+  published: '2026-09-20'
+  urls:
+  - https://arxiv.org/abs/2609.23703
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Financial language models can transform unstructured firm-specific news
+    into structured decision signals, but financial AI research lacks an integrated
+    deployment framework for evaluating whether those signals remain useful in financial
+    decision systems. Computer science research has developed strong methods for time-series
+    forecasting, text classification, multimodal stock prediction, graph-based
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.23701
+  kind: arxiv
+  name: 'TEMPER: Temporal Encoder-Masked Probabilistic Ensemble Regressor for Time-Series
+    Forecasting'
+  published: '2026-09-20'
+  urls:
+  - https://arxiv.org/abs/2609.23701
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Probabilistic forecasting requires accurate central predictions and calibrated
+    uncertainty estimates. This paper presents TEMPER, the Temporal Encoder-Masked
+    Probabilistic Ensemble Regressor, a univariate time-series forecasting algorithm
+    that combines a temporal autoencoder, a differentiable masked neural decision
+    forest, continuous ranked probability score (CRPS) training, and Gaussian-mixture
+    p
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.23686
+  kind: arxiv
+  name: 'One Patch, Three Roles: What Is Actually Coupled in Autoregressive Time-Series
+    Forecasting?'
+  published: '2026-09-20'
+  urls:
+  - https://arxiv.org/abs/2609.23686
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Patch-based autoregressive time-series forecasting often ties input representation,
+    learned transitions, and recursive execution to one patch length. We ask which
+    of these roles can be adjusted separately. A supporting atomic-encoding study
+    finds greater sensitivity to model width than to atom grouping on the evaluated
+    grid. Our main finding is that a frozen parent's recursive trajectory is easier
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.21425
+  kind: arxiv
+  name: 'Tracing the Evidence Behind Zero-Shot Time-Series Forecasting: A Source-First
+    Taxonomy and Audit Framework'
+  published: '2026-09-18'
+  urls:
+  - https://arxiv.org/abs/2609.21425
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Zero-shot time-series forecasting (TSF) is often described as forecasting
+    without target-specific parameter updates, but that training-status condition
+    does not specify what evidence the system may use. A frozen language model prompted
+    with serialized values, a time-series model pretrained on broad forecasting corpora,
+    and a retrieval-augmented forecaster may all satisfy the no-update condition wh
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.21044
+  kind: arxiv
+  name: A Lightweight Plug-in Gate for Transformer-Based Time-Series Forecasters
+  published: '2026-09-17'
+  urls:
+  - https://arxiv.org/abs/2609.21044
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Covariate-rich time-series forecasting requires deciding how external variables
+    enter the target forecasting path. Existing Transformer-based forecasters usually
+    build a covariate representation and pass it to the encoder without an explicit
+    admission stage. This paper studies pre-encoder covariate admission as an input-side
+    interface that regulates that representation immediately before encoder p
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.23385
+  kind: arxiv
+  name: Leveraging Industrial Foundation Models at the Edge of Particle Physics Detectors
+    via Distillation Learning and Hardware Co-design
+  published: '2026-09-20'
+  urls:
+  - https://arxiv.org/abs/2609.23385
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Data acquisition (DAQ) systems at future particle physics experiments
+    stand to benefit from the extremes of AI/ML development: large-scale foundation
+    models can enhance the performance of feature extraction algorithms, and small-scale
+    on-detector deployments can enable real-time intelligent data handling. This work
+    provides the first fine-tuning of an industrial foundation model for particle
+    physi'
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.22836
+  kind: arxiv
+  name: A Hybrid Attention Model Learning Unified Time-aware Patch Representation
+    for Irregular Multivariate Time Series Forecasting
+  published: '2026-09-19'
+  urls:
+  - https://arxiv.org/abs/2609.22836
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Time series foundation models (TSFMs) have recently delivered impressive
+    zero-shot performance across diverse forecasting tasks. However, real-world decision-making
+    frequently relies on \emph{irregular multivariate time series} (IMTS), where inconsistent
+    inter-observation intervals and asynchronous sampling across variables coexist
+    with informative missingness. Existing TSFMs handle such inputs ei
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.21381
+  kind: arxiv
+  name: Knowledge-Graph-Augmented Chronos-2 for HEC-RAS Surrogate Forecasting
+  published: '2026-09-18'
+  urls:
+  - https://arxiv.org/abs/2609.21381
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: We investigate whether coupling a time-series foundation model to hydraulic
+    project knowledge improves surrogate forecasting of HEC-RAS water-surface elevation
+    (WSE). We present KG-Chronos-2, which combines a frozen Chronos-2 predictor with
+    exact-state residual decoding, graph-conditioned historical retrieval, and input-aligned
+    correction. We compare the method with persistence, a residual LSTM, p
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: gh-SII-fkchen_SOTER
+  kind: github
+  name: SII-fkchen/SOTER
+  published: '2026-09-09'
+  urls:
+  - https://github.com/SII-fkchen/SOTER
+  signal:
+    venue: GitHub
+    stars: 73
+    citations_90d: null
+    runnable: true
+  summary: 'Repo of SOTER: A Generative Time-Series Foundation Model for Wearable
+    Human Physiological Signals'
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2609.21849
+  kind: arxiv
+  name: The Weight Is Over - Interactive Diffusion on Consumer GPUs
+  published: '2026-09-18'
+  urls:
+  - https://arxiv.org/abs/2609.21849
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: On-device inference is booming, but the momentum is almost all in language
+    models. Diffusion pipelines are memory hungry, latency-sensitive, and require
+    orchestrating an embedder, a transformer, a decoder, and often further postprocessing
+    that is not as standardized as LLM inference loops are. We navigate the trade-off
+    between performance, quality, and model footprint to reach as many client devic
+  suggested_fields:
+  - on-device inference
+  directions:
+  - 黑客松与数据竞赛
+- id: arxiv-2609.21666
+  kind: arxiv
+  name: 'Samsone: A Family of Open Small Audio Language Models for On-Device Inference'
+  published: '2026-09-18'
+  urls:
+  - https://arxiv.org/abs/2609.21666
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: The success of Large Audio Language Models has driven the development of
+    massive multimodal networks exceeding billions of parameters. However, the demand
+    for privacy-preserving, low-latency processing has shifted focus toward Small
+    Audio Language Models (SALMs) capable of on-device execution. In this paper, we
+    introduce Samsone, a family of SALMs designed for edge computing. Our core model,
+    Samso
+  suggested_fields:
+  - on-device inference
+  directions:
+  - 黑客松与数据竞赛

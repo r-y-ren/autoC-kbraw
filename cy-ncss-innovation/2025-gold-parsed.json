@@ -1,0 +1,2214 @@
+[
+ {
+  "seq": "1",
+  "project": "光子芯力-全波光电融合计算芯片",
+  "province": "北京市",
+  "school": "清华大学",
+  "leader": "杨其晟"
+ },
+ {
+  "seq": "2",
+  "project": "cPilot——新一代本地全自主决策与操作的PC智能助手",
+  "province": "北京市",
+  "school": "清华大学",
+  "leader": "王冠博"
+ },
+ {
+  "seq": "3",
+  "project": "全周期智能航天运维管理",
+  "province": "北京市",
+  "school": "清华大学",
+  "leader": "曾毅强"
+ },
+ {
+  "seq": "4",
+  "project": "MINICRAFT",
+  "province": "北京市",
+  "school": "清华大学",
+  "leader": "叶宇轩"
+ },
+ {
+  "seq": "5",
+  "project": "凌波净轨——空间动态避障的引领者",
+  "province": "北京市",
+  "school": "北京航空航天大学",
+  "leader": "白筱瑀"
+ },
+ {
+  "seq": "6",
+  "project": "角壁智行——面向全角度壁面过渡的智能爬壁机器人",
+  "province": "北京市",
+  "school": "北京科技大学",
+  "leader": "陆韩欣阳"
+ },
+ {
+  "seq": "7",
+  "project": "青耘智合——新一代食品超高压杀菌装备生产领导者",
+  "province": "北京市",
+  "school": "中国农业大学",
+  "leader": "刘志斌"
+ },
+ {
+  "seq": "8",
+  "project": "星萤夜花——全国首个夜晚自发光植物技术应用",
+  "province": "北京市",
+  "school": "中国农业大学",
+  "leader": "李仁汉"
+ },
+ {
+  "seq": "9",
+  "project": "跃动凌朔--科技赋能奥运赛艇夺金引领者",
+  "province": "北京市",
+  "school": "北京体育大学",
+  "leader": "李倩"
+ },
+ {
+  "seq": "10",
+  "project": "生绿锂程——基于合成生物学的锂电池绿色回收先锋",
+  "province": "北京市",
+  "school": "北京理工大学",
+  "leader": "朱思羽"
+ },
+ {
+  "seq": "11",
+  "project": "智子引擎",
+  "province": "北京市",
+  "school": "中国人民大学",
+  "leader": "高一钊"
+ },
+ {
+  "seq": "12",
+  "project": "元镜智鉴——自动驾驶智能安全测试领航者",
+  "province": "北京市",
+  "school": "北京航空航天大学",
+  "leader": "章锦川"
+ },
+ {
+  "seq": "13",
+  "project": "银络智芯——先进电子封装“三高”导电银胶",
+  "province": "北京市",
+  "school": "北京理工大学",
+  "leader": "梁晨"
+ },
+ {
+  "seq": "14",
+  "project": "VASERA 脉管时代-全球首个血管化心脏类器官-重塑心脏药物研发与修复的未来",
+  "province": "天津市",
+  "school": "南开大学",
+  "leader": "杨壮壮"
+ },
+ {
+  "seq": "15",
+  "project": "翼飞宝——虚实双域飞行数据平台国产化破冰者",
+  "province": "天津市",
+  "school": "中国民航大学",
+  "leader": "李英瑞"
+ },
+ {
+  "seq": "16",
+  "project": "洛书——国产编程语言与技术开拓者",
+  "province": "河北省",
+  "school": "东北大学秦皇岛分校",
+  "leader": "陈朝臣"
+ },
+ {
+  "seq": "17",
+  "project": "细胞“光”测——首创基于光镊的红细胞弹性智能检测平台",
+  "province": "河北省",
+  "school": "东北大学秦皇岛分校",
+  "leader": "汤伟杰"
+ },
+ {
+  "seq": "18",
+  "project": "光维千巡——光伏电站隐患巡检与出力预测专家",
+  "province": "河北省",
+  "school": "河北工业大学",
+  "leader": "唐镇邦"
+ },
+ {
+  "seq": "19",
+  "project": "振控卫士-构建高端轧制装备稳健运维新方案",
+  "province": "山西省",
+  "school": "太原理工大学",
+  "leader": "郑京京"
+ },
+ {
+  "seq": "20",
+  "project": "稀金陶瓷——率先实现高温合成稀土金属陶瓷材料产业化",
+  "province": "内蒙古自治区",
+  "school": "内蒙古科技大学",
+  "leader": "李岩"
+ },
+ {
+  "seq": "21",
+  "project": "星驱科技——星链化时代的卫星电推进动力系统领航者",
+  "province": "辽宁省",
+  "school": "大连理工大学",
+  "leader": "夏博涵"
+ },
+ {
+  "seq": "22",
+  "project": "宇航智控——大型薄壁件传统装夹方式变革者",
+  "province": "辽宁省",
+  "school": "大连理工大学",
+  "leader": "王宇航"
+ },
+ {
+  "seq": "23",
+  "project": "海巡智瞳——国内首个超长距离+高精度海缆健康智能监测平台",
+  "province": "辽宁省",
+  "school": "东北大学",
+  "leader": "翟浩迪"
+ },
+ {
+  "seq": "24",
+  "project": "苍穹溯源——跨音速乘波体探空火箭",
+  "province": "辽宁省",
+  "school": "沈阳航空航天大学",
+  "leader": "房展毅"
+ },
+ {
+  "seq": "25",
+  "project": "粮芯筑梦——寒夜炉火炼就产业粮芯，专利矩阵驱动百万振兴",
+  "province": "吉林省",
+  "school": "北华大学",
+  "leader": "高晶"
+ },
+ {
+  "seq": "26",
+  "project": "星穹护甲：空天极端环境用特种涂层领航者",
+  "province": "黑龙江省",
+  "school": "哈尔滨工业大学",
+  "leader": "赵昕睿"
+ },
+ {
+  "seq": "27",
+  "project": "磁合星枢——面向巨星座建设的新体制“细胞”卫星平台",
+  "province": "黑龙江省",
+  "school": "哈尔滨工业大学",
+  "leader": "姚尊皓"
+ },
+ {
+  "seq": "28",
+  "project": "愈韧磐石-复合材料界面多尺度损伤修复与性能提升的全球卓越领导者",
+  "province": "黑龙江省",
+  "school": "哈尔滨工业大学",
+  "leader": "吴世宝"
+ },
+ {
+  "seq": "29",
+  "project": "极速降温-高通量石墨烯钎焊导热索开拓航空航天高精确控温新纪元",
+  "province": "黑龙江省",
+  "school": "哈尔滨工业大学",
+  "leader": "李培鑫"
+ },
+ {
+  "seq": "30",
+  "project": "基于超材料大模型的产品设计、制备和产业化",
+  "province": "上海市",
+  "school": "上海交通大学",
+  "leader": "钟豪章"
+ },
+ {
+  "seq": "31",
+  "project": "蝶翼——新一代柔性 OLED 透明盖板膜",
+  "province": "上海市",
+  "school": "上海交通大学",
+  "leader": "陈雨佳"
+ },
+ {
+  "seq": "32",
+  "project": "光启智芯—铌酸锂人工智能光子芯片应用领域拓荒者",
+  "province": "上海市",
+  "school": "华东师范大学",
+  "leader": "郑勇"
+ },
+ {
+  "seq": "33",
+  "project": "窥豹——脑胶质瘤术中关键基因快速分型仪器",
+  "province": "上海市",
+  "school": "复旦大学",
+  "leader": "陈一秀"
+ },
+ {
+  "seq": "34",
+  "project": "肾机妙算——肾癌精准分型试剂盒开拓者",
+  "province": "上海市",
+  "school": "上海交通大学",
+  "leader": "姚蕴韬"
+ },
+ {
+  "seq": "35",
+  "project": "动态解码脑宇宙：脑电同步式低场可移动磁共振领航者",
+  "province": "上海市",
+  "school": "上海交通大学",
+  "leader": "邱月淇"
+ },
+ {
+  "seq": "36",
+  "project": "熵基智冷——电卡效应材料和制冷器件制造领航者",
+  "province": "上海市",
+  "school": "上海交通大学",
+  "leader": "杜飞宏"
+ },
+ {
+  "seq": "37",
+  "project": "定海神针-深海高电压大电流智能插拔连接器开创者",
+  "province": "上海市",
+  "school": "上海理工大学",
+  "leader": "张浩楠"
+ },
+ {
+  "seq": "38",
+  "project": "华起智造-全球港机智造新势力",
+  "province": "上海市",
+  "school": "华东师范大学",
+  "leader": "周效羽"
+ },
+ {
+  "seq": "39",
+  "project": "编织生命通道——基于医用纺织技术的高值器械研发与产业化",
+  "province": "上海市",
+  "school": "东华大学",
+  "leader": "黎昊"
+ },
+ {
+  "seq": "40",
+  "project": "智飞氢龙——氢动力低空飞行器引领者",
+  "province": "上海市",
+  "school": "同济大学",
+  "leader": "李炎举"
+ },
+ {
+  "seq": "41",
+  "project": "知耘——AI驱动的无人农业生态开拓者",
+  "province": "上海市",
+  "school": "同济大学",
+  "leader": "刘昌杰"
+ },
+ {
+  "seq": "42",
+  "project": "沐数一下——全球首创的企业 AI 数据探查与分析解决方案",
+  "province": "上海市",
+  "school": "华东师范大学",
+  "leader": "杨韬"
+ },
+ {
+  "seq": "43",
+  "project": "脑动引擎——多模态神经调控提升运动能力新方案",
+  "province": "上海市",
+  "school": "上海体育大学",
+  "leader": "杨宸灏"
+ },
+ {
+  "seq": "44",
+  "project": "睛彩未来——儿童常见眼病筛查与管理系统",
+  "province": "上海市",
+  "school": "上海交通大学",
+  "leader": "黎晓静"
+ },
+ {
+  "seq": "45",
+  "project": "臻锂新材-一步法磁控溅射复合集流体开拓者",
+  "province": "上海市",
+  "school": "上海交通大学",
+  "leader": "李骁博"
+ },
+ {
+  "seq": "46",
+  "project": "零翼起航-地球第三种交通生态引领者",
+  "province": "江苏省",
+  "school": "南京航空航天大学",
+  "leader": "李宜恒"
+ },
+ {
+  "seq": "47",
+  "project": "天瞳—突破低空通感器件核心技术",
+  "province": "江苏省",
+  "school": "南京大学",
+  "leader": "秦琛烨"
+ },
+ {
+  "seq": "48",
+  "project": "BioPilot——智能活菌机器人肿瘤疫苗的开拓先锋",
+  "province": "江苏省",
+  "school": "南京大学",
+  "leader": "王志航"
+ },
+ {
+  "seq": "49",
+  "project": "芯卫国防—MEMS高功率光控芯片领导者",
+  "province": "江苏省",
+  "school": "南京理工大学",
+  "leader": "卢俊林"
+ },
+ {
+  "seq": "50",
+  "project": "新信向柔——柔性超宽带天线领军者",
+  "province": "江苏省",
+  "school": "南京邮电大学",
+  "leader": "曹祎航"
+ },
+ {
+  "seq": "51",
+  "project": "九遁电磁—面向5G/6G盲区破域的龙勃透镜天线拓界者",
+  "province": "江苏省",
+  "school": "南京航空航天大学",
+  "leader": "王燊旭"
+ },
+ {
+  "seq": "52",
+  "project": "星星点灯——纳型高精度全天时星敏感器",
+  "province": "江苏省",
+  "school": "常州大学",
+  "leader": "陶禹栋"
+ },
+ {
+  "seq": "53",
+  "project": "风浪骑手—全水域特种配送员",
+  "province": "江苏省",
+  "school": "南京信息工程大学",
+  "leader": "鲁天宇"
+ },
+ {
+  "seq": "54",
+  "project": "追光者-国产EUV光刻胶含氟光引发剂供应商",
+  "province": "江苏省",
+  "school": "常州大学",
+  "leader": "谭常乐"
+ },
+ {
+  "seq": "55",
+  "project": "小管智探——用于检测小管径埋地油气管道的智能漏磁内检测器",
+  "province": "江苏省",
+  "school": "常州大学",
+  "leader": "冯浩楠"
+ },
+ {
+  "seq": "56",
+  "project": "创造漆迹",
+  "province": "江苏省",
+  "school": "南京林业大学",
+  "leader": "侯江炎"
+ },
+ {
+  "seq": "57",
+  "project": "优敷痛享——开创光响应水凝胶术后切口镇痛新时代",
+  "province": "江苏省",
+  "school": "徐州医科大学",
+  "leader": "周子晗"
+ },
+ {
+  "seq": "58",
+  "project": "天盾芯链——低空无人设备全链路安全芯片",
+  "province": "江苏省",
+  "school": "南京航空航天大学",
+  "leader": "陆禹涵"
+ },
+ {
+  "seq": "59",
+  "project": "脊安炎清——脊髓损伤脑脊液灌注治疗开拓者",
+  "province": "江苏省",
+  "school": "南京医科大学",
+  "leader": "徐霖南"
+ },
+ {
+  "seq": "60",
+  "project": "全神灌注——高效节水型卷盘式喷灌机核心部件供应商",
+  "province": "江苏省",
+  "school": "江苏大学",
+  "leader": "闫泽轩"
+ },
+ {
+  "seq": "61",
+  "project": "微光探胃——胃癌miRNA超灵敏SERS检测系统开创者",
+  "province": "江苏省",
+  "school": "南京邮电大学",
+  "leader": "金肖宇昊"
+ },
+ {
+  "seq": "62",
+  "project": "“酶”好新“生”——国产辅助生殖用酶研发先锋",
+  "province": "江苏省",
+  "school": "南京医科大学",
+  "leader": "顾耀东"
+ },
+ {
+  "seq": "63",
+  "project": "全“谱”芯光——国产全光谱健康光源引领者",
+  "province": "江苏省",
+  "school": "苏州工学院",
+  "leader": "李佳芮"
+ },
+ {
+  "seq": "64",
+  "project": "光影跃动——智能三维视觉的全栈“中国芯”方案",
+  "province": "江苏省",
+  "school": "南京理工大学",
+  "leader": "陈文武"
+ },
+ {
+  "seq": "65",
+  "project": "御光新流——超灵敏智能光电探测器领航者",
+  "province": "江苏省",
+  "school": "南京工业大学",
+  "leader": "赵柄昇"
+ },
+ {
+  "seq": "66",
+  "project": "风语先知——低空气象保障先锋",
+  "province": "江苏省",
+  "school": "南京信息工程大学",
+  "leader": "陈逸翔"
+ },
+ {
+  "seq": "67",
+  "project": "智能紧固技术开拓者",
+  "province": "江苏省",
+  "school": "南京理工大学",
+  "leader": "毛荣磊"
+ },
+ {
+  "seq": "68",
+  "project": "芯氢科技——氮化镓基智能光解水产氢系统",
+  "province": "江苏省",
+  "school": "南京邮电大学",
+  "leader": "孙宁"
+ },
+ {
+  "seq": "69",
+  "project": "跨境电商数智化服务先驱者",
+  "province": "江苏省",
+  "school": "常州大学",
+  "leader": "刘阳阳"
+ },
+ {
+  "seq": "70",
+  "project": "海穹慧眼——水下声光共融船舶形貌“CT”诊疗系统",
+  "province": "江苏省",
+  "school": "南京工程学院",
+  "leader": "王天翔"
+ },
+ {
+  "seq": "71",
+  "project": "云硕智能——面向复杂极端场景的具身智能机器人",
+  "province": "江苏省",
+  "school": "南京大学",
+  "leader": "王庆阳"
+ },
+ {
+  "seq": "72",
+  "project": "荧导先锋—智能靶向荧光造影剂赋能肿瘤精准切除",
+  "province": "江苏省",
+  "school": "江苏科技大学",
+  "leader": "田济华"
+ },
+ {
+  "seq": "73",
+  "project": "解你—儿童健康功能食品先行者",
+  "province": "江苏省",
+  "school": "江南大学",
+  "leader": "王小侠"
+ },
+ {
+  "seq": "74",
+  "project": "高活高胺——高秆作物提质增产的生物激活剂引领者",
+  "province": "江苏省",
+  "school": "南京林业大学",
+  "leader": "董煜国"
+ },
+ {
+  "seq": "75",
+  "project": "丝路逐梦——东南亚时尚户外品牌引领者",
+  "province": "江苏省",
+  "school": "南通大学",
+  "leader": "FATHULLAHFAIZDAFFA"
+ },
+ {
+  "seq": "76",
+  "project": "寻声聚力——全方位舆情信息安全护航者",
+  "province": "江苏省",
+  "school": "南京信息工程大学",
+  "leader": "巩轩池"
+ },
+ {
+  "seq": "77",
+  "project": "探漏先锋——长距离地下管线渗漏光电波一体化探测装备",
+  "province": "江苏省",
+  "school": "河海大学",
+  "leader": "胡殿俊"
+ },
+ {
+  "seq": "78",
+  "project": "天核智影——放射性药物研发专用全能谱康普顿成像扫描仪",
+  "province": "江苏省",
+  "school": "南京航空航天大学",
+  "leader": "韩璐"
+ },
+ {
+  "seq": "79",
+  "project": "核芯科技—结核菌定量芯片领航者",
+  "province": "江苏省",
+  "school": "南京医科大学",
+  "leader": "高畅"
+ },
+ {
+  "seq": "80",
+  "project": "光影创刻—新一代投影悬浮式光固化3D打印系统",
+  "province": "江苏省",
+  "school": "南京理工大学",
+  "leader": "朱浩然"
+ },
+ {
+  "seq": "81",
+  "project": "冰水引擎--双桨共轴全回转吊舱推进器探索者",
+  "province": "江苏省",
+  "school": "江苏科技大学",
+  "leader": "王佳林"
+ },
+ {
+  "seq": "82",
+  "project": "屡“键”不“陷”——国产半导体芯片键合高能复合式定位引导先锋者",
+  "province": "江苏省",
+  "school": "苏州工学院",
+  "leader": "张夏玮"
+ },
+ {
+  "seq": "83",
+  "project": "根治有道——靶向根系精准施药领跑者",
+  "province": "江苏省",
+  "school": "南京林业大学",
+  "leader": "石缘"
+ },
+ {
+  "seq": "84",
+  "project": "电网天眼查-全球配电网故障实时监测领航者",
+  "province": "江苏省",
+  "school": "河海大学",
+  "leader": "王照坤"
+ },
+ {
+  "seq": "85",
+  "project": "虫影循踪----开拓线虫智能药物分析新“视”界",
+  "province": "江苏省",
+  "school": "徐州医科大学",
+  "leader": "王金玥"
+ },
+ {
+  "seq": "86",
+  "project": "金“菇”棒—微环境自适应菌棒的开创者",
+  "province": "江苏省",
+  "school": "徐州工程学院",
+  "leader": "李若冰"
+ },
+ {
+  "seq": "87",
+  "project": "“双管”破癌——高效辅助肿瘤免疫治疗试剂盒",
+  "province": "江苏省",
+  "school": "南通大学",
+  "leader": "王冯旭"
+ },
+ {
+  "seq": "88",
+  "project": "音鸟——新时代AI音乐创作革新者",
+  "province": "江苏省",
+  "school": "南京晓庄学院",
+  "leader": "姜涵"
+ },
+ {
+  "seq": "89",
+  "project": "点瓷成骨——骨诱导性适配降解生物陶瓷国产领航者",
+  "province": "江苏省",
+  "school": "徐州医科大学",
+  "leader": "王舒"
+ },
+ {
+  "seq": "90",
+  "project": "追光求圆——一种兼具高响应度、高分辨率、高稳定性的超表面基圆偏振光电探测器",
+  "province": "江苏省",
+  "school": "苏州大学",
+  "leader": "陈承昊"
+ },
+ {
+  "seq": "91",
+  "project": "全民神护——开启万级精度运动护具全民定制新时代",
+  "province": "江苏省",
+  "school": "苏州工学院",
+  "leader": "李雨乐"
+ },
+ {
+  "seq": "92",
+  "project": "“海工神探”——感-修-维共驱的水下智能巡检机器人",
+  "province": "江苏省",
+  "school": "南通大学",
+  "leader": "丁厚实"
+ },
+ {
+  "seq": "93",
+  "project": "芯光极研-半导体超精密抛光全球领航者",
+  "province": "江苏省",
+  "school": "苏州大学",
+  "leader": "王子睿"
+ },
+ {
+  "seq": "94",
+  "project": "纸韵东方——立体书里的中华密码",
+  "province": "江苏省",
+  "school": "苏州大学",
+  "leader": "沈星彤"
+ },
+ {
+  "seq": "95",
+  "project": "肽络耕新——国内促根活性多肽微生物肥料产业领航者",
+  "province": "江苏省",
+  "school": "南京农业大学",
+  "leader": "翁加博"
+ },
+ {
+  "seq": "96",
+  "project": "聚糖成材—葡聚糖大健康守护纪元开拓者",
+  "province": "江苏省",
+  "school": "南京工业大学",
+  "leader": "蒋志明"
+ },
+ {
+  "seq": "97",
+  "project": "瘤影明踪——肿瘤快速、精准荧光显影开拓者",
+  "province": "江苏省",
+  "school": "南通大学",
+  "leader": "袁芷菲"
+ },
+ {
+  "seq": "98",
+  "project": "药到锈除——基于大豆锈病的新型多场景适用RNA绿色农药研发先驱",
+  "province": "江苏省",
+  "school": "南京农业大学",
+  "leader": "赵紫涵"
+ },
+ {
+  "seq": "99",
+  "project": "极焊破冰-厚板摇动电弧智能焊接设备破冰者",
+  "province": "江苏省",
+  "school": "江苏科技大学",
+  "leader": "贾昊锦"
+ },
+ {
+  "seq": "100",
+  "project": "全球首创仿生氟硅功能乳液供应商",
+  "province": "江苏省",
+  "school": "南京理工大学",
+  "leader": "胡浩"
+ },
+ {
+  "seq": "101",
+  "project": "运筹帷幄--工业具身智能群控调度智擎者",
+  "province": "江苏省",
+  "school": "苏州工学院",
+  "leader": "吴家豪"
+ },
+ {
+  "seq": "102",
+  "project": "盾地下构未来——盾构机刀盘泥饼防治引领者",
+  "province": "江苏省",
+  "school": "中国矿业大学",
+  "leader": "白锦梁"
+ },
+ {
+  "seq": "103",
+  "project": "智盾护航-植物碱有机硅低阻海洋防污涂料创新先锋",
+  "province": "江苏省",
+  "school": "苏州工学院",
+  "leader": "陈璐璐"
+ },
+ {
+  "seq": "104",
+  "project": "智绘芯图——国产自主硅基模式控制光电芯片设计EDA工具",
+  "province": "江苏省",
+  "school": "南京信息工程大学",
+  "leader": "韩正国"
+ },
+ {
+  "seq": "105",
+  "project": "探本溯源-电气设备高精度、多模态感知预警系统",
+  "province": "江苏省",
+  "school": "江苏科技大学",
+  "leader": "徐荣森"
+ },
+ {
+  "seq": "106",
+  "project": "Voxsee-面向视障者的普惠级无障碍智能辅具",
+  "province": "浙江省",
+  "school": "浙江大学",
+  "leader": "陈奕好"
+ },
+ {
+  "seq": "107",
+  "project": "肽本科技——全球领先的非小细胞肺癌全流程早期诊疗方案",
+  "province": "浙江省",
+  "school": "浙江大学",
+  "leader": "韩佳航"
+ },
+ {
+  "seq": "108",
+  "project": "星植幻境——全球最亮发光植物引领科幻走进现实",
+  "province": "浙江省",
+  "school": "浙江大学",
+  "leader": "瞿成杙"
+ },
+ {
+  "seq": "109",
+  "project": "晶核智探——新一代溴铅铯半导体引领国产探测元件产业革命",
+  "province": "浙江省",
+  "school": "宁波大学",
+  "leader": "刘金松"
+ },
+ {
+  "seq": "110",
+  "project": "特工宇宙——领先级AIAgent开发平台与全链路解决方案供应商",
+  "province": "浙江省",
+  "school": "杭州电子科技大学",
+  "leader": "仲泰"
+ },
+ {
+  "seq": "111",
+  "project": "极丝磁电——国产超细高敏钴基非晶丝智造领航者",
+  "province": "浙江省",
+  "school": "宁波大学科学技术学院",
+  "leader": "林子墨"
+ },
+ {
+  "seq": "112",
+  "project": "净界智能——国内领先的高燃氧离子净化设备",
+  "province": "浙江省",
+  "school": "浙江财经大学",
+  "leader": "张轶天"
+ },
+ {
+  "seq": "113",
+  "project": "恒安智卫---骑行路态感知与防卫的探索者",
+  "province": "浙江省",
+  "school": "浙江工商大学",
+  "leader": "黄昱凡"
+ },
+ {
+  "seq": "114",
+  "project": "玄影智构——三维创新驱动的 AI 动画生成破局者",
+  "province": "浙江省",
+  "school": "浙江工商大学",
+  "leader": "董思浩"
+ },
+ {
+  "seq": "115",
+  "project": "智动康养-老年人康养外骨骼功能服领跑者",
+  "province": "浙江省",
+  "school": "浙江工业大学",
+  "leader": "郑佳怡"
+ },
+ {
+  "seq": "116",
+  "project": "振“晶”未来——超高性能压电晶体引领超声探测新纪元",
+  "province": "浙江省",
+  "school": "宁波大学",
+  "leader": "王今鹏"
+ },
+ {
+  "seq": "117",
+  "project": "户外新生——赋能户外体育安全的智能面料提供商",
+  "province": "浙江省",
+  "school": "绍兴文理学院",
+  "leader": "应迪"
+ },
+ {
+  "seq": "118",
+  "project": "虫入不惊——畜牧业中草药饲料添加剂引领者",
+  "province": "浙江省",
+  "school": "宁波大学",
+  "leader": "杨昊怡"
+ },
+ {
+  "seq": "119",
+  "project": "亿飞未来——95后退伍兵的“飞行农场”创业路",
+  "province": "浙江省",
+  "school": "浙江树人学院",
+  "leader": "赵逸飞"
+ },
+ {
+  "seq": "120",
+  "project": "\"桥\"见未来——中国制造业出海产业社区跨文化营造先行者",
+  "province": "浙江省",
+  "school": "宁波工程学院",
+  "leader": "陆依伦"
+ },
+ {
+  "seq": "121",
+  "project": "SIOYIE——专注全球智能卫浴互联的中国出海品牌",
+  "province": "浙江省",
+  "school": "浙江科技大学",
+  "leader": "竺颖龙"
+ },
+ {
+  "seq": "122",
+  "project": "皓齿牙冠数字化修复方案——数智制冠先行者",
+  "province": "浙江省",
+  "school": "浙江中医药大学",
+  "leader": "章程琪"
+ },
+ {
+  "seq": "123",
+  "project": "辰星创造——打造中国现象级文化综艺节目梦工厂",
+  "province": "浙江省",
+  "school": "浙江音乐学院",
+  "leader": "翟宁"
+ },
+ {
+  "seq": "124",
+  "project": "驼铃引航，非通潮起—DBSTUDIO开创非洲直播电商新纪元",
+  "province": "浙江省",
+  "school": "浙江传媒学院",
+  "leader": "辛忠寰"
+ },
+ {
+  "seq": "125",
+  "project": "甬熵科技——热界面散热材料革新者",
+  "province": "浙江省",
+  "school": "宁波大学",
+  "leader": "祁劲松"
+ },
+ {
+  "seq": "126",
+  "project": "茶予新生——守护全民脑健康的新质生产力",
+  "province": "浙江省",
+  "school": "浙江科技大学",
+  "leader": "邵逸怀"
+ },
+ {
+  "seq": "127",
+  "project": "京宇轻骑—-中国“三蹦子”闯入世界舞台",
+  "province": "浙江省",
+  "school": "宁波大学科学技术学院",
+  "leader": "陆宇灏"
+ },
+ {
+  "seq": "128",
+  "project": "归璨纤检-AI赋能纺织纤维检测新未来",
+  "province": "浙江省",
+  "school": "宁波大学科学技术学院",
+  "leader": "陈瑶璐"
+ },
+ {
+  "seq": "129",
+  "project": "“周氏萤”以项目负责人命名的稳态高亮半水生萤火虫新品种——夜空中闪亮的玫瑰",
+  "province": "浙江省",
+  "school": "浙江农林大学",
+  "leader": "周颐"
+ },
+ {
+  "seq": "130",
+  "project": "传声童：一站式儿童华文教育产品出海践行者",
+  "province": "浙江省",
+  "school": "宁波工程学院",
+  "leader": "吴涛"
+ },
+ {
+  "seq": "131",
+  "project": "卫穹灵瞳——低空无人机智能监测系统",
+  "province": "浙江省",
+  "school": "浙江大学",
+  "leader": "钱飞扬"
+ },
+ {
+  "seq": "132",
+  "project": "积木生命——迷你蛋白药物AI模块化设计开创者",
+  "province": "浙江省",
+  "school": "浙江大学",
+  "leader": "蔡晨曦"
+ },
+ {
+  "seq": "133",
+  "project": "磁生骨印——生物打印膝关节软骨修复系统",
+  "province": "浙江省",
+  "school": "浙江大学",
+  "leader": "胡佳滢"
+ },
+ {
+  "seq": "134",
+  "project": "肝清渔健——鱼类肝病防治领航者",
+  "province": "浙江省",
+  "school": "宁波大学",
+  "leader": "刘治国"
+ },
+ {
+  "seq": "135",
+  "project": "智枕无忧，审眠度势—智能无感的长时效睡眠疾病检测及健康守护平台",
+  "province": "安徽省",
+  "school": "合肥工业大学",
+  "leader": "李翰臻"
+ },
+ {
+  "seq": "136",
+  "project": "心有灵蜥——全球首个蜥蜴多品种研发与产业化的缔造者",
+  "province": "安徽省",
+  "school": "安徽农业大学",
+  "leader": "郑庆雨"
+ },
+ {
+  "seq": "137",
+  "project": "旭晨兴材——新型防火隔热阻燃材料领跑者",
+  "province": "安徽省",
+  "school": "皖西学院",
+  "leader": "张旭晨"
+ },
+ {
+  "seq": "138",
+  "project": "流芯聚能-液冷循环轮毂电机热电耦合一体化平台",
+  "province": "安徽省",
+  "school": "安徽信息工程学院",
+  "leader": "陈龙飞"
+ },
+ {
+  "seq": "139",
+  "project": "鲍发力—耐高温鲍苗开启现代渔业养殖加速度",
+  "province": "福建省",
+  "school": "闽江学院",
+  "leader": "林昕哲"
+ },
+ {
+  "seq": "140",
+  "project": "“钙”天换地-基于碳酸钙体系的新一代光热储能材料",
+  "province": "福建省",
+  "school": "福州大学",
+  "leader": "康国坚"
+ },
+ {
+  "seq": "141",
+  "project": "川硫不息——聚合锂硫正极材料领航者",
+  "province": "福建省",
+  "school": "福建师范大学",
+  "leader": "李晨远"
+ },
+ {
+  "seq": "142",
+  "project": "长鑫跨境科技——中国品牌出海“人货场关”一体化解决方案提供商",
+  "province": "福建省",
+  "school": "厦门大学嘉庚学院",
+  "leader": "邵长茹"
+ },
+ {
+  "seq": "143",
+  "project": "橘光拾甜——新食代柑橘源天然甜味剂智造专家",
+  "province": "福建省",
+  "school": "集美大学",
+  "leader": "张怡"
+ },
+ {
+  "seq": "144",
+  "project": "肽转新机——鲍鱼副产品高值化利用新“肽”势领军者",
+  "province": "福建省",
+  "school": "集美大学",
+  "leader": "芦禹汐"
+ },
+ {
+  "seq": "145",
+  "project": "寻穴智按——赓续中医文脉的AI精准寻穴智能按摩设备深耕者",
+  "province": "福建省",
+  "school": "集美大学诚毅学院",
+  "leader": "尤嘉乐"
+ },
+ {
+  "seq": "146",
+  "project": "碳纳感知——业界首款碳纳米触控传感电子元器件缔造者",
+  "province": "江西省",
+  "school": "江西师范大学",
+  "leader": "车铭芝"
+ },
+ {
+  "seq": "147",
+  "project": "瓷韵敦煌——中国非遗文创引领者",
+  "province": "江西省",
+  "school": "景德镇陶瓷大学",
+  "leader": "魏荣荣"
+ },
+ {
+  "seq": "148",
+  "project": "绿膜智耕-开创超薄多功能全生物降解地膜新时代",
+  "province": "山东省",
+  "school": "山东农业大学",
+  "leader": "宋宜兆"
+ },
+ {
+  "seq": "149",
+  "project": "无处遁形——基于外辐射源的城市低空无盲区侦测雷达",
+  "province": "江西省",
+  "school": "华东交通大学",
+  "leader": "王静"
+ },
+ {
+  "seq": "150",
+  "project": "灵犀陪伴家——首款投影交互式的AI陪伴机器人",
+  "province": "山东省",
+  "school": "山东大学（威海）",
+  "leader": "彭誉佳"
+ },
+ {
+  "seq": "151",
+  "project": "航链卫海——万里海疆守护者",
+  "province": "山东省",
+  "school": "哈尔滨工业大学(威海)",
+  "leader": "张璨"
+ },
+ {
+  "seq": "152",
+  "project": "“海耕碳护”——机船协同的海草床生态修复技术引领者",
+  "province": "山东省",
+  "school": "中国海洋大学",
+  "leader": "胡焕峥"
+ },
+ {
+  "seq": "153",
+  "project": "智检芯生——基于OCT技术的芯片封装三维检测设备",
+  "province": "山东省",
+  "school": "山东大学",
+  "leader": "刘新彤"
+ },
+ {
+  "seq": "154",
+  "project": "“胶您周全”——智能靶向抗菌和促牙周骨再生双功能水凝胶开拓者",
+  "province": "山东省",
+  "school": "山东大学",
+  "leader": "杨子卿"
+ },
+ {
+  "seq": "155",
+  "project": "SuperAML——AI蒸馏在反洗钱监管上的应用",
+  "province": "山东省",
+  "school": "山东大学",
+  "leader": "姜羽含"
+ },
+ {
+  "seq": "156",
+  "project": "食菌速检——新一代食源性致病菌三模式快检仪",
+  "province": "山东省",
+  "school": "中国石油大学(华东)",
+  "leader": "任绪乾"
+ },
+ {
+  "seq": "157",
+  "project": "力支智检——国内高端力学测试系统拓荒者",
+  "province": "山东省",
+  "school": "山东科技大学",
+  "leader": "梁世元"
+ },
+ {
+  "seq": "158",
+  "project": "名“氟”其实--新型易降解农药生产用氟化剂的引领者",
+  "province": "山东省",
+  "school": "齐鲁工业大学",
+  "leader": "刘焜"
+ },
+ {
+  "seq": "159",
+  "project": "检微知著——面向农村养殖户的动物疫病现场快检掌上PCR实验室",
+  "province": "山东省",
+  "school": "青岛农业大学",
+  "leader": "李佳妮"
+ },
+ {
+  "seq": "160",
+  "project": "御洪——水利安全卫士",
+  "province": "河南省",
+  "school": "郑州大学",
+  "leader": "石九龙"
+ },
+ {
+  "seq": "161",
+  "project": "百分材料——中国超高纯钼供应商",
+  "province": "河南省",
+  "school": "郑州大学",
+  "leader": "张琦飞"
+ },
+ {
+  "seq": "162",
+  "project": "合生元·耕未来——菌元协同谱写良田沃土新篇章",
+  "province": "河南省",
+  "school": "河南农业大学",
+  "leader": "王山聪"
+ },
+ {
+  "seq": "163",
+  "project": "生生不息——新一代智能连续化细胞培养设备革新者",
+  "province": "河南省",
+  "school": "河南大学",
+  "leader": "刘婷婷"
+ },
+ {
+  "seq": "164",
+  "project": "智声融创——LED专用智慧影音4.0沉浸声音频系统",
+  "province": "河南省",
+  "school": "商丘师范学院",
+  "leader": "陶益锋"
+ },
+ {
+  "seq": "165",
+  "project": "有“镓”路更宽——肟基树脂打造高效提取“硬核科技”",
+  "province": "河南省",
+  "school": "郑州大学",
+  "leader": "马路宽"
+ },
+ {
+  "seq": "166",
+  "project": "全锂以赴——低温下高性能固态电解质研发领航者",
+  "province": "河南省",
+  "school": "郑州大学",
+  "leader": "吴亚涛"
+ },
+ {
+  "seq": "167",
+  "project": "纺然一新",
+  "province": "河南省",
+  "school": "郑州轻工业大学",
+  "leader": "霍玉凯"
+ },
+ {
+  "seq": "168",
+  "project": "“智”手助残——全球领先手部重建康复与智能假肢模拟交互仿生平台",
+  "province": "河南省",
+  "school": "郑州大学",
+  "leader": "崔玉莹"
+ },
+ {
+  "seq": "169",
+  "project": "敖丙-基于仿生海蛇的智能海洋管道检测机器人",
+  "province": "河南省",
+  "school": "郑州大学",
+  "leader": "曹森"
+ },
+ {
+  "seq": "170",
+  "project": "锐不可当——关键构件超声切削工艺开拓者",
+  "province": "河南省",
+  "school": "郑州大学",
+  "leader": "林耀国"
+ },
+ {
+  "seq": "171",
+  "project": "智绘好孕-数智驱动的胚胎基因组多维联检优筛领航者",
+  "province": "河南省",
+  "school": "郑州大学",
+  "leader": "胡青莹"
+ },
+ {
+  "seq": "172",
+  "project": "闪烁星探——新一代分子基闪烁体辐射探测器",
+  "province": "河南省",
+  "school": "郑州大学",
+  "leader": "曹若宇"
+ },
+ {
+  "seq": "173",
+  "project": "质模先锋",
+  "province": "河南省",
+  "school": "郑州大学",
+  "leader": "花朝妍"
+ },
+ {
+  "seq": "174",
+  "project": "桥介数物——通用机器人小脑研发领航者",
+  "province": "湖北省",
+  "school": "华中科技大学",
+  "leader": "尚阳星"
+ },
+ {
+  "seq": "175",
+  "project": "心有“灵犀”——小切口不停跳心肌切除器",
+  "province": "湖北省",
+  "school": "华中科技大学",
+  "leader": "李毅"
+ },
+ {
+  "seq": "176",
+  "project": "芯中达-半导体与新能源领域集成电路热管理先进陶瓷国产化",
+  "province": "湖北省",
+  "school": "武汉理工大学",
+  "leader": "刘志哲"
+ },
+ {
+  "seq": "177",
+  "project": "创现科技——全球软表面清洁机器人开创者",
+  "province": "湖北省",
+  "school": "华中科技大学",
+  "leader": "蔡毅"
+ },
+ {
+  "seq": "178",
+  "project": "“卜算子”--多途径人工智能辅助甲骨文破译系统",
+  "province": "湖北省",
+  "school": "华中科技大学",
+  "leader": "管海粟"
+ },
+ {
+  "seq": "179",
+  "project": "御磁科技一一特高磁导率薄膜吸波材料的开拓者与引领者",
+  "province": "湖北省",
+  "school": "武汉理工大学",
+  "leader": "王峰"
+ },
+ {
+  "seq": "180",
+  "project": "深微问海——新一代基于计算成像的高清全彩深海成像设备",
+  "province": "湖北省",
+  "school": "武汉大学",
+  "leader": "刘远巍"
+ },
+ {
+  "seq": "181",
+  "project": "光路童行——千亿微观科普教育产业破局者",
+  "province": "湖北省",
+  "school": "武汉工程大学",
+  "leader": "何艾洲"
+ },
+ {
+  "seq": "182",
+  "project": "桨动未来——划桨运动项目训练模型开拓者",
+  "province": "湖北省",
+  "school": "武汉体育学院",
+  "leader": "陈炳鑫"
+ },
+ {
+  "seq": "183",
+  "project": "问天——基于基因组学数据的合成生物学与农业育种",
+  "province": "湖北省",
+  "school": "华中农业大学",
+  "leader": "陈洋"
+ },
+ {
+  "seq": "184",
+  "project": "海擎动力—重载耐磨水润滑可倾瓦推力轴承开创者",
+  "province": "湖北省",
+  "school": "武汉理工大学",
+  "leader": "陈一鸣"
+ },
+ {
+  "seq": "185",
+  "project": "宫护未来-猪子宫内膜炎“无抗”防治方案开创者",
+  "province": "湖北省",
+  "school": "华中农业大学",
+  "leader": "李鑫鑫"
+ },
+ {
+  "seq": "186",
+  "project": "千维光芯—多维光探测技术开拓者",
+  "province": "湖南省",
+  "school": "湖南大学",
+  "leader": "唐梓岚"
+ },
+ {
+  "seq": "187",
+  "project": "致盛合物 — 多模态物联大模型智联万象",
+  "province": "广东省",
+  "school": "华南理工大学",
+  "leader": "庄泽帆"
+ },
+ {
+  "seq": "188",
+  "project": "极动智能-智能便携运动恢复装备引领者",
+  "province": "广东省",
+  "school": "哈尔滨工业大学(深圳）",
+  "leader": "陈聪一"
+ },
+ {
+  "seq": "189",
+  "project": "塑造未来——国际领先的特种工程塑料GO-PTFE",
+  "province": "广东省",
+  "school": "广东工业大学",
+  "leader": "甄智勇"
+ },
+ {
+  "seq": "190",
+  "project": "珩忆微科技——新一代磁存储芯片架构的引领者",
+  "province": "广东省",
+  "school": "华南理工大学",
+  "leader": "刘清仁"
+ },
+ {
+  "seq": "191",
+  "project": "焱焰科技-国际领先碳化物高熵陶瓷复合材料",
+  "province": "广东省",
+  "school": "广州大学",
+  "leader": "程汉威"
+ },
+ {
+  "seq": "192",
+  "project": "膜力无限—全球手机贴膜市场无人化标准制定者",
+  "province": "广东省",
+  "school": "深圳职业技术大学",
+  "leader": "杨佳雯"
+ },
+ {
+  "seq": "193",
+  "project": "“酯”争朝夕—酯类聚合物固态锂电池快充领航者",
+  "province": "广东省",
+  "school": "华南理工大学",
+  "leader": "苏柯心"
+ },
+ {
+  "seq": "194",
+  "project": "量子芯探——基于金刚石量子效应的芯片失效检测新手段",
+  "province": "广东省",
+  "school": "暨南大学",
+  "leader": "曾弼伟"
+ },
+ {
+  "seq": "195",
+  "project": "螺旋微存-全球首创便携式DNA数据存储设备",
+  "province": "广东省",
+  "school": "南方科技大学",
+  "leader": "李健恺"
+ },
+ {
+  "seq": "196",
+  "project": "逐梦蓝图——超高清蓝光材料破局者",
+  "province": "广东省",
+  "school": "深圳大学",
+  "leader": "陈沛豪"
+ },
+ {
+  "seq": "197",
+  "project": "肺易检——便携式肺功能检测仪引领者",
+  "province": "广东省",
+  "school": "广州医科大学",
+  "leader": "何思妮"
+ },
+ {
+  "seq": "198",
+  "project": "高清视界——轻量化实时超分系统领创者",
+  "province": "广东省",
+  "school": "哈尔滨工业大学(深圳）",
+  "leader": "苏博何俊"
+ },
+ {
+  "seq": "199",
+  "project": "XQ-12「九天玄女」",
+  "province": "广西壮族自治区",
+  "school": "广西师范大学",
+  "leader": "齐子安"
+ },
+ {
+  "seq": "200",
+  "project": "生死航线",
+  "province": "广西壮族自治区",
+  "school": "南宁学院",
+  "leader": "邹胜勇"
+ },
+ {
+  "seq": "201",
+  "project": "密芯量子——国产化硅基芯片量子随机数发生器领航者",
+  "province": "广西壮族自治区",
+  "school": "广西大学",
+  "leader": "李永康"
+ },
+ {
+  "seq": "202",
+  "project": "地听天算——AI驱动的三维地理治理中枢",
+  "province": "广西壮族自治区",
+  "school": "桂林理工大学",
+  "leader": "王博"
+ },
+ {
+  "seq": "203",
+  "project": "“育”见新未来——金鲳陆基反季节繁育技术体系构建与产业化",
+  "province": "海南省",
+  "school": "海南大学",
+  "leader": "张殷思彤"
+ },
+ {
+  "seq": "204",
+  "project": "“抑痨”永逸——声动力无创治疗结核病新方案",
+  "province": "重庆市",
+  "school": "重庆医科大学",
+  "leader": "李睿诚"
+ },
+ {
+  "seq": "205",
+  "project": "蓝海核卫士-国内首套海上放射性应急监测体系",
+  "province": "四川省",
+  "school": "西南科技大学",
+  "leader": "王嘉麒"
+ },
+ {
+  "seq": "206",
+  "project": "明秩科技：全球首创单分子蛋白质测序技术助力精准医疗",
+  "province": "四川省",
+  "school": "四川大学",
+  "leader": "宋俊伟"
+ },
+ {
+  "seq": "207",
+  "project": "微笑共赢-全球首创颌面外科智能化微创手术机器人系统",
+  "province": "四川省",
+  "school": "四川大学",
+  "leader": "花语菲"
+ },
+ {
+  "seq": "208",
+  "project": "太虚方寸——面向 6G 射频前端的毫米波高集成封装阵列天线",
+  "province": "四川省",
+  "school": "电子科技大学",
+  "leader": "洪博乐"
+ },
+ {
+  "seq": "209",
+  "project": "光愈先锋——全球首台高能X射线闪疗装备领航者",
+  "province": "四川省",
+  "school": "四川大学",
+  "leader": "陈雨欣"
+ },
+ {
+  "seq": "210",
+  "project": "“治痛”道合——中重度疼痛非成瘾性治疗新策略",
+  "province": "贵州省",
+  "school": "贵州大学",
+  "leader": "吴梦雪"
+ },
+ {
+  "seq": "211",
+  "project": "“光启膜法师”——国际首创3D多孔光催化降解薄膜",
+  "province": "贵州省",
+  "school": "贵州大学",
+  "leader": "周彦名"
+ },
+ {
+  "seq": "212",
+  "project": "净水先锋--菌藻共生颗粒污泥破局增效新方案",
+  "province": "贵州省",
+  "school": "贵州大学",
+  "leader": "喻思萌"
+ },
+ {
+  "seq": "213",
+  "project": "掣电聚能——新型非碳基负极大规模储能材料中国方案缔造者",
+  "province": "贵州省",
+  "school": "贵州大学",
+  "leader": "关皓元"
+ },
+ {
+  "seq": "214",
+  "project": "墨智双擎——多模态品牌服务大模型引领者",
+  "province": "贵州省",
+  "school": "贵州财经大学",
+  "leader": "王梓腾"
+ },
+ {
+  "seq": "215",
+  "project": "蝉音蜕变·莲花盛开 ———舞乐蝉歌非遗走向世界",
+  "province": "贵州省",
+  "school": "贵州大学",
+  "leader": "杨想妮"
+ },
+ {
+  "seq": "216",
+  "project": "零界CarbonX——面向多场景的分布式直接空气碳捕集装置领航者",
+  "province": "新疆生产建设兵团",
+  "school": "石河子大学",
+  "leader": "陈天琦"
+ },
+ {
+  "seq": "217",
+  "project": "安猪乐业——精准质优的猪伪狂犬病检测消杀方案",
+  "province": "云南省",
+  "school": "云南农业大学",
+  "leader": "蔺淑梅"
+ },
+ {
+  "seq": "218",
+  "project": "漱翌康——癌症患者口腔溃疡克星",
+  "province": "云南省",
+  "school": "昆明医科大学",
+  "leader": "黄翌航"
+ },
+ {
+  "seq": "219",
+  "project": "双擎移动微电站——光伏+算法双技术助力牧区供电系统",
+  "province": "西藏自治区",
+  "school": "西藏民族大学",
+  "leader": "贺晴"
+ },
+ {
+  "seq": "220",
+  "project": "粉擎速递—应用于冲压发动机的粉末输运装置",
+  "province": "陕西省",
+  "school": "西安交通大学",
+  "leader": "吴浩齐"
+ },
+ {
+  "seq": "221",
+  "project": "精测之芯——面向超精密测量的信号采集性能提升解决方案",
+  "province": "陕西省",
+  "school": "西安电子科技大学",
+  "leader": "张硕岩"
+ },
+ {
+  "seq": "222",
+  "project": "层覆锂翼——ALD技术重塑无人机动力电池革新者",
+  "province": "陕西省",
+  "school": "西安理工大学",
+  "leader": "徐鹤"
+ },
+ {
+  "seq": "223",
+  "project": "芯动光通-国产MEMS光通信调制器“破局者”",
+  "province": "陕西省",
+  "school": "西北工业大学",
+  "leader": "惠大泰"
+ },
+ {
+  "seq": "224",
+  "project": "凤凰眼视觉——开启高维智能观赛新时代",
+  "province": "陕西省",
+  "school": "西安电子科技大学",
+  "leader": "张译丹"
+ },
+ {
+  "seq": "225",
+  "project": "叶叶生辉—智能光刀精准抛磨涡轮叶片的开拓者",
+  "province": "陕西省",
+  "school": "西安交通大学",
+  "leader": "王尚劼"
+ },
+ {
+  "seq": "226",
+  "project": "静翼旋音-旋翼无人机仿生降噪产品智造者",
+  "province": "陕西省",
+  "school": "西北工业大学",
+  "leader": "晏帅"
+ },
+ {
+  "seq": "227",
+  "project": "深蓝智航-无人水下航行器智能设计工业软件开拓者",
+  "province": "陕西省",
+  "school": "西北工业大学",
+  "leader": "王文鑫"
+ },
+ {
+  "seq": "228",
+  "project": "绿智未来—中远距离海上风电分频输电全链条解决方案",
+  "province": "陕西省",
+  "school": "西安交通大学",
+  "leader": "王子昂"
+ },
+ {
+  "seq": "229",
+  "project": "煤火智探——煤火灾害风险隐患精准监测与智能预测系统",
+  "province": "陕西省",
+  "school": "西安科技大学",
+  "leader": "刘韩飞"
+ },
+ {
+  "seq": "230",
+  "project": "雾启芯辰——基于闪蒸喷雾和界面改性的分布式大功率芯片冷却技术",
+  "province": "陕西省",
+  "school": "西安交通大学",
+  "leader": "周晓菲"
+ },
+ {
+  "seq": "231",
+  "project": "逆压行者——航空发动机气动载荷可视化系统",
+  "province": "陕西省",
+  "school": "西北工业大学",
+  "leader": "欧阳波"
+ },
+ {
+  "seq": "232",
+  "project": "驭光者——高精度大行程高速光学扫描振镜",
+  "province": "陕西省",
+  "school": "西安工业大学",
+  "leader": "李岸霖"
+ },
+ {
+  "seq": "233",
+  "project": "灵络-基于多模态数据与因果推断的消费级神经接口",
+  "province": "陕西省",
+  "school": "西北工业大学",
+  "leader": "张弢"
+ },
+ {
+  "seq": "234",
+  "project": "声影流光——非接触式弱超声辅助增材制造模块",
+  "province": "陕西省",
+  "school": "西北工业大学",
+  "leader": "黄元熙"
+ },
+ {
+  "seq": "235",
+  "project": "碳行天下-高性能制动部件领跑者",
+  "province": "陕西省",
+  "school": "西北工业大学",
+  "leader": "张盟林"
+ },
+ {
+  "seq": "236",
+  "project": "创芯先封——极端温度下碳化硅器件封装技术引领者",
+  "province": "陕西省",
+  "school": "西安交通大学",
+  "leader": "赵志强"
+ },
+ {
+  "seq": "237",
+  "project": "焱盾先锋-适用于多元场景的轻质化、耐烧蚀柔性绝热材料",
+  "province": "陕西省",
+  "school": "西北工业大学",
+  "leader": "王逸溦"
+ },
+ {
+  "seq": "238",
+  "project": "芯驰瓷往——半导体封装陶瓷基板引领者",
+  "province": "陕西省",
+  "school": "西安交通大学",
+  "leader": "沈艾霖"
+ },
+ {
+  "seq": "239",
+  "project": "核亦生花-高放废液中稀有同位素再生先锋",
+  "province": "甘肃省",
+  "school": "兰州大学",
+  "leader": "肖伟祥"
+ },
+ {
+  "seq": "240",
+  "project": "力光金城——动态力致发光防伪技术构筑捍卫国家金融经济安全的万里长城",
+  "province": "甘肃省",
+  "school": "兰州大学",
+  "leader": "王杉文"
+ },
+ {
+  "seq": "241",
+  "project": "急危重症哨兵：基于多模态数据与深度学习算法的ICU患者智能监测系统",
+  "province": "青海省",
+  "school": "青海大学",
+  "leader": "王旭杰"
+ },
+ {
+  "seq": "242",
+  "project": "OneDrop智检——牧场梭菌全场景检测领跑者",
+  "province": "宁夏回族自治区",
+  "school": "宁夏大学",
+  "leader": "马丽娜"
+ },
+ {
+  "seq": "243",
+  "project": "智驭冰流-防堵塞的建筑空调换热系统",
+  "province": "新疆维吾尔自治区",
+  "school": "中国石油大学（北京）克拉玛依校区",
+  "leader": "刘静"
+ },
+ {
+  "seq": "244",
+  "project": "智筑未来——AI驱动的一键式建筑规划与可视化平台",
+  "province": "香港",
+  "school": "香港大学",
+  "leader": "王一可"
+ },
+ {
+  "seq": "245",
+  "project": "基于仿生复眼结构的超薄视触觉传感器",
+  "province": "香港",
+  "school": "香港科技大学",
+  "leader": "李阳"
+ },
+ {
+  "seq": "246",
+  "project": "Hopcopter跳跃机——世界上跳跃性能最好的机器人",
+  "province": "香港",
+  "school": "香港城市大学",
+  "leader": "王方正"
+ },
+ {
+  "seq": "247",
+  "project": "可用于治疗血癌的Fc工程化CD9抗体",
+  "province": "香港",
+  "school": "香港中文大学",
+  "leader": "伍颖曦"
+ },
+ {
+  "seq": "248",
+  "project": "消化道内镜下黏膜剥离术的磁牵引系统",
+  "province": "香港",
+  "school": "香港中文大学",
+  "leader": "陈玮诚"
+ },
+ {
+  "seq": "249",
+  "project": "纳米孔生物单分子检测平台",
+  "province": "香港",
+  "school": "香港中文大学",
+  "leader": "潘天乐"
+ },
+ {
+  "seq": "250",
+  "project": "理想的锂金属负极-{110}织构超薄锂箔",
+  "province": "香港",
+  "school": "香港中文大学",
+  "leader": "胡希韬"
+ },
+ {
+  "seq": "251",
+  "project": "AI新藥工場——生成式AI賦能創新藥全鏈開發",
+  "province": "澳门",
+  "school": "澳门大学",
+  "leader": "刘舒霖"
+ },
+ {
+  "seq": "252",
+  "project": "零触诊疗",
+  "province": "澳门",
+  "school": "澳门城市大学",
+  "leader": "张天然"
+ },
+ {
+  "seq": "253",
+  "project": "慧心影赋：心脏造影图像识别与分割系统",
+  "province": "澳门",
+  "school": "澳门城市大学",
+  "leader": "陈睿楠"
+ },
+ {
+  "seq": "254",
+  "project": "澳光-全光譜智能LED光照系統",
+  "province": "澳门",
+  "school": "澳门理工大学",
+  "leader": "张博亮"
+ },
+ {
+  "seq": "255",
+  "project": "循环经济结合大麦虫生态教育方案",
+  "province": "台湾",
+  "school": "辅仁大学",
+  "leader": "林韦成"
+ },
+ {
+  "seq": "256",
+  "project": "NeuroWear: Non-invasivebrainhealthmanagementsmartwearablesystem",
+  "province": "澳大利亚",
+  "school": "UniversityofNewSouthWales",
+  "leader": "湛林 崔"
+ },
+ {
+  "seq": "257",
+  "project": "Nature'sBeauty:All-in-OneDeepTreatmentSystemforHigh-NitrogenWastewater",
+  "province": "澳大利亚",
+  "school": "UniversityofWollongong",
+  "leader": "高宇翔"
+ },
+ {
+  "seq": "258",
+  "project": "Unmannedautomatic-navigationbargebasedonvisualperception",
+  "province": "比利时",
+  "school": "KULeuven",
+  "leader": "LiChengxin"
+ },
+ {
+  "seq": "259",
+  "project": "MXene-BasedFlexibleOptoelectronicDevices",
+  "province": "德国",
+  "school": "TechnischeUniversitätDresden",
+  "leader": "ZhangJiaxu"
+ },
+ {
+  "seq": "260",
+  "project": "SmartGuard——IntelligentSelf-healingMarineAnti-CorrosionInhibitor",
+  "province": "德国",
+  "school": "UniversitätMünster",
+  "leader": "WangZhe"
+ },
+ {
+  "seq": "261",
+  "project": "IntegratedC-armX-rayandLaserTechnologyfor High-PrecisionReal-TimeSurgicalPositioningandNavigation",
+  "province": "德国",
+  "school": "TechnicalUniversityofMunich",
+  "leader": "熊沙龙"
+ },
+ {
+  "seq": "262",
+  "project": "PropellingLow-AltitudeEconomy:AdvancedeVTOLPlatformPoweringArchipelagoLogistics",
+  "province": "德国",
+  "school": "TechnicalUniversityofMunich",
+  "leader": "AlexanderZwenig"
+ },
+ {
+  "seq": "263",
+  "project": "AMMONIXCATALYST",
+  "province": "俄罗斯",
+  "school": "SamaraStateTechnicalUniversity",
+  "leader": "MartynovaPolina"
+ },
+ {
+  "seq": "264",
+  "project": "FlexWeave——Variablescalespaceconstellationplatformbasedonflexibletether",
+  "province": "俄罗斯",
+  "school": "SamaraStateAerospaceUniversity",
+  "leader": "XUCHENGJIA"
+ },
+ {
+  "seq": "265",
+  "project": "PrecisionSealed,InnovationUnleashed-ANext-GenerationSealingSystemDesignPlatformforAircraftEngines",
+  "province": "俄罗斯",
+  "school": "SamaraNationalResearchUniversity",
+  "leader": "JIANGYISHAN"
+ },
+ {
+  "seq": "266",
+  "project": "WuSuo\"Wei\"Ju——Theleaderinnon-invasiverapiddetectionofgastriccancer",
+  "province": "法国",
+  "school": "Universitéd'Angers",
+  "leader": "WuBinbin"
+ },
+ {
+  "seq": "267",
+  "project": "TrainSmartInspect,TechLeadProspect",
+  "province": "哈萨克斯坦",
+  "school": "AstanaITUniversity",
+  "leader": "AikenAltay"
+ },
+ {
+  "seq": "268",
+  "project": "Theworld'sfirstunobtrusiveElectrocardiogramECGMonitoringSolution",
+  "province": "哈萨克斯坦",
+  "school": "AsfendiyarovKazakhNationalMedicalUniversity",
+  "leader": "GalymbekAkzhol"
+ },
+ {
+  "seq": "269",
+  "project": "AI-DrivenBatteryAgingMonitoringandThermalManagementSystem",
+  "province": "荷兰",
+  "school": "DelftUniversityofTechnology",
+  "leader": "YuRunyao"
+ },
+ {
+  "seq": "270",
+  "project": "EyeRouteSmartGuide-EmpoweringGlobalPrecisioninOphthalmicSurgerywithaNewVision",
+  "province": "加拿大",
+  "school": "UniversityofAlberta",
+  "leader": "HuXinyun"
+ },
+ {
+  "seq": "271",
+  "project": "TidalPower:Deep-SeaIntelligentTidalEnergyGenerator",
+  "province": "加拿大",
+  "school": "UniversityofVictoria,BC,Canada",
+  "leader": "HuangZhiming"
+ },
+ {
+  "seq": "272",
+  "project": "SheaButterRhymeElegance— EverydropencapsulatesthesunshineandwarmthofGhana.",
+  "province": "加纳",
+  "school": "SimonDiedongDomboUniversityofBusinessandIntegratedDevelopmentStudies",
+  "leader": "AdamsAbdulHamid"
+ },
+ {
+  "seq": "273",
+  "project": "BiodegradableGreenMulchandFoodClingWrapbasedoncropwastes",
+  "province": "肯尼亚",
+  "school": "UniversityofKabianga",
+  "leader": "ChepkiruiLavenda"
+ },
+ {
+  "seq": "274",
+  "project": "Gold-Standard-AI-poweredhigh-precisionvisualphotonicssimulationsoftware",
+  "province": "美国",
+  "school": "UniversityofNotreDame",
+  "leader": "RamirodeJesusBeltran-Pelayo"
+ },
+ {
+  "seq": "275",
+  "project": "Dexteris:Smartertherapy,strongerresults",
+  "province": "美国",
+  "school": "PennStateUniversity，PurdueUniversity，ColumbiaUniversity，UniversityofIllinoisUrbana-Champaign",
+  "leader": "WANGMingxing"
+ },
+ {
+  "seq": "276",
+  "project": "BioElectroGlove:MentalHealthScreeningthroughConnectiveTissueSignals",
+  "province": "美国",
+  "school": "UniversityofIllinoisUrbana-Champaign",
+  "leader": "DengBohan"
+ },
+ {
+  "seq": "277",
+  "project": "YanheSolar",
+  "province": "美国",
+  "school": "ColumbiaUniversity",
+  "leader": "FengFan"
+ },
+ {
+  "seq": "278",
+  "project": "EmbodiedBrain:AUniversalEmbodiedControlSystemforAutonomousPerception,ReasoningandActioninOpen,ComplexEnvironments",
+  "province": "美国",
+  "school": "UniversityofIllinoisUrbana-Champaign",
+  "leader": "GuoWangyihan"
+ },
+ {
+  "seq": "279",
+  "project": "FALCON-FailureAnalysisofLithiumCellsOnNanoscale",
+  "province": "美国",
+  "school": "UniversityofCalifornia,Berkeley",
+  "leader": "HuYuxin"
+ },
+ {
+  "seq": "280",
+  "project": "CarbonFuture——GlobalLeaderinlonicFunctionalMaterialsforCO2CaptureandConversion",
+  "province": "美国",
+  "school": "UniversityofWashington",
+  "leader": "HeXinkai"
+ },
+ {
+  "seq": "281",
+  "project": "QuakeScoutVanguard，EarthquakeReliefExplorationRobot",
+  "province": "美国",
+  "school": "YaleUniversity",
+  "leader": "SunDavid"
+ },
+ {
+  "seq": "282",
+  "project": "C-SMART:Asmartmulti-resourceplanningtechnologyforurbansustainability",
+  "province": "南非",
+  "school": "StellenboschUniversity",
+  "leader": "JacobMerin"
+ },
+ {
+  "seq": "283",
+  "project": "LiangjiaTongtu-Quantum-AIDualEnginesDriveSingapore'sAutonomousDrivingDecision-makingLeadership",
+  "province": "新加坡",
+  "school": "NationalUniversityofSingapore",
+  "leader": "BigginStuartBiggin"
+ },
+ {
+  "seq": "284",
+  "project": "SciMeat: GreenInnovationsforPremiumMeatAlternatives",
+  "province": "新加坡",
+  "school": "NationalUniversityofSingapore",
+  "leader": "TayJingxinUma"
+ },
+ {
+  "seq": "285",
+  "project": "AgileHeterogeneousMulti-ModalFusionintelligentcomputingchipandsystem",
+  "province": "新加坡",
+  "school": "NanyangTechologicalUniversity",
+  "leader": "GaoShengyu"
+ },
+ {
+  "seq": "286",
+  "project": "Therebirthofgeotechnicalculturalrelics——Multi-SourceIntelligentDetectionandTargetedEco-RestorationTechnologyforWeatheringDamagesofGeotechnicalHeritages",
+  "province": "新西兰",
+  "school": "VictoriaUniversityofWellington",
+  "leader": "ZhangXibei"
+ },
+ {
+  "seq": "287",
+  "project": "SkySight:FasterAI-poweredinspectionandmanagementofcomplexbuiltasset",
+  "province": "新西兰",
+  "school": "UniversityofAuckland",
+  "leader": "ZhangCheng"
+ },
+ {
+  "seq": "288",
+  "project": "ZOUMOTechnology",
+  "province": "新西兰",
+  "school": "UniversityofAuckland",
+  "leader": "HuangKunyu"
+ },
+ {
+  "seq": "289",
+  "project": "EcoTOP:RevolutionizingEnvironmentalMonitoring---Anultra-low-costdetectionplatformforPFASprecursors",
+  "province": "新西兰",
+  "school": "UniversityofAuckland",
+  "leader": "ShenXinrui"
+ },
+ {
+  "seq": "290",
+  "project": "NeoTitan:PioneeringHigh-Performance3DPrintedTitaniumAlloy",
+  "province": "新西兰",
+  "school": "TheUniversityofAuckland",
+  "leader": "XuDingmeng"
+ },
+ {
+  "seq": "291",
+  "project": "Nano-CoreTechnology:MilkExosome-LoadedMicroneedlesinPioneeringAnti-AgingBreakthrough",
+  "province": "新西兰",
+  "school": "TheUniversityofAuckland",
+  "leader": "HuangSiyuan"
+ },
+ {
+  "seq": "292",
+  "project": "RailneticIntelligence:AI-PoweredNext-GenRailtrackConditionMonitoring",
+  "province": "新西兰",
+  "school": "UniversityofAuckland",
+  "leader": "TateLachlan"
+ },
+ {
+  "seq": "293",
+  "project": "SpiritualDomeControlWall-MagneticControlAdhesionTechnologyCreatesaSpider-ManintheBionicClimbingWorld",
+  "province": "意大利",
+  "school": "PolitecnicodiMilano",
+  "leader": "HUANGAnzhe"
+ },
+ {
+  "seq": "294",
+  "project": "ThePillarofProgress:TheInnovationandIndustrializationofMiniaturizedIntermediateFrequencyTransformers",
+  "province": "意大利",
+  "school": "PolitecnicodiMilano",
+  "leader": "XUYingyue"
+ },
+ {
+  "seq": "295",
+  "project": "FourleggedKnigh-NewGenerationMultiterrainRescueArtifact",
+  "province": "意大利",
+  "school": "PolitecnicodiMilano",
+  "leader": "LIJiaziqi"
+ },
+ {
+  "seq": "296",
+  "project": "OperationsandMaintenancePioneer-CreatoroftheHigh-PrecisionImpactLoadOnlineMonitoringSystem",
+  "province": "意大利",
+  "school": "PolitecnicodiMilano",
+  "leader": "ZhenXiaoyu"
+ },
+ {
+  "seq": "297",
+  "project": "RehabTechInnovations--Keenjointintelligentrehabilitationexoskeletonrobot",
+  "province": "意大利",
+  "school": "PolitecnicodiMilano",
+  "leader": "ChenYuexi"
+ },
+ {
+  "seq": "298",
+  "project": "ICloud-Farm:AdvancingAgriculturalModernizationviaIntelligentFarmingDataPlatform",
+  "province": "意大利",
+  "school": "Politechnicodimilanno",
+  "leader": "LIGuanyi"
+ },
+ {
+  "seq": "299",
+  "project": "CoolMachineHack-PioneersofAI-poweredLow-carbonSmartColdStorageSolutions",
+  "province": "意大利",
+  "school": "PolitecnicodiMilano",
+  "leader": "LIJiarun"
+ },
+ {
+  "seq": "300",
+  "project": "SurfXcel——Pioneerofphotonicintelligenthigh-accuracygrindingequipmentandtechnology",
+  "province": "意大利",
+  "school": "PolitecnicodiMilano",
+  "leader": "YANGChunfu"
+ },
+ {
+  "seq": "301",
+  "project": "GreenC-Powertruningwastetotreasure:high-power&endurancesilicon-carbonanodematerialsdeveloper",
+  "province": "英国",
+  "school": "QueenMaryUniversityofLondon",
+  "leader": "ZhangLeqian"
+ },
+ {
+  "seq": "302",
+  "project": "AIcross-speciestherapeuticdrugdiscoveryplatform",
+  "province": "英国",
+  "school": "Oxford",
+  "leader": "ZhaoSimiao"
+ },
+ {
+  "seq": "303",
+  "project": "HyMindPower:AI-drivendesignedandprotonicmid-tempSOFC",
+  "province": "英国",
+  "school": "ImperialCollegeLondon",
+  "leader": "LiaoChenyang"
+ },
+ {
+  "seq": "304",
+  "project": "Ultra-Low-Power",
+  "province": "英国",
+  "school": "UniversityofCambridge",
+  "leader": "ZhangZiyao"
+ },
+ {
+  "seq": "305",
+  "project": "SmartScope",
+  "province": "英国",
+  "school": "OxfordUniversity",
+  "leader": "AneeshAggarwal"
+ },
+ {
+  "seq": "306",
+  "project": "LUBAN:EmbodiedIntelligentRoboticSystemforMaxillofacialSurgery",
+  "province": "英国",
+  "school": "UniversityofLeeds",
+  "leader": "HuJunlei"
+ },
+ {
+  "seq": "307",
+  "project": "PanSharp-Asensitivedetectorforpancreaticcancer,leadinganeweraofearlyscreeninginthecommunity!",
+  "province": "英国",
+  "school": "QueenMaryUniversityofLondon",
+  "leader": "ZhangJingyi"
+ },
+ {
+  "seq": "308",
+  "project": "AIDrugHunter——Theworld'sfirstAIintelligentdrugscreening+activitypredictionevaluationpreclinicalresearchintegrateddrugscreeningservicepioneer",
+  "province": "英国",
+  "school": "QueenMaryUniversityofLondon",
+  "leader": "JiangChenxin"
+ },
+ {
+  "seq": "309",
+  "project": "IntelligentLightTracing-Triarylethylenephotochromicmaterial",
+  "province": "英国",
+  "school": "QueenMaryUniversityofLondon",
+  "leader": "CUIZIYU"
+ },
+ {
+  "seq": "310",
+  "project": "AIAeroInspect–DroneDetectionPioneerforSatellite-ObscuredEnvironments",
+  "province": "英国",
+  "school": "CityStGeorge's,UniversityofLondon",
+  "leader": "FangTianrui"
+ },
+ {
+  "seq": "311",
+  "project": "Thepioneerofpotassiumbattery",
+  "province": "英国",
+  "school": "QueenMaryUniversityofLondon",
+  "leader": "YiWanming"
+ },
+ {
+  "seq": "312",
+  "project": "Conbus— Worldleaderofhighcurrentconductor",
+  "province": "英国",
+  "school": "UniversityofManchester",
+  "leader": "ShiLixing"
+ },
+ {
+  "seq": "313",
+  "project": "Cl-RhythmforaGreenerWorld：AGreenPioneerinElectrocatalyticConversionofIndustrial-ScaleCO₂toFormicAcid",
+  "province": "英国",
+  "school": "QueenMaryUniversityofLondon",
+  "leader": "LinghuXinrui"
+ },
+ {
+  "seq": "314",
+  "project": "MegaPowerRouter:Intelligent&ReliableIntegrationSolutionforEfficientMultipleRenewableEnergySources",
+  "province": "英国",
+  "school": "UCL，TUDelft，NSWU",
+  "leader": "Lizhengzhao"
+ },
+ {
+  "seq": "315",
+  "project": "HealthspanBiotics",
+  "province": "英国",
+  "school": "UniversityofCambridge",
+  "leader": "YuYizhou"
+ },
+ {
+  "seq": "316",
+  "project": "NucArmor:GlobalPioneerinAccident-TolerantFuelNuclearCoatings",
+  "province": "英国",
+  "school": "UniversityofOxford",
+  "leader": "NamaRajat"
+ }
+]
