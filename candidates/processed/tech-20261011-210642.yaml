@@ -1,0 +1,57 @@
+- id: gh-huynguyengl99_agent-graph-engineering
+  kind: github
+  name: huynguyengl99/agent-graph-engineering
+  published: '2026-10-08'
+  urls:
+  - https://github.com/huynguyengl99/agent-graph-engineering
+  signal:
+    venue: GitHub
+    stars: 11
+    citations_90d: null
+    runnable: true
+  summary: 'A production-grade reference implementation for LLM agent systems: flow
+    declared as a LangGraph graph, Pydantic AI for typed agents, generated WebSocket
+    and REST contracts, human approval on irreversible actions, tracing and evals.'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: gh-DarkHater01_slopbench
+  kind: github
+  name: DarkHater01/slopbench
+  published: '2026-10-10'
+  urls:
+  - https://github.com/DarkHater01/slopbench
+  signal:
+    venue: GitHub
+    stars: 10
+    citations_90d: null
+    runnable: true
+  summary: Measures how much code LLM agents waste. 5 tasks, sandboxed, weekly snapshots,
+    contestable references.
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: arxiv-2609.39068
+  kind: hf-paper
+  name: 'SparseEngine: Sparse-First Inference Engine'
+  published: '2026-09-29'
+  urls:
+  - https://huggingface.co/papers/2609.39068
+  - https://arxiv.org/abs/2609.39068
+  signal:
+    venue: HuggingFace Papers
+    upvotes: 17
+    stars: null
+    citations_90d: null
+    runnable: false
+  summary: Long-context LLM agents accumulate interaction histories that strain KV-cache
+    memory and attention computation. Although sparse attention reduces these costs,
+    heterogeneous cache representations and workflows hinder integration with existing
+    inference engines, while prior sparse-serving abstractions support only specific
+    layouts or workflows. We present SparseEngine, a ground-up, sparse-first infe
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 黑客松与数据竞赛

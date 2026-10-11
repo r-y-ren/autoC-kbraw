@@ -288,28 +288,6 @@
   directions:
   - 创新创业大赛
   - 黑客松与数据竞赛
-- id: arxiv-2610.11030
-  kind: arxiv
-  name: 'NOMOS: Compiling Written Policies into Statically Verified Tool-Call Gates
-    for LLM Agents'
-  published: '2026-10-08'
-  urls:
-  - https://arxiv.org/abs/2610.11030
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: 'Tool-using LLM agents violate the policies they are deployed to enforce,
-    often silently. Prior defenses hand-write rules, query an LLM verifier per action,
-    or compile policies through heavyweight formal machinery. Naive compilation fails:
-    extracted rules block the tool satisfying their own precondition, or read arguments
-    their tool lacks. NOMOS, a four-pass compiler, turns a natural-language polic'
-  suggested_fields:
-  - LLM agents
-  directions:
-  - 创新创业大赛
-  - 黑客松与数据竞赛
 - id: arxiv-2610.11007
   kind: arxiv
   name: 'Curating Always-Loaded Context for LLM Agents: A Capacitated Assortment Model
@@ -378,49 +356,6 @@
   directions:
   - 创新创业大赛
   - 黑客松与数据竞赛
-- id: arxiv-2610.10833
-  kind: arxiv
-  name: 'On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents'
-  published: '2026-10-07'
-  urls:
-  - https://arxiv.org/abs/2610.10833
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: We study whether small LLM agents can operate effectively under explicit
-    wall-clock time budgets by both respecting the allocated runtime and using available
-    time productively. We evaluate Qwen3.6-27B on five competitions from MLE-Bench
-    Lite and Qwen3-4B on Zork I (Jericho), two agentic benchmarks where additional
-    computational time can meaningfully improve performance. In the simplest setting,
-    wh
-  suggested_fields:
-  - LLM agents
-  directions:
-  - 创新创业大赛
-  - 黑客松与数据竞赛
-- id: arxiv-2610.10444
-  kind: arxiv
-  name: 'RunningTab: Direct Workspace Interaction with Environment-Side Tabs'
-  published: '2026-10-07'
-  urls:
-  - https://arxiv.org/abs/2610.10444
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: Much knowledge work produces new deliverables from files a workspace already
-    holds, and LLM agents are beginning to take such work over. Through direct corpus
-    interaction, an agent can search and read any of those files from a terminal with
-    no indexing, and producing a deliverable from many of them in this way is what
-    we call direct workspace interaction (DWI). Reaching the files, however, is only
-  suggested_fields:
-  - LLM agents
-  directions:
-  - 创新创业大赛
-  - 黑客松与数据竞赛
 - id: arxiv-2610.10042
   kind: arxiv
   name: Learning to Accumulate Knowledge with Mutual Information
@@ -479,41 +414,6 @@
   directions:
   - 创新创业大赛
   - 黑客松与数据竞赛
-- id: gh-Akun-python_autumn-recruitment
-  kind: github
-  name: Akun-python/autumn-recruitment
-  published: '2026-09-29'
-  urls:
-  - https://github.com/Akun-python/autumn-recruitment
-  signal:
-    venue: GitHub
-    stars: 223
-    citations_90d: null
-    runnable: true
-  summary: Autumn-Recruit Algo Notes(秋招算法学习仓库)，面向大模型时代的算法、工程与AI学习共建仓库。从数学基础、数据结构，到机器学习、深度学习、LLM、Agent、AI-Infra、语音与数据科学，通过「理解→推导→手写
-    → 运行 → 验证 → 复盘构建可持续迭代的知识体系。
-  suggested_fields:
-  - LLM agents
-  directions:
-  - 创新创业大赛
-  - 黑客松与数据竞赛
-- id: gh-OpenMOSS_VehicleArena
-  kind: github
-  name: OpenMOSS/VehicleArena
-  published: '2026-10-03'
-  urls:
-  - https://github.com/OpenMOSS/VehicleArena
-  signal:
-    venue: GitHub
-    stars: 11
-    citations_90d: null
-    runnable: true
-  summary: A persistent 3D urban-driving benchmark for evaluating LLM agents on passenger
-    requests, driving decisions, and multi-agent traffic interactions.
-  suggested_fields:
-  - LLM agents
-  directions:
-  - 创新创业大赛
 - id: arxiv-2610.12085
   kind: arxiv
   name: Is Memorization Context-Sensitive? Prefix-Based Extraction Beyond Isolated
@@ -907,27 +807,6 @@
   directions:
   - 创新创业大赛
   - 黑客松与数据竞赛
-- id: arxiv-2610.12240
-  kind: arxiv
-  name: 'AdaCast: Conditional Parameter Generation for Adaptive Time Series Forecasting'
-  published: '2026-10-08'
-  urls:
-  - https://arxiv.org/abs/2610.12240
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: 'Time-series foundation models (TSFMs) have achieved strong forecasting
-    performance across domains. However, most adaptation methods remain static. Existing
-    all-in-one methods learn a single set of dataset-level parameter updates and apply
-    the same adapted model to every input. As a result, they cannot adapt the model
-    parameters to the temporal patterns, seasonality and dynamics of each input time '
-  suggested_fields:
-  - time series forecasting
-  - time series foundation model
-  directions:
-  - 数模与时序预测
 - id: arxiv-2610.12232
   kind: arxiv
   name: 'Training on the Future: A Delay-Aware Audit of Test-Time Adaptation for Time-Series
@@ -989,29 +868,6 @@
     le'
   suggested_fields:
   - time series forecasting
-  directions:
-  - 数模与时序预测
-- id: arxiv-2610.11924
-  kind: arxiv
-  name: 'Revisiting Identity and Spectra Dispersion in Media-Bridged Time Series Forecasting:
-    Linking Multivariate Signals and Narrative Flows'
-  published: '2026-10-08'
-  urls:
-  - https://arxiv.org/abs/2610.11924
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: Media-bridged time series forecasting is expanding to encompass traditional
-    "multivariate" and emerging "multimodal" (e.g., through textual assistance). Existing
-    Time Series Forecasting (TSF) models still rely on paradigm-specific relation,
-    fusion, and temporal modules, hindering a common forecasting backbone across numerical
-    and pre-aligned narrative-flow settings. To explore this, we propose the
-  suggested_fields:
-  - time series forecasting
-  - spatiotemporal forecasting
-  - time series foundation model
   directions:
   - 数模与时序预测
 - id: arxiv-2610.11229
@@ -1095,27 +951,6 @@
   - time series forecasting
   directions:
   - 数模与时序预测
-- id: arxiv-2610.09994
-  kind: arxiv
-  name: 'Temporal Predictive Multiplicity: Equally Accurate Time Series Models Yield
-    Different Forecast Trajectories'
-  published: '2026-10-07'
-  urls:
-  - https://arxiv.org/abs/2610.09994
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: 'Models with near-identical predictive performance can yield substantially
-    different predictions, a phenomenon known as predictive multiplicity. Prior work
-    has mostly studied this at the level of individual scalar outputs. In time-series
-    forecasting, however, predictions across horizons jointly define a trajectory,
-    and horizon-wise comparisons can hide important differences in predictive behavior. '
-  suggested_fields:
-  - time series forecasting
-  directions:
-  - 数模与时序预测
 - id: arxiv-2610.08363
   kind: arxiv
   name: Explainable Failure Prediction and Prevention in Maritime
@@ -1178,27 +1013,6 @@
     and
   suggested_fields:
   - time series forecasting
-  directions:
-  - 数模与时序预测
-- id: arxiv-2610.07324
-  kind: arxiv
-  name: Scale-Invariant Training for Time Series Foundation Models
-  published: '2026-10-05'
-  urls:
-  - https://arxiv.org/abs/2610.07324
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: Time series foundation models (TSFMs) are trained on large collections
-    of time series datasets that span various morphologies and domains. This setting
-    exposes models to series whose scales -- typical magnitudes of their values --
-    can differ substantially. Affine scaling methods such as Reversible Instance Normalization
-    (ReVIN) scale model inputs and reverse the transform before computing the loss
-  suggested_fields:
-  - time series forecasting
-  - time series foundation model
   directions:
   - 数模与时序预测
 - id: arxiv-2610.06039
@@ -1306,68 +1120,6 @@
     objectives '
   suggested_fields:
   - time series forecasting
-  directions:
-  - 数模与时序预测
-- id: arxiv-2610.04547
-  kind: arxiv
-  name: 'TMAML: Temporal Model-Agnostic Meta-Learning for Cold-Start Time Series Forecasting'
-  published: '2026-10-03'
-  urls:
-  - https://arxiv.org/abs/2610.04547
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: 'Cold-start forecasting, the task of forecasting a time series with little
-    to no historical data, is a common challenge. Addressing it requires approaches
-    that learn quickly from few datapoints and leverage information from related series,
-    typically through static covariates, to generalize well to unseen series. While
-    some global forecasting models can generate cold-start predictions by leveraging '
-  suggested_fields:
-  - time series forecasting
-  directions:
-  - 数模与时序预测
-- id: arxiv-2610.11734
-  kind: arxiv
-  name: 'Timer-M1: A Multivariate Time Series Foundation Model via Learning Primitives'
-  published: '2026-10-08'
-  urls:
-  - https://arxiv.org/abs/2610.11734
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: 'We introduce Timer-M1, a pretrained multivariate time series foundation
-    model that learns with primitives for zero-shot forecasting. Across domains, time
-    series share elementary temporal and relational patterns, termed primitives, yet
-    differ in how these primitives manifest and evolve across different contexts.
-    Despite progress in zero-shot and task-general forecasting, existing foundation
-    models '
-  suggested_fields:
-  - time series foundation model
-  directions:
-  - 数模与时序预测
-- id: arxiv-2610.11164
-  kind: arxiv
-  name: 'RideBench: A Large-Scale Exogenous-Aware Benchmark for Ride-Hailing Time
-    Series Forecasting'
-  published: '2026-10-08'
-  urls:
-  - https://arxiv.org/abs/2610.11164
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: 'We release Ride-Hailing, a large-scale ride-hailing time series dataset
-    synthesized from DiDi''s marketplace data across 200 spatial areas. Ride-Hailing
-    spans four consecutive years at half-hourly granularity and covers three representative
-    exogenous scenarios: Weather Disturbance, Holiday Effect, and Large-scale Event
-    Impact. Built upon Ride-Hailing, we introduce RideBench, a comprehensive benchma'
-  suggested_fields:
-  - time series foundation model
   directions:
   - 数模与时序预测
 - id: arxiv-2610.10057
@@ -1596,26 +1348,6 @@
     and asynchronously recorded across variables. Existing time series foundation
     models are mostly built on regularly sampled sequences, making them difficult
     to generalize to irregular time intervals and asynchronous cross-variable depende
-  suggested_fields:
-  - time series foundation model
-  directions:
-  - 数模与时序预测
-- id: arxiv-2610.04109
-  kind: arxiv
-  name: 'SEER: Self-Evolving Event Reasoning and Retrieval for Time Series Forecasting'
-  published: '2026-10-02'
-  urls:
-  - https://arxiv.org/abs/2610.04109
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: Real-world time series are frequently driven by exogenous events and structural
-    shifts, rendering conventional forecasting based solely on historical numerical
-    observations insufficient. While language models can retrieve external news, standard
-    retrieval-augmented approaches struggle with high noise, missing signals, and
-    an inability to reason causally about event impacts. We propose SEER (Self-E
   suggested_fields:
   - time series foundation model
   directions:

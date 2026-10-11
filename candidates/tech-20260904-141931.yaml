@@ -155,25 +155,6 @@
   - LLM agents
   directions:
   - 黑客松与数据竞赛
-- id: arxiv-2609.02371
-  kind: arxiv
-  name: 'Diagnosing with Insights: Structured Analysis of Agent Failures via Behavioral Abstractions'
-  published: '2026-09-02'
-  urls:
-  - https://arxiv.org/abs/2609.02371
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: With the proliferation of LLM agents, the ability to understand and diagnose failures in agents
-    is essential to achieving superior effectiveness and trustworthiness. As agent failures often manifest
-    via long and complex trajectories, manually finding the needles in the haystack is untenable. However,
-    traditional diagnosis techniques for software bugs can hardly address LLM agent failures, while co
-  suggested_fields:
-  - LLM agents
-  directions:
-  - 黑客松与数据竞赛
 - id: arxiv-2609.02265
   kind: arxiv
   name: 'CAPTURE: Disentangling Preference Drift from Memory Poisoning in Personalized LLM Agents'
@@ -211,25 +192,6 @@
     domains with structurally similar tasks. On long-horizon workloads where each task demands a different
     solution, the two forms fail in opposite ways: the document collapses into generic discipline, while
     the poo'
-  suggested_fields:
-  - LLM agents
-  directions:
-  - 黑客松与数据竞赛
-- id: arxiv-2609.02106
-  kind: arxiv
-  name: 'Git4Data: Database-Native Version Control for AI Agents'
-  published: '2026-09-02'
-  urls:
-  - https://arxiv.org/abs/2609.02106
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: 'Large Language Model (LLM) agents increasingly explore many candidate states of relational
-    data in parallel, each of which should remain isolated, reproducible, and auditable, preferably through
-    the same SQL interface used for ordinary data work. Existing tools support this requirement only partially:
-    source-code version control does not scale to large datasets, whereas relational databases manage'
   suggested_fields:
   - LLM agents
   directions:

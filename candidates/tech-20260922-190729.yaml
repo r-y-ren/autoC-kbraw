@@ -328,27 +328,6 @@
   directions:
   - 创新创业大赛
   - 黑客松与数据竞赛
-- id: arxiv-2609.24862
-  kind: arxiv
-  name: 'When Tomorrow Becomes Today: Self-Evolving Policies for Agentic Time-Series
-    Forecasting'
-  published: '2026-09-21'
-  urls:
-  - https://arxiv.org/abs/2609.24862
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: Agentic time series forecasting concerns systems whose underlying mechanisms
-    evolve, making the relative effectiveness of numerical models, reasoning strategies,
-    and intervention rules inherently time-varying. Consequently, a time series agent
-    must adapt the forecasts it produces and the orchestration policy that determines
-    which components to trust and how to coordinate them. The deployment proce
-  suggested_fields:
-  - time series forecasting
-  directions:
-  - 数模与时序预测
 - id: arxiv-2609.24441
   kind: arxiv
   name: 'MUSE: Dependency-Aware Adaptation of a Frozen Vision Backbone for Multivariate

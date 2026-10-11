@@ -1,24 +1,3 @@
-- id: arxiv-2609.20625
-  kind: arxiv
-  name: 'Chronicle: Cut-Point Replay for Regression Testing of LLM Agents'
-  published: '2026-09-17'
-  urls:
-  - https://arxiv.org/abs/2609.20625
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: 'Large language model responses are non-deterministic, so failures in LLM agents are hard to
-    reproduce: a failure depends on inference that is not bitwise reproducible, on tools that read changing
-    state, and on a multi-step trajectory that a re-run rarely repeats. Record-and-replay makes a run
-    reproducible, but existing agent tooling records runs only to trace or score them, not to test a code
-    chan'
-  suggested_fields:
-  - LLM agents
-  directions:
-  - 创新创业大赛
-  - 黑客松与数据竞赛
 - id: arxiv-2609.20543
   kind: arxiv
   name: Language-model groups overstate consensus when replaying human deliberation on a reasoning task
@@ -81,26 +60,6 @@
   directions:
   - 创新创业大赛
   - 黑客松与数据竞赛
-- id: arxiv-2609.19656
-  kind: arxiv
-  name: Self-Evolving Search Index
-  published: '2026-09-17'
-  urls:
-  - https://arxiv.org/abs/2609.19656
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: Information retrieval is increasingly important as LLM agents tackle complex tasks involving
-    diverse information needs. Because retrieval relies on an index that represents each document through
-    index keys, retrieval quality depends heavily on how effectively these keys expose the knowledge contained
-    in each document. However, effective index representations vary across retrieval environments, mak
-  suggested_fields:
-  - LLM agents
-  directions:
-  - 创新创业大赛
-  - 黑客松与数据竞赛
 - id: arxiv-2609.19524
   kind: arxiv
   name: A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal
@@ -117,27 +76,6 @@
     artificial intelligence systems. Large language models (LLMs), agentic systems, and multimodal models
     (MLLMs) require different forms of assessment, yet their evaluation evidence must remain interpretable
     for development and oversight. We propose a unified framework that connects output-level, trajectory
-  suggested_fields:
-  - LLM agents
-  directions:
-  - 创新创业大赛
-  - 黑客松与数据竞赛
-- id: arxiv-2609.19425
-  kind: arxiv
-  name: Closed-World Resolution Against Tool Hallucination in LLM Agents
-  published: '2026-09-16'
-  urls:
-  - https://arxiv.org/abs/2609.19425
-  signal:
-    venue: arXiv
-    citations_90d: null
-    stars: null
-    runnable: false
-  summary: 'Tool-augmented large language model (LLM) agents fail in a way no tool-selection or tool-security
-    method addresses: they call tools that do not exist and pass arguments no schema declares. Existing
-    defenses either pick the right tool (selection) or constrain what an agent may do with real tools
-    (gating), both of which presuppose the emitted call refers to a real tool at all. We show this is
-    a stru'
   suggested_fields:
   - LLM agents
   directions:
@@ -332,22 +270,6 @@
   directions:
   - 创新创业大赛
   - 黑客松与数据竞赛
-- id: gh-hoplogic_hop3
-  kind: github
-  name: hoplogic/hop3
-  published: '2026-09-11'
-  urls:
-  - https://github.com/hoplogic/hop3
-  signal:
-    venue: GitHub
-    stars: 11
-    citations_90d: null
-    runnable: true
-  summary: HOP 3.0 — HopSpec task-spec language + HopJIT execution engine for LLM agents
-  suggested_fields:
-  - LLM agents
-  directions:
-  - 创新创业大赛
 - id: arxiv-2609.20754
   kind: arxiv
   name: 'RAFT: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents'
