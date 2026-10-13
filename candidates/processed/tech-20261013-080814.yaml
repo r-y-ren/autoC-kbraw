@@ -1,0 +1,165 @@
+- id: gh-birla-ai-labs_yug
+  kind: github
+  name: birla-ai-labs/yug
+  published: '2026-10-01'
+  urls:
+  - https://github.com/birla-ai-labs/yug
+  signal:
+    venue: GitHub
+    stars: 58
+    citations_90d: null
+    runnable: true
+  summary: 'Yug: a foundation model for zero-shot probabilistic time-series forecasting'
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.13676
+  kind: arxiv
+  name: On the Encoding of Calendar Features in Covariate-Informed Time Series Foundation
+    Models
+  published: '2026-10-09'
+  urls:
+  - https://arxiv.org/abs/2610.13676
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Time series foundation models (TSFMs) increasingly offer covariate support,
+    with calendar information being the most common type of categorical covariate
+    in practice, as it is available for every point in time. However, how these features
+    are encoded is largely treated as an implementation detail rather than as an object
+    of study, despite encoding being one of the few design choices left for pretr
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.13208
+  kind: arxiv
+  name: How Much Computation Does Every Forecast Need? Structured Block Skipping in
+    Two Time-Series Foundation Models
+  published: '2026-10-09'
+  urls:
+  - https://arxiv.org/abs/2610.13208
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Time-series foundation models use the same network depth for every input,
+    although forecasting windows differ in structure and difficulty. We test whether
+    whole Transformer blocks can be removed at inference time in two pretrained models:
+    Chronos-Bolt and TimesFM 2.5. Our bypasses avoid the original block computation
+    and preserve the dense model exactly when all blocks are enabled. Masks are selec'
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.12883
+  kind: arxiv
+  name: 'HART: Hybrid Attention-RWKV Time series Foundation Model'
+  published: '2026-10-09'
+  urls:
+  - https://arxiv.org/abs/2610.12883
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Non-autoregressive multi-step forecasting (NAF) enables time series foundation
+    models to predict an entire future horizon in a single forward pass. Despite its
+    strong sequence modeling capabilities, RWKV-7 exhibits long-horizon degradation
+    in our NAF experiments. In this setup, future patches are represented as missing
+    inputs, requiring the recurrent state to evolve across the prediction horizon
+    w
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.13335
+  kind: arxiv
+  name: 'AgentTune: A Unified Training Lifecycle for Tool-Using LLM Agents'
+  published: '2026-10-09'
+  urls:
+  - https://arxiv.org/abs/2610.13335
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Tool-using agents increasingly require a common substrate for building,
+    training, evaluating, distilling, and maintaining agentic systems, yet existing
+    tooling typically addresses these stages in isolation. We present AgentTune, a
+    source-available Python library that provides a unified framework for developing
+    and optimizing tool-using agents. At its core, AgentTune introduces a two-tier
+    EventLog '
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 黑客松与数据竞赛
+- id: arxiv-2610.12975
+  kind: arxiv
+  name: 'SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM
+    Sales Agents'
+  published: '2026-10-09'
+  urls:
+  - https://arxiv.org/abs/2610.12975
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: We present SmartSalesBench, the first multi-turn conversational benchmark
+    explicitly designed to evaluate large language model (LLM) sales agents against
+    psychologically grounded, resistant buyer personas. Existing task-oriented dialogue
+    benchmarks assume cooperative users and measure task completion; SmartSalesBench
+    inverts this assumption, placing agents against personas programmed to resist
+    and
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 黑客松与数据竞赛
+- id: arxiv-2610.12666
+  kind: arxiv
+  name: Incremental Retrieval-Augmented Generation for Human-in-the-Loop Decision
+    Support
+  published: '2026-10-08'
+  urls:
+  - https://arxiv.org/abs/2610.12666
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'We introduce iRAG, a human-in-the-loop decision-support system combining
+    Retrieval-Augmented Generation (RAG) with Hybrid Decision-Making. Unlike conventional
+    RAG systems, relying on static Knowledge Bases (KBs), our proposal addresses settings
+    where the KB is initially empty and is progressively populated through human decisions.
+    The system stores previous decisions as retrievable precedents and '
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 黑客松与数据竞赛
+- id: arxiv-2610.07625
+  kind: hf-paper
+  name: 'Stateless Language Agents: Scaling Long-Horizon Automated Research'
+  published: '2026-10-05'
+  urls:
+  - https://huggingface.co/papers/2610.07625
+  - https://arxiv.org/abs/2610.07625
+  signal:
+    venue: HuggingFace Papers
+    upvotes: 18
+    stars: null
+    citations_90d: null
+    runnable: false
+  summary: 'Automated research systems increasingly run LLM agents over long horizons,
+    but more inference does not by itself produce more progress: agents replay growing
+    histories, duplicate one another''s work, or stop experimenting while token consumption
+    continues. Yet most evaluations use short budgets or benchmarks that saturate
+    early, leaving these failure modes untested. We trace these failures to two c'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 黑客松与数据竞赛
