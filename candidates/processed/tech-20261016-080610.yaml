@@ -1,0 +1,33 @@
+- id: gh-lalalamdbf_AgentSafeEvo
+  kind: github
+  name: lalalamdbf/AgentSafeEvo
+  published: '2026-10-12'
+  urls:
+  - https://github.com/lalalamdbf/AgentSafeEvo
+  signal:
+    venue: GitHub
+    stars: 27
+    citations_90d: null
+    runnable: true
+  summary: An Adversarial Co-Evolution Framework for LLM Agent Safety
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: gh-SakanaAI_AutoIllustrate
+  kind: github
+  name: SakanaAI/AutoIllustrate
+  published: '2026-10-14'
+  urls:
+  - https://github.com/SakanaAI/AutoIllustrate
+  signal:
+    venue: GitHub
+    stars: 27
+    citations_90d: null
+    runnable: true
+  summary: Generate publication-ready, editable draw.io figures for research papers
+    from a methods section, using LLM agents.
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛

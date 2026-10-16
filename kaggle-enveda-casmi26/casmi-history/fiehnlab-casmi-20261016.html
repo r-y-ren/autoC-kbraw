@@ -1,0 +1,365 @@
+
+ 
+
+
+ 
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+<head>
+<base href="https://fiehnlab.ucdavis.edu/casmi"/>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<meta name="keywords" content="Fiehnlab, metabolomics, research, mass spectrometry"/>
+	<meta name="generator" content="Joomla! - Open Source Content Management"/>
+	<title>Fiehn Lab - Revisiting CASMI</title>
+	<link href="https://fiehnlab.ucdavis.edu/component/search/?Itemid=551&amp;format=opensearch" rel="search" title="Search Fiehn Lab" type="application/opensearchdescription+xml"/>
+	<link href="/templates/joomlage0071-simplex/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+	<style>body.cke_editable{padding:10px}body.cke_editable a{color:#4d688c!important}body.cke_editable ul{}body.cke_editable ol{}body.cke_editable h1{}body.cke_editable h2{}body.cke_editable h3{}body.cke_editable h4{}body.cke_editable h5{}body.cke_editable h6{}body.cke_editable pre{}body.cke_editable address{}body.cke_editable blockquote{}body.cke_ltr div.cke_panel_block ul.cke_panel_list .cke_panel_listItem{}body.cke_ltr{overflow:initial}body.cke_ltr div.cke_panel_block{min-height:200px}.cke_panel_container body{background:none}html.cke_panel_container body.cke_ltr::after{display:none}p.ark_noblock{padding:0;margin:0}img.left,.pull-left{float:left;margin-right:10px}img.right, .pull-right  {float:right;margin-left:10px}img.center,.pull-center{display:block;margin:0 auto}p.pull-center,div.pull-center{text-align:center}figcaption.text-center{text-align:center}img.modal{position:relative;cursor:zoom-in}img.modal.thumbnail{display:inline-block;width:200px}img.thumbnail{margin:4px;border:1px solid #ddd;display:block;padding:4px;box-shadow:0 1px 3px rgba(0,0,0,.055);transition:all .2s ease-in-out 0s;line-height:20px;border-radius:4px}a.thumbnail:hover,a.thumbnail:focus{box-shadow:0 1px 4px rgba(0,105,214,.25);border-color:#08c}div.video_align_left{float:left;margin-right:20px}div.video_align_right{float:right;margin-left:20px}div.video_align_center{display:table;margin-left:auto;margin-right:auto}div.video_narrow{width:75%}div.audio_align_left{float:left;margin-right:20px}div.audio_align_right{float:right;margin-left:20px}div.audio_align_center{display:table;margin-left:auto;margin-right:auto}</style>
+	<link href="https://fiehnlab.ucdavis.edu/plugins/editors/dropeditor/dropeditor.css" rel="stylesheet" type="text/css"/>
+	<link href="https://fiehnlab.ucdavis.edu/plugins/editors/dropeditor/customstyles.css" rel="stylesheet" type="text/css"/>
+	<link href="https://fiehnlab.ucdavis.edu/plugins/editors/dropeditor/titlestyles.css" rel="stylesheet" type="text/css"/>
+	<link href="https://fiehnlab.ucdavis.edu/media/editors/arkeditor/css/squeezebox.css" rel="stylesheet" type="text/css"/>
+	<style type="text/css">ol.ol-circles>li:before{background-color:#333}ol.ol-boxes>li:before{background-color:#333}</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"a4df31563260a0eae6414f7ab75faad2","system.paths":{"root":"","base":""},"system.keepalive":{"interval":840000,"uri":"\/component\/ajax\/?format=json"}}</script>
+	<script src="/media/jui/js/jquery.min.js?97b86323de4ad588731c0dc17a74d385" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?97b86323de4ad588731c0dc17a74d385" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?97b86323de4ad588731c0dc17a74d385" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?97b86323de4ad588731c0dc17a74d385" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-core.js?97b86323de4ad588731c0dc17a74d385" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?97b86323de4ad588731c0dc17a74d385" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js?97b86323de4ad588731c0dc17a74d385" type="text/javascript"></script>
+	<!--[if lt IE 9]><script src="/media/system/js/html5fallback.js?97b86323de4ad588731c0dc17a74d385" type="text/javascript"></script><![endif]-->
+	<!--[if lt IE 9]><script src="/media/system/js/polyfill.event.js?97b86323de4ad588731c0dc17a74d385" type="text/javascript"></script><![endif]-->
+	<script src="/media/system/js/keepalive.js?97b86323de4ad588731c0dc17a74d385" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?97b86323de4ad588731c0dc17a74d385" type="text/javascript"></script>
+	<script src="https://fiehnlab.ucdavis.edu/media/editors/arkeditor/js/jquery.easing.min.js" type="text/javascript"></script>
+	<script src="https://fiehnlab.ucdavis.edu/media/editors/arkeditor/js/squeezebox.min.js" type="text/javascript"></script>
+	<script type="text/javascript">jQuery(window).on('load',function(){new JCaption('img.caption');});jQuery(function($){initTooltips();$("body").on("subform-row-add",initTooltips);function initTooltips(event,container){container=container||document;$(container).find(".hasTooltip").tooltip({"html":true,"container":"body"});}});(function(){if(typeof jQuery=='undefined')return;jQuery(function($){if($.fn.squeezeBox){$('a.modal').squeezeBox({parse:'rel'});$('img.modal').each(function(i,el){$(el).squeezeBox({handler:'image',url:$(el).attr('src')});})}else if(typeof(SqueezeBox)!=='undefined'){$('img.modal').each(function(i,el){SqueezeBox.assign(el,{handler:'image',url:$(el).attr('src')});});}function jModalClose(){if(typeof(SqueezeBox)=='object')SqueezeBox.close();else
+ARK.squeezeBox.close();}});})();</script>
+
+   
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/joomlage0071-simplex/css/reset.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/joomlage0071-simplex/css/typo.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/joomlage0071-simplex/css/bootstrap.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/joomlage0071-simplex/css/template.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/joomlage0071-simplex/css/nexus.css" type="text/css"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<link rel="stylesheet" href="/templates/joomlage0071-simplex/css/responsive-nav.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/joomlage0071-simplex/css/responsive-nav-style.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/joomlage0071-simplex/css/responsive.css" type="text/css"/>
+
+
+<style type="text/css">body{font-family:Garamond,serif}</style>
+
+
+<style type="text/css">h2{font-family:Garamond,serif}</style>
+
+
+<style type="text/css">.module h3,.module_menu h3{font-family:Garamond,serif}</style>
+
+
+<style type="text/css">#hornav{font-family:Garamond,serif}</style>
+
+
+<style type="text/css">h1.logo-text a{font-family:Times\ New\ Roman,Times,serif}</style>
+
+
+
+
+<style type="text/css">.wrapper960{width:1020px}@media only screen and (min-width:960px) and (max-width:1020px){.wrapper960{width:960px!important}}body{background-color:#f9f4e5}.block_holder{padding:5px}body{font-size:14px}.content_vote .btn,.btn.dropdown-toggle,.pager.pagenav a,.pager a,.btn-primary,span.content_vote input.btn,.btn,.input-append .add-on,.input-prepend .add-on,.btn.active,.btn:active,.btn:hover,.pagination ul,.readmore a.btn{background-color:#ededed;border-color:#ededed}#main span.content_vote input.btn{background-color:#ededed!important}#main a.btn,#main a:hover.btn,button.btn,.pagenav,#main a.pagenav,#main a:hover.pagenav,#main ul.pager li.previous a,#main ul.pager li.next a,i,span.content_vote input.btn{color:#333!important}.caret{border-top:4px solid #333!important}#main div#editor-xtd-buttons.btn-toolbar div.btn-toolbar a.btn,span.add-on{color:#333!important;background-color:#ededed!important}.dropdown-menu li>a:hover,.dropdown-menu li>a:focus,.dropdown-submenu:hover>a{background-color:#ededed!important}.btn-group a.btn,.btn-group>.btn,.btn-group>.dropdown-menu{background-color:#ededed!important;border-color:#ededed!important}div.btn-group a.btn i,div.btn-group ul.dropdown-menu li a i,#main div.btn-group ul.dropdown-menu li a,#main div.btn-group ul.dropdown-menu li a:hover{color:#8c8c8c!important}div.btn-group a.btn span.caret{border-top:4px solid #8c8c8c!important}div.btn-group a.btn span.icon-cog{color:#8c8c8c!important}.form-search input,.form-search textarea,.form-search select,.form-search .help-inline,.form-search .uneditable-input,.form-search .input-prepend,.form-search .input-append,.form-inline input,.form-inline textarea,.form-inline select,.form-inline .help-inline,.form-inline .uneditable-input,.form-horizontal input,.form-horizontal textarea,.form-horizontal select,.form-horizontal .help-inline,.form-horizontal .uneditable-input,.form-horizontal .input-prepend,.form-horizontal .input-append{background-color:#fff!important;border-color:#fff!important;color:#000!important}div.tags span a.label{background-color:#dfc166!important}#main div.tags span a.label{color:#1a3e68!important}#container_header.container,#container_logo_menu_mobile,#container_social_mobile{background-color:#1a3e68;background-color:rgba(26,62,104)}#header.block_holder{background-color:#1a3e68;background-color:rgba(26,62,104)}#header.block_holder{margin-left:0}#header.block_holder{margin-right:0}#search input#mod-search-searchword.inputbox,#mobile_search .inputbox{background-color:#fff!important}#search input#mod-search-searchword.inputbox,#mobile_search .inputbox{color:#787878!important}#social ul li a{background-position:0 -40px}#custom{color:#fff}#custom a{color:#fff}#custom a:hover{color:#fff}#custom{top:0}#custom{right:0}#logo{left:0}#logo{top:0}h1.logo a{background-repeat:no-repeat}h1.logo-text a{color:#fff}p.site-slogan{color:#fff}#hornav ul li a{color:#fff}#subMenusContainer ul,#subMenusContainer ol{background-color:#fff}#subMenusContainer ul,#subMenusContainer ol{border:1px solid #ccc}#hornav li.active,#hornav li.visited,#hornav li:hover{background-color:#335379}#hornav li.active a,#hornav li.visited a,#hornav li:hover a{color:#dfc166}#hornav{background-color:#335379}#subMenusContainer a{color:#000}#subMenusContainer a:hover,#subMenusContainer a:focus,#subMenusContainer a.subMenuParentBtnFocused{color:#dfc166}#nav-toggle{background-color:#335379}#nav a{background-color:#335379}#nav a{color:#dfc166}#nav a{background-color:#335379}#nav ul ul a{color:#000}#nav ul ul a:hover{color:#dfc166}#nav ul ul a{background-color:#fff}#container_slideshow.container{background-color:#5f4769;background-color:rgba(95,71,105,.2)}.nivo-controlNavHolder{background-color:#fff;background-color:rgba(255,255,255,.1)}#container_slideshow.container{padding-top:40px}#container_slideshow.container{padding-bottom:40px}#container_top_modules.container{background-color:#5f4769;background-color:rgba(95,71,105)}#top_modules.block_holder{background-color:#4f3b57;background-color:rgba(79,59,87)}#top_modules{color:#fff!important}#top_modules a{color:#fff!important}#top_modules a:hover{color:#fff!important}#top_modules .module h3,#top_modules .module_menu h3{background-color:#fff}#top_modules .module h3,#top_modules .module_menu h3{background-color:transparent!important}#top_modules .module h3,#top_modules .module_menu h3{color:#fff!important}#top_modules .module ul.menu li a,#top_modules .module_menu ul.menu li a{color:#fff!important}#top_modules .module ul a,#top_modules .module_menu ul a{border-color:#fff!important}#top_modules .module ul.menu li a:hover,#top_modules .module_menu ul.menu li a:hover{color:#fff!important}#top_modules .module ul a:hover,#top_modules .module_menu ul a:hover{border-color:#fff!important}#container_top_modules.container{padding-top:40px}#container_top_modules.container{padding-bottom:40px}#top_modules .module h3,#top_modules .module_menu h3{padding-left:0}#top_modules .module h3,#top_modules .module_menu h3{padding-right:0}#container_main.container{background-color:#f9f4e5;background-color:rgba(249,244,229)}#main.block_holder{background-color:#fff;background-color:rgba(255,255,255)}#content_full h2,#content_full h2 a:link,#content_full h2 a:visited,#content_full .content_header,#content_full .articleHead,#content_remainder h2,#content_remainder h2 a:link,#content_remainder h2 a:visited,#content_remainder .content_header,#content_remainder .articleHead{color:#1a3e68!important}#main,ul.breadcrumb li span{color:#000!important}#main a,.module ul.breadcrumb li a,.module_menu ul.breadcrumb li a{color:#4d688c!important}#main a:hover{color:#dfc166!important}#main .module h3,#main .module_menu h3{background-color:#fff}.sidecol_block .module h3,.sidecol_block .module_menu h3,.contenttop .module h3,.contenttop .module_menu h3,.contentbottom .module h3,.contentbottom .module_menu h3{background-color:transparent!important}.sidecol_block .module h3,.sidecol_block .module_menu h3,.contenttop .module h3,.contenttop .module_menu h3,.contentbottom .module h3,.contentbottom .module_menu h3{color:#1a3e68!important}#main .module ul.menu li a,#main .module_menu ul.menu li a{color:#4d688c!important}#main .module ul a,#main .module_menu ul a{border-color:#4d688c!important}#main .module ul.menu li a:hover,#main .module_menu ul.menu li a:hover{color:#dfc166!important}#main .module ul a:hover,#main .module_menu ul a:hover{border-color:#dfc166!important}#container_main.container{padding-top:0}#container_main.container{padding-bottom:0}#main .module h3,#main .module_menu h3{padding-left:0}#main .module h3,#main .module_menu h3{padding-right:0}div#slide-contact.accordion div.accordion-group div.accordion-heading{background-color:#fff!important}#container_base.container{background-color:#dfc166;background-color:rgba(223,193,102,1)}#base.block_holder{background-color:#fff;background-color:rgba(255,255,255,0)}#base{color:#5c5c5c!important}#base a{color:#5c5c5c!important}#base a:hover{color:#5c5c5c!important}#base .module h3,#base .module_menu h3{background-color:#fff}#base .module h3,#base .module_menu h3{background-color:transparent!important}#base .module h3,#base .module_menu h3{color:#5c5c5c}#base .module ul.menu li a,#base .module_menu ul.menu li a{color:#5c5c5c!important}#base .module ul a,#base .module_menu ul a{border-color:#5c5c5c!important}#base .module ul.menu li a:hover,#base .module_menu ul.menu li a:hover{color:#5c5c5c!important}#base .module ul a:hover,#base .module_menu ul a:hover{border-color:#5c5c5c!important}#container_base.container{padding-top:0}#container_base.container{padding-bottom:0}#base .module h3,#base .module_menu h3{padding-left:0}#base .module h3,#base .module_menu h3{padding-right:0}#container_copyright_footermenu.container{background-color:#f9f4e5;//    background-color: rgba(249,244,229,  )}#copyright-footermenu.block_holder{background-color:#f9f4e5;//    background-color: rgba(249,244,229,  )}#copyright-footermenu{color:#1a3e68!important}#copyright-footermenu a{color:#1a3e68!important}#copyright-footermenu a:hover{color:#dfc166!important}#footermenu ul li a{color:#1a3e68!important}#footermenu ul li a{border-color:#1a3e68!important}#footermenu ul li a:hover{color:#dfc166!important}#footermenu ul li a:hover{border-color:#dfc166!important}#container_copyright_footermenu.container{padding-top:0}#container_copyright_footermenu.container{padding-bottom:0}#sidecol_a{width:20%}#sidecol_b{width:20%}#sidecol_a{float:left}#sidecol_b{float:left}#content_remainder{float:left}.wrapper960{width:70%}#main{min-height:800px}.bor-bot{margin:10px 0;position:relative;width:100%;height:5px;background:linear-gradient(to right,#f7cc4a 0,rgba(247,204,74,.1) 55%,rgba(247,204,74,.1) 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f7cc4a', endColorstr='#1af7cc4a', GradientType=1 )}</style>
+
+
+
+
+
+	<style type="text/css">@media only screen and (max-width:767px){#container_bottom_modules{display:none!important}}</style>
+
+
+	<style type="text/css">@media only screen and (max-width:1024px){#social{display:none!important}}</style>
+
+
+
+<!-- Hornav Responsive Menu -->
+<script type="text/javascript" src="/templates/joomlage0071-simplex/js/responsive-nav/responsive-nav.js" charset="utf-8"></script>
+
+
+<!-- Hornav Dropdown -->
+<script type="text/javascript" src="/templates/joomlage0071-simplex/js/dropdown.js" charset="utf-8"></script>
+<script type="text/javascript">window.addEvent('domready',function(){var myMenu=new MenuMatic();});</script>
+
+<!-- Scroll to Top -->
+<script type="text/javascript">var $k=jQuery.noConflict();$k(document).ready(function(){$k(window).scroll(function(){if($k(this).scrollTop()>500){$k('.scrollup').fadeIn();}else{$k('.scrollup').fadeOut();}});$k('.scrollup').click(function(){$k("html, body").animate({scrollTop:0},900);return false;});});</script> 
+
+<!--[if IE 10]>
+<link rel="stylesheet" href="/templates/joomlage0071-simplex/css/ie10.css" rel="stylesheet" type="text/css" />
+<![endif]-->  
+
+<!--[if IE 9]>
+<link rel="stylesheet" href="/templates/joomlage0071-simplex/css/ie9.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="/templates/joomlage0071-simplex/css/ie8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if IE 7]>
+<link rel="stylesheet" href="/templates/joomlage0071-simplex/css/ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript" src="/templates/joomlage0071-simplex/js/fix-png-ie6.js"></script>
+<link rel="stylesheet" href="/templates/joomlage0071-simplex/css/ie6.css" rel="stylesheet" type="text/css" />
+<script src="/templates/joomlage0071-simplex/js/ie6/warning.js"></script><script>window.onload=function(){e("/templates/joomlage0071-simplex/js/ie6/")}</script>
+<![endif]-->
+
+<script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-90294311-1','auto');ga('send','pageview');</script></head>
+
+
+<body>
+<a href="#" class="scrollup">Scroll</a>
+
+<div id="container_header" class="container">
+<!--<div class="wrapper960">-->
+<div id="header" class="block_holder">
+<!--	<div class="clear"></div>-->
+
+	<div id="header_items">
+		
+				<div id="search">
+		<div class="search">
+	<form action="/casmi" method="post" class="form-inline">
+		<label for="mod-search-searchword0" class="element-invisible">Search ...</label> <input name="searchword" id="mod-search-searchword0" maxlength="200" class="inputbox search-query input-medium" type="search" placeholder="Search ..."/>		<input type="hidden" name="task" value="search"/>
+		<input type="hidden" name="option" value="com_search"/>
+		<input type="hidden" name="Itemid" value="551"/>
+	</form>
+</div>
+				</div>
+
+		
+				</div>
+
+		<div id="logo"><div class="logo_container"></div></div>
+
+        <div id="hornav">
+        
+<ul class="menu" id="moomenu">
+<li class="item-101"><a href="/">Home</a></li><li class="item-104"><a href="/staff">Members</a></li><li class="item-102 deeper parent"><a href="/projects">Projects</a><ul><li class="item-180"><a href="/projects/ccid">Cheminformatics &amp; Compound ID</a></li><li class="item-181"><a href="/projects/softwaredev">Databases &amp; Software Development</a></li><li class="item-182"><a>Novel Technologies</a>
+</li></ul></li><li class="item-105"><a href="/publications">Publications</a></li><li class="item-501"><a href="/events">Events</a></li><li class="item-551 current active deeper parent"><a href="/casmi">Revisiting CASMI</a><ul><li class="item-552"><a href="/casmi/casmi-faq">Frequently Asked Questions (FAQ)</a></li><li class="item-554"><a href="/casmi/casmi-2022-results">CASMI 2022 - Results</a></li></ul></li><li class="item-137"><a href="/instrumentation">Instrumentation</a></li><li class="item-155 deeper parent"><a>Administration</a>
+<ul><li class="item-535"><a href="/admin/login">Login</a></li></ul></li></ul>
+        </div>
+
+		<div id="social">
+			<ul>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+						</ul>
+		</div>	
+
+		<div class="clear"></div>
+	</div>
+
+</div>
+<!--</div>-->
+</div>
+
+<div id="container_logo_menu_mobile" class="container"><div class="wrapper960">
+<div id="logo_mobile">
+      
+	    </div>
+
+<div id="nav">
+    
+<ul class="menu" id="mobile">
+<li class="item-101"><a href="/">Home</a></li><li class="item-104"><a href="/staff">Members</a></li><li class="item-102 deeper parent"><a href="/projects">Projects</a><ul><li class="item-180"><a href="/projects/ccid">Cheminformatics &amp; Compound ID</a></li><li class="item-181"><a href="/projects/softwaredev">Databases &amp; Software Development</a></li><li class="item-182"><a>Novel Technologies</a>
+</li></ul></li><li class="item-105"><a href="/publications">Publications</a></li><li class="item-501"><a href="/events">Events</a></li><li class="item-551 current active deeper parent"><a href="/casmi">Revisiting CASMI</a><ul><li class="item-552"><a href="/casmi/casmi-faq">Frequently Asked Questions (FAQ)</a></li><li class="item-554"><a href="/casmi/casmi-2022-results">CASMI 2022 - Results</a></li></ul></li><li class="item-137"><a href="/instrumentation">Instrumentation</a></li><li class="item-155 deeper parent"><a>Administration</a>
+<ul><li class="item-535"><a href="/admin/login">Login</a></li></ul></li></ul>
+</div>
+<div class="clear"></div></div></div>
+
+<div id="container_social_mobile" class="container"><div class="wrapper960">
+<div id="social_mobile" class="block_holder">  
+	<div id="header_items">
+        <div id="social">
+            <ul>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                        </ul>
+        </div>  
+
+    <div id="mobile_search">
+        <div class="search">
+	<form action="/casmi" method="post" class="form-inline">
+		<label for="mod-search-searchword0" class="element-invisible">Search ...</label> <input name="searchword" id="mod-search-searchword0" maxlength="200" class="inputbox search-query input-medium" type="search" placeholder="Search ..."/>		<input type="hidden" name="task" value="search"/>
+		<input type="hidden" name="option" value="com_search"/>
+		<input type="hidden" name="Itemid" value="551"/>
+	</form>
+</div>
+    </div>
+
+
+</div>
+
+</div>
+</div></div>
+
+
+
+<div id="container_maincontent_bg">
+<div id="container_main" class="container"><div class="wrapper960">
+<!--Setting up Layout for MainContent and Side Columns. Check to see if modules are enabled or disabled in the sidecolumns-->
+
+<div id="main" class="block_holder">
+
+<!--Side Columns Layout-->                          
+       
+    
+<!--End Side Columns Layout-->
+
+<!--Find Content width and show component area-->
+<div id="content_full" class="side_margins">
+
+
+ 	<div class="maincontent">
+            <div class="message">
+                                    <div id="system-message-container">
+	</div>
+
+                            </div>
+        <div class="item-page" itemscope itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="en-GB"/>
+	
+		
+			<div class="page-header">
+					<h2 itemprop="headline">
+				Revisiting CASMI			</h2>
+									</div>
+					
+		
+	
+	
+		
+									<div itemprop="articleBody">
+		<h3>Showcase your success in compound identification for up to 500 new unknowns, using raw LC-MS/MS data</h3>
+<p>In untargeted assays, approximately 80% of all MS/MS spectra remain unidentified. Yet, the last CASMI contest was performed five years ago. As molecules of former CASMI contests are now well known, new datasets must be provided for testing compound ID strategies in 2022. A new CASMI comparative assessment of small molecule identifications is overdue. Hence, the UC Davis West Coast Metabolomics Center is spearheading such a workshop to take place for the <a href="https://www.metabolomics2022.org/">Metabolomics Society 2022 Conference</a> in Valencia, Spain.</p>
+<p>To make this new CASMI 2022 similar to an actual metabolomics study, we here provide <strong>raw LC-accurate mass MS/MS data in both +ESI and - ESI mode</strong>, with a list of 500 compounds and their retention times and accurate m/z values. Compounds are not included in public libraries but comprise both metabolites and exposome chemicals. If participants would be interested to participate but would struggle to extract mass spectra from these raw files, please contact us to receive the target MS/MS spectra as an .MSP files. If participants would like to receive .RAW instead of .mzml files for the full chromatograms, please contact us. <br/><br/>As these are many compounds, perhaps too many for some, feel free to only use a select number of targets. We will prioritize 250 of these 500 compounds, but certainly would be curious to see if automated processes could work on all of them or at least some of them?</p>
+<p style="padding-left: 30px;">Results will be discussed based on four different categories:</p>
+<p style="padding-left: 30px;"><span style="background-color: #ffff00;">1. Correct annotation of adducts</span></p>
+<p style="padding-left: 30px;"><span style="background-color: #ffff00;">2. Correct elemental formulas</span></p>
+<p style="padding-left: 30px;"><span style="background-color: #ffff00;">3. Correct compound structure classes</span></p>
+<p style="padding-left: 30px;"><span style="background-color: #ffff00;">4. Correct 2D chemical structures</span></p>
+<p><strong>Please, feel free and invited to test your skills, your workflows, your software, or your databases on any or all of these tasks!</strong></p>
+<p>Anyone can utilize this data and submit results. Submitters will be notified, and we will then select six submitters to showcase their results and approaches at the Metabolomics Society meeting (if necessary, even remotely or via recorded contributions - but preferred 'in person', of course!). All submitters will be invited to participate in manuscript writing afterward about this CASMI 2022 exercise.</p>
+<hr/>
+<p><strong><span style="background-color: #ffff00; color: #0000ff;">*NEW*</span></strong> Check out the Frequently Asked Questions page: <a href="/casmi/casmi-faq">here</a></p>
+<p><strong><span style="background-color: #ffff00; color: #0000ff;">*NEW*</span></strong> Solutions &amp; <a href="/casmi/casmi-2022-results">results</a> are up now!&nbsp;</p>
+<p><strong>Download workshop data + solutions here: <a href="https://drive.google.com/drive/folders/1h3Hf8vxDQUhDN9aIRKIOBKGR91qgg3cL?usp=sharing">https://drive.google.com/drive/folders/1h3Hf8vxDQUhDN9aIRKIOBKGR91qgg3cL?usp=sharing</a><a href="https://drive.google.com/drive/folders/1h3Hf8vxDQUhDN9aIRKIOBKGR91qgg3cL?usp=sharing"></a></strong></p>
+<p><strong>Download the list of challenges, RT, and precursor m/z here:</strong></p>
+<ul>
+<li><a href="https://drive.google.com/drive/folders/1-DFgwyimAzlJ2OHcvYr16jwvfU-fW5cB?usp=sharing">Priority Challenges 1 - 250</a></li>
+<li><a href="https://drive.google.com/drive/folders/1rOqggGlhvVy4H_VAX5hSxGTi5skOY-5j?usp=sharing">Bonus Challenges 250 - 500</a></li>
+</ul>
+<p><span style="color: #0000ff;"><strong><span style="background-color: #ffff00;">*UPDATE*</span></strong></span> Errors on Challenges 81, 282, 432, &amp; 476 have been fixed. Click on the links above to find Excel with corrected information.&nbsp;<span style="text-decoration: underline;"><span style="color: #0000ff;">These challenges will not count in the evaluation.</span></span></p>
+<ul>
+<li>Challenge 81 the correct precursor<em>&nbsp;</em>is&nbsp;<em>m/z</em> 408.2592, please use file A_M24_posPFP_01</li>
+<li>Challenge 282 the correct precursor is&nbsp;<em>m/z</em> 384.2381</li>
+<li>Challenge 432 please use the correct file A_M16_posPFP02</li>
+<li>Challenge 476 the correct precursor is <em>m/z </em>315.2278</li>
+</ul>
+<p><strong>Results will need to be submitted back to us by June 06, 2022.&nbsp;</strong></p>
+<p>Instructions to submit results:</p>
+<p>1. Please provide an Excel or CSV document, you can <a href="https://drive.google.com/drive/folders/1s5Xq2T5D99A-k9yLpJKYLZkCE7UdIBx4?usp=sharing">download these templates</a>&nbsp;for either Priority Challenges or Bonus Challenges.</p>
+<p>2. For the fourth category listed above, please provide either InChIKey or SMILES. We will count the first block of the InChIKey when assessing the results.</p>
+<p>3. Please provide a short abstract about your approach (150 words max.) &amp; a method section detailing your approach&nbsp;(i.e., the format of data used, how data was handled, software parameters, etc.).</p>
+<p><strong><span style="background-color: #ffff00;">To upload your results and other documents click here:&nbsp;<a href="https://ucdavis.app.box.com/f/c842f7871478487a8ad66ffeeb9ea56d" style="background-color: #ffff00;">https://ucdavis.app.box.com/f/c842f7871478487a8ad66ffeeb9ea56d</a></span></strong></p>
+<hr/>
+<p>&nbsp;</p>
+<p><strong>Contact Information: <a href="/component/contact/contact/11-members/14-wcmc/78?Itemid=101">Arpana Vaniya</a><br/></strong></p>
+<p>&nbsp;</p>
+<hr/>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Who is the intended audience for this workshop:&nbsp;Anyone, but mainly advanced users in metabolomics with 2+ years of experience.</li>
+<li>Objectives for your workshop:
+<ul>
+<li>Enable comparison of the current performance in compound ID approaches from raw data &ndash; generate new public datasets and write a manuscript</li>
+<li>Understand the advantages and pitfalls of different compound identification approaches</li>
+<li>Advance expertise across disciplines toward compound identification</li>
+</ul>
+</li>
+<li>Learning Outcomes for participants:
+<ul>
+<li>Learn about current tools, software, and compound identification approaches.</li>
+<li>Ask panel experts how to use tools, including pitfalls or barriers to applying tools for your own research.</li>
+<li>Understand the different levels and hierarchies in compound identification, from determining adducts to elemental formulas, and structure classes to structure isomers.</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p> 	</div>
+
+	
+							</div>
+
+	</div>
+
+<!--Modules ContentBottom-->
+            
+<!--End Modules ContentBottom-->
+
+</div>
+<div class="clear"></div>
+<!--End Content width and show component area-->
+           
+        
+</div>
+<div class="clear"></div></div></div>
+</div>
+
+
+
+<div id="container_copyright_footermenu" class="container"><div class="wrapper960">
+
+<div id="copyright-footermenu" class="block_holder">
+	<div id="copyright" class="module_margin"><div class="block_holder_margin">
+		<p>(c) 2016 Fiehn Lab</p>
+	</div></div>
+<div class="clear"></div>
+</div>
+</div></div>
+
+
+
+    <script type="text/javascript">var navigation=responsiveNav("#nav",{animate:true,transition:800,label:"Menu",insert:"before",customToggle:"",openPos:"relative",jsClass:"js",init:function(){},open:function(){},close:function(){}});</script>
+</body> 
+</html>

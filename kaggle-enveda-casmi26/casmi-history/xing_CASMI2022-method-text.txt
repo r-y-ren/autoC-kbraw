@@ -1,0 +1,7 @@
+Abstract
+Adduct determination was achieved using a custom R script, utilizing a list of common adduct forms, cosine scores between chromatographic peaks and several heuristic rules. MS1 isotope patterns were used for checking [M+Cl]- and doubly charged adducts. Formula annotation was completed using MS1 isotope and MS/MS spectra—the detailed algorithm is still unpublished. Molecular 2D structures were predicted with the help of metadata in common chemical databases such as PubChem, HMDB and KEGG. Molecular classes were not generated.
+Participant:
+Shipei Xing (philipxsp@chem.ubc.ca), 4th-year PhD student, The University of British Columbia
+Supervisor: Tao Huan (thuan@chem.ubc.ca)
+Method:
+Most data processing was completed in R language. Raw data in mzXML format were read into R using R package MSnbase. A function for adduct determination was created for annotating adduct forms of targeted metabolic features. The complete adduct list was derived from MS-DIAL. Formula annotation was achieved using an unpublished algorithm (manuscript in preparation). Structures were predicted using metadata in chemical databases. We simply reported the most frequent chemical structures with a predefined molecular formula, where 3D structures were ignored (we only used the first part of the InChIKey).

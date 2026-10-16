@@ -1,0 +1,669 @@
+
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<link rel="stylesheet" href="/static/home/default/layui/css/layui.css">
+	
+    <title>安徽省乡村振兴创新创业大赛</title>
+    <meta name="keywords" content="安徽省乡村振兴创新创业大赛|高校创新创业大赛|乡村振兴创新创业大赛|创业创新大赛">
+    <meta name="description" content="安徽省乡村振兴创新创业大赛由安徽省乡村振兴促进会、安徽省城市规划学会为发起单位；安徽省农业农村厅、安徽省乡村振兴局、安徽省教育厅、安徽省住房和城乡建设厅、合肥市人民政府为指导单位；安徽省内11所高校进行主办的赛事，以乡村振兴，你我同行为主题，参赛选题围绕“五大振兴”即：产业振兴、人才振兴、文化振兴、生态振兴、组织振兴。">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='/static/home/css/font.css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+    <link href="/static/home/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <script src="/static/home/js/jquery.min.js"></script>
+    <!--start slider -->
+    <link rel="stylesheet" href="/static/home/css/fwslider.css" media="all">
+    <link rel="stylesheet" href="/static/home/css/swiper-bundle.min.css" />
+    <script src="/static/home/js/jquery-ui.min.js"></script>
+    <script src="/static/home/js/css3-mediaqueries.js"></script>
+    <script src="/static/home/js/fwslider.js"></script>
+    <!--end slider -->
+    <!---strat-date-piker---->
+    <link rel="stylesheet" href="/static/home/css/jquery-ui.css" />
+    <link rel="stylesheet" href="/static/home/css/bootstrap-icons.css" />
+    <script src="/static/home/js/jquery-ui.js"></script>
+    <script>
+        $(function () {
+            //---------------------利用datepicker创建时间段----------------  
+            $("#datepicker").datepicker({    //绑定开始日期  
+                minDate: 0,
+                dateFormat: "yy-mm-dd",
+                onClose: function (selectedDate) {
+                    $("#datepicker1").datepicker("option", "minDate", selectedDate);
+                }
+            });
+
+            $("#datepicker1").datepicker({  //设置结束绑定日期
+                dateFormat: "yy-mm-dd",
+                onClose: function (selectedDate) {
+                    $("#datepicker").datepicker("option", "maxDate", selectedDate);
+                }
+            });
+        });
+    </script>
+    <!---/End-date-piker---->
+
+    <script type="text/javascript" src="/static/home/js/JFCore.js"></script>
+    <script type="text/javascript" src="/static/home/js/JFForms.js"></script>
+    <!-- Set here the key for your domain in order to hide the watermark on the web server -->
+    
+
+	<style>
+		* {
+			box-sizing: border-box;
+		}
+
+		.bread-wrap {
+			height: 60px;
+			line-height: 60px;
+			background-color: #f4f4f4;
+			color: #333333;
+			font-size: 14px;
+		}
+
+		.bread-wrap .bi-geo-alt-fill {
+			color: #bbbbbb;
+		}
+
+		.bread-wrap a {
+			color: #333333;
+		}
+
+		.bread-wrap a:hover {
+			color: #0068b7;
+		}
+
+		.content {
+			background-color: #ffffff;
+			padding: 24px 0 40px;
+			display: flex;
+			justify-content: space-between;
+		}
+
+		.content-nav-wrap {
+			display: inline-block;
+			width: 250px;
+		}
+
+		.content-main-wrap {
+			width: 900px;
+			display: inline-block;
+		}
+
+		.content-main {
+			white-space: pre-line;
+			font-size: 14px;
+			line-height: 32px;
+		}
+
+		.content-main h1 {
+			font-size: 24px;
+		}
+
+		.content-nav-title {
+			width: 100%;
+			height: 100px;
+			background-color: #187fc4;
+			background-image: url(/static/home/images/logo_gray.png);
+			background-repeat: no-repeat;
+			background-position: bottom right;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			color: #ffffff;
+			font-size: 24px;
+		}
+
+		.content-nav-list {}
+
+		.content-nav {
+			cursor: pointer;
+			width: 100%;
+			height: 70px;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			font-size: 18px;
+			color: #333333;
+			padding: 0 20px;
+			background-color: #f6f6f6;
+			border-bottom: 1px solid #e5e5e5;
+			position: relative;
+		}
+
+		.content-nav.active,
+		.content-nav:hover {
+			background-color: #ffffff;
+			color: #187fc4;
+			height: 80px;
+		}
+
+		.content-nav.active::after,
+		.content-nav:hover::after {
+			content: "";
+			position: absolute;
+			left: 0;
+			bottom: 0;
+			width: 3px;
+			height: 70px;
+			background-color: #1d7fbb;
+		}
+
+		.press-list {
+			width: 100%;
+		}
+
+		.press-item {
+			width: 100%;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			border-bottom: 1px solid #eeeeee;
+			padding: 24px 0;
+			cursor: pointer;
+		}
+
+		/* .press-item:hover .press-item-img{
+		} */
+
+		.press-item:first-child {
+			padding-top: 0;
+		}
+
+		.press-item-img {
+			width: 240px;
+			height: 160px;
+			border-radius: 3px;
+		}
+
+		.press-item-detail {
+			padding: 0 0 0 30px;
+			height: 130px;
+			display: flex;
+			flex-direction: column;
+			justify-content: space-between;
+		}
+
+		.press-item-detail-top {}
+
+		.press-item-detail-bottom {}
+
+		.press-item-name {
+			font-size: 20px;
+			font-weight: bold;
+			line-height: 32px;
+			color: #333333;
+			padding: 0 0 12px;
+		}
+
+		.press-item-text {
+			font-size: 14px;
+			line-height: 26px;
+			color: #777777;
+		}
+
+		.press-item-time {
+			text-align: right;
+			font-size: 14px;
+			color: #777777;
+		}
+
+
+		.pagination-wrap {
+			width: 100%;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			padding: 30px 0 0;
+		}
+
+		.pagination {
+			display: flex;
+		}
+
+		.pagination-btn {
+			font-size: 14px;
+			height: 30px;
+			border: 1px solid #ededed;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			background-color: #eeeeee;
+			color: #6b6a6a;
+			padding: 0 10px;
+			margin: 0 4px;
+			cursor: pointer;
+		}
+
+		.pagination-btn.active,
+		.pagination-btn:active {
+			background-color: #0068b7;
+			color: #ffffff;
+		}
+
+		.pagination-text {
+			color: #cccdcf;
+			font-size: 16px;
+			letter-spacing: 2px;
+			margin: 0 4px;
+		}
+
+		.banner {
+			/*display: none;*/
+			line-height: 0;
+		}
+
+		@media only screen and (max-width: 768px) {
+			.banner {
+				display: block;
+			}
+
+			.bread-wrap {
+				padding: 0 10px;
+				font-size: 12px;
+				height: 50px;
+				line-height: 50px;
+			}
+
+			.content {
+				flex-direction: column;
+			}
+
+			.content-nav-wrap {
+				box-sizing: border-box;
+				padding: 10px 25px;
+				width: 100%;
+				display: inline-block;
+			}
+
+			.content-nav-title {
+				height: 60px;
+				font-size: 14px;
+				background-size: auto 100%;
+			}
+
+			.content-nav {
+				height: 40px;
+				font-size: 14px;
+			}
+
+			.content-nav.active,
+			.content-nav:hover {
+				height: 48px;
+			}
+
+			.content-nav.active::after,
+			.content-nav:hover::after {
+				height: 40px;
+			}
+
+			.content-main-wrap {
+				box-sizing: border-box;
+				width: 100%;
+				display: inline-block;
+				padding: 20px;
+			}
+
+
+			.press-item {
+				padding: 12px 0;
+			}
+
+			/* .press-item:hover .press-item-img{
+		} */
+
+			.press-item:first-child {
+				padding-top: 0;
+			}
+
+			.press-item-img {
+				width: 40vw;
+				height: 30vw;
+			}
+
+			.press-item-detail {
+				padding: 0 0 0 12px;
+				height: auto;
+				display: block;
+			}
+
+			.press-item-detail-top {}
+
+			.press-item-detail-bottom {}
+
+			.press-item-name {
+				font-size: 14px;
+				line-height: 24px;
+				height: 48px;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				display: -webkit-box;
+				-webkit-line-clamp: 2;
+				-webkit-box-orient: vertical;
+			}
+
+			.press-item-text {
+				margin: 8px 0;
+				font-size: 12px;
+				line-height: 20px;
+				height: 40px;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				display: -webkit-box;
+				-webkit-line-clamp: 2;
+				-webkit-box-orient: vertical;
+			}
+
+			.press-item-time {
+				text-align: right;
+				font-size: 12px;
+			}
+
+
+			.pagination-btn {
+				font-size: 12px;
+				height: 20px;
+				padding: 0 5px;
+			}
+
+
+		}
+	</style>
+</head>
+
+<body>
+	<!-- start header -->
+    <div class="header_bg">
+        <div class="wrap">
+            <div class="header">
+                <div class="logo">
+                    <a href="/"><img src="/static/home/images/logo.png" alt=""></a>
+                </div>
+                <div class="h-moblie">
+                    <div class="h-moblie-menu-icon">
+                        <div class="h-moblie-menu-icon-line"></div>
+                        <div class="h-moblie-menu-icon-line"></div>
+                        <div class="h-moblie-menu-icon-line"></div>
+                    </div>
+                </div>
+                <div class="h_right">
+                    <!--start menu -->
+                    <ul class="menu">
+                        <li ><a href="/">首页</a>
+                                                    </li>
+                        <li ><a href="/about.html">大赛介绍</a>
+                                                    </li>
+                        <li class="active"><a href="/news.html">新闻中心</a>
+                            <div class="line"></div>                        </li>
+                        <li ><a href="/video.html">作品视频</a>
+                                                    </li>
+                        <li ><a href="/gallery.html">作品展示</a>
+                                                    </li>
+                        <li ><a href="/contact.html">联系我们</a>
+                                                    </li>
+                        <li ><a href="/select.html">在线报名</a>
+                                                    </li>
+                                            </ul>
+                    <!-- start profile_details -->
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    
+	<!-- banner -->
+    <div class="banner">
+        <img src="/public/uploads/20251215/7d3e6953b7d4ee4f2c9aa65c617112ae.jpg" alt="背景图">
+    </div>
+
+	<div class="page-wrap">
+		<div class="bread-wrap">
+			<div class="page-card">
+				<i class="bi bi-geo-alt-fill"></i>
+				<a href="/">首页</a>
+				<span>/</span>
+				<a href="/news.html">新闻中心</a>
+				<span>/</span>
+				<a href="">赛事新闻</a>
+			</div>
+		</div>
+		<div class="page-card">
+			<div class="content">
+				<div class="content-nav-wrap">
+					<div class="content-nav-title">
+						<span>新闻中心</span>
+					</div>
+					<div class="content-nav-list">
+						<div id="ssxw" class="content-nav active">
+							
+							<div class="content-nav-name">赛事新闻</div>
+							<div class="content-nav-other">
+								<i class="bi bi-chevron-right"></i>
+							</div>
+						</div>
+						<div id="tztg" class="content-nav ">
+							
+							<div class="content-nav-name">通知公告</div>
+							<div class="content-nav-other">
+								<i class="bi bi-chevron-right"></i>
+							</div>
+						</div>
+
+					</div>
+				</div>
+				<div class="content-main-wrap">
+
+					<div class="press-list">
+												<div class="press-item" data-id="73">
+							<img class="press-item-img" src="/public/uploads/20260810/34fd47fde139dcd1259fb9aaf7e787e9.png" alt="新闻中心" />
+							<div class="press-item-detail">
+								<div class="press-item-detail-top">
+									<div class="press-item-name">
+										关于举办第六届全国大学生乡村振兴大赛的通知									</div>
+									<div class="press-item-text">
+																			</div>
+								</div>
+								<div class="press-item-detail-bottom">
+									<div class="press-item-time">2026-08-10</div>
+								</div>
+							</div>
+						</div>
+												<div class="press-item" data-id="62">
+							<img class="press-item-img" src="/public/uploads/20251125/3769153ab6c3f40795ba84bafec2601e.png" alt="新闻中心" />
+							<div class="press-item-detail">
+								<div class="press-item-detail-top">
+									<div class="press-item-name">
+										第三届安徽省乡村振兴创新创业大赛颁奖典礼暨第四届大赛启动仪式在蚌埠举行									</div>
+									<div class="press-item-text">
+																			</div>
+								</div>
+								<div class="press-item-detail-bottom">
+									<div class="press-item-time">2025-05-25</div>
+								</div>
+							</div>
+						</div>
+												<div class="press-item" data-id="61">
+							<img class="press-item-img" src="/public/uploads/20251125/48c3c9eafd549fb01ca92af034aaf017.png" alt="新闻中心" />
+							<div class="press-item-detail">
+								<div class="press-item-detail-top">
+									<div class="press-item-name">
+										“遇见徽州·最美乡愁”绩溪县第十届徽菜美食文化旅游节暨第三届安徽省乡村振兴创新创业大赛绩溪县文创产品设计成果展									</div>
+									<div class="press-item-text">
+																			</div>
+								</div>
+								<div class="press-item-detail-bottom">
+									<div class="press-item-time">2024-11-25</div>
+								</div>
+							</div>
+						</div>
+												<div class="press-item" data-id="49">
+							<img class="press-item-img" src="/public/uploads/20240429/7eb46da178b346038b7043effed47651.JPG" alt="新闻中心" />
+							<div class="press-item-detail">
+								<div class="press-item-detail-top">
+									<div class="press-item-name">
+										第二届安徽省乡村振兴创新创业大赛颁奖典礼暨第二届安徽省乡村振兴高峰对话在合肥举办									</div>
+									<div class="press-item-text">
+																			</div>
+								</div>
+								<div class="press-item-detail-bottom">
+									<div class="press-item-time">2024-04-29</div>
+								</div>
+							</div>
+						</div>
+												<div class="press-item" data-id="47">
+							<img class="press-item-img" src="/public/uploads/20240131/124527cb2da7f6b1f88560c8281c5572.jpg" alt="新闻中心" />
+							<div class="press-item-detail">
+								<div class="press-item-detail-top">
+									<div class="press-item-name">
+										安徽省乡村振兴创新创业大赛专家委员会二次会议召开									</div>
+									<div class="press-item-text">
+																			</div>
+								</div>
+								<div class="press-item-detail-bottom">
+									<div class="press-item-time">2024-01-31</div>
+								</div>
+							</div>
+						</div>
+												<div class="press-item" data-id="45">
+							<img class="press-item-img" src="/public/uploads/20240103/9c205a11d76d28eba7a012a5e391a0d3.jpg" alt="新闻中心" />
+							<div class="press-item-detail">
+								<div class="press-item-detail-top">
+									<div class="press-item-name">
+										第二届安徽省乡村振兴创新创业大赛专家委员会会议在肥召开									</div>
+									<div class="press-item-text">
+																			</div>
+								</div>
+								<div class="press-item-detail-bottom">
+									<div class="press-item-time">2024-01-03</div>
+								</div>
+							</div>
+						</div>
+												
+					</div>
+
+
+					<div class="pagination-wrap" id="demo0">
+						
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="footer_bg">
+        <div class="wrap">
+            <div class="footer">
+                <div class="logo">
+                    <a href="/"><img src="/static/home/images/logo_f.png" alt=""></a>
+                </div>
+                <div class="h_right">
+                    <!--start menu -->
+                    <ul class="menu">
+                        <li><a href="/">首页</a></li>
+                        <li><a href="/about.html">大赛介绍</a></li>
+                        <li><a href="/news.html">新闻中心</a></li>
+                        <li><a href="/video.html">作品视频</a></li>
+                        <li><a href="/gallery.html">作品展示</a></li>
+                        <li><a href="/contact.html">联系我们</a></li>
+                        <li><a href="/select.html">在线报名</a></li>
+                    </ul>
+                    <!-- start profile_details -->
+
+                </div>
+            </div>
+            <div class="book">
+                <div class="book_left">
+                    <h3>咨询热线: 0551-62888121 </h3>
+                    <h3>咨询邮箱: anhuixczxcjh@163.com</h3>
+                    <h3>传真/电话：0551-62888121</h3>
+                    <h3>办公地址：安徽省合肥市肥西县桃花镇联海云创港2#401</h3>
+                    <h3>技术支持：安徽捷易推传媒科技有限公司 昆山旌展信息科技有限公司</h3>
+                    <h3>Copyright ©  2022 · 安徽省乡村振兴创新创业大赛网站 版权所有 | <a href="http://beian.miit.gov.cn/" style="color: white;" target="_blank">皖ICP备2021018424号</a></h3>
+                </div>
+                <div class="book_right">
+                    <div class="book_items">
+                        <img src="/static/home/images/erweima.png" alt="">
+                        <span>扫一扫查看微信公众号</span>
+                    </div>
+                    <div class="book_items">
+                        <img src="/static/home/images/qrcode.png" alt="">
+                        <span>扫一扫查看手机版网站</span>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?c20192c55229e465b093675c25e1db4d";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+	<!-- 通用JS -->
+	<script src="/static/home/js/common.js"></script>
+
+	
+	<script src="/static/home/default/layui/layui.js"></script>
+	<style type="text/css">
+	.layui-laypage .layui-laypage-curr .layui-laypage-em{
+		background-color: #0068b7;
+	}
+	</style>
+	<script>
+		$("#ssxw").click(function () {
+			window.location.href='/news.html';
+		})
+		$("#tztg").click(function () {
+			window.location.href='/notice.html';
+		})
+		// 列表点击事件
+		$(".press-item").click(function (event) {
+			var id = $(this).data('id');
+			window.location.href = '/news_content/'+id+'.html';
+		});
+
+		layui.use(['laypage', 'layer'], function(){
+                var laypage = layui.laypage
+                ,layer = layui.layer;
+
+                var total = parseInt("15");
+                var p = parseInt("1");
+                if(total>0){
+                   laypage.render({
+                    elem: 'demo0'
+                    ,count: total //数据总数
+                    ,limit:6
+                    ,curr:p
+                    ,jump: function(obj, first){
+                    //obj包含了当前分页的所有参数，比如：
+                    //console.log(obj.curr); //得到当前页，以便向服务端请求对应页的数据。
+                    //console.log(obj.limit); //得到每页显示的条数
+                    
+                    //首次不执行
+                    if(!first){
+                        location.href="/news/"+obj.curr;
+                    }
+                  }
+                }); 
+                }
+                
+            })
+
+
+	</script>
+</body>
+
+</html>
+
