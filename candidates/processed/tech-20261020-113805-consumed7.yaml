@@ -1,0 +1,135 @@
+- id: gh-Sheltercosmo_Rilldex-RL-Studio
+  kind: github
+  name: Sheltercosmo/Rilldex-RL-Studio
+  published: '2026-10-16'
+  urls:
+  - https://github.com/Sheltercosmo/Rilldex-RL-Studio
+  signal:
+    venue: GitHub
+    stars: 16
+    citations_90d: null
+    runnable: true
+  summary: 'RL observability for LLM agents: behavior maps, native trainer metrics,
+    rollout investigations, and Python/SQL analysis.'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: gh-Bogzx_bg3-agent-harness
+  kind: github
+  name: Bogzx/bg3-agent-harness
+  published: '2026-10-09'
+  urls:
+  - https://github.com/Bogzx/bg3-agent-harness
+  signal:
+    venue: GitHub
+    stars: 17
+    citations_90d: null
+    runnable: true
+  summary: 'A harness for LLM agents to play Baldur''s Gate 3 on Linux: Lua mod, MCP
+    server, runner and memory. The agent sees only what a player sees.'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: gh-sp8rks_ACerS_AI_ML_Workshop
+  kind: github
+  name: sp8rks/ACerS_AI_ML_Workshop
+  published: '2026-10-09'
+  urls:
+  - https://github.com/sp8rks/ACerS_AI_ML_Workshop
+  signal:
+    venue: GitHub
+    stars: 10
+    citations_90d: null
+    runnable: true
+  summary: 'Practical AI & Machine Learning for Materials Science: ACerS short course
+    (Oct 2026). Colab-ready notebooks on featurization, supervised learning, interpretation,
+    Bayesian optimization, and LLM agents.'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: gh-cryer_agent-eval
+  kind: github
+  name: cryer/agent-eval
+  published: '2026-10-15'
+  urls:
+  - https://github.com/cryer/agent-eval
+  signal:
+    venue: GitHub
+    stars: 10
+    citations_90d: null
+    runnable: true
+  summary: 'CI for LLM agents — change the prompt, swap the model, edit a tool, refactor
+    the loop: replay the eval suite and let statistics decide if anything got worse.
+    OTel tracing, calibrated LLM-as-judge,adversarial simulated users, and a GitHub
+    Actions gate that blocks significant regressions.'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: gh-Dong-Fang-Bu-Bai_btr-dualrag
+  kind: github
+  name: Dong-Fang-Bu-Bai/btr-dualrag
+  published: '2026-10-18'
+  urls:
+  - https://github.com/Dong-Fang-Bu-Bai/btr-dualrag
+  signal:
+    venue: GitHub
+    stars: 89
+    citations_90d: null
+    runnable: true
+  summary: 'Source code for BTR-dualRAG: Bioinformatics Tool Recommendation With Dual
+    Retrieval-Augmented Generation'
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.24087
+  kind: hf-paper
+  name: 'OR-License: Evaluating LLM Agents as Real-World Operations Research Practitioners'
+  published: '2026-10-15'
+  urls:
+  - https://huggingface.co/papers/2610.24087
+  - https://arxiv.org/abs/2610.24087
+  signal:
+    venue: HuggingFace Papers
+    upvotes: 15
+    stars: null
+    citations_90d: null
+    runnable: false
+  summary: Can large language model (LLM) agents deliver expert-level operations research
+    (OR) solutions directly from original client materials, without prior expert reformulation?
+    Existing OR benchmarks typically begin with self-contained descriptions or predefined
+    optimization tasks, underrepresenting the translation of original business materials
+    into professionally validated solutions. We introduce OR-L
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 黑客松与数据竞赛
+- id: arxiv-2610.09872
+  kind: hf-paper
+  name: 'LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving
+    Markets'
+  published: '2026-10-06'
+  urls:
+  - https://huggingface.co/papers/2610.09872
+  - https://arxiv.org/abs/2610.09872
+  signal:
+    venue: HuggingFace Papers
+    upvotes: 112
+    stars: null
+    citations_90d: null
+    runnable: false
+  summary: 'Evaluating agents by outcomes alone can obscure the capabilities that
+    produce them. This problem is especially pronounced in evolving environments,
+    where outcomes reflect a closed-loop interaction between agent behavior and changing
+    external conditions. We introduce LiveMACEBench, a process-aware benchmark that
+    uses live financial markets as a naturally evolving testbed for persistent LLM
+    agents. '
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 黑客松与数据竞赛
