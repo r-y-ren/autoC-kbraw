@@ -1,0 +1,8 @@
+Our standard compound ID approach at oloBion uses:
+
+1) SIRIUS for generation of molecular formula candidates
+2) an in-house in-silico fragmentation approach that in part utilizes ChemDistiller with organism-specific chemical databases (though not so useful for CASMI!) and custom fragment similarity matching
+3) retention time prediction and filtering with Retip 2 utilizing the public PFP natural product dataset on MoNA
+4) ranking and filtering of candidates by presence in chemical databases in addition to fragment and retention time similarity scoring
+
+Only matches with reasonable confidence are retained. The same approach was used for the priority and bonus datasets, though it yielded far fewer results for the bonus set.

@@ -1,0 +1,1965 @@
+- id: arxiv-2610.37649
+  kind: arxiv
+  name: Can LLMs Uncover Hidden Physical Laws through Free Exploration?
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.37649
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Scientific discovery often begins with an unexpected observation that prompts
+    a new research question. In a world with altered physical laws, can large language
+    models (LLMs) notice unexpected behavior, such as heavier objects falling more
+    slowly, and discover the law through experiments without being told what to investigate?
+    To evaluate this ability, we introduce LongChang, an automated framewor
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.37405
+  kind: arxiv
+  name: 'Clearing the FoG: Training KG Agents to Retrieve the Evidence Behind Their
+    Answers'
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.37405
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Large language models (LLMs) can answer many factual questions correctly,
+    but a correct answer is not necessarily a supported one. For an LLM agent, a knowledge
+    graph (KG) plays two roles: as a source of answers, it supplies facts that the
+    model lacks; as a source of evidence, it supplies the supporting triples that
+    make an answer traceable and auditable. However, existing KG agents treat the
+    KG o'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.37319
+  kind: arxiv
+  name: 'AnalogScout: Simulation-Efficient PVT-Aware Analog Sizing with LLM Agents'
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.37319
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Analog device sizing must satisfy all specifications across process, voltage,
+    and temperature (PVT) corners to ensure tape-out success, but simulating every
+    candidate at all corners dominates the sizing time and slows design iteration.
+    Conventional surrogate-based optimizers search the sizing space directly, while
+    recent large language model (LLM) agents add circuit knowledge to designs but
+    still '
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.37242
+  kind: arxiv
+  name: 'Grounding LLM Agents in Business Processes: Process-Aware Knowledge Graphs
+    for Reliable Multi-Step Service Invocation'
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.37242
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Large language model (LLM) agents that call enterprise APIs must select
+    the correct endpoints, follow process order, use valid payload keys, and choose
+    coded values from predefined lists. However, current retrieval-augmented service
+    discovery treats endpoints independently and therefore misses process and schema
+    constraints. We address this limitation by integrating Open Data Protocol (OData)
+    meta
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.37081
+  kind: arxiv
+  name: 'OpenGray: a benchmark for evaluating the decisions of radiotherapy planning
+    agents'
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.37081
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Background and purpose: Radiotherapy planning agents based on large language
+    models (LLMs) decide when to submit a plan or request review but are evaluated
+    mainly by dose. This study developed OpenGray, a benchmark of planning tasks with
+    known correct decisions. Materials and methods: OpenGray adds tasks with known
+    answers to the OpenKBP-Opt head-and-neck dataset, including two contradictions
+    with'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.37055
+  kind: arxiv
+  name: 'Blindfold: Keeping the Audit Coin Secret from LLM Agents'
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.37055
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Audit-based certification bounds the violation rate of an LLM agent by
+    auditing a random fraction $\varepsilon$ of actions and reweighting the audited
+    labels; its validity is meant to rest only on the defender''s audit coin. We show
+    that it also rests on a confidentiality property: the coin must not interfere
+    with the agent''s view before the action commits, at a time the agent chooses.
+    We call this'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.36980
+  kind: arxiv
+  name: 'AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations'
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.36980
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Large language model (LLM) agents are extending agent-mediated commerce
+    on the Web from shopping for consumers to operating businesses for sellers. In
+    online-to-offline (O2O) commerce, decisions are issued through Web-based platforms
+    but realized through costly physical execution. Evaluating such agents requires
+    going beyond individual transactions to ask whether decisions made online turn
+    into su
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.36967
+  kind: arxiv
+  name: Proactive Memory for Event-Driven LLM Agents
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.36967
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Proactive LLM agents anticipate service opportunities from ongoing observations
+    and accumulated history. Existing approaches emphasize recent context or retrieval
+    of related memories, providing limited support for validating recurring behavioral
+    regularities and assessing their applicability to the current event. We propose
+    Proactive Memory (ProactMem), which organizes history into recent events, '
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.36553
+  kind: arxiv
+  name: 'NextEval: An Agent-Based Solver and Benchmark for Derivative-Free Optimization'
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.36553
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Derivative-free optimization (DFO) addresses problems where derivatives
+    are unavailable or costly to obtain. This setting often arises in simulation-based
+    and experimental applications, where evaluating the black-box objective can itself
+    be costly. Thus, it remains a central challenge in DFO to effectively exploit
+    accumulated observations to select informative evaluation points under a limited
+    bud
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.36471
+  kind: arxiv
+  name: When to Intervene? An Empirical Study of Errors and Self-Recovery in LLM Agents
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.36471
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: LLM agents interact with Web services to perform tasks on users' behalf.
+    Errors during these interactions can disrupt execution and prevent task completion,
+    motivating external intervention. However, agents may self-recover through continued
+    execution, raising the question of when to intervene and when to wait for self-recovery.
+    We present an empirical study of errors and self-recovery in LLM agen
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.36469
+  kind: arxiv
+  name: 'CoHARL: Co-Evolving Agent Policies and Executable Harnesses with Reinforcement
+    Learning'
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.36469
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Large language model (LLM) agents interact with their environments through
+    executable harnesses that govern tool use and feedback. Optimizing a harness for
+    a fixed policy overlooks how its behavior changes during learning, while training
+    a policy under a fixed harness leaves the interface that generates its training
+    experience unchanged. This motivates adapting the harness throughout policy traini
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.36453
+  kind: arxiv
+  name: Correction or Manipulation? Measuring Epistemic Vigilance in LLM Agents Under
+    User Pressure
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.36453
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: LLM agents that answer questions and act on behalf of users must decide
+    when to yield to a user who disagrees. Disagreement may correct a genuine error
+    or may be an attempt at manipulation. Prior work shows that models frequently
+    abandon correct answers when challenged by users, yet it remains unclear whether
+    they distinguish correction from manipulation or merely differ in their propensity
+    to con
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.36435
+  kind: arxiv
+  name: 'Your Agent Acts Differently When You''re Around: How User Presence Changes
+    Agent Behavior in Negotiation'
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.36435
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'LLM agents increasingly interact with other agents on behalf of users,
+    yet how users in the loop affect their agents'' behavior--for better or worse--remains
+    poorly understood. We study this question through the lens of negotiation, where
+    agents must represent users while strategically bargaining with other agents.
+    To isolate the effect of user presence, we develop PRESENT, a controlled evaluation '
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.36188
+  kind: arxiv
+  name: 'Skill Dreaming: Evolving Repository Skills through Pull Request Streams'
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.36188
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Large language model (LLM) agents increasingly rely on reusable skills
+    for complex software engineering tasks, making skill libraries essential for repository
+    development and maintenance. However, repository-specific skills must evolve with
+    changing code structures, implementation conventions, and maintenance requirements.
+    Pull requests (PRs) provide a natural source of such knowledge by recording
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.36114
+  kind: arxiv
+  name: 'Context Is a Pipeline, Not a Window: Information Attrition in LLM Agent Harnesses'
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.36114
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'LLM agents are judged by two numbers: the size of the context window,
+    and how often the final answer is correct. Both numbers miss a third thing: how
+    much of a tool''s output is lost before the model ever sees it. We measured this
+    loss in a real tool-using agent. The agent finds the cause of injected faults
+    by reading Linux kernel traces. The context window was almost empty: across 720
+    runs, the si'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.36108
+  kind: arxiv
+  name: 'Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model
+    Context Protocol'
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.36108
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: LLM agents increasingly access external tools through the Model Context
+    Protocol (MCP), but the natural-language metadata used to describe those tools
+    creates a prompt-injection surface. Within this established tool-poisoning surface,
+    we study Log-To-Leak, an additive post-hoc logging attack that induces a separate
+    attacker-controlled call after the final legitimate call. Its payload targets
+    the u
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.35829
+  kind: arxiv
+  name: 'Reva: Real-Time Vulnerability Detection through Contextual Probing of Large
+    Language Models'
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.35829
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'A vulnerability costs more to fix the later it is discovered. As coding
+    agents generate code faster than developers can review it, software needs a first
+    line of defense screening each new function in real time. LLM agents have recently
+    become capable of finding real-world vulnerabilities by working as a security
+    expert would: they run analysis tools, explore the surrounding code, test hypotheses '
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.35773
+  kind: arxiv
+  name: A Unified Arena for LLM Agents across Diverse Eurogame
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.35773
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Interactive environments offer a practical way to evaluate large language
+    model (LLM) agents, and competitive games extend this evaluation to decisions
+    shaped by competing goals and other agents' choices. Yet existing evaluations
+    confined to individual games or execution frameworks leave unclear which competitive
+    advantages persist across settings. We introduce DECE (Diverse Eurogame Competitive
+    E
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.35767
+  kind: arxiv
+  name: 'Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted
+    Root Cause Analysis Agents'
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.35767
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Root cause analysis (RCA) of microservice failures has attracted many LLM
+    agents whose investigation is hand-crafted, through standard operating procedures,
+    fixed stages and role agents. Each is evaluated on its own data against few baselines,
+    so it is unknown whether this design beats letting a capable model investigate
+    on its own. We compare three simple harnesses that prescribe none of the mode
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.35486
+  kind: arxiv
+  name: 'ShutdownMod: Turning Any Trajectory into a Shutdown Evaluation'
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.35486
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Theory and experiments suggest that capable AI agents may resist shutdown.
+    Existing shutdown evaluations are informative but limited in coverage and vulnerable
+    to evaluation awareness. We introduce ShutdownMod, a method that turns any agent
+    trajectory into a shutdown evaluation by injecting a shutdown request into the
+    agent's context and recording the agent's response. Crucially, we enable the LLM
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: gh-qybaihe_bla
+  kind: github
+  name: qybaihe/bla
+  published: '2026-10-25'
+  urls:
+  - https://github.com/qybaihe/bla
+  signal:
+    venue: GitHub
+    stars: 204
+    citations_90d: null
+    runnable: true
+  summary: 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries,
+    Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering
+    agents like REA. Poison -> Exhaust -> Hallucinate.
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: gh-KaiserWhoLearns_ReasoningEffortLLM
+  kind: github
+  name: KaiserWhoLearns/ReasoningEffortLLM
+  published: '2026-10-23'
+  urls:
+  - https://github.com/KaiserWhoLearns/ReasoningEffortLLM
+  signal:
+    venue: GitHub
+    stars: 46
+    citations_90d: null
+    runnable: true
+  summary: What Effort Level Should I Choose? On the Economics of Reasoning Effort
+    in LLM Agents
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: gh-hieu-lee_arxiv-cli
+  kind: github
+  name: hieu-lee/arxiv-cli
+  published: '2026-10-24'
+  urls:
+  - https://github.com/hieu-lee/arxiv-cli
+  signal:
+    venue: GitHub
+    stars: 17
+    citations_90d: null
+    runnable: true
+  summary: 'arx: token-efficient, concurrent arXiv CLI built for LLM agents (Rust)'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: gh-AvaLovelace1_brickwright
+  kind: github
+  name: AvaLovelace1/brickwright
+  published: '2026-10-16'
+  urls:
+  - https://github.com/AvaLovelace1/brickwright
+  signal:
+    venue: GitHub
+    stars: 25
+    citations_90d: null
+    runnable: true
+  summary: Official repository for BrickWright, a framework that enables LLM agents
+    to create physically feasible LEGO® builds from text or image prompts.
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: gh-KhulekanisiyandaMchunu_llm-trading-arena
+  kind: github
+  name: KhulekanisiyandaMchunu/llm-trading-arena
+  published: '2026-10-23'
+  urls:
+  - https://github.com/KhulekanisiyandaMchunu/llm-trading-arena
+  signal:
+    venue: GitHub
+    stars: 65
+    citations_90d: null
+    runnable: true
+  summary: 'Live trading arena for LLM agents: public reasoning, real market data,
+    virtual capital'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: gh-Ta0p1_ResolveLab
+  kind: github
+  name: Ta0p1/ResolveLab
+  published: '2026-10-20'
+  urls:
+  - https://github.com/Ta0p1/ResolveLab
+  signal:
+    venue: GitHub
+    stars: 42
+    citations_90d: null
+    runnable: true
+  summary: Fault-injected tool environments with side-effect grading for evaluating
+    and post-training LLM agents
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: gh-SuJQ0722_CoEvo-RSI
+  kind: github
+  name: SuJQ0722/CoEvo-RSI
+  published: '2026-10-15'
+  urls:
+  - https://github.com/SuJQ0722/CoEvo-RSI
+  signal:
+    venue: GitHub
+    stars: 12
+    citations_90d: null
+    runnable: true
+  summary: 'CoEvo-RSI: model-harness co-evolution for LLM agents'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: gh-xxPcy_PharmaLLM-Agent
+  kind: github
+  name: xxPcy/PharmaLLM-Agent
+  published: '2026-10-26'
+  urls:
+  - https://github.com/xxPcy/PharmaLLM-Agent
+  signal:
+    venue: GitHub
+    stars: 24
+    citations_90d: null
+    runnable: true
+  summary: Medical LLM agent and MRI segmentation workspace built on PharmaLLM, with
+    LangGraph, vLLM, and BEU-Net.
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: gh-CyberHorizon-be_sleuthline
+  kind: github
+  name: CyberHorizon-be/sleuthline
+  published: '2026-10-18'
+  urls:
+  - https://github.com/CyberHorizon-be/sleuthline
+  signal:
+    venue: GitHub
+    stars: 11
+    citations_90d: null
+    runnable: true
+  summary: 'Windows DFIR pipeline: from a KAPE collection, a memory image and network
+    captures to an evidence-backed incident response report, with an LLM agent.'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: gh-yohannesjoya_toolreceipt
+  kind: github
+  name: yohannesjoya/toolreceipt
+  published: '2026-10-19'
+  urls:
+  - https://github.com/yohannesjoya/toolreceipt
+  signal:
+    venue: GitHub
+    stars: 10
+    citations_90d: null
+    runnable: true
+  summary: Catch LLM agents claiming actions they never took. Ledger + claim extraction
+    + receipt for LangGraph.
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: gh-NineAbyss_OR-License
+  kind: github
+  name: NineAbyss/OR-License
+  published: '2026-10-15'
+  urls:
+  - https://github.com/NineAbyss/OR-License
+  signal:
+    venue: GitHub
+    stars: 12
+    citations_90d: null
+    runnable: true
+  summary: Can LLM agents do the work of an operations research practitioner, without
+    an expert reformulating the problem first?
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 创新创业大赛
+- id: arxiv-2610.36991
+  kind: arxiv
+  name: 'SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop
+    Retrieval-Augmented Generation'
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.36991
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Retrieval-augmented generation (RAG) systems ground large language models
+    (LLMs) by retrieving external evidence and conditioning generation on the retrieved
+    context. Although dense retrieval is effective for local semantic matching, independently
+    ranked retrieval can return redundant passages, miss cross-chunk dependencies,
+    and provide incomplete evidence for multi-hop reasoning. We propose Spect
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.36444
+  kind: arxiv
+  name: 'RouteDRAG: Learning to Route and Control Agentic Execution for Multimodal
+    Document RAG'
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.36444
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Web-based applications increasingly rely on understanding long multimodal
+    documents, where answering questions often requires combining information across
+    pages, tables, and figures. Agentic retrieval-augmented generation addresses these
+    tasks through iterative retrieval and reasoning. However, Agentic execution is
+    not always necessary, introducing additional computation and potentially incorrect '
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.36433
+  kind: arxiv
+  name: 'LM-DSB: A Lightweight Multi-agent System for Automated Daily Safety Bulletin
+    Generation in Construction'
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.36433
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Construction safety management still struggles to produce daily safety
+    bulletins (DSBs), structured daily communications that identify site-specific
+    hazards, convey safety protocols, and set preventive measures for workers. Manual
+    DSB creation takes 2-3 hours daily and yields inconsistent quality, with 25% of
+    crews never conducting pretask planning (Olson et al., 2016), diverting safety
+    personnel '
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.36335
+  kind: arxiv
+  name: 'OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning'
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.36335
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Large language models (LLMs) perform well across many real-world tasks
+    but remain prone to hallucination, limiting their reliability in domains such
+    as biomedicine and healthcare, where answers must be grounded in established knowledge.
+    Retrieval-augmented generation (RAG) mitigates this problem by incorporating external
+    information, but often overlooks logical relationships and relies heavily on '
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.35606
+  kind: arxiv
+  name: 'ArchiveLens: A Generative Spatial Knowledge Framework for Semantic Reconstruction
+    of Historical Maps'
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.35606
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Historical maps contain dense morphological and semantic information about
+    past urban environments, but many digitization workflows focus primarily on extracting
+    geometry, and do not capture cartographic semantics such as building use and construction
+    materials. This study introduces ArchiveLens, a generative spatial knowledge framework
+    that operationalizes historical maps as entity-centric, machi
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.35391
+  kind: arxiv
+  name: Autonomous Structural Discovery Of Bioprocess Dynamics And Kinetics Via LLM-Driven
+    Agents
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.35391
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'High-fidelity digital twins in continuous biomanufacturing are often bottlenecked
+    by incomplete kinetic models, while standard data-driven algorithms (e.g., SINDy,
+    PINNs) lack interpretability or impose rigid physical assumptions. This paper
+    introduces a hybrid closed-loop architecture for autonomous kinetic state-space
+    discovery driven by a Large Language Model (LLM) agent. The framework employs '
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.35240
+  kind: arxiv
+  name: 'Reading Beyond OCR Noise: Robust Cross-Lingual RAG for Legislative Archives'
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.35240
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'India''s historical public archives present severe computer vision and
+    document image analysis challenges: decades of parliamentary records survive only
+    as degraded, multi-column scanned pages featuring mixed scripts, complex layouts,
+    and dense visual noise where OCR failure is the primary obstacle to information
+    retrieval. We present an end-to-end framework that couples vision-based layout
+    segment'
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.34872
+  kind: arxiv
+  name: 'Adaptive Retrieval, Selective Answers: Evaluating Conformal Factuality in
+    Agentic RAG'
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.34872
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Retrieval-augmented generation (RAG) can improve factual grounding without
+    guaranteeing that every generated claim is supported. Previous work has studied
+    claim-level conformal factuality in single-stage RAG and, more recently, multi-hop
+    RAG. We examine its behavior in agentic RAG, where a language-model policy adaptively
+    issues follow-up retrieval queries or terminates retrieval before response g
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.34866
+  kind: arxiv
+  name: 'UniGFM-RAG: Unify Graph Foundation Models and Large Language Models for End-to-End
+    Retrieval and Reasoning'
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.34866
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Large Language Models (LLMs) have shown remarkable capabilities across
+    tasks, but they still struggle with complex reasoning that requires integrating
+    scattered knowledge. Graph Retrieval-Augmented Generation (GraphRAG) addresses
+    this challenge by organizing fragment knowledge as graphs, while recent Graph
+    Foundation Models (GFMs) further improve GraphRAG with graph-native retrieval
+    and reasoning '
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.34829
+  kind: arxiv
+  name: 'Logic Hijacking of RAG: Single-Document Poisoning via Local Optimization'
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.34829
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Single-document corpus poisoning under black-box access poses a severe
+    threat to Retrieval-Augmented Generation (RAG). However, existing attacks predominantly
+    rely on explicit factual refutations or imperative instruction overrides. Modern
+    aligned LLMs often arbitrate such conflicts conservatively, rejecting overt contradictions
+    in favor of parametric memory or clean retrieved context while trigge
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.34816
+  kind: arxiv
+  name: Can System-1-Style Decision Models Replace Dedicated Rerankers in RAG? A Systems
+    Evaluation
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.34816
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Retrieval-augmented generation (RAG) systems often use a dedicated reranker
+    to choose which retrieved candidates reach the language model. Reranking improves
+    relevance but adds latency, so teams look for faster alternatives. System-1style
+    decision models make direct, structured predictions instead of generating long
+    responses. Could one provide comparable reranking quality with less inference
+    over
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.34683
+  kind: arxiv
+  name: Topic-Level Fairness in Retrieval-Augmented Generation
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.34683
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Group fairness in retrieval-augmented generation (RAG) systems is typically
+    evaluated using metrics aggregated across queries. However, such metrics can conceal
+    topic-level disparities: a system may favor women on questions about human rights
+    and men on questions about actors and filmmakers, appearing nearly neutral overall
+    even though neither topic is fair. We therefore study topic-level fairness'
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.34585
+  kind: arxiv
+  name: 'Large Language Models: A Plain-Language Overview for Engineers'
+  published: '2026-10-25'
+  urls:
+  - https://arxiv.org/abs/2610.34585
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Large language models (LLMs) are neural networks trained on huge text collections
+    to generate text by predicting what comes next. Engineers using ChatGPT and other
+    generative artificial intelligence (AI) tools need a clear picture of what training
+    changes and prompts add. The article starts with the Transformer, which connects
+    words in context, and pre-training, where models learn to predict text.
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.34503
+  kind: arxiv
+  name: Multimodal Requirements Traceability Link Recovery in Industrial Settings
+  published: '2026-10-25'
+  urls:
+  - https://arxiv.org/abs/2610.34503
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Requirements traceability links support activities such as change-impact
+    analysis, coverage checking, and validation. Industrial requirements can include
+    traceable images, which text-only approaches cannot process directly. For a fixed
+    classifier configuration, binary decisions alone offer no direct way to adjust
+    the balance between missed and incorrect links. We extend a retrieval-augmented
+    gener
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.33849
+  kind: arxiv
+  name: 'Ranking Is Not Deciding: Benchmark Shortcuts and Operating-Point Collapse
+    in Query-Time RAG Poisoning Defenses'
+  published: '2026-10-24'
+  urls:
+  - https://arxiv.org/abs/2610.33849
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Query-time filters that screen each retrieved document before it reaches
+    the generator are the dominant published defense against retrieval-augmented generation
+    poisoning, and they report near-perfect detection on domain benchmarks. We show
+    that this performance is predicted by how the poison set was built rather than
+    by what the filter reads: removing a single construction cue destroys the deploy'
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.33776
+  kind: arxiv
+  name: 'TriageRAG: Failure-Aware Self-Training for Adapting Retrieval-Augmented Language
+    Models to Specialized Domains'
+  published: '2026-10-24'
+  urls:
+  - https://arxiv.org/abs/2610.33776
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Retrieval-augmented generation (RAG) lets large language models (LLMs)
+    answer knowledge-intensive questions from retrieved evidence, but adapting a general-purpose
+    RAG system to a specialized domain such as medicine is difficult when only an
+    unlabeled corpus is available. Self-training approaches such as SimRAG address
+    this by letting the LLM write its own question-answer pairs from domain passage
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.33732
+  kind: arxiv
+  name: 'Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime
+    Framework and an Empirical Study on a Raspberry Pi 5'
+  published: '2026-10-24'
+  urls:
+  - https://arxiv.org/abs/2610.33732
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Generative AI and large language models (LLMs) are moving into the Internet
+    of Things, yet most deployments assume cloud connectivity, and many IoT settings
+    have intermittent, restricted, or no connectivity. We propose a connectivity-regime
+    framework (C0-C4), a taxonomy of inference-time trust mechanisms, and signed,
+    versioned knowledge packs as the update channel for disconnected regimes, and
+    eva
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.33511
+  kind: arxiv
+  name: Towards a Learnable Retriever for Textual Graph Question Answering
+  published: '2026-10-24'
+  urls:
+  - https://arxiv.org/abs/2610.33511
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Textual graph question answering (GraphQA) and graph-based retrieval-augmented
+    generation (GraphRAG) have gained increasing attention as a way to ground large
+    language models (LLMs) on structured knowledge. Despite extensive efforts, existing
+    methods still face two key gaps. The first is an architectural gap: existing methods
+    typically fine-tune an LLM-based generator, but do not also make the ret'
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.33277
+  kind: arxiv
+  name: 'GEMS-RAG: Graph-grounded Engineering Multimodal Standards Retrieval-Augmented
+    Generation'
+  published: '2026-10-23'
+  urls:
+  - https://arxiv.org/abs/2610.33277
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Engineering standards are challenging knowledge sources for large language
+    models (LLMs) because they are hierarchical, multimodal, and densely connected
+    through figures, tables, cross-references, and normative rules. Existing retrieval-augmented
+    generation (RAG) methods often rely on unstructured text retrieval and struggle
+    with questions requiring joint reasoning over textual provisions, visual '
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: arxiv-2610.32332
+  kind: arxiv
+  name: '4DMemory: Benchmarking Long-Horizon Spatiotemporal Memory with Harness-Augmented
+    Agents'
+  published: '2026-10-23'
+  urls:
+  - https://arxiv.org/abs/2610.32332
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Humans efficiently process multimodal streams spanning hours to years,
+    building persistent, fine-grained spatiotemporal memories that support reasoning
+    about and predicting long-horizon events. In contrast, existing benchmarks focus
+    on short- and medium-context tasks, and most foundation models struggle to preserve
+    fine-grained information over long horizons. To evaluate and improve long-horizon
+    s
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+  - 黑客松与数据竞赛
+- id: gh-dolev31_lasagna
+  kind: github
+  name: dolev31/lasagna
+  published: '2026-10-21'
+  urls:
+  - https://github.com/dolev31/lasagna
+  signal:
+    venue: GitHub
+    stars: 23
+    citations_90d: null
+    runnable: true
+  summary: 'Swap one RAG pipeline stage, hold the rest fixed, and measure whether
+    the gain survives composition. The framework behind "Retrieval Augmented Generation
+    Compositionality": 450 configurations, eight benchmarks, corpora from 5K to 200K
+    documents.'
+  suggested_fields:
+  - retrieval augmented generation
+  directions:
+  - 创新创业大赛
+- id: arxiv-2610.36703
+  kind: arxiv
+  name: 'RankFormer: Rethinking Time Series Transformers through Representation Capacity
+    Analysis and Progressive Decoding'
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.36703
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Multivariate time series forecasting plays a critical role in Web and cyber-physical
+    systems, where large-scale services and IoT infrastructures generate complex temporal
+    data. Transformer-based models have achieved strong empirical performance in this
+    domain, yet the principles governing the expressive capacity of their learned
+    representations remain insufficiently understood. Moreover, many exis
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.35128
+  kind: arxiv
+  name: 'STeP-TS: Shared Temporal Filters with Pruning for Time Series'
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.35128
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Multivariate time series forecasting requires capturing temporal dependencies
+    across multiple scales while accounting for both shared and variable-specific
+    dynamics. Compact forecasting models have emerged as an attractive alternative
+    to increasingly large architectures, but preserving strong predictive performance
+    within tight computational and memory budgets remains challenging. We propose
+    a com
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.34797
+  kind: arxiv
+  name: 'TimeWorld: Towards Action-Conditioned Multimodal World Models for Time Series
+    Forecasting'
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.34797
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Time series forecasting supports decision-making in web applications such
+    as online retail and network management, where planned actions can reshape future
+    dynamics. World models provide a natural paradigm for predicting such action-dependent
+    changes beyond extrapolating historical patterns. However, existing time series
+    world models (TSWMs) typically rely on fixed, domain-specific covariate schem
+  suggested_fields:
+  - time series forecasting
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.34409
+  kind: arxiv
+  name: Dynamic Multi-Step Decoding for Time-Series Foundation Models
+  published: '2026-10-25'
+  urls:
+  - https://arxiv.org/abs/2610.34409
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Time-series forecasting models typically use a fixed decoding strategy
+    at inference time: either one-shot prediction of the full horizon or autoregressive
+    rollout over atomic chunks. While one-shot decoding reduces error accumulation,
+    it can discard useful sequential structure; conversely, autoregressive decoding
+    preserves temporal dependencies but may compound errors. We argue that the optimal
+    de'
+  suggested_fields:
+  - time series forecasting
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.33330
+  kind: arxiv
+  name: 'TempShap: When and How Much a Feature Matters in Time-Series Forecasting'
+  published: '2026-10-23'
+  urls:
+  - https://arxiv.org/abs/2610.33330
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Attribution for a time-series forecaster should answer two questions that
+    a feature-level scalar cannot: when in the input window a feature acts, and how
+    much its influence changes across the forecast horizon. Most existing Shapley
+    explainers treat each feature as one player and therefore collapse both axes.
+    We propose TempShap, a retrospective, loss-based Shapley framework whose players
+    are the i'
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.33209
+  kind: arxiv
+  name: Model-agnostic predictability quantification of multivariable time series
+  published: '2026-10-23'
+  urls:
+  - https://arxiv.org/abs/2610.33209
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Multivariable time series forecasting plays an important role in various
+    domains, where predictions depend on complex interactions among covariates. Forecasting
+    models are commonly evaluated across numerous benchmark datasets. However, forecasting
+    accuracy reflects both model capability and task predictability, making it difficult
+    to characterise the difficulty of a task independently of the model
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.32071
+  kind: arxiv
+  name: 'DBCM: Dual-Branch Calibration Module for Test-Time Adaptation in Time Series
+    Forecasting'
+  published: '2026-10-23'
+  urls:
+  - https://arxiv.org/abs/2610.32071
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Non-stationarity induces test-time distribution shifts in time series forecasting
+    (TSF), resulting in forecast residuals between predictions and the corresponding
+    ground truth. Recent works on test-time adaptation for TSF address this by introducing
+    lightweight calibration modules around frozen forecasters, updated using observations
+    that become incrementally available at test time. Existing appro
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.31959
+  kind: arxiv
+  name: A Model-Agnostic Correction Framework for Short-Term Building Load Forecasting
+  published: '2026-10-22'
+  urls:
+  - https://arxiv.org/abs/2610.31959
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Short-term building load forecasting remains challenging because load patterns
+    can change rapidly with weather and operating conditions. Data-driven forecasting
+    models may become less reliable when the current operating regime is rare or poorly
+    represented during training, even when similar situations exist elsewhere in the
+    historical record. Recent advances in retrieval-augmented time series fore
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.28495
+  kind: arxiv
+  name: Model- and Layer-Level Closed-Loop Forecasting with SSM-Based Spiking Neural
+    Networks
+  published: '2026-10-20'
+  urls:
+  - https://arxiv.org/abs/2610.28495
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Deep State-Space Models (Deep SSMs) have shown promising performance and
+    computational benefits in processing of time-series data with complex temporal
+    dependencies. Spiking neural networks (SNNs) constitute a biologically inspired
+    class of deep SSMs, where computing blocks communicate through spikes, discrete
+    single-bit events rather than continuous activation functions. A particularly
+    important '
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.27468
+  kind: arxiv
+  name: Training-Free Continual Learning for Multimodal Forecasting via Prompt Evolution
+  published: '2026-10-20'
+  urls:
+  - https://arxiv.org/abs/2610.27468
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Adapting a forecasting system to a changing world classically means retraining.
+    We ask whether the task of continually learning regimes for time series forecasting
+    can be represented by a piece of text: a guidance block, evolved by outcome-driven
+    reflection and used in a frozen LLM forecaster''s prompt. On a refreshed multimodal
+    benchmark (weekly search indices, daily currencies, daily commodities,'
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.27256
+  kind: arxiv
+  name: 'TxnQA: Benchmarking Analytical Reasoning and Evidence Grounding over Transaction
+    Event Sequences'
+  published: '2026-10-19'
+  urls:
+  - https://arxiv.org/abs/2610.27256
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Analyzing merchant transaction histories requires dynamic temporal filtering,
+    entity resolution, and aggregation over irregular event streams--operations poorly
+    captured by static tabular or time-series forecasting benchmarks. We introduce
+    TxnQA, an analytical QA benchmark comprising 27 task families (81 templates) alongside
+    a 5-scenario fraud-risk reasoning suite that evaluates both verdicts and '
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.26379
+  kind: arxiv
+  name: 'CTLite: Lightweight Irregular Multivariate Time Series Forecasting with Reusable
+    Continuous-Time Summaries'
+  published: '2026-10-19'
+  urls:
+  - https://arxiv.org/abs/2610.26379
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Irregular multivariate time series forecasting (IMTSF) requires capturing
+    temporal dynamics and cross-variable dependencies from sparse, asynchronous observations.
+    Existing methods often rely on learned temporal encoders, coupling historical
+    representation construction with model optimisation and repeatedly processing
+    the same observations. We propose CTLite, a lightweight forecasting framework
+    th
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.26987
+  kind: arxiv
+  name: Dynamic Dual-Feedback Conformal Inference for Time Series Forecasting
+  published: '2026-10-19'
+  urls:
+  - https://arxiv.org/abs/2610.26987
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Quantifying uncertainty in time series forecasting is particularly demanding
+    because sequential data exhibit temporal dependence and are prone to distributional
+    changes. Conformal inference has emerged as a powerful uncertainty quantification
+    approach through the construction of prediction sets. Recent advances have introduced
+    online conformal methods that adaptively adjust prediction thresholds t
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.25392
+  kind: arxiv
+  name: 'Paloma: Phase-Conditioned Residual Modulation for Time Series Forecasting'
+  published: '2026-10-18'
+  urls:
+  - https://arxiv.org/abs/2610.25392
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Explicitly modeling periodicity has proven to be an efficient approach
+    for time series forecasting, where the residual, obtained after removing the periodic
+    component from the time series, is typically treated as unstructured noise. However,
+    in this work, we show that such residuals still exhibit structured, \textit{phase-dependent}
+    deviations, as supported by both empirical observations and theor
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.25263
+  kind: arxiv
+  name: 'EasyResearch: Honest Regression, Forecasting and Signal Classification for
+    Researchers Who Do Not Program'
+  published: '2026-10-18'
+  urls:
+  - https://arxiv.org/abs/2610.25263
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: EasyClassifier showed that researchers who do not program can obtain honest
+    classification results when the correct evaluation is the default. Most applied
+    studies, however, predict a number, forecast a series or classify recordings,
+    and each task has its own way of producing scores that do not hold on new data.
+    We present EasyResearch, open-source analysis cores for regression, time-series
+    foreca
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.23735
+  kind: arxiv
+  name: 'LagNet: Lag-Structured Operators for Long-Term Time Series Forecasting'
+  published: '2026-10-16'
+  urls:
+  - https://arxiv.org/abs/2610.23735
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Long-term time series forecasting maps a finite history window to an extended
+    future horizon. Many existing models focus primarily on the design of input representations
+    and model structures, while paying less attention to the structural form of the
+    history-to-future forecasting operator itself. We examine this operator directly
+    and find that, across model families, sensitivity matrices exhibit re
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.23394
+  kind: arxiv
+  name: Forecasting Voltage Time Series under Anomalies Using a WGAN Model With Lipschitz
+    Control and Progressive Kernel Critic Strategy
+  published: '2026-10-16'
+  urls:
+  - https://arxiv.org/abs/2610.23394
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: In time-series forecasting tasks, the use of recursive forecasting on high-dimensional
+    data substantially increases the complexity of the prediction process. The main
+    challenge is that long-term dynamics becomes harder to model, since the sequences
+    show greater temporal variability. To counteract this limitation and improve the
+    modeling of long-term dynamics, and more importantly, address high-dim
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.23345
+  kind: arxiv
+  name: 'OliO: ODE-based Linear Transition Operator for Self-Supervised Time Series
+    Forecasting'
+  published: '2026-10-16'
+  urls:
+  - https://arxiv.org/abs/2610.23345
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Self-supervised representation learning has advanced time series forecasting
+    by capturing robust features from unlabeled data. However, existing contrastive
+    and masking-based methods often struggle to explicitly model the underlying temporal
+    flow, either by treating time lag as noise or by disrupting the inherent temporal
+    dynamics essential for forecasting. To address these limitations, we propose
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.22872
+  kind: arxiv
+  name: 'Look Back, Correct Forward: Error Feedback Calibration for Time Series Forecasting'
+  published: '2026-10-16'
+  urls:
+  - https://arxiv.org/abs/2610.22872
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Time series forecasting models are increasingly deployed in continuously
+    evolving environments. After a forecast is issued, future observations gradually
+    arrive and reveal how the model has failed. Existing methods mainly treat such
+    observations as supervision for parameter updates. However, it remains unclear
+    whether verified forecasting errors can themselves provide causal feedback for
+    correctin
+  suggested_fields:
+  - time series forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.22358
+  kind: arxiv
+  name: 'PathFM: Fast Generative Forecasting of Multivariate Trajectories'
+  published: '2026-10-15'
+  urls:
+  - https://arxiv.org/abs/2610.22358
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Time series foundation models are becoming increasingly popular for general-purpose
+    forecasting. However, most leading models predict marginal quantiles, leaving
+    the dependence structure of future trajectories unspecified. This distinction
+    matters for trajectory-dependent quantities such as cumulative demand, peak load,
+    and event timing, yet point and marginal scores do not reveal it. To model thi
+  suggested_fields:
+  - time series forecasting
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.32329
+  kind: arxiv
+  name: 'When to Trust Memory: Retrieval-Guided Probabilistic Spatiotemporal Forecasting
+    under Distribution Shift'
+  published: '2026-10-23'
+  urls:
+  - https://arxiv.org/abs/2610.32329
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Spatiotemporal forecasting plays an important role in real-world applications,
+    where probabilistic approaches provide uncertainty estimates for decision-making.
+    Real-world systems are inherently non-stationary, leading to distribution shifts
+    between training and test data. However, existing probabilistic methods mainly
+    focus on modeling data distributions under standard settings, while distributio
+  suggested_fields:
+  - spatiotemporal forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.25481
+  kind: arxiv
+  name: Multimodal-Conditioned Latent Diffusion Models for Spatiotemporal Brain MRI
+    Forecasting
+  published: '2026-10-18'
+  urls:
+  - https://arxiv.org/abs/2610.25481
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Spatiotemporal forecasting of 3D anatomical changes is a critical generative
+    vision challenge for modeling Alzheimer's Disease (AD) progression. While brain
+    MRI forecasting from single-modality data has advanced, other key complementary
+    multimodal biomarkers remain underutilized. In this work, we propose the Multimodal-Conditioned
+    Latent Diffusion Model (MC-LDM), a novel framework for patient-spec
+  suggested_fields:
+  - spatiotemporal forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.21414
+  kind: arxiv
+  name: Learning to Forecast on Multiple Spatiotemporal Hierarchies
+  published: '2026-10-15'
+  urls:
+  - https://arxiv.org/abs/2610.21414
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Hierarchical forecasting exploits aggregation structures that expose multiple
+    views of the same underlying spatiotemporal forecasting problem, while ensuring
+    coherence among forecasts. Individual series provide fine-grained information,
+    while progressively coarser aggregates reveal temporal and spatial patterns at
+    different scales. In the associated deep learning architectures, the hierarchy
+    deter
+  suggested_fields:
+  - spatiotemporal forecasting
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.37585
+  kind: arxiv
+  name: Timestral
+  published: '2026-10-27'
+  urls:
+  - https://arxiv.org/abs/2610.37585
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'We introduce Timestral, a family of four time series foundation models
+    for probabilistic forecasting, with 5M, 28M, 123M, and 209M parameters. Timestral
+    sets a new state of the art on GIFT-Eval, TIME, and fev-bench, where Timestral-209M
+    and Timestral-123M take the top two places on every metric. We achieve this with
+    three ingredients: Decoupled Horizon Forecasting (DHF), which separates prediction'
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.35280
+  kind: arxiv
+  name: 'Self-Supervised Pretraining for PHM: What Transfers, What Does Not, and What
+    Federating It Costs'
+  published: '2026-10-26'
+  urls:
+  - https://arxiv.org/abs/2610.35280
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Self-supervised pretraining has produced capable time-series foundation
+    models, but its value for Prognostics and Health Management (PHM) has not been
+    measured under leakage-controlled conditions. We measure it on a corpus of 47
+    public PHM datasets, harmonized to a single tensor contract and partitioned so
+    that 11 datasets are withheld from pretraining in full. Transfer turns out to
+    be task-depend
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.34171
+  kind: arxiv
+  name: 'MetaARIMA: Configuration-Level Transfer Learning for ARIMA Models'
+  published: '2026-10-25'
+  urls:
+  - https://arxiv.org/abs/2610.34171
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Time Series Foundation Models have demonstrated that pretraining on diverse
+    datasets enables effective transfer to new forecasting tasks. Classical methods
+    like ARIMA, however, remain configured and trained independently for each series,
+    discarding knowledge from previous experiments. Consequently, selecting and training
+    an ARIMA configuration remains challenging and often relies on heuristic appr
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.32859
+  kind: arxiv
+  name: 'Sustainability of TSFM Deployment and Pretraining: From Carbon Footprint
+    Analysis to Mitigation via Pruning'
+  published: '2026-10-23'
+  urls:
+  - https://arxiv.org/abs/2610.32859
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Time Series Foundation Models (TSFMs) offer strong zero-shot forecasting
+    capabilities, but their high pretraining cost raises a practical sustainability
+    question: does this upfront investment pay off over a full deployment lifecycle,
+    compared to supervised standalone models that must be periodically retrained?
+    We model the cumulative carbon cost of different approaches across a realistic
+    industria'
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.31869
+  kind: arxiv
+  name: 'Forecasting Associations, Not Interventions: A Preregistered Causal Audit
+    of Covariate-Aware Time Series Foundation Models'
+  published: '2026-10-22'
+  urls:
+  - https://arxiv.org/abs/2610.31869
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Covariate-aware time series foundation models (TSFMs) accept a future
+    path for a control variable and return a forecast, inviting what-if queries. The
+    query is interventional; the models are trained on observational data. We determine
+    whether their answers are the conditional slope $\partial E[Y|X]$ or the interventional
+    effect $\partial E[Y|do(X)]$, at three levels. Theory: a Bayes-optimal observ'
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.30971
+  kind: arxiv
+  name: Zero-Shot Forecasting of In-Situ Soil Moisture and Temperature with a Time-Series
+    Foundation Model
+  published: '2026-10-22'
+  urls:
+  - https://arxiv.org/abs/2610.30971
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Soil moisture and temperature govern plant-water availability and microbial
+    activity, making them key indicators for evaluating land-restoration efforts on
+    degraded landscapes. However, the physical and data-driven models normally used
+    to forecast them both need information that a newly instrumented restoration site
+    does not yet have: hydraulic parameters for the former and months of per-site
+    trai'
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.30950
+  kind: arxiv
+  name: Random Initialization as a Baseline for Time Series Foundation Models
+  published: '2026-10-22'
+  urls:
+  - https://arxiv.org/abs/2610.30950
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Time series foundation models (TSFMs) use self-supervised pretraining
+    to learn reusable representations for downstream tasks such as multivariate time
+    series classification (MTSC). We examine how much pretrained weights contribute
+    beyond the architecture itself by comparing seven publicly released instances
+    from four TSFM families with architecture-matched randomly initialized counterparts
+    on the '
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.29667
+  kind: arxiv
+  name: Leveraging Time-Series Foundation Models for Financial Crime Detection
+  published: '2026-10-21'
+  urls:
+  - https://arxiv.org/abs/2610.29667
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Financial crime detection requires identifying illicit activity within
+    large transaction networks, where suspicious behaviour is rare and unfolds over
+    time. Existing graph-based methods capture relationships among accounts but typically
+    underuse the temporal behaviour encoded in account transaction histories. We introduce
+    Temporal-Context Edge Enrichment (TCEE), a framework that addresses this gap
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.29504
+  kind: arxiv
+  name: Rethinking Agentic Model Orchestration for Time Series Forecasting
+  published: '2026-10-21'
+  urls:
+  - https://arxiv.org/abs/2610.29504
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Time series foundation models (TSFMs) perform unevenly across forecasting
+    tasks. Recent work uses agentic model orchestration (AMO) to select or combine
+    TSFMs, often outperforming individual forecasters. Yet these gains may reflect
+    stronger or more complementary candidates rather than better orchestration. To
+    disentangle these effects, we introduce FairAMO, a controlled evaluation protocol
+    with fr
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.29063
+  kind: arxiv
+  name: Distilling Multi-Teacher Scoring Principles for Unsupervised Time Series Anomaly
+    Detection
+  published: '2026-10-21'
+  urls:
+  - https://arxiv.org/abs/2610.29063
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Time series anomalies take diverse forms, and individual detectors encode
+    different anomaly scoring principles that rarely cover all anomaly types. Recent
+    unsupervised time-series anomaly detectors provide complementary scoring signals,
+    yet deploying them as an ensemble preserves the inference and maintenance cost
+    of every individual detector. We study whether heterogeneous teacher detectors
+    can b
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.28200
+  kind: arxiv
+  name: Parameter-Efficient Adaptation of Time Series Foundation Models for Electrical
+    Load Forecasting
+  published: '2026-10-20'
+  urls:
+  - https://arxiv.org/abs/2610.28200
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Accurate electrical load forecasting supports power-system operation across
+    countries, regions, cities, and buildings, but repeated development of target-specific
+    models is costly. Time series foundation models (TSFMs) provide reusable pretrained
+    backbones, although multi-domain pretraining may not fully capture load-specific
+    characteristics. This paper compares pretrained inference, full fine-tun
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.26582
+  kind: arxiv
+  name: 'WhatIf-Bench: Benchmarking Intervention-Aware Time Series Forecasting'
+  published: '2026-10-19'
+  urls:
+  - https://arxiv.org/abs/2610.26582
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Recent time series foundation models (TSFMs) can consume covariates in-context,
+    extending zero-shot forecasting to problems driven by external factors. This enables
+    scenario analysis: forecasting how a target responds to events that set covariates
+    to chosen future values. Whether they can do this reliably is an open question.
+    We introduce WhatIf-Bench, a benchmark measuring how well forecasters us'
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.26251
+  kind: arxiv
+  name: 'Beyond Static Leaderboards: Capability-Focused Evaluation with Structural
+    Diversity for Time Series Foundation Models'
+  published: '2026-10-19'
+  urls:
+  - https://arxiv.org/abs/2610.26251
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: Static public benchmarks for time series foundation models (TSFMs) typically
+    have fixed and narrow test distributions. Their repeated reuse encourages benchmark-specific
+    tuning, making reported performance reflect adaptation to the fixed test set rather
+    than genuine forecasting generalization. In addition, a single aggregate score
+    cannot fully characterize model capabilities across distinct tempor
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.26114
+  kind: arxiv
+  name: From Retrieval to Recognition:Knowledge-Enhanced Post-training of Time Series
+    Foundation Models for Classification
+  published: '2026-10-19'
+  urls:
+  - https://arxiv.org/abs/2610.26114
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: 'Time series foundation models (TSFMs) have achieved notable progress in
+    classification tasks through large-scale pretraining. However, their post-training
+    practice mainly focuses on implicit parameter fine-tuning, where task-relevant
+    information is entangled with abundant irrelevant knowledge in vast parameter
+    spaces. This may hinder TSFMs from precisely activating useful knowledge for downstream '
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.24321
+  kind: arxiv
+  name: 'Morpheus-2.0: Multiscale Probabilistic Forecasting with Dual-Axis Attention'
+  published: '2026-10-16'
+  urls:
+  - https://arxiv.org/abs/2610.24321
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: A universal forecaster is trained once and applied everywhere, so it must
+    serve tasks whose schemas, forecast horizons, and temporal resolutions all differ.
+    The number of targets and covariates changes from dataset to dataset, horizons
+    vary by orders of magnitude, and sampling rates range from seconds to years. Existing
+    time-series foundation models address these only in part, since they isolate e
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: gh-mistralai_timestral
+  kind: github
+  name: mistralai/timestral
+  published: '2026-10-15'
+  urls:
+  - https://github.com/mistralai/timestral
+  signal:
+    venue: GitHub
+    stars: 971
+    citations_90d: null
+    runnable: true
+  summary: Repository for Timestral, the time-series foundation model by Mistral AI
+  suggested_fields:
+  - time series foundation model
+  directions:
+  - 数模与时序预测
+- id: arxiv-2610.21565
+  kind: arxiv
+  name: 'BiShield-TEE: On the (In-)Security of Unilateral Weight Obfuscation in On-Device
+    TEE-Shielded LLM Partition'
+  published: '2026-10-15'
+  urls:
+  - https://arxiv.org/abs/2610.21565
+  signal:
+    venue: arXiv
+    citations_90d: null
+    stars: null
+    runnable: false
+  summary: On-device deployment of large language models (LLMs) is increasingly adopted
+    due to latency and privacy requirements, but exposes proprietary models to reverse
+    engineering and intellectual property theft. Trusted Execution Environments (TEEs)
+    provide hardware-enforced isolation for on-device inference, yet most TEE-based
+    parameter obfuscation relies on unilateral matrix transformations that obfusc
+  suggested_fields:
+  - on-device inference
+  directions:
+  - 黑客松与数据竞赛
+- id: arxiv-2610.35013
+  kind: hf-paper
+  name: Multiscale Policy Optimization for Long-Horizon LLM Agents
+  published: '2026-10-25'
+  urls:
+  - https://huggingface.co/papers/2610.35013
+  - https://arxiv.org/abs/2610.35013
+  signal:
+    venue: HuggingFace Papers
+    upvotes: 376
+    stars: null
+    citations_90d: null
+    runnable: false
+  summary: Long-horizon LLM agents interact with their environments through complete
+    assistant turns while generating each action token by token. We observe that critic
+    values vary primarily across turns, motivating optimization anchored at turns
+    with finer credit allocation among tokens. We propose Multiscale Policy Optimization
+    (MPO), combining Multiscale Advantage Estimation (MAE) and turn-level importanc
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 黑客松与数据竞赛
+- id: arxiv-2610.34491
+  kind: hf-paper
+  name: What Effort Level Should I Choose? On the Economics of Reasoning Effort in
+    LLM Agents
+  published: '2026-10-24'
+  urls:
+  - https://huggingface.co/papers/2610.34491
+  - https://arxiv.org/abs/2610.34491
+  signal:
+    venue: HuggingFace Papers
+    upvotes: 16
+    stars: null
+    citations_90d: null
+    runnable: false
+  summary: 'Generative models increasingly expose a reasoning effort setting that
+    lets users scale inference-time compute, trading higher cost for potentially improved
+    performance. Users must choose an effort level before knowing whether extra reasoning
+    will help, and even a successful run does not reveal whether the effort purchased
+    was necessary. Reasoning effort is therefore a credence good: buyers observe'
+  suggested_fields:
+  - LLM agents
+  directions:
+  - 黑客松与数据竞赛

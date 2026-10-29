@@ -1,0 +1,336 @@
+
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	
+    <title>安徽省乡村振兴创新创业大赛</title>
+    <meta name="keywords" content="安徽省乡村振兴创新创业大赛|高校创新创业大赛|乡村振兴创新创业大赛|创业创新大赛">
+    <meta name="description" content="安徽省乡村振兴创新创业大赛由安徽省乡村振兴促进会、安徽省城市规划学会为发起单位；安徽省农业农村厅、安徽省乡村振兴局、安徽省教育厅、安徽省住房和城乡建设厅、合肥市人民政府为指导单位；安徽省内11所高校进行主办的赛事，以乡村振兴，你我同行为主题，参赛选题围绕“五大振兴”即：产业振兴、人才振兴、文化振兴、生态振兴、组织振兴。">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='/static/home/css/font.css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+    <link href="/static/home/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <script src="/static/home/js/jquery.min.js"></script>
+    <!--start slider -->
+    <link rel="stylesheet" href="/static/home/css/fwslider.css" media="all">
+    <link rel="stylesheet" href="/static/home/css/swiper-bundle.min.css" />
+    <script src="/static/home/js/jquery-ui.min.js"></script>
+    <script src="/static/home/js/css3-mediaqueries.js"></script>
+    <script src="/static/home/js/fwslider.js"></script>
+    <!--end slider -->
+    <!---strat-date-piker---->
+    <link rel="stylesheet" href="/static/home/css/jquery-ui.css" />
+    <link rel="stylesheet" href="/static/home/css/bootstrap-icons.css" />
+    <script src="/static/home/js/jquery-ui.js"></script>
+    <script>
+        $(function () {
+            //---------------------利用datepicker创建时间段----------------  
+            $("#datepicker").datepicker({    //绑定开始日期  
+                minDate: 0,
+                dateFormat: "yy-mm-dd",
+                onClose: function (selectedDate) {
+                    $("#datepicker1").datepicker("option", "minDate", selectedDate);
+                }
+            });
+
+            $("#datepicker1").datepicker({  //设置结束绑定日期
+                dateFormat: "yy-mm-dd",
+                onClose: function (selectedDate) {
+                    $("#datepicker").datepicker("option", "maxDate", selectedDate);
+                }
+            });
+        });
+    </script>
+    <!---/End-date-piker---->
+
+    <script type="text/javascript" src="/static/home/js/JFCore.js"></script>
+    <script type="text/javascript" src="/static/home/js/JFForms.js"></script>
+    <!-- Set here the key for your domain in order to hide the watermark on the web server -->
+    
+
+	<style>
+		* {
+			box-sizing: border-box;
+		}
+
+		.bread-wrap {
+			height: 60px;
+			line-height: 60px;
+			background-color: #f4f4f4;
+			color: #333333;
+			font-size: 14px;
+		}
+
+		.bread-wrap .bi-geo-alt-fill {
+			color: #bbbbbb;
+		}
+
+		.bread-wrap a {
+			color: #333333;
+		}
+
+		.bread-wrap a:hover {
+			color: #0068b7;
+		}
+
+		.content {
+			background-color: #ffffff;
+			padding: 24px 0 40px;
+			display: flex;
+			justify-content: space-between;
+		}
+
+		.content-nav-wrap {
+			display: inline-block;
+			width: 250px;
+		}
+
+		.content-main-wrap {
+			width: 900px;
+			display: inline-block;
+		}
+
+		.content-main {
+			white-space: pre-line;
+			font-size: 14px;
+			line-height: 32px;
+		}
+
+		.content-main h1 {
+			font-size: 24px;
+		}
+
+		.content-nav-title {
+			width: 100%;
+			height: 100px;
+			background-color: #187fc4;
+			background-image: url(/static/home/images/logo_gray.png);
+			background-repeat: no-repeat;
+			background-position: bottom right;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			color: #ffffff;
+			font-size: 24px;
+		}
+
+		.content-nav-list {}
+
+		.content-nav {
+			cursor: pointer;
+			width: 100%;
+			height: 70px;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			font-size: 18px;
+			color: #333333;
+			padding: 0 20px;
+			background-color: #f6f6f6;
+			border-bottom: 1px solid #e5e5e5;
+			position: relative;
+		}
+
+		.content-nav.active,
+		.content-nav:hover {
+			background-color: #ffffff;
+			color: #187fc4;
+			height: 80px;
+		}
+
+		.content-nav.active::after,
+		.content-nav:hover::after {
+			content: "";
+			position: absolute;
+			left: 0;
+			bottom: 0;
+			width: 3px;
+			height: 70px;
+			background-color: #1d7fbb;
+		}
+
+		.detail-card {}
+
+		.detail-header {
+			text-align: center;
+			padding: 40px 0;
+			border-bottom: 1px dashed #dcdcdc;
+		}
+
+		.detail-body {
+			padding: 40px;
+		}
+
+		.detail-title {
+			font-size: 26px;
+			line-height: 32px;
+			color: #333333;
+			padding: 0 0 36px;
+		}
+
+		.detail-time {
+			font-size: 14px;
+			color: #777777;
+		}
+
+		.banner {
+			/*display: none;*/
+			line-height: 0;
+		}
+
+		@media only screen and (max-width: 768px) {
+			.banner {
+				display: block;
+			}
+
+			.bread-wrap {
+				padding: 0 10px;
+				font-size: 12px;
+				height: 50px;
+				line-height: 50px;
+			}
+
+		}
+	</style>
+</head>
+
+<body>
+	<!-- start header -->
+    <div class="header_bg">
+        <div class="wrap">
+            <div class="header">
+                <div class="logo">
+                    <a href="/"><img src="/static/home/images/logo.png" alt=""></a>
+                </div>
+                <div class="h-moblie">
+                    <div class="h-moblie-menu-icon">
+                        <div class="h-moblie-menu-icon-line"></div>
+                        <div class="h-moblie-menu-icon-line"></div>
+                        <div class="h-moblie-menu-icon-line"></div>
+                    </div>
+                </div>
+                <div class="h_right">
+                    <!--start menu -->
+                    <ul class="menu">
+                        <li ><a href="/">首页</a>
+                                                    </li>
+                        <li ><a href="/about.html">大赛介绍</a>
+                                                    </li>
+                        <li class="active"><a href="/news.html">新闻中心</a>
+                            <div class="line"></div>                        </li>
+                        <li ><a href="/video.html">作品视频</a>
+                                                    </li>
+                        <li ><a href="/gallery.html">作品展示</a>
+                                                    </li>
+                        <li ><a href="/contact.html">联系我们</a>
+                                                    </li>
+                        <li ><a href="/select.html">在线报名</a>
+                                                    </li>
+                                            </ul>
+                    <!-- start profile_details -->
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    
+	<!-- banner -->
+    <div class="banner">
+        <img src="/public/uploads/20251215/7d3e6953b7d4ee4f2c9aa65c617112ae.jpg" alt="背景图">
+    </div>
+
+	<div class="page-wrap">
+		<div class="bread-wrap">
+			<div class="page-card">
+				<i class="bi bi-geo-alt-fill"></i>
+				<a href="/">首页</a>
+				<span>/</span>
+				<a href="/news.html">新闻中心</a>
+				<span>/</span>
+				<a href="/news.html">赛事新闻</a>
+				<span>/</span>
+				<a href="javascript:;">当前新闻</a>
+			</div>
+		</div>
+		<div class="page-card">
+			<div class="content">
+				<div class="detail-card">
+					<div class="detail-header">
+						<div class="detail-title">关于举办第六届全国大学生乡村振兴大赛的通知</div>
+						<div class="detail-time">发布时间：2026-08-10</div>
+					</div>
+					<div class="detail-body">
+						<p><img src="/public/uploads/images/20260810/1786347724260670.png" style="" title="1786347724260670.png"/></p><p><img src="/public/uploads/images/20260810/1786347724450167.png" style="" title="1786347724450167.png"/></p><p><img src="/public/uploads/images/20260810/1786347724348236.png" style="" title="1786347724348236.png"/></p><p><img src="/public/uploads/images/20260810/1786347724870901.png" style="" title="1786347724870901.png"/></p><p><img src="/public/uploads/images/20260810/1786347724630451.png" style="" title="1786347724630451.png"/></p><p><img src="/public/uploads/images/20260810/1786347724704312.png" style="" title="1786347724704312.png"/></p><p><img src="/public/uploads/images/20260810/1786347724598709.png" style="" title="1786347724598709.png"/></p><p><img src="/public/uploads/images/20260810/1786347725763705.png" style="" title="1786347725763705.png"/></p><p><img src="/public/uploads/images/20260810/1786347725158130.png" style="" title="1786347725158130.png"/></p><p><img src="/public/uploads/images/20260810/1786347725225514.png" style="" title="1786347725225514.png"/></p><p><img src="/public/uploads/images/20260810/1786347725128799.png" style="" title="1786347725128799.png"/></p><p><img src="/public/uploads/images/20260810/1786347725104676.png" style="" title="1786347725104676.png"/></p><p><img src="/public/uploads/images/20260810/1786347725788855.png" style="" title="1786347725788855.png"/></p><p><img src="/public/uploads/images/20260810/1786347725356583.png" style="" title="1786347725356583.png"/></p><p><img src="/public/uploads/images/20260810/1786347725758684.png" style="" title="1786347725758684.png"/></p><p><img src="/public/uploads/images/20260810/1786347725339772.png" style="" title="1786347725339772.png"/></p><p><br/></p>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="footer_bg">
+        <div class="wrap">
+            <div class="footer">
+                <div class="logo">
+                    <a href="/"><img src="/static/home/images/logo_f.png" alt=""></a>
+                </div>
+                <div class="h_right">
+                    <!--start menu -->
+                    <ul class="menu">
+                        <li><a href="/">首页</a></li>
+                        <li><a href="/about.html">大赛介绍</a></li>
+                        <li><a href="/news.html">新闻中心</a></li>
+                        <li><a href="/video.html">作品视频</a></li>
+                        <li><a href="/gallery.html">作品展示</a></li>
+                        <li><a href="/contact.html">联系我们</a></li>
+                        <li><a href="/select.html">在线报名</a></li>
+                    </ul>
+                    <!-- start profile_details -->
+
+                </div>
+            </div>
+            <div class="book">
+                <div class="book_left">
+                    <h3>咨询热线: 0551-62888121 </h3>
+                    <h3>咨询邮箱: anhuixczxcjh@163.com</h3>
+                    <h3>传真/电话：0551-62888121</h3>
+                    <h3>办公地址：安徽省合肥市肥西县桃花镇联海云创港2#401</h3>
+                    <h3>技术支持：安徽捷易推传媒科技有限公司 昆山旌展信息科技有限公司</h3>
+                    <h3>Copyright ©  2022 · 安徽省乡村振兴创新创业大赛网站 版权所有 | <a href="http://beian.miit.gov.cn/" style="color: white;" target="_blank">皖ICP备2021018424号</a></h3>
+                </div>
+                <div class="book_right">
+                    <div class="book_items">
+                        <img src="/static/home/images/erweima.png" alt="">
+                        <span>扫一扫查看微信公众号</span>
+                    </div>
+                    <div class="book_items">
+                        <img src="/static/home/images/qrcode.png" alt="">
+                        <span>扫一扫查看手机版网站</span>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?c20192c55229e465b093675c25e1db4d";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+	<script src="/static/home/js/common.js"></script>
+
+	<!-- Initialize Swiper -->
+	<script>
+
+	</script>
+</body>
+
+</html>
+

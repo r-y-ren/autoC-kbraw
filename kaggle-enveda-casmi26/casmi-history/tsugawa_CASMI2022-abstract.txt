@@ -1,0 +1,11 @@
+Our team consists of the following members.
+Hiroshi Tsugawa
+Eisuke Hayakawa (Okinawa Institute of Science and Technology Graduate University, Japan)
+Kanako Hirata (Okinawa Institute of Science and Technology Graduate University, Japan)
+Hiroyuki Yamamoto (Human metabolome technologies, Japan)
+
+We used MS-DIAL to process the data and to determine the adduct form of targeted ions.
+A big MS/MS spectral libraries containing both commertially- and publicly available records was imported to MS-DIAL.
+Then, some of peaks were assigned by the spectral library information.
+For unknown molecules that have not been assigned by the library, we used MS-FINDER.
+The result was manually curated.
